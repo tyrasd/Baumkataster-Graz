@@ -53,9 +53,10 @@
         var geojsonURL = './{z}/{x}/{y}.geojson';
         var geojsonTileLayer = new L.TileLayer.GeoJSON(geojsonURL, {
                 clipTiles: false,
-                unique: function (feature) { 
-                    return feature.properties.baumbezeichnung_botanisch;
-                },
+                /*unique: function (feature) { 
+                    //return feature.properties.baumbezeichnung_botanisch;
+                    return feature.properties.nummer;
+                },*/
                 minZoom: 16,
                 maxZoom: 19,
                 tileSize: 512,
@@ -77,10 +78,20 @@
                     }
                     if (!(layer instanceof L.Point)) {
                         layer.on('mouseover', function () {
-                            layer.setStyle(hoverStyle);
+                            //layer.setStyle(hoverStyle);
+                            for (var k in geojsonTileLayer.geojsonLayer._layers) {
+                                var l = geojsonTileLayer.geojsonLayer._layers[k];
+                                if (l.feature.properties.baumbezeichnung_botanisch === feature.properties.baumbezeichnung_botanisch)
+                                    l.setStyle(hoverStyle);
+                            }
                         });
                         layer.on('mouseout', function () {
-                            layer.setStyle(style);
+                            //layer.setStyle(style);
+                            for (var k in geojsonTileLayer.geojsonLayer._layers) {
+                                var l = geojsonTileLayer.geojsonLayer._layers[k];
+                                if (l.feature.properties.baumbezeichnung_botanisch === feature.properties.baumbezeichnung_botanisch)
+                                    l.setStyle(style);
+                            }
                         });
                     }
                 },
