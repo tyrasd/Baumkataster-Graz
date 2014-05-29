@@ -91,15 +91,18 @@
         icons["Dead"] = [];
         icons["Dead"]["jung"] = L.icon({
             iconUrl: 'icons/religious-christian-12.png',
-            iconSize: [12, 12]
+            iconSize: [12, 12],
+            popupAnchor: [0, -3]
         });
         icons["Dead"]["mittel"] = L.icon({
             iconUrl: 'icons/religious-christian-18.png',
-            iconSize: [18, 18]
+            iconSize: [18, 18],
+            popupAnchor: [0, -5]
         });
         icons["Dead"]["alt"] = L.icon({
             iconUrl: 'icons/religious-christian-24.png',
-            iconSize: [24, 24]
+            iconSize: [24, 24],
+            popupAnchor: [0, -6]
         });
 
 
@@ -120,7 +123,7 @@
                             if (v === null ||
                                 k.match(/^marker-/))
                                 continue;
-                            popupString += k + ': ' + v + '<br />';
+                            popupString += '<i>'+k+'</i>' + ': ' + v + '<br />';
                         }
                         popupString += '</div>';
                         layer.bindPopup(popupString);
