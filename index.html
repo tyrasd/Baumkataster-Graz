@@ -34,36 +34,57 @@
             maxZoom: 19
         }).addTo(map);
 
-        var style = {
-            "clickable": true,
-            "color": "#0A2",
-            "fillColor": "#0A2",
-            "weight": 2.0,
-            "opacity": 0.65,
-            "fillOpacity": 0.3
-        };
-        var hoverStyle = {
-            "fillOpacity": 0.85,
-            "fillColor": "#6F8"
-        };
-        var geojsonMarkerOptions = {
-            radius: 8
-        };
+        var icons = [];
+        icons["Nadel"] = [];
+        icons["Nadel"]["jung"] = L.icon({
+            iconUrl: 'icons/park-12.png',
+            iconSize: [12, 12]
+        });
+        icons["Nadel"]["mittel"] = L.icon({
+            iconUrl: 'icons/park-18.png',
+            iconSize: [18, 18]
+        });
+        icons["Nadel"]["alt"] = L.icon({
+            iconUrl: 'icons/park-24.png',
+            iconSize: [24, 24]
+        });
+        icons["Laub"] = [];
+        icons["Laub"]["jung"] = L.icon({
+            iconUrl: 'icons/park2-12.png',
+            iconSize: [12, 12]
+        });
+        icons["Laub"]["mittel"] = L.icon({
+            iconUrl: 'icons/park2-18.png',
+            iconSize: [18, 18]
+        });
+        icons["Laub"]["alt"] = L.icon({
+            iconUrl: 'icons/park2-24.png',
+            iconSize: [24, 24]
+        });
+        icons["Flächenkartierung"] = [];
+        icons["Flächenkartierung"]["jung"] = L.icon({
+            iconUrl: 'icons/square-12.png',
+            iconSize: [12, 12]
+        });
+        icons["Flächenkartierung"]["mittel"] = L.icon({
+            iconUrl: 'icons/square-18.png',
+            iconSize: [18, 18]
+        });
+        icons["Flächenkartierung"]["alt"] = L.icon({
+            iconUrl: 'icons/square-24.png',
+            iconSize: [24, 24]
+        });
+
 
         var geojsonURL = './{z}/{x}/{y}.geojson';
         var geojsonTileLayer = new L.TileLayer.GeoJSON(geojsonURL, {
                 clipTiles: false,
-                /*unique: function (feature) { 
-                    //return feature.properties.baumbezeichnung_botanisch;
-                    return feature.properties.nummer;
-                },*/
                 minZoom: 16,
                 maxZoom: 19,
                 maxNativeZoom: 18,
                 tileSize: 512,
                 attribution: "Baumkataster &copy; data.graz.gv.at"
             }, {
-                style: style,
                 onEachFeature: function (feature, layer) {
                     if (feature.properties) {
                         var popupString = '<div class="popup">';
@@ -82,22 +103,23 @@
                             //layer.setStyle(hoverStyle);
                             for (var k in geojsonTileLayer.geojsonLayer._layers) {
                                 var l = geojsonTileLayer.geojsonLayer._layers[k];
-                                if (l.feature.properties.baumbezeichnung_botanisch === feature.properties.baumbezeichnung_botanisch)
-                                    l.setStyle(hoverStyle);
+                                if (l.feature.properties.baumbezeichnung_botanisch !== feature.properties.baumbezeichnung_botanisch)
+                                    l.setOpacity(0.3);
                             }
                         });
                         layer.on('mouseout', function () {
                             //layer.setStyle(style);
                             for (var k in geojsonTileLayer.geojsonLayer._layers) {
                                 var l = geojsonTileLayer.geojsonLayer._layers[k];
-                                if (l.feature.properties.baumbezeichnung_botanisch === feature.properties.baumbezeichnung_botanisch)
-                                    l.setStyle(style);
+                                if (l.feature.properties.baumbezeichnung_botanisch !== feature.properties.baumbezeichnung_botanisch)
+                                    l.setOpacity(1);
                             }
                         });
                     }
                 },
                 pointToLayer: function (feature, latlng) {
-                    return L.circleMarker(latlng, geojsonMarkerOptions);
+                    return L.marker(latlng, {icon: icons[feature.properties.baumtyp][feature.properties.altersklassifizierung]});
+
                 }
             }
         );
