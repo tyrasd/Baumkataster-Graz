@@ -13,7 +13,7 @@ trees.features.forEach(function(tree) {
 	tree.geometry.bbox = tree.geometry.coordinates.concat(tree.geometry.coordinates);
 });
 
-var zooms = [11,12,13,14,15,16,17,18,19];
+var zooms = [16,17,18];
 
 var tiles = {};
 
