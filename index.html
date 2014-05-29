@@ -88,6 +88,19 @@
             iconUrl: 'icons/square-stroked-24.png',
             iconSize: [24, 24]
         });
+        icons["Dead"] = [];
+        icons["Dead"]["jung"] = L.icon({
+            iconUrl: 'icons/religious-christian-12.png',
+            iconSize: [12, 12]
+        });
+        icons["Dead"]["mittel"] = L.icon({
+            iconUrl: 'icons/religious-christian-18.png',
+            iconSize: [18, 18]
+        });
+        icons["Dead"]["alt"] = L.icon({
+            iconUrl: 'icons/religious-christian-24.png',
+            iconSize: [24, 24]
+        });
 
 
         var geojsonURL = './{z}/{x}/{y}.geojson';
@@ -132,6 +145,8 @@
                     }
                 },
                 pointToLayer: function (feature, latlng) {
+                    if (feature.properties.entnahmejahr)
+                        return L.marker(latlng, {icon: icons["Dead"][feature.properties.altersklassifizierung]});
                     return L.marker(latlng, {icon: icons[feature.properties.baumtyp][feature.properties.altersklassifizierung]});
 
                 }
