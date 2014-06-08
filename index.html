@@ -118,13 +118,30 @@
                 onEachFeature: function (feature, layer) {
                     if (feature.properties) {
                         var popupString = '<div class="popup">';
-                        for (var k in feature.properties) {
+                        /*for (var k in feature.properties) {
                             var v = feature.properties[k];
                             if (v === null ||
                                 k.match(/^marker-/))
                                 continue;
                             popupString += '<i>'+k+'</i>' + ': ' + v + '<br />';
-                        }
+                        }*/
+                        popupString += '<h3><a href="https://de.wikipedia.org/w/index.php?search='+encodeURIComponent(feature.properties['baumbezeichnung_deutsch'])+'" target="_blank">'+feature.properties['baumbezeichnung_deutsch']+'</a><br>';
+                        popupString += '<small>'+feature.properties['baumbezeichnung_botanisch']+'</small></h3>';
+                        popupString += '<p>Baumtyp: '+feature.properties['baumtyp']
+                            +(feature.properties['altersklassifizierung']!=='mittel'?' ('+feature.properties['altersklassifizierung']+')':'')
+                            +'</p>';
+                        if (feature.properties['bemerkung'])
+                            popupString += '<p>'+feature.properties['bemerkung']+'</p>';
+                        if (feature.properties['entnahmejahr'] || feature.properties['entnahmejahr'])
+                            popupString += '<p>'
+                                +[
+                                    (feature.properties['pflanzjahr']?'Pflanzjahr: '+feature.properties['pflanzjahr']:''),
+                                    (feature.properties['entnahmejahr']?'Entnahmejahr: '+feature.properties['entnahmejahr']:'')
+                                ].filter(function(s) {return s!==''}).join(', ')
+                                +'</p>';
+                        if (feature.properties['baumpatenschaft'])
+                            popupString += '<p>Baumpatenschaft: '+feature.properties['baumpatenschaft']+'</p>';
+                        popupString += '<p><small>#'+feature.properties['nummer']+' (objectid: '+feature.properties['nummer']+')</small></p>';
                         popupString += '</div>';
                         layer.bindPopup(popupString);
                     }
