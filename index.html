@@ -141,7 +141,7 @@
                                 +'</p>';
                         if (feature.properties['baumpatenschaft'])
                             popupString += '<p>Baumpatenschaft: '+feature.properties['baumpatenschaft']+'</p>';
-                        popupString += '<p><small>#'+feature.properties['nummer']+' (objectid: '+feature.properties['nummer']+')</small></p>';
+                        popupString += '<p><small>#'+feature.properties['nummer']+' (objectid: '+feature.properties['objectid']+')</small></p>';
                         popupString += '</div>';
                         layer.bindPopup(popupString);
                     }
