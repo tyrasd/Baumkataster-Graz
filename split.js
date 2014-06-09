@@ -1,4 +1,4 @@
-var trees = require("./baumkataster.json");
+var trees = JSON.parse(require("fs").readFileSync("./baumkataster.geojson", "utf8"));
 
 var merc = new (require("sphericalmercator"))({
     size: 256*2
