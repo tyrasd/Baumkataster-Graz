@@ -104,6 +104,11 @@
             iconSize: [24, 24],
             popupAnchor: [0, -6]
         });
+        icons["Denkmal"] = L.icon({
+            iconUrl: 'icons/star-24.png',
+            iconSize: [24, 24],
+            popupAnchor: [0, -6]
+        });
 
 
         var geojsonURL = './{z}/{x}/{y}.geojson';
@@ -127,9 +132,14 @@
                         }*/
                         popupString += '<h3><a href="https://de.wikipedia.org/w/index.php?search='+encodeURIComponent(feature.properties['baumbezeichnung_deutsch'])+'" target="_blank">'+feature.properties['baumbezeichnung_deutsch']+'</a><br>';
                         popupString += '<small>'+feature.properties['baumbezeichnung_botanisch']+'</small></h3>';
-                        popupString += '<p>Baumtyp: '+feature.properties['baumtyp']
-                            +(feature.properties['altersklassifizierung']!=='mittel'?' ('+feature.properties['altersklassifizierung']+')':'')
-                            +'</p>';
+                        if (feature.properties['baumtyp']) {
+                            popupString += '<p>Baumtyp: '+feature.properties['baumtyp']
+                                +(feature.properties['altersklassifizierung']!=='mittel'?' ('+feature.properties['altersklassifizierung']+')':'')
+                                +'</p>';
+                        }
+                        if (feature.properties['Naturdenkmal']) {
+                            popupString += '<p>Naturdenkmal in '+feature.properties['Naturdenkmal_Eigentum']+'em Eigentum.</p>';
+                        }
                         if (feature.properties['bemerkung'])
                             popupString += '<p>'+feature.properties['bemerkung']+'</p>';
                         if (feature.properties['entnahmejahr'] || feature.properties['entnahmejahr'])
@@ -165,6 +175,8 @@
                     }
                 },
                 pointToLayer: function (feature, latlng) {
+                    if (feature.properties.Naturdenkmal)
+                        return L.marker(latlng, {icon: icons["Denkmal"]});
                     if (feature.properties.entnahmejahr)
                         return L.marker(latlng, {icon: icons["Dead"][feature.properties.altersklassifizierung]});
                     return L.marker(latlng, {icon: icons[feature.properties.baumtyp][feature.properties.altersklassifizierung]});

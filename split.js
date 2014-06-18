@@ -1,4 +1,4 @@
-var trees = JSON.parse(require("fs").readFileSync("./baumkataster.geojson", "utf8"));
+var trees = JSON.parse(require("fs").readFileSync("./baeume.geojson", "utf8"));
 
 var merc = new (require("sphericalmercator"))({
     size: 256*2
@@ -6,10 +6,7 @@ var merc = new (require("sphericalmercator"))({
 
 var fs = require("graceful-fs");
 
-//var gju = require('geojson-utils');
-
 trees.features.forEach(function(tree) {
-	tree.geometry.coordinates.splice(2);
 	tree.geometry.bbox = tree.geometry.coordinates.concat(tree.geometry.coordinates);
 });
 
