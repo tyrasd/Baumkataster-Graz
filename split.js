@@ -6,10 +6,6 @@ var merc = new (require("sphericalmercator"))({
 
 var fs = require("graceful-fs");
 
-trees.features.forEach(function(tree) {
-	tree.geometry.bbox = tree.geometry.coordinates.concat(tree.geometry.coordinates);
-});
-
 var zooms = [16,17,18];
 
 var tiles = {};
@@ -18,9 +14,9 @@ zooms.forEach(function(zoom) {
 	tiles[zoom] = {};
 
 	trees.features.forEach(function(tree) {
-		var xyz = merc.xyz(tree.geometry.bbox, zoom-1);
+		var xyz = merc.xyz(tree.geometry.coordinates.concat(tree.geometry.coordinates), zoom-1);
 		var x = xyz.minX,
-			y = xyz.minY;
+		    y = xyz.minY;
 		if (!tiles[zoom][x])
 			tiles[zoom][x] = {};
 		if (!tiles[zoom][x][y])
