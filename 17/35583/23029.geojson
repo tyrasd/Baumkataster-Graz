@@ -1,1 +1,201 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":9920,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10545},"geometry":{"type":"Point","coordinates":[15.463532622803802,47.078317670370254],"bbox":[15.463532622803802,47.078317670370254,15.463532622803802,47.078317670370254]}},{"type":"Feature","properties":{"nummer":9946,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11690},"geometry":{"type":"Point","coordinates":[15.463379725839708,47.078114308526175],"bbox":[15.463379725839708,47.078114308526175,15.463379725839708,47.078114308526175]}},{"type":"Feature","properties":{"nummer":9947,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9040},"geometry":{"type":"Point","coordinates":[15.463603759697975,47.07817818154302],"bbox":[15.463603759697975,47.07817818154302,15.463603759697975,47.07817818154302]}},{"type":"Feature","properties":{"nummer":29464,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Diversifolia'","baumbezeichnung_deutsch":"Einblättrige Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2009","entnahmejahr":null,"baumpatenschaft":null,"objectid":8122},"geometry":{"type":"Point","coordinates":[15.468289902965012,47.0790589938376],"bbox":[15.468289902965012,47.0790589938376,15.468289902965012,47.0790589938376]}},{"type":"Feature","properties":{"nummer":9872,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16061},"geometry":{"type":"Point","coordinates":[15.464190918218918,47.07802276615435],"bbox":[15.464190918218918,47.07802276615435,15.464190918218918,47.07802276615435]}},{"type":"Feature","properties":{"nummer":9948,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12631},"geometry":{"type":"Point","coordinates":[15.463848841583758,47.078248231249546],"bbox":[15.463848841583758,47.078248231249546,15.463848841583758,47.078248231249546]}},{"type":"Feature","properties":{"nummer":9919,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12632},"geometry":{"type":"Point","coordinates":[15.463302987021507,47.07825484382404],"bbox":[15.463302987021507,47.07825484382404,15.463302987021507,47.07825484382404]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9920,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463532622803802,
+          47.078317670370254
+        ],
+        "bbox": [
+          15.463532622803802,
+          47.078317670370254,
+          15.463532622803802,
+          47.078317670370254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9946,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11690
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463379725839708,
+          47.078114308526175
+        ],
+        "bbox": [
+          15.463379725839708,
+          47.078114308526175,
+          15.463379725839708,
+          47.078114308526175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9947,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9040
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463603759697975,
+          47.07817818154302
+        ],
+        "bbox": [
+          15.463603759697975,
+          47.07817818154302,
+          15.463603759697975,
+          47.07817818154302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29464,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Diversifolia'",
+        "baumbezeichnung_deutsch": "Einblättrige Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.468289902965012,
+          47.0790589938376
+        ],
+        "bbox": [
+          15.468289902965012,
+          47.0790589938376,
+          15.468289902965012,
+          47.0790589938376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9872,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464190918218918,
+          47.07802276615435
+        ],
+        "bbox": [
+          15.464190918218918,
+          47.07802276615435,
+          15.464190918218918,
+          47.07802276615435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9948,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463848841583758,
+          47.078248231249546
+        ],
+        "bbox": [
+          15.463848841583758,
+          47.078248231249546,
+          15.463848841583758,
+          47.078248231249546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9919,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463302987021507,
+          47.07825484382404
+        ],
+        "bbox": [
+          15.463302987021507,
+          47.07825484382404,
+          15.463302987021507,
+          47.07825484382404
+        ]
+      }
+    }
+  ]
+}

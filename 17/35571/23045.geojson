@@ -1,1 +1,313 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":22031,"baumbezeichnung_botanisch":"Abies sp.","baumbezeichnung_deutsch":"Tanne","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3222},"geometry":{"type":"Point","coordinates":[15.401996683938632,47.019145884454815],"bbox":[15.401996683938632,47.019145884454815,15.401996683938632,47.019145884454815]}},{"type":"Feature","properties":{"nummer":17372,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3246},"geometry":{"type":"Point","coordinates":[15.399962323385177,47.020448261839064],"bbox":[15.399962323385177,47.020448261839064,15.399962323385177,47.020448261839064]}},{"type":"Feature","properties":{"nummer":22029,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17653},"geometry":{"type":"Point","coordinates":[15.401599339348962,47.019071715105376],"bbox":[15.401599339348962,47.019071715105376,15.401599339348962,47.019071715105376]}},{"type":"Feature","properties":{"nummer":27719,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":14728},"geometry":{"type":"Point","coordinates":[15.400121561182008,47.021007066673384],"bbox":[15.400121561182008,47.021007066673384,15.400121561182008,47.021007066673384]}},{"type":"Feature","properties":{"nummer":17367,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14749},"geometry":{"type":"Point","coordinates":[15.400135284429098,47.02111398306872],"bbox":[15.400135284429098,47.02111398306872,15.400135284429098,47.02111398306872]}},{"type":"Feature","properties":{"nummer":17366,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14750},"geometry":{"type":"Point","coordinates":[15.400134778141743,47.02114294789141],"bbox":[15.400134778141743,47.02114294789141,15.400134778141743,47.02114294789141]}},{"type":"Feature","properties":{"nummer":17365,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14756},"geometry":{"type":"Point","coordinates":[15.400134193972727,47.021176368287016],"bbox":[15.400134193972727,47.021176368287016,15.400134193972727,47.021176368287016]}},{"type":"Feature","properties":{"nummer":17369,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14757},"geometry":{"type":"Point","coordinates":[15.400133195105422,47.02104711654608],"bbox":[15.400133195105422,47.02104711654608,15.400133195105422,47.02104711654608]}},{"type":"Feature","properties":{"nummer":17370,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14758},"geometry":{"type":"Point","coordinates":[15.400127522327276,47.02102550244158],"bbox":[15.400127522327276,47.02102550244158,15.400127522327276,47.02102550244158]}},{"type":"Feature","properties":{"nummer":17368,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14926},"geometry":{"type":"Point","coordinates":[15.400135907536395,47.02107833488616],"bbox":[15.400135907536395,47.02107833488616,15.400135907536395,47.02107833488616]}},{"type":"Feature","properties":{"nummer":17373,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22124},"geometry":{"type":"Point","coordinates":[15.399960097262456,47.02032731248839],"bbox":[15.399960097262456,47.02032731248839,15.399960097262456,47.02032731248839]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22031,
+        "baumbezeichnung_botanisch": "Abies sp.",
+        "baumbezeichnung_deutsch": "Tanne",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.401996683938632,
+          47.019145884454815
+        ],
+        "bbox": [
+          15.401996683938632,
+          47.019145884454815,
+          15.401996683938632,
+          47.019145884454815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17372,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.399962323385177,
+          47.020448261839064
+        ],
+        "bbox": [
+          15.399962323385177,
+          47.020448261839064,
+          15.399962323385177,
+          47.020448261839064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22029,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.401599339348962,
+          47.019071715105376
+        ],
+        "bbox": [
+          15.401599339348962,
+          47.019071715105376,
+          15.401599339348962,
+          47.019071715105376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27719,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400121561182008,
+          47.021007066673384
+        ],
+        "bbox": [
+          15.400121561182008,
+          47.021007066673384,
+          15.400121561182008,
+          47.021007066673384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17367,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14749
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400135284429098,
+          47.02111398306872
+        ],
+        "bbox": [
+          15.400135284429098,
+          47.02111398306872,
+          15.400135284429098,
+          47.02111398306872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17366,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400134778141743,
+          47.02114294789141
+        ],
+        "bbox": [
+          15.400134778141743,
+          47.02114294789141,
+          15.400134778141743,
+          47.02114294789141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17365,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400134193972727,
+          47.021176368287016
+        ],
+        "bbox": [
+          15.400134193972727,
+          47.021176368287016,
+          15.400134193972727,
+          47.021176368287016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17369,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400133195105422,
+          47.02104711654608
+        ],
+        "bbox": [
+          15.400133195105422,
+          47.02104711654608,
+          15.400133195105422,
+          47.02104711654608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17370,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400127522327276,
+          47.02102550244158
+        ],
+        "bbox": [
+          15.400127522327276,
+          47.02102550244158,
+          15.400127522327276,
+          47.02102550244158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17368,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400135907536395,
+          47.02107833488616
+        ],
+        "bbox": [
+          15.400135907536395,
+          47.02107833488616,
+          15.400135907536395,
+          47.02107833488616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17373,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.399960097262456,
+          47.02032731248839
+        ],
+        "bbox": [
+          15.399960097262456,
+          47.02032731248839,
+          15.399960097262456,
+          47.02032731248839
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":8858,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14104},"geometry":{"type":"Point","coordinates":[15.474427261804875,47.073548009457234],"bbox":[15.474427261804875,47.073548009457234,15.474427261804875,47.073548009457234]}},{"type":"Feature","properties":{"nummer":8859,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22510},"geometry":{"type":"Point","coordinates":[15.474521848568703,47.07356925691924],"bbox":[15.474521848568703,47.07356925691924,15.474521848568703,47.07356925691924]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8858,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.474427261804875,
+          47.073548009457234
+        ],
+        "bbox": [
+          15.474427261804875,
+          47.073548009457234,
+          15.474427261804875,
+          47.073548009457234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8859,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.474521848568703,
+          47.07356925691924
+        ],
+        "bbox": [
+          15.474521848568703,
+          47.07356925691924,
+          15.474521848568703,
+          47.07356925691924
+        ]
+      }
+    }
+  ]
+}

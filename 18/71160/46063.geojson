@@ -1,1 +1,3421 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":19881,"baumbezeichnung_botanisch":"Betula papyrifera","baumbezeichnung_deutsch":"Papierbirke","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1996","entnahmejahr":null,"baumpatenschaft":null,"objectid":802},"geometry":{"type":"Point","coordinates":[15.44726030024348,47.070647555201234],"bbox":[15.44726030024348,47.070647555201234,15.44726030024348,47.070647555201234]}},{"type":"Feature","properties":{"nummer":1176,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":805},"geometry":{"type":"Point","coordinates":[15.447570091831128,47.070943752507034],"bbox":[15.447570091831128,47.070943752507034,15.447570091831128,47.070943752507034]}},{"type":"Feature","properties":{"nummer":1170,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":806},"geometry":{"type":"Point","coordinates":[15.447447398895148,47.071362870229216],"bbox":[15.447447398895148,47.071362870229216,15.447447398895148,47.071362870229216]}},{"type":"Feature","properties":{"nummer":1053,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":908},"geometry":{"type":"Point","coordinates":[15.447632662957693,47.07072799512631],"bbox":[15.447632662957693,47.07072799512631,15.447632662957693,47.07072799512631]}},{"type":"Feature","properties":{"nummer":1158,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2078},"geometry":{"type":"Point","coordinates":[15.447295429115588,47.07186388751915],"bbox":[15.447295429115588,47.07186388751915,15.447295429115588,47.07186388751915]}},{"type":"Feature","properties":{"nummer":922,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":2079},"geometry":{"type":"Point","coordinates":[15.447098979368356,47.070146997119025],"bbox":[15.447098979368356,47.070146997119025,15.447098979368356,47.070146997119025]}},{"type":"Feature","properties":{"nummer":1049,"baumbezeichnung_botanisch":"Acer ginnala","baumbezeichnung_deutsch":"Feuerahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1994","baumpatenschaft":null,"objectid":2080},"geometry":{"type":"Point","coordinates":[15.447128899950492,47.07089697111328],"bbox":[15.447128899950492,47.07089697111328,15.447128899950492,47.07089697111328]}},{"type":"Feature","properties":{"nummer":1052,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2330},"geometry":{"type":"Point","coordinates":[15.447648351530905,47.07067117702632],"bbox":[15.447648351530905,47.07067117702632,15.447648351530905,47.07067117702632]}},{"type":"Feature","properties":{"nummer":1180,"baumbezeichnung_botanisch":"Prunus cerasifera 'Nigra'","baumbezeichnung_deutsch":"Echte Blutpflaume","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2331},"geometry":{"type":"Point","coordinates":[15.44747153946746,47.070846056682925],"bbox":[15.44747153946746,47.070846056682925,15.44747153946746,47.070846056682925]}},{"type":"Feature","properties":{"nummer":1163,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2332},"geometry":{"type":"Point","coordinates":[15.447413360066406,47.07146209266035],"bbox":[15.447413360066406,47.07146209266035,15.447413360066406,47.07146209266035]}},{"type":"Feature","properties":{"nummer":1183,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2333},"geometry":{"type":"Point","coordinates":[15.447447437123444,47.07106446832188],"bbox":[15.447447437123444,47.07106446832188,15.447447437123444,47.07106446832188]}},{"type":"Feature","properties":{"nummer":1153,"baumbezeichnung_botanisch":"Prunus cerasifera 'Atropurpurea'","baumbezeichnung_deutsch":"Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2334},"geometry":{"type":"Point","coordinates":[15.44723975133357,47.0717750786095],"bbox":[15.44723975133357,47.0717750786095,15.44723975133357,47.0717750786095]}},{"type":"Feature","properties":{"nummer":1178,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2450},"geometry":{"type":"Point","coordinates":[15.447474957364845,47.070910595992586],"bbox":[15.447474957364845,47.070910595992586,15.447474957364845,47.070910595992586]}},{"type":"Feature","properties":{"nummer":1157,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2472},"geometry":{"type":"Point","coordinates":[15.44728528542116,47.071911750810656],"bbox":[15.44728528542116,47.071911750810656,15.44728528542116,47.071911750810656]}},{"type":"Feature","properties":{"nummer":1164,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2496},"geometry":{"type":"Point","coordinates":[15.447350618257165,47.07155537503713],"bbox":[15.447350618257165,47.07155537503713,15.447350618257165,47.07155537503713]}},{"type":"Feature","properties":{"nummer":991,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2532},"geometry":{"type":"Point","coordinates":[15.44753253629458,47.07058158861552],"bbox":[15.44753253629458,47.07058158861552,15.44753253629458,47.07058158861552]}},{"type":"Feature","properties":{"nummer":944,"baumbezeichnung_botanisch":"Taxus baccata","baumbezeichnung_deutsch":"Gemeine Eibe","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2184},"geometry":{"type":"Point","coordinates":[15.446974210428959,47.07019754331258],"bbox":[15.446974210428959,47.07019754331258,15.446974210428959,47.07019754331258]}},{"type":"Feature","properties":{"nummer":1177,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2787},"geometry":{"type":"Point","coordinates":[15.447477526561194,47.07096195990371],"bbox":[15.447477526561194,47.07096195990371,15.447477526561194,47.07096195990371]}},{"type":"Feature","properties":{"nummer":1187,"baumbezeichnung_botanisch":"Prunus cerasifera 'Nigra'","baumbezeichnung_deutsch":"Echte Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2788},"geometry":{"type":"Point","coordinates":[15.447428919940497,47.071117818420696],"bbox":[15.447428919940497,47.071117818420696,15.447428919940497,47.071117818420696]}},{"type":"Feature","properties":{"nummer":1147,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3491},"geometry":{"type":"Point","coordinates":[15.447112348916793,47.07167833690713],"bbox":[15.447112348916793,47.07167833690713,15.447112348916793,47.07167833690713]}},{"type":"Feature","properties":{"nummer":1144,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":"1909","entnahmejahr":null,"baumpatenschaft":"Baronin Zois, Adle von Kampi","objectid":3500},"geometry":{"type":"Point","coordinates":[15.447026701191112,47.07155578851639],"bbox":[15.447026701191112,47.07155578851639,15.447026701191112,47.07155578851639]}},{"type":"Feature","properties":{"nummer":1198,"baumbezeichnung_botanisch":"Prunus cerasifera","baumbezeichnung_deutsch":"Kirschpflaume","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3501},"geometry":{"type":"Point","coordinates":[15.447365865102842,47.071394422803365],"bbox":[15.447365865102842,47.071394422803365,15.447365865102842,47.071394422803365]}},{"type":"Feature","properties":{"nummer":1167,"baumbezeichnung_botanisch":"Malus floribunda","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3502},"geometry":{"type":"Point","coordinates":[15.447277397043042,47.07154607160291],"bbox":[15.447277397043042,47.07154607160291,15.447277397043042,47.07154607160291]}},{"type":"Feature","properties":{"nummer":12803,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3623},"geometry":{"type":"Point","coordinates":[15.446961174675462,47.07181255279005],"bbox":[15.446961174675462,47.07181255279005,15.446961174675462,47.07181255279005]}},{"type":"Feature","properties":{"nummer":1054,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3820},"geometry":{"type":"Point","coordinates":[15.447613058585725,47.070782534069],"bbox":[15.447613058585725,47.070782534069,15.447613058585725,47.070782534069]}},{"type":"Feature","properties":{"nummer":1172,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4131},"geometry":{"type":"Point","coordinates":[15.44748077909982,47.07120814387217],"bbox":[15.44748077909982,47.07120814387217,15.44748077909982,47.07120814387217]}},{"type":"Feature","properties":{"nummer":983,"baumbezeichnung_botanisch":"Gymnocladus dioicus","baumbezeichnung_deutsch":"Geweihbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4200},"geometry":{"type":"Point","coordinates":[15.446952679437901,47.07075033225415],"bbox":[15.446952679437901,47.07075033225415,15.446952679437901,47.07075033225415]}},{"type":"Feature","properties":{"nummer":992,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11217},"geometry":{"type":"Point","coordinates":[15.44761026311017,47.07055475578972],"bbox":[15.44761026311017,47.07055475578972,15.44761026311017,47.07055475578972]}},{"type":"Feature","properties":{"nummer":1175,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11238},"geometry":{"type":"Point","coordinates":[15.447551231796597,47.071001263793434],"bbox":[15.447551231796597,47.071001263793434,15.447551231796597,47.071001263793434]}},{"type":"Feature","properties":{"nummer":27566,"baumbezeichnung_botanisch":"Quercus frainetto","baumbezeichnung_deutsch":"Ungarische Eiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":9734},"geometry":{"type":"Point","coordinates":[15.446922721423931,47.07126230525084],"bbox":[15.446922721423931,47.07126230525084,15.446922721423931,47.07126230525084]}},{"type":"Feature","properties":{"nummer":951,"baumbezeichnung_botanisch":"Celtis occidentalis","baumbezeichnung_deutsch":"Nesselbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11323},"geometry":{"type":"Point","coordinates":[15.446909037526268,47.070287195061596],"bbox":[15.446909037526268,47.070287195061596,15.446909037526268,47.070287195061596]}},{"type":"Feature","properties":{"nummer":909,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10653},"geometry":{"type":"Point","coordinates":[15.447389626331118,47.070221035774786],"bbox":[15.447389626331118,47.070221035774786,15.447389626331118,47.070221035774786]}},{"type":"Feature","properties":{"nummer":1154,"baumbezeichnung_botanisch":"Prunus cerasifera 'Atropurpurea'","baumbezeichnung_deutsch":"Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10849},"geometry":{"type":"Point","coordinates":[15.44723782286532,47.07179999802664],"bbox":[15.44723782286532,47.07179999802664,15.44723782286532,47.07179999802664]}},{"type":"Feature","properties":{"nummer":926,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":9359},"geometry":{"type":"Point","coordinates":[15.44703255149789,47.070159346175764],"bbox":[15.44703255149789,47.070159346175764,15.44703255149789,47.070159346175764]}},{"type":"Feature","properties":{"nummer":12800,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9512},"geometry":{"type":"Point","coordinates":[15.447055835771524,47.071871001138746],"bbox":[15.447055835771524,47.071871001138746,15.447055835771524,47.071871001138746]}},{"type":"Feature","properties":{"nummer":1042,"baumbezeichnung_botanisch":"Acer cappadocicum","baumbezeichnung_deutsch":"Kolchischer Ahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9519},"geometry":{"type":"Point","coordinates":[15.44680004531512,47.07099831100587],"bbox":[15.44680004531512,47.07099831100587,15.44680004531512,47.07099831100587]}},{"type":"Feature","properties":{"nummer":25611,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":7989},"geometry":{"type":"Point","coordinates":[15.447190029941979,47.07029968320335],"bbox":[15.447190029941979,47.07029968320335,15.447190029941979,47.07029968320335]}},{"type":"Feature","properties":{"nummer":25612,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":7990},"geometry":{"type":"Point","coordinates":[15.447126375886453,47.07035517721224],"bbox":[15.447126375886453,47.07035517721224,15.447126375886453,47.07035517721224]}},{"type":"Feature","properties":{"nummer":25613,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":"Dr. med. Viktor und Olga Steyskal","objectid":7991},"geometry":{"type":"Point","coordinates":[15.447064452181218,47.070414597483776],"bbox":[15.447064452181218,47.070414597483776,15.447064452181218,47.070414597483776]}},{"type":"Feature","properties":{"nummer":25614,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":7992},"geometry":{"type":"Point","coordinates":[15.446997504473371,47.070478680447884],"bbox":[15.446997504473371,47.070478680447884,15.446997504473371,47.070478680447884]}},{"type":"Feature","properties":{"nummer":25615,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":7993},"geometry":{"type":"Point","coordinates":[15.446933038483248,47.07054014168375],"bbox":[15.446933038483248,47.07054014168375,15.446933038483248,47.07054014168375]}},{"type":"Feature","properties":{"nummer":25617,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":7994},"geometry":{"type":"Point","coordinates":[15.446812380719582,47.07065680835115],"bbox":[15.446812380719582,47.07065680835115,15.446812380719582,47.07065680835115]}},{"type":"Feature","properties":{"nummer":25616,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8000},"geometry":{"type":"Point","coordinates":[15.446873138854215,47.07059404378716],"bbox":[15.446873138854215,47.07059404378716,15.446873138854215,47.07059404378716]}},{"type":"Feature","properties":{"nummer":25609,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":9172},"geometry":{"type":"Point","coordinates":[15.44718906755911,47.07022486535877],"bbox":[15.44718906755911,47.07022486535877,15.44718906755911,47.07022486535877]}},{"type":"Feature","properties":{"nummer":25610,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":9173},"geometry":{"type":"Point","coordinates":[15.447242819155523,47.0702431117671],"bbox":[15.447242819155523,47.0702431117671,15.447242819155523,47.0702431117671]}},{"type":"Feature","properties":{"nummer":994,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6818},"geometry":{"type":"Point","coordinates":[15.447547995245518,47.07045946438733],"bbox":[15.447547995245518,47.07045946438733,15.447547995245518,47.07045946438733]}},{"type":"Feature","properties":{"nummer":928,"baumbezeichnung_botanisch":"Taxus baccata","baumbezeichnung_deutsch":"Gemeine Eibe","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8447},"geometry":{"type":"Point","coordinates":[15.447001322227143,47.07014965166729],"bbox":[15.447001322227143,47.07014965166729,15.447001322227143,47.07014965166729]}},{"type":"Feature","properties":{"nummer":25603,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8479},"geometry":{"type":"Point","coordinates":[15.446822506366228,47.070573715678194],"bbox":[15.446822506366228,47.070573715678194,15.446822506366228,47.070573715678194]}},{"type":"Feature","properties":{"nummer":25604,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8480},"geometry":{"type":"Point","coordinates":[15.44688431118585,47.07051315943499],"bbox":[15.44688431118585,47.07051315943499,15.44688431118585,47.07051315943499]}},{"type":"Feature","properties":{"nummer":25605,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8481},"geometry":{"type":"Point","coordinates":[15.446946229206441,47.07045417907736],"bbox":[15.446946229206441,47.07045417907736,15.446946229206441,47.07045417907736]}},{"type":"Feature","properties":{"nummer":25607,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8482},"geometry":{"type":"Point","coordinates":[15.447075077331105,47.0703361168486],"bbox":[15.447075077331105,47.0703361168486,15.447075077331105,47.0703361168486]}},{"type":"Feature","properties":{"nummer":25608,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8483},"geometry":{"type":"Point","coordinates":[15.447134468422735,47.070278089139165],"bbox":[15.447134468422735,47.070278089139165,15.447134468422735,47.070278089139165]}},{"type":"Feature","properties":{"nummer":25606,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":8494},"geometry":{"type":"Point","coordinates":[15.447011296125632,47.070395129585314],"bbox":[15.447011296125632,47.070395129585314,15.447011296125632,47.070395129585314]}},{"type":"Feature","properties":{"nummer":988,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":"massiver Holzzersetzung am Wurzelansatz zwischen den einzelnen Starkwurzelansätzen bis in den Wurzelbereich reichend, Ersatzpflanzung geplant","pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7710},"geometry":{"type":"Point","coordinates":[15.447184135399167,47.070496758567714],"bbox":[15.447184135399167,47.070496758567714,15.447184135399167,47.070496758567714]}},{"type":"Feature","properties":{"nummer":1050,"baumbezeichnung_botanisch":"Quercus robur 'Fastigiata'","baumbezeichnung_deutsch":"Säulenstieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7711},"geometry":{"type":"Point","coordinates":[15.447215327417753,47.07081407763628],"bbox":[15.447215327417753,47.07081407763628,15.447215327417753,47.07081407763628]}},{"type":"Feature","properties":{"nummer":10121,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6128},"geometry":{"type":"Point","coordinates":[15.44885303661875,47.07194252112623],"bbox":[15.44885303661875,47.07194252112623,15.44885303661875,47.07194252112623]}},{"type":"Feature","properties":{"nummer":1189,"baumbezeichnung_botanisch":"Malus floribunda","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18278},"geometry":{"type":"Point","coordinates":[15.44745117987738,47.07114169772495],"bbox":[15.44745117987738,47.07114169772495,15.44745117987738,47.07114169772495]}},{"type":"Feature","properties":{"nummer":12807,"baumbezeichnung_botanisch":"Cornus mas","baumbezeichnung_deutsch":"Kornelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17561},"geometry":{"type":"Point","coordinates":[15.447273091420326,47.07106944775751],"bbox":[15.447273091420326,47.07106944775751,15.447273091420326,47.07106944775751]}},{"type":"Feature","properties":{"nummer":1199,"baumbezeichnung_botanisch":"Prunus cerasifera","baumbezeichnung_deutsch":"Kirschpflaume","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17645},"geometry":{"type":"Point","coordinates":[15.447333109353215,47.071361039666854],"bbox":[15.447333109353215,47.071361039666854,15.447333109353215,47.071361039666854]}},{"type":"Feature","properties":{"nummer":1184,"baumbezeichnung_botanisch":"Malus floribunda","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16163},"geometry":{"type":"Point","coordinates":[15.447424692500972,47.07109888693006],"bbox":[15.447424692500972,47.07109888693006,15.447424692500972,47.07109888693006]}},{"type":"Feature","properties":{"nummer":1149,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16164},"geometry":{"type":"Point","coordinates":[15.447173457727171,47.07170885398911],"bbox":[15.447173457727171,47.07170885398911,15.447173457727171,47.07170885398911]}},{"type":"Feature","properties":{"nummer":1166,"baumbezeichnung_botanisch":"Prunus cerasifera 'Atropurpurea'","baumbezeichnung_deutsch":"Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16350},"geometry":{"type":"Point","coordinates":[15.447311952135482,47.071536331870334],"bbox":[15.447311952135482,47.071536331870334,15.447311952135482,47.071536331870334]}},{"type":"Feature","properties":{"nummer":927,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":16351},"geometry":{"type":"Point","coordinates":[15.447010416895862,47.070128679163155],"bbox":[15.447010416895862,47.070128679163155,15.447010416895862,47.070128679163155]}},{"type":"Feature","properties":{"nummer":1192,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17277},"geometry":{"type":"Point","coordinates":[15.447373287888613,47.07119970973806],"bbox":[15.447373287888613,47.07119970973806,15.447373287888613,47.07119970973806]}},{"type":"Feature","properties":{"nummer":20023,"baumbezeichnung_botanisch":"Acer griseum","baumbezeichnung_deutsch":"Zimtahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1996","entnahmejahr":null,"baumpatenschaft":null,"objectid":17338},"geometry":{"type":"Point","coordinates":[15.447007572502546,47.07020130323543],"bbox":[15.447007572502546,47.07020130323543,15.447007572502546,47.07020130323543]}},{"type":"Feature","properties":{"nummer":986,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1992","baumpatenschaft":null,"objectid":15855},"geometry":{"type":"Point","coordinates":[15.447123339389517,47.070518684391836],"bbox":[15.447123339389517,47.070518684391836,15.447123339389517,47.070518684391836]}},{"type":"Feature","properties":{"nummer":923,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":14477},"geometry":{"type":"Point","coordinates":[15.447086747710838,47.070185761853544],"bbox":[15.447086747710838,47.070185761853544,15.447086747710838,47.070185761853544]}},{"type":"Feature","properties":{"nummer":1161,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13043},"geometry":{"type":"Point","coordinates":[15.447364634278053,47.07161327996232],"bbox":[15.447364634278053,47.07161327996232,15.447364634278053,47.07161327996232]}},{"type":"Feature","properties":{"nummer":1044,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13044},"geometry":{"type":"Point","coordinates":[15.44694205023704,47.07120728934955],"bbox":[15.44694205023704,47.07120728934955,15.44694205023704,47.07120728934955]}},{"type":"Feature","properties":{"nummer":1047,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15532},"geometry":{"type":"Point","coordinates":[15.447024074365864,47.071017231208174],"bbox":[15.447024074365864,47.071017231208174,15.447024074365864,47.071017231208174]}},{"type":"Feature","properties":{"nummer":21702,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1998","entnahmejahr":null,"baumpatenschaft":null,"objectid":14679},"geometry":{"type":"Point","coordinates":[15.447533701743025,47.07105788678676],"bbox":[15.447533701743025,47.07105788678676,15.447533701743025,47.07105788678676]}},{"type":"Feature","properties":{"nummer":1204,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14694},"geometry":{"type":"Point","coordinates":[15.447114756555793,47.07117741727251],"bbox":[15.447114756555793,47.07117741727251,15.447114756555793,47.07117741727251]}},{"type":"Feature","properties":{"nummer":993,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14752},"geometry":{"type":"Point","coordinates":[15.447577227381023,47.07050655563116],"bbox":[15.447577227381023,47.07050655563116,15.447577227381023,47.07050655563116]}},{"type":"Feature","properties":{"nummer":1188,"baumbezeichnung_botanisch":"Prunus cerasifera","baumbezeichnung_deutsch":"Kirschpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14753},"geometry":{"type":"Point","coordinates":[15.447423478398953,47.07113382343185],"bbox":[15.447423478398953,47.07113382343185,15.447423478398953,47.07113382343185]}},{"type":"Feature","properties":{"nummer":985,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2002","baumpatenschaft":null,"objectid":14754},"geometry":{"type":"Point","coordinates":[15.447239466454722,47.07071630937443],"bbox":[15.447239466454722,47.07071630937443,15.447239466454722,47.07071630937443]}},{"type":"Feature","properties":{"nummer":1162,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12520},"geometry":{"type":"Point","coordinates":[15.447398885462848,47.071509294497325],"bbox":[15.447398885462848,47.071509294497325,15.447398885462848,47.071509294497325]}},{"type":"Feature","properties":{"nummer":1043,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14128},"geometry":{"type":"Point","coordinates":[15.446848551829914,47.071010652064295],"bbox":[15.446848551829914,47.071010652064295,15.446848551829914,47.071010652064295]}},{"type":"Feature","properties":{"nummer":25600,"baumbezeichnung_botanisch":"Acer cappadocicum 'Rubrum'","baumbezeichnung_deutsch":"Rottriebiger Kolchischer Ahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":15016},"geometry":{"type":"Point","coordinates":[15.447282772449762,47.07123934839506],"bbox":[15.447282772449762,47.07123934839506,15.447282772449762,47.07123934839506]}},{"type":"Feature","properties":{"nummer":12802,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24552},"geometry":{"type":"Point","coordinates":[15.447019682319526,47.071836320530565],"bbox":[15.447019682319526,47.071836320530565,15.447019682319526,47.071836320530565]}},{"type":"Feature","properties":{"nummer":1160,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22232},"geometry":{"type":"Point","coordinates":[15.447359346069993,47.071662263954416],"bbox":[15.447359346069993,47.071662263954416,15.447359346069993,47.071662263954416]}},{"type":"Feature","properties":{"nummer":952,"baumbezeichnung_botanisch":"Hamamelis mollis","baumbezeichnung_deutsch":"Lichtmeß - Zaubernuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23036},"geometry":{"type":"Point","coordinates":[15.446979973080845,47.070284921396855],"bbox":[15.446979973080845,47.070284921396855,15.446979973080845,47.070284921396855]}},{"type":"Feature","properties":{"nummer":1055,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23060},"geometry":{"type":"Point","coordinates":[15.447587773708207,47.070838467247405],"bbox":[15.447587773708207,47.070838467247405,15.447587773708207,47.070838467247405]}},{"type":"Feature","properties":{"nummer":925,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":23184},"geometry":{"type":"Point","coordinates":[15.44704980095247,47.07017486080486],"bbox":[15.44704980095247,47.07017486080486,15.44704980095247,47.07017486080486]}},{"type":"Feature","properties":{"nummer":1048,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22455},"geometry":{"type":"Point","coordinates":[15.447057237189888,47.070978540839114],"bbox":[15.447057237189888,47.070978540839114,15.447057237189888,47.070978540839114]}},{"type":"Feature","properties":{"nummer":1203,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22456},"geometry":{"type":"Point","coordinates":[15.447067176130686,47.07114088762519],"bbox":[15.447067176130686,47.07114088762519,15.447067176130686,47.07114088762519]}},{"type":"Feature","properties":{"nummer":1152,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22457},"geometry":{"type":"Point","coordinates":[15.447166215588517,47.07162981998972],"bbox":[15.447166215588517,47.07162981998972,15.447166215588517,47.07162981998972]}},{"type":"Feature","properties":{"nummer":1151,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22458},"geometry":{"type":"Point","coordinates":[15.447193694643072,47.071697317464384],"bbox":[15.447193694643072,47.071697317464384,15.447193694643072,47.071697317464384]}},{"type":"Feature","properties":{"nummer":12804,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22461},"geometry":{"type":"Point","coordinates":[15.446914338278534,47.0716446852702],"bbox":[15.446914338278534,47.0716446852702,15.446914338278534,47.0716446852702]}},{"type":"Feature","properties":{"nummer":1197,"baumbezeichnung_botanisch":"Prunus cerasifera","baumbezeichnung_deutsch":"Kirschpflaume","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23339},"geometry":{"type":"Point","coordinates":[15.447384970696408,47.07134924482488],"bbox":[15.447384970696408,47.07134924482488,15.447384970696408,47.07134924482488]}},{"type":"Feature","properties":{"nummer":990,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24876},"geometry":{"type":"Point","coordinates":[15.447363796092723,47.07057892807774],"bbox":[15.447363796092723,47.07057892807774,15.447363796092723,47.07057892807774]}},{"type":"Feature","properties":{"nummer":987,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24877},"geometry":{"type":"Point","coordinates":[15.447145381279315,47.07052335214989],"bbox":[15.447145381279315,47.07052335214989,15.447145381279315,47.07052335214989]}},{"type":"Feature","properties":{"nummer":20024,"baumbezeichnung_botanisch":"Pinus silvestris","baumbezeichnung_deutsch":"Rotföhre","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1996","entnahmejahr":null,"baumpatenschaft":null,"objectid":24107},"geometry":{"type":"Point","coordinates":[15.447149430061609,47.07018520593775],"bbox":[15.447149430061609,47.07018520593775,15.447149430061609,47.07018520593775]}},{"type":"Feature","properties":{"nummer":25599,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":24128},"geometry":{"type":"Point","coordinates":[15.447473964137279,47.07126170172181],"bbox":[15.447473964137279,47.07126170172181,15.447473964137279,47.07126170172181]}},{"type":"Feature","properties":{"nummer":1179,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23419},"geometry":{"type":"Point","coordinates":[15.44747422053971,47.070881266281],"bbox":[15.44747422053971,47.070881266281,15.44747422053971,47.070881266281]}},{"type":"Feature","properties":{"nummer":1159,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24786},"geometry":{"type":"Point","coordinates":[15.447325173592919,47.071761663420155],"bbox":[15.447325173592919,47.071761663420155,15.447325173592919,47.071761663420155]}},{"type":"Feature","properties":{"nummer":1168,"baumbezeichnung_botanisch":"Prunus cerasifera 'Nigra'","baumbezeichnung_deutsch":"Echte Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23461},"geometry":{"type":"Point","coordinates":[15.447265006899602,47.07156743501689],"bbox":[15.447265006899602,47.07156743501689,15.447265006899602,47.07156743501689]}},{"type":"Feature","properties":{"nummer":12801,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22151},"geometry":{"type":"Point","coordinates":[15.446988693931504,47.0718584687078],"bbox":[15.446988693931504,47.0718584687078,15.446988693931504,47.0718584687078]}},{"type":"Feature","properties":{"nummer":1196,"baumbezeichnung_botanisch":"Malus floribunda","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22908},"geometry":{"type":"Point","coordinates":[15.447361381915469,47.071329029689494],"bbox":[15.447361381915469,47.071329029689494,15.447361381915469,47.071329029689494]}},{"type":"Feature","properties":{"nummer":921,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":22909},"geometry":{"type":"Point","coordinates":[15.447111918808137,47.070168506788704],"bbox":[15.447111918808137,47.070168506788704,15.447111918808137,47.070168506788704]}},{"type":"Feature","properties":{"nummer":1145,"baumbezeichnung_botanisch":"Acer platanoides 'Schwedleri'","baumbezeichnung_deutsch":"Hellroter Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22910},"geometry":{"type":"Point","coordinates":[15.44707581832632,47.07169784250225],"bbox":[15.44707581832632,47.07169784250225,15.44707581832632,47.07169784250225]}},{"type":"Feature","properties":{"nummer":1165,"baumbezeichnung_botanisch":"Prunus cerasifera 'Nigra'","baumbezeichnung_deutsch":"Echte Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20598},"geometry":{"type":"Point","coordinates":[15.447326542601377,47.071504971295866],"bbox":[15.447326542601377,47.071504971295866,15.447326542601377,47.071504971295866]}},{"type":"Feature","properties":{"nummer":1185,"baumbezeichnung_botanisch":"Malus floribunda","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21447},"geometry":{"type":"Point","coordinates":[15.447435359726304,47.07110512235396],"bbox":[15.447435359726304,47.07110512235396,15.447435359726304,47.07110512235396]}},{"type":"Feature","properties":{"nummer":995,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19842},"geometry":{"type":"Point","coordinates":[15.44748526873726,47.07036785827706],"bbox":[15.44748526873726,47.07036785827706,15.44748526873726,47.07036785827706]}},{"type":"Feature","properties":{"nummer":20022,"baumbezeichnung_botanisch":"Pinus silvestris","baumbezeichnung_deutsch":"Rotföhre","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1996","entnahmejahr":null,"baumpatenschaft":null,"objectid":20022},"geometry":{"type":"Point","coordinates":[15.447076546906093,47.07021616972228],"bbox":[15.447076546906093,47.07021616972228,15.447076546906093,47.07021616972228]}},{"type":"Feature","properties":{"nummer":1193,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20815},"geometry":{"type":"Point","coordinates":[15.447416306260042,47.07120094310212],"bbox":[15.447416306260042,47.07120094310212,15.447416306260042,47.07120094310212]}},{"type":"Feature","properties":{"nummer":1155,"baumbezeichnung_botanisch":"Prunus cerasifera 'Atropurpurea'","baumbezeichnung_deutsch":"Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20816},"geometry":{"type":"Point","coordinates":[15.447224691161649,47.07183214348926],"bbox":[15.447224691161649,47.07183214348926,15.447224691161649,47.07183214348926]}},{"type":"Feature","properties":{"nummer":10122,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21109},"geometry":{"type":"Point","coordinates":[15.448771578275128,47.07181487031454],"bbox":[15.448771578275128,47.07181487031454,15.448771578275128,47.07181487031454]}},{"type":"Feature","properties":{"nummer":1150,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20351},"geometry":{"type":"Point","coordinates":[15.447213270352545,47.07168199696673],"bbox":[15.447213270352545,47.07168199696673,15.447213270352545,47.07168199696673]}},{"type":"Feature","properties":{"nummer":1206,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18877},"geometry":{"type":"Point","coordinates":[15.44701999943215,47.0712463935598],"bbox":[15.44701999943215,47.0712463935598,15.44701999943215,47.0712463935598]}},{"type":"Feature","properties":{"nummer":24749,"baumbezeichnung_botanisch":"Betula albosinensis","baumbezeichnung_deutsch":"Kupferbirke","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":21345},"geometry":{"type":"Point","coordinates":[15.447190940187276,47.07067318173077],"bbox":[15.447190940187276,47.07067318173077,15.447190940187276,47.07067318173077]}},{"type":"Feature","properties":{"nummer":1045,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21387},"geometry":{"type":"Point","coordinates":[15.446970418683266,47.07115614765623],"bbox":[15.446970418683266,47.07115614765623,15.446970418683266,47.07115614765623]}},{"type":"Feature","properties":{"nummer":924,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"1996","baumpatenschaft":null,"objectid":28964},"geometry":{"type":"Point","coordinates":[15.44706219251871,47.07014239387963],"bbox":[15.44706219251871,47.07014239387963,15.44706219251871,47.07014239387963]}},{"type":"Feature","properties":{"nummer":12799,"baumbezeichnung_botanisch":"Prunus cerasifera 'Nigra'","baumbezeichnung_deutsch":"Echte Blutpflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28037},"geometry":{"type":"Point","coordinates":[15.44706828265405,47.07191945716757],"bbox":[15.44706828265405,47.07191945716757,15.44706828265405,47.07191945716757]}},{"type":"Feature","properties":{"nummer":30891,"baumbezeichnung_botanisch":"Catalpa bignonioides","baumbezeichnung_deutsch":"Trompetenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":28803},"geometry":{"type":"Point","coordinates":[15.446970900972575,47.07081838576896],"bbox":[15.446970900972575,47.07081838576896,15.446970900972575,47.07081838576896]}},{"type":"Feature","properties":{"nummer":30895,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":28807},"geometry":{"type":"Point","coordinates":[15.447181434774084,47.07134785393126],"bbox":[15.447181434774084,47.07134785393126,15.447181434774084,47.07134785393126]}},{"type":"Feature","properties":{"nummer":24751,"baumbezeichnung_botanisch":"Acer ginnala","baumbezeichnung_deutsch":"Feuerahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":27481},"geometry":{"type":"Point","coordinates":[15.446965240794645,47.070852752538514],"bbox":[15.446965240794645,47.070852752538514,15.446965240794645,47.070852752538514]}},{"type":"Feature","properties":{"nummer":1148,"baumbezeichnung_botanisch":"Malus x purpurea","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26159},"geometry":{"type":"Point","coordinates":[15.447138368983298,47.07169715783813],"bbox":[15.447138368983298,47.07169715783813,15.447138368983298,47.07169715783813]}},{"type":"Feature","properties":{"nummer":1046,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26161},"geometry":{"type":"Point","coordinates":[15.447007828567223,47.07106001165387],"bbox":[15.447007828567223,47.07106001165387,15.447007828567223,47.07106001165387]}},{"type":"Feature","properties":{"nummer":1205,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26213},"geometry":{"type":"Point","coordinates":[15.447090385136013,47.07123371813253],"bbox":[15.447090385136013,47.07123371813253,15.447090385136013,47.07123371813253]}},{"type":"Feature","properties":{"nummer":1173,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25578},"geometry":{"type":"Point","coordinates":[15.44751649465132,47.07110299946755],"bbox":[15.44751649465132,47.07110299946755,15.44751649465132,47.07110299946755]}},{"type":"Feature","properties":{"nummer":1156,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25752},"geometry":{"type":"Point","coordinates":[15.447259341678444,47.07198342019762],"bbox":[15.447259341678444,47.07198342019762,15.447259341678444,47.07198342019762]}},{"type":"Feature","properties":{"nummer":1181,"baumbezeichnung_botanisch":"Pinus nigra","baumbezeichnung_deutsch":"Schwarzkiefer","baumtyp":"Nadel","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26533},"geometry":{"type":"Point","coordinates":[15.44739042003566,47.07082272265255],"bbox":[15.44739042003566,47.07082272265255,15.44739042003566,47.07082272265255]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19881,
+        "baumbezeichnung_botanisch": "Betula papyrifera",
+        "baumbezeichnung_deutsch": "Papierbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44726030024348,
+          47.070647555201234
+        ],
+        "bbox": [
+          15.44726030024348,
+          47.070647555201234,
+          15.44726030024348,
+          47.070647555201234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1176,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447570091831128,
+          47.070943752507034
+        ],
+        "bbox": [
+          15.447570091831128,
+          47.070943752507034,
+          15.447570091831128,
+          47.070943752507034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1170,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447447398895148,
+          47.071362870229216
+        ],
+        "bbox": [
+          15.447447398895148,
+          47.071362870229216,
+          15.447447398895148,
+          47.071362870229216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1053,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447632662957693,
+          47.07072799512631
+        ],
+        "bbox": [
+          15.447632662957693,
+          47.07072799512631,
+          15.447632662957693,
+          47.07072799512631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1158,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447295429115588,
+          47.07186388751915
+        ],
+        "bbox": [
+          15.447295429115588,
+          47.07186388751915,
+          15.447295429115588,
+          47.07186388751915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 922,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 2079
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447098979368356,
+          47.070146997119025
+        ],
+        "bbox": [
+          15.447098979368356,
+          47.070146997119025,
+          15.447098979368356,
+          47.070146997119025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1049,
+        "baumbezeichnung_botanisch": "Acer ginnala",
+        "baumbezeichnung_deutsch": "Feuerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1994",
+        "baumpatenschaft": null,
+        "objectid": 2080
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447128899950492,
+          47.07089697111328
+        ],
+        "bbox": [
+          15.447128899950492,
+          47.07089697111328,
+          15.447128899950492,
+          47.07089697111328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1052,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447648351530905,
+          47.07067117702632
+        ],
+        "bbox": [
+          15.447648351530905,
+          47.07067117702632,
+          15.447648351530905,
+          47.07067117702632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1180,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44747153946746,
+          47.070846056682925
+        ],
+        "bbox": [
+          15.44747153946746,
+          47.070846056682925,
+          15.44747153946746,
+          47.070846056682925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1163,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447413360066406,
+          47.07146209266035
+        ],
+        "bbox": [
+          15.447413360066406,
+          47.07146209266035,
+          15.447413360066406,
+          47.07146209266035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1183,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447447437123444,
+          47.07106446832188
+        ],
+        "bbox": [
+          15.447447437123444,
+          47.07106446832188,
+          15.447447437123444,
+          47.07106446832188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1153,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Atropurpurea'",
+        "baumbezeichnung_deutsch": "Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44723975133357,
+          47.0717750786095
+        ],
+        "bbox": [
+          15.44723975133357,
+          47.0717750786095,
+          15.44723975133357,
+          47.0717750786095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1178,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447474957364845,
+          47.070910595992586
+        ],
+        "bbox": [
+          15.447474957364845,
+          47.070910595992586,
+          15.447474957364845,
+          47.070910595992586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1157,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44728528542116,
+          47.071911750810656
+        ],
+        "bbox": [
+          15.44728528542116,
+          47.071911750810656,
+          15.44728528542116,
+          47.071911750810656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1164,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447350618257165,
+          47.07155537503713
+        ],
+        "bbox": [
+          15.447350618257165,
+          47.07155537503713,
+          15.447350618257165,
+          47.07155537503713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 991,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44753253629458,
+          47.07058158861552
+        ],
+        "bbox": [
+          15.44753253629458,
+          47.07058158861552,
+          15.44753253629458,
+          47.07058158861552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 944,
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446974210428959,
+          47.07019754331258
+        ],
+        "bbox": [
+          15.446974210428959,
+          47.07019754331258,
+          15.446974210428959,
+          47.07019754331258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1177,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2787
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447477526561194,
+          47.07096195990371
+        ],
+        "bbox": [
+          15.447477526561194,
+          47.07096195990371,
+          15.447477526561194,
+          47.07096195990371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1187,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447428919940497,
+          47.071117818420696
+        ],
+        "bbox": [
+          15.447428919940497,
+          47.071117818420696,
+          15.447428919940497,
+          47.071117818420696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1147,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447112348916793,
+          47.07167833690713
+        ],
+        "bbox": [
+          15.447112348916793,
+          47.07167833690713,
+          15.447112348916793,
+          47.07167833690713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1144,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": "1909",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Baronin Zois, Adle von Kampi",
+        "objectid": 3500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447026701191112,
+          47.07155578851639
+        ],
+        "bbox": [
+          15.447026701191112,
+          47.07155578851639,
+          15.447026701191112,
+          47.07155578851639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1198,
+        "baumbezeichnung_botanisch": "Prunus cerasifera",
+        "baumbezeichnung_deutsch": "Kirschpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447365865102842,
+          47.071394422803365
+        ],
+        "bbox": [
+          15.447365865102842,
+          47.071394422803365,
+          15.447365865102842,
+          47.071394422803365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1167,
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3502
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447277397043042,
+          47.07154607160291
+        ],
+        "bbox": [
+          15.447277397043042,
+          47.07154607160291,
+          15.447277397043042,
+          47.07154607160291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12803,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446961174675462,
+          47.07181255279005
+        ],
+        "bbox": [
+          15.446961174675462,
+          47.07181255279005,
+          15.446961174675462,
+          47.07181255279005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1054,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3820
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447613058585725,
+          47.070782534069
+        ],
+        "bbox": [
+          15.447613058585725,
+          47.070782534069,
+          15.447613058585725,
+          47.070782534069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1172,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44748077909982,
+          47.07120814387217
+        ],
+        "bbox": [
+          15.44748077909982,
+          47.07120814387217,
+          15.44748077909982,
+          47.07120814387217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 983,
+        "baumbezeichnung_botanisch": "Gymnocladus dioicus",
+        "baumbezeichnung_deutsch": "Geweihbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446952679437901,
+          47.07075033225415
+        ],
+        "bbox": [
+          15.446952679437901,
+          47.07075033225415,
+          15.446952679437901,
+          47.07075033225415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 992,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44761026311017,
+          47.07055475578972
+        ],
+        "bbox": [
+          15.44761026311017,
+          47.07055475578972,
+          15.44761026311017,
+          47.07055475578972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1175,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447551231796597,
+          47.071001263793434
+        ],
+        "bbox": [
+          15.447551231796597,
+          47.071001263793434,
+          15.447551231796597,
+          47.071001263793434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27566,
+        "baumbezeichnung_botanisch": "Quercus frainetto",
+        "baumbezeichnung_deutsch": "Ungarische Eiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9734
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446922721423931,
+          47.07126230525084
+        ],
+        "bbox": [
+          15.446922721423931,
+          47.07126230525084,
+          15.446922721423931,
+          47.07126230525084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 951,
+        "baumbezeichnung_botanisch": "Celtis occidentalis",
+        "baumbezeichnung_deutsch": "Nesselbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446909037526268,
+          47.070287195061596
+        ],
+        "bbox": [
+          15.446909037526268,
+          47.070287195061596,
+          15.446909037526268,
+          47.070287195061596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 909,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447389626331118,
+          47.070221035774786
+        ],
+        "bbox": [
+          15.447389626331118,
+          47.070221035774786,
+          15.447389626331118,
+          47.070221035774786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1154,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Atropurpurea'",
+        "baumbezeichnung_deutsch": "Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10849
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44723782286532,
+          47.07179999802664
+        ],
+        "bbox": [
+          15.44723782286532,
+          47.07179999802664,
+          15.44723782286532,
+          47.07179999802664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 926,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 9359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44703255149789,
+          47.070159346175764
+        ],
+        "bbox": [
+          15.44703255149789,
+          47.070159346175764,
+          15.44703255149789,
+          47.070159346175764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12800,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447055835771524,
+          47.071871001138746
+        ],
+        "bbox": [
+          15.447055835771524,
+          47.071871001138746,
+          15.447055835771524,
+          47.071871001138746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1042,
+        "baumbezeichnung_botanisch": "Acer cappadocicum",
+        "baumbezeichnung_deutsch": "Kolchischer Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44680004531512,
+          47.07099831100587
+        ],
+        "bbox": [
+          15.44680004531512,
+          47.07099831100587,
+          15.44680004531512,
+          47.07099831100587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25611,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447190029941979,
+          47.07029968320335
+        ],
+        "bbox": [
+          15.447190029941979,
+          47.07029968320335,
+          15.447190029941979,
+          47.07029968320335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25612,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7990
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447126375886453,
+          47.07035517721224
+        ],
+        "bbox": [
+          15.447126375886453,
+          47.07035517721224,
+          15.447126375886453,
+          47.07035517721224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25613,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Dr. med. Viktor und Olga Steyskal",
+        "objectid": 7991
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447064452181218,
+          47.070414597483776
+        ],
+        "bbox": [
+          15.447064452181218,
+          47.070414597483776,
+          15.447064452181218,
+          47.070414597483776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25614,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446997504473371,
+          47.070478680447884
+        ],
+        "bbox": [
+          15.446997504473371,
+          47.070478680447884,
+          15.446997504473371,
+          47.070478680447884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25615,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446933038483248,
+          47.07054014168375
+        ],
+        "bbox": [
+          15.446933038483248,
+          47.07054014168375,
+          15.446933038483248,
+          47.07054014168375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25617,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446812380719582,
+          47.07065680835115
+        ],
+        "bbox": [
+          15.446812380719582,
+          47.07065680835115,
+          15.446812380719582,
+          47.07065680835115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25616,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446873138854215,
+          47.07059404378716
+        ],
+        "bbox": [
+          15.446873138854215,
+          47.07059404378716,
+          15.446873138854215,
+          47.07059404378716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25609,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44718906755911,
+          47.07022486535877
+        ],
+        "bbox": [
+          15.44718906755911,
+          47.07022486535877,
+          15.44718906755911,
+          47.07022486535877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25610,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447242819155523,
+          47.0702431117671
+        ],
+        "bbox": [
+          15.447242819155523,
+          47.0702431117671,
+          15.447242819155523,
+          47.0702431117671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 994,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447547995245518,
+          47.07045946438733
+        ],
+        "bbox": [
+          15.447547995245518,
+          47.07045946438733,
+          15.447547995245518,
+          47.07045946438733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 928,
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447001322227143,
+          47.07014965166729
+        ],
+        "bbox": [
+          15.447001322227143,
+          47.07014965166729,
+          15.447001322227143,
+          47.07014965166729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25603,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446822506366228,
+          47.070573715678194
+        ],
+        "bbox": [
+          15.446822506366228,
+          47.070573715678194,
+          15.446822506366228,
+          47.070573715678194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25604,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8480
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44688431118585,
+          47.07051315943499
+        ],
+        "bbox": [
+          15.44688431118585,
+          47.07051315943499,
+          15.44688431118585,
+          47.07051315943499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25605,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446946229206441,
+          47.07045417907736
+        ],
+        "bbox": [
+          15.446946229206441,
+          47.07045417907736,
+          15.446946229206441,
+          47.07045417907736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25607,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447075077331105,
+          47.0703361168486
+        ],
+        "bbox": [
+          15.447075077331105,
+          47.0703361168486,
+          15.447075077331105,
+          47.0703361168486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25608,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447134468422735,
+          47.070278089139165
+        ],
+        "bbox": [
+          15.447134468422735,
+          47.070278089139165,
+          15.447134468422735,
+          47.070278089139165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25606,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447011296125632,
+          47.070395129585314
+        ],
+        "bbox": [
+          15.447011296125632,
+          47.070395129585314,
+          15.447011296125632,
+          47.070395129585314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 988,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": "massiver Holzzersetzung am Wurzelansatz zwischen den einzelnen Starkwurzelansätzen bis in den Wurzelbereich reichend, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7710
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447184135399167,
+          47.070496758567714
+        ],
+        "bbox": [
+          15.447184135399167,
+          47.070496758567714,
+          15.447184135399167,
+          47.070496758567714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1050,
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447215327417753,
+          47.07081407763628
+        ],
+        "bbox": [
+          15.447215327417753,
+          47.07081407763628,
+          15.447215327417753,
+          47.07081407763628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10121,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44885303661875,
+          47.07194252112623
+        ],
+        "bbox": [
+          15.44885303661875,
+          47.07194252112623,
+          15.44885303661875,
+          47.07194252112623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1189,
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44745117987738,
+          47.07114169772495
+        ],
+        "bbox": [
+          15.44745117987738,
+          47.07114169772495,
+          15.44745117987738,
+          47.07114169772495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12807,
+        "baumbezeichnung_botanisch": "Cornus mas",
+        "baumbezeichnung_deutsch": "Kornelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447273091420326,
+          47.07106944775751
+        ],
+        "bbox": [
+          15.447273091420326,
+          47.07106944775751,
+          15.447273091420326,
+          47.07106944775751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1199,
+        "baumbezeichnung_botanisch": "Prunus cerasifera",
+        "baumbezeichnung_deutsch": "Kirschpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17645
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447333109353215,
+          47.071361039666854
+        ],
+        "bbox": [
+          15.447333109353215,
+          47.071361039666854,
+          15.447333109353215,
+          47.071361039666854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1184,
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447424692500972,
+          47.07109888693006
+        ],
+        "bbox": [
+          15.447424692500972,
+          47.07109888693006,
+          15.447424692500972,
+          47.07109888693006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1149,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447173457727171,
+          47.07170885398911
+        ],
+        "bbox": [
+          15.447173457727171,
+          47.07170885398911,
+          15.447173457727171,
+          47.07170885398911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1166,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Atropurpurea'",
+        "baumbezeichnung_deutsch": "Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447311952135482,
+          47.071536331870334
+        ],
+        "bbox": [
+          15.447311952135482,
+          47.071536331870334,
+          15.447311952135482,
+          47.071536331870334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 927,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 16351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447010416895862,
+          47.070128679163155
+        ],
+        "bbox": [
+          15.447010416895862,
+          47.070128679163155,
+          15.447010416895862,
+          47.070128679163155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1192,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447373287888613,
+          47.07119970973806
+        ],
+        "bbox": [
+          15.447373287888613,
+          47.07119970973806,
+          15.447373287888613,
+          47.07119970973806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20023,
+        "baumbezeichnung_botanisch": "Acer griseum",
+        "baumbezeichnung_deutsch": "Zimtahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447007572502546,
+          47.07020130323543
+        ],
+        "bbox": [
+          15.447007572502546,
+          47.07020130323543,
+          15.447007572502546,
+          47.07020130323543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 986,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1992",
+        "baumpatenschaft": null,
+        "objectid": 15855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447123339389517,
+          47.070518684391836
+        ],
+        "bbox": [
+          15.447123339389517,
+          47.070518684391836,
+          15.447123339389517,
+          47.070518684391836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 923,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 14477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447086747710838,
+          47.070185761853544
+        ],
+        "bbox": [
+          15.447086747710838,
+          47.070185761853544,
+          15.447086747710838,
+          47.070185761853544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1161,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447364634278053,
+          47.07161327996232
+        ],
+        "bbox": [
+          15.447364634278053,
+          47.07161327996232,
+          15.447364634278053,
+          47.07161327996232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1044,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13044
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44694205023704,
+          47.07120728934955
+        ],
+        "bbox": [
+          15.44694205023704,
+          47.07120728934955,
+          15.44694205023704,
+          47.07120728934955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1047,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15532
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447024074365864,
+          47.071017231208174
+        ],
+        "bbox": [
+          15.447024074365864,
+          47.071017231208174,
+          15.447024074365864,
+          47.071017231208174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21702,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14679
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447533701743025,
+          47.07105788678676
+        ],
+        "bbox": [
+          15.447533701743025,
+          47.07105788678676,
+          15.447533701743025,
+          47.07105788678676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1204,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447114756555793,
+          47.07117741727251
+        ],
+        "bbox": [
+          15.447114756555793,
+          47.07117741727251,
+          15.447114756555793,
+          47.07117741727251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 993,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447577227381023,
+          47.07050655563116
+        ],
+        "bbox": [
+          15.447577227381023,
+          47.07050655563116,
+          15.447577227381023,
+          47.07050655563116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1188,
+        "baumbezeichnung_botanisch": "Prunus cerasifera",
+        "baumbezeichnung_deutsch": "Kirschpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447423478398953,
+          47.07113382343185
+        ],
+        "bbox": [
+          15.447423478398953,
+          47.07113382343185,
+          15.447423478398953,
+          47.07113382343185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 985,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2002",
+        "baumpatenschaft": null,
+        "objectid": 14754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447239466454722,
+          47.07071630937443
+        ],
+        "bbox": [
+          15.447239466454722,
+          47.07071630937443,
+          15.447239466454722,
+          47.07071630937443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1162,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12520
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447398885462848,
+          47.071509294497325
+        ],
+        "bbox": [
+          15.447398885462848,
+          47.071509294497325,
+          15.447398885462848,
+          47.071509294497325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1043,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446848551829914,
+          47.071010652064295
+        ],
+        "bbox": [
+          15.446848551829914,
+          47.071010652064295,
+          15.446848551829914,
+          47.071010652064295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25600,
+        "baumbezeichnung_botanisch": "Acer cappadocicum 'Rubrum'",
+        "baumbezeichnung_deutsch": "Rottriebiger Kolchischer Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447282772449762,
+          47.07123934839506
+        ],
+        "bbox": [
+          15.447282772449762,
+          47.07123934839506,
+          15.447282772449762,
+          47.07123934839506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12802,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447019682319526,
+          47.071836320530565
+        ],
+        "bbox": [
+          15.447019682319526,
+          47.071836320530565,
+          15.447019682319526,
+          47.071836320530565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1160,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447359346069993,
+          47.071662263954416
+        ],
+        "bbox": [
+          15.447359346069993,
+          47.071662263954416,
+          15.447359346069993,
+          47.071662263954416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 952,
+        "baumbezeichnung_botanisch": "Hamamelis mollis",
+        "baumbezeichnung_deutsch": "Lichtmeß - Zaubernuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446979973080845,
+          47.070284921396855
+        ],
+        "bbox": [
+          15.446979973080845,
+          47.070284921396855,
+          15.446979973080845,
+          47.070284921396855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1055,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447587773708207,
+          47.070838467247405
+        ],
+        "bbox": [
+          15.447587773708207,
+          47.070838467247405,
+          15.447587773708207,
+          47.070838467247405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 925,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 23184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44704980095247,
+          47.07017486080486
+        ],
+        "bbox": [
+          15.44704980095247,
+          47.07017486080486,
+          15.44704980095247,
+          47.07017486080486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1048,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447057237189888,
+          47.070978540839114
+        ],
+        "bbox": [
+          15.447057237189888,
+          47.070978540839114,
+          15.447057237189888,
+          47.070978540839114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1203,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22456
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447067176130686,
+          47.07114088762519
+        ],
+        "bbox": [
+          15.447067176130686,
+          47.07114088762519,
+          15.447067176130686,
+          47.07114088762519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1152,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447166215588517,
+          47.07162981998972
+        ],
+        "bbox": [
+          15.447166215588517,
+          47.07162981998972,
+          15.447166215588517,
+          47.07162981998972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1151,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447193694643072,
+          47.071697317464384
+        ],
+        "bbox": [
+          15.447193694643072,
+          47.071697317464384,
+          15.447193694643072,
+          47.071697317464384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12804,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446914338278534,
+          47.0716446852702
+        ],
+        "bbox": [
+          15.446914338278534,
+          47.0716446852702,
+          15.446914338278534,
+          47.0716446852702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1197,
+        "baumbezeichnung_botanisch": "Prunus cerasifera",
+        "baumbezeichnung_deutsch": "Kirschpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447384970696408,
+          47.07134924482488
+        ],
+        "bbox": [
+          15.447384970696408,
+          47.07134924482488,
+          15.447384970696408,
+          47.07134924482488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 990,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447363796092723,
+          47.07057892807774
+        ],
+        "bbox": [
+          15.447363796092723,
+          47.07057892807774,
+          15.447363796092723,
+          47.07057892807774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 987,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447145381279315,
+          47.07052335214989
+        ],
+        "bbox": [
+          15.447145381279315,
+          47.07052335214989,
+          15.447145381279315,
+          47.07052335214989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20024,
+        "baumbezeichnung_botanisch": "Pinus silvestris",
+        "baumbezeichnung_deutsch": "Rotföhre",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447149430061609,
+          47.07018520593775
+        ],
+        "bbox": [
+          15.447149430061609,
+          47.07018520593775,
+          15.447149430061609,
+          47.07018520593775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25599,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447473964137279,
+          47.07126170172181
+        ],
+        "bbox": [
+          15.447473964137279,
+          47.07126170172181,
+          15.447473964137279,
+          47.07126170172181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1179,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44747422053971,
+          47.070881266281
+        ],
+        "bbox": [
+          15.44747422053971,
+          47.070881266281,
+          15.44747422053971,
+          47.070881266281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1159,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447325173592919,
+          47.071761663420155
+        ],
+        "bbox": [
+          15.447325173592919,
+          47.071761663420155,
+          15.447325173592919,
+          47.071761663420155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1168,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447265006899602,
+          47.07156743501689
+        ],
+        "bbox": [
+          15.447265006899602,
+          47.07156743501689,
+          15.447265006899602,
+          47.07156743501689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12801,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446988693931504,
+          47.0718584687078
+        ],
+        "bbox": [
+          15.446988693931504,
+          47.0718584687078,
+          15.446988693931504,
+          47.0718584687078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1196,
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447361381915469,
+          47.071329029689494
+        ],
+        "bbox": [
+          15.447361381915469,
+          47.071329029689494,
+          15.447361381915469,
+          47.071329029689494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 921,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 22909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447111918808137,
+          47.070168506788704
+        ],
+        "bbox": [
+          15.447111918808137,
+          47.070168506788704,
+          15.447111918808137,
+          47.070168506788704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1145,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22910
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44707581832632,
+          47.07169784250225
+        ],
+        "bbox": [
+          15.44707581832632,
+          47.07169784250225,
+          15.44707581832632,
+          47.07169784250225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1165,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20598
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447326542601377,
+          47.071504971295866
+        ],
+        "bbox": [
+          15.447326542601377,
+          47.071504971295866,
+          15.447326542601377,
+          47.071504971295866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1185,
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447435359726304,
+          47.07110512235396
+        ],
+        "bbox": [
+          15.447435359726304,
+          47.07110512235396,
+          15.447435359726304,
+          47.07110512235396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 995,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19842
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44748526873726,
+          47.07036785827706
+        ],
+        "bbox": [
+          15.44748526873726,
+          47.07036785827706,
+          15.44748526873726,
+          47.07036785827706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20022,
+        "baumbezeichnung_botanisch": "Pinus silvestris",
+        "baumbezeichnung_deutsch": "Rotföhre",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447076546906093,
+          47.07021616972228
+        ],
+        "bbox": [
+          15.447076546906093,
+          47.07021616972228,
+          15.447076546906093,
+          47.07021616972228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1193,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20815
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447416306260042,
+          47.07120094310212
+        ],
+        "bbox": [
+          15.447416306260042,
+          47.07120094310212,
+          15.447416306260042,
+          47.07120094310212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1155,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Atropurpurea'",
+        "baumbezeichnung_deutsch": "Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447224691161649,
+          47.07183214348926
+        ],
+        "bbox": [
+          15.447224691161649,
+          47.07183214348926,
+          15.447224691161649,
+          47.07183214348926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10122,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448771578275128,
+          47.07181487031454
+        ],
+        "bbox": [
+          15.448771578275128,
+          47.07181487031454,
+          15.448771578275128,
+          47.07181487031454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1150,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447213270352545,
+          47.07168199696673
+        ],
+        "bbox": [
+          15.447213270352545,
+          47.07168199696673,
+          15.447213270352545,
+          47.07168199696673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1206,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44701999943215,
+          47.0712463935598
+        ],
+        "bbox": [
+          15.44701999943215,
+          47.0712463935598,
+          15.44701999943215,
+          47.0712463935598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24749,
+        "baumbezeichnung_botanisch": "Betula albosinensis",
+        "baumbezeichnung_deutsch": "Kupferbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447190940187276,
+          47.07067318173077
+        ],
+        "bbox": [
+          15.447190940187276,
+          47.07067318173077,
+          15.447190940187276,
+          47.07067318173077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1045,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446970418683266,
+          47.07115614765623
+        ],
+        "bbox": [
+          15.446970418683266,
+          47.07115614765623,
+          15.446970418683266,
+          47.07115614765623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 924,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "1996",
+        "baumpatenschaft": null,
+        "objectid": 28964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44706219251871,
+          47.07014239387963
+        ],
+        "bbox": [
+          15.44706219251871,
+          47.07014239387963,
+          15.44706219251871,
+          47.07014239387963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12799,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44706828265405,
+          47.07191945716757
+        ],
+        "bbox": [
+          15.44706828265405,
+          47.07191945716757,
+          15.44706828265405,
+          47.07191945716757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30891,
+        "baumbezeichnung_botanisch": "Catalpa bignonioides",
+        "baumbezeichnung_deutsch": "Trompetenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446970900972575,
+          47.07081838576896
+        ],
+        "bbox": [
+          15.446970900972575,
+          47.07081838576896,
+          15.446970900972575,
+          47.07081838576896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30895,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28807
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447181434774084,
+          47.07134785393126
+        ],
+        "bbox": [
+          15.447181434774084,
+          47.07134785393126,
+          15.447181434774084,
+          47.07134785393126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24751,
+        "baumbezeichnung_botanisch": "Acer ginnala",
+        "baumbezeichnung_deutsch": "Feuerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446965240794645,
+          47.070852752538514
+        ],
+        "bbox": [
+          15.446965240794645,
+          47.070852752538514,
+          15.446965240794645,
+          47.070852752538514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1148,
+        "baumbezeichnung_botanisch": "Malus x purpurea",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447138368983298,
+          47.07169715783813
+        ],
+        "bbox": [
+          15.447138368983298,
+          47.07169715783813,
+          15.447138368983298,
+          47.07169715783813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1046,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447007828567223,
+          47.07106001165387
+        ],
+        "bbox": [
+          15.447007828567223,
+          47.07106001165387,
+          15.447007828567223,
+          47.07106001165387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1205,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447090385136013,
+          47.07123371813253
+        ],
+        "bbox": [
+          15.447090385136013,
+          47.07123371813253,
+          15.447090385136013,
+          47.07123371813253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1173,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44751649465132,
+          47.07110299946755
+        ],
+        "bbox": [
+          15.44751649465132,
+          47.07110299946755,
+          15.44751649465132,
+          47.07110299946755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1156,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447259341678444,
+          47.07198342019762
+        ],
+        "bbox": [
+          15.447259341678444,
+          47.07198342019762,
+          15.447259341678444,
+          47.07198342019762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1181,
+        "baumbezeichnung_botanisch": "Pinus nigra",
+        "baumbezeichnung_deutsch": "Schwarzkiefer",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44739042003566,
+          47.07082272265255
+        ],
+        "bbox": [
+          15.44739042003566,
+          47.07082272265255,
+          15.44739042003566,
+          47.07082272265255
+        ]
+      }
+    }
+  ]
+}

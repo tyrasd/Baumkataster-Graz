@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":25685,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7205},"geometry":{"type":"Point","coordinates":[15.390980901603063,47.059085186770155],"bbox":[15.390980901603063,47.059085186770155,15.390980901603063,47.059085186770155]}},{"type":"Feature","properties":{"nummer":15379,"baumbezeichnung_botanisch":"Crataegus sp.","baumbezeichnung_deutsch":"Weißdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25646},"geometry":{"type":"Point","coordinates":[15.390775851602038,47.062618205889855],"bbox":[15.390775851602038,47.062618205889855,15.390775851602038,47.062618205889855]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25685,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.390980901603063,
+          47.059085186770155
+        ],
+        "bbox": [
+          15.390980901603063,
+          47.059085186770155,
+          15.390980901603063,
+          47.059085186770155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15379,
+        "baumbezeichnung_botanisch": "Crataegus sp.",
+        "baumbezeichnung_deutsch": "Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.390775851602038,
+          47.062618205889855
+        ],
+        "bbox": [
+          15.390775851602038,
+          47.062618205889855,
+          15.390775851602038,
+          47.062618205889855
+        ]
+      }
+    }
+  ]
+}

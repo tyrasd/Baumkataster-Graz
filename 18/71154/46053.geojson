@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":10638,"baumbezeichnung_botanisch":"Larix decidua","baumbezeichnung_deutsch":"Europäische Lärche","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15381},"geometry":{"type":"Point","coordinates":[15.432386534067412,47.08953739491573],"bbox":[15.432386534067412,47.08953739491573,15.432386534067412,47.08953739491573]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10638,
+        "baumbezeichnung_botanisch": "Larix decidua",
+        "baumbezeichnung_deutsch": "Europäische Lärche",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432386534067412,
+          47.08953739491573
+        ],
+        "bbox": [
+          15.432386534067412,
+          47.08953739491573,
+          15.432386534067412,
+          47.08953739491573
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":25300,"baumbezeichnung_botanisch":"Ailanthus altissima","baumbezeichnung_deutsch":"Götterbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7379},"geometry":{"type":"Point","coordinates":[15.444253146434427,47.08188715364881],"bbox":[15.444253146434427,47.08188715364881,15.444253146434427,47.08188715364881]}},{"type":"Feature","properties":{"nummer":25301,"baumbezeichnung_botanisch":"Ailanthus altissima","baumbezeichnung_deutsch":"Götterbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8527},"geometry":{"type":"Point","coordinates":[15.444295724339772,47.08190479535621],"bbox":[15.444295724339772,47.08190479535621,15.444295724339772,47.08190479535621]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25300,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.444253146434427,
+          47.08188715364881
+        ],
+        "bbox": [
+          15.444253146434427,
+          47.08188715364881,
+          15.444253146434427,
+          47.08188715364881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25301,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.444295724339772,
+          47.08190479535621
+        ],
+        "bbox": [
+          15.444295724339772,
+          47.08190479535621,
+          15.444295724339772,
+          47.08190479535621
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23341,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8448},"geometry":{"type":"Point","coordinates":[15.401468165273693,47.04868716615543],"bbox":[15.401468165273693,47.04868716615543,15.401468165273693,47.04868716615543]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23341,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.401468165273693,
+          47.04868716615543
+        ],
+        "bbox": [
+          15.401468165273693,
+          47.04868716615543,
+          15.401468165273693,
+          47.04868716615543
+        ]
+      }
+    }
+  ]
+}

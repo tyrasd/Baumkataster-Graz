@@ -1,1 +1,117 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":6149,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":11448},"geometry":{"type":"Point","coordinates":[15.459043368463051,47.05953889655127],"bbox":[15.459043368463051,47.05953889655127,15.459043368463051,47.05953889655127]}},{"type":"Feature","properties":{"nummer":6152,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":16462},"geometry":{"type":"Point","coordinates":[15.457847310029713,47.05906279341147],"bbox":[15.457847310029713,47.05906279341147,15.457847310029713,47.05906279341147]}},{"type":"Feature","properties":{"nummer":6151,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":23678},"geometry":{"type":"Point","coordinates":[15.45819805860764,47.05920148902687],"bbox":[15.45819805860764,47.05920148902687,15.45819805860764,47.05920148902687]}},{"type":"Feature","properties":{"nummer":31564,"baumbezeichnung_botanisch":"Acer platanoides 'Fairview'","baumbezeichnung_deutsch":"Hellroter Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28477},"geometry":{"type":"Point","coordinates":[15.458353717557204,47.05926566963633],"bbox":[15.458353717557204,47.05926566963633,15.458353717557204,47.05926566963633]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6149,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459043368463051,
+          47.05953889655127
+        ],
+        "bbox": [
+          15.459043368463051,
+          47.05953889655127,
+          15.459043368463051,
+          47.05953889655127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6152,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457847310029713,
+          47.05906279341147
+        ],
+        "bbox": [
+          15.457847310029713,
+          47.05906279341147,
+          15.457847310029713,
+          47.05906279341147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6151,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45819805860764,
+          47.05920148902687
+        ],
+        "bbox": [
+          15.45819805860764,
+          47.05920148902687,
+          15.45819805860764,
+          47.05920148902687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31564,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Fairview'",
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458353717557204,
+          47.05926566963633
+        ],
+        "bbox": [
+          15.458353717557204,
+          47.05926566963633,
+          15.458353717557204,
+          47.05926566963633
+        ]
+      }
+    }
+  ]
+}

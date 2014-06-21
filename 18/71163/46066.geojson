@@ -1,1 +1,173 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":24871,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5691},"geometry":{"type":"Point","coordinates":[15.457292844394226,47.06581754863051],"bbox":[15.457292844394226,47.06581754863051,15.457292844394226,47.06581754863051]}},{"type":"Feature","properties":{"nummer":24870,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7945},"geometry":{"type":"Point","coordinates":[15.457028029113802,47.06584546159383],"bbox":[15.457028029113802,47.06584546159383,15.457028029113802,47.06584546159383]}},{"type":"Feature","properties":{"nummer":22437,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6573},"geometry":{"type":"Point","coordinates":[15.45582354827426,47.066282103783536],"bbox":[15.45582354827426,47.066282103783536,15.45582354827426,47.066282103783536]}},{"type":"Feature","properties":{"nummer":24868,"baumbezeichnung_botanisch":"Populus tremula","baumbezeichnung_deutsch":"Zitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17691},"geometry":{"type":"Point","coordinates":[15.456115760496933,47.06606439623735],"bbox":[15.456115760496933,47.06606439623735,15.456115760496933,47.06606439623735]}},{"type":"Feature","properties":{"nummer":24869,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17692},"geometry":{"type":"Point","coordinates":[15.456976897115272,47.06584874355223],"bbox":[15.456976897115272,47.06584874355223,15.456976897115272,47.06584874355223]}},{"type":"Feature","properties":{"nummer":24189,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25988},"geometry":{"type":"Point","coordinates":[15.456287163384864,47.066017608414846],"bbox":[15.456287163384864,47.066017608414846,15.456287163384864,47.066017608414846]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24871,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457292844394226,
+          47.06581754863051
+        ],
+        "bbox": [
+          15.457292844394226,
+          47.06581754863051,
+          15.457292844394226,
+          47.06581754863051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24870,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457028029113802,
+          47.06584546159383
+        ],
+        "bbox": [
+          15.457028029113802,
+          47.06584546159383,
+          15.457028029113802,
+          47.06584546159383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22437,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45582354827426,
+          47.066282103783536
+        ],
+        "bbox": [
+          15.45582354827426,
+          47.066282103783536,
+          15.45582354827426,
+          47.066282103783536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24868,
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456115760496933,
+          47.06606439623735
+        ],
+        "bbox": [
+          15.456115760496933,
+          47.06606439623735,
+          15.456115760496933,
+          47.06606439623735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24869,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456976897115272,
+          47.06584874355223
+        ],
+        "bbox": [
+          15.456976897115272,
+          47.06584874355223,
+          15.456976897115272,
+          47.06584874355223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24189,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456287163384864,
+          47.066017608414846
+        ],
+        "bbox": [
+          15.456287163384864,
+          47.066017608414846,
+          15.456287163384864,
+          47.066017608414846
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":25016,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":2306},"geometry":{"type":"Point","coordinates":[15.418992179478158,47.085155798718816],"bbox":[15.418992179478158,47.085155798718816,15.418992179478158,47.085155798718816]}},{"type":"Feature","properties":{"nummer":11651,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4867},"geometry":{"type":"Point","coordinates":[15.418798509187022,47.08525236400619],"bbox":[15.418798509187022,47.08525236400619,15.418798509187022,47.08525236400619]}},{"type":"Feature","properties":{"nummer":29350,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2009","entnahmejahr":null,"baumpatenschaft":null,"objectid":9920},"geometry":{"type":"Point","coordinates":[15.419153630257343,47.08541966496302],"bbox":[15.419153630257343,47.08541966496302,15.419153630257343,47.08541966496302]}},{"type":"Feature","properties":{"nummer":11693,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15136},"geometry":{"type":"Point","coordinates":[15.419272553148124,47.08529278814557],"bbox":[15.419272553148124,47.08529278814557,15.419272553148124,47.08529278814557]}},{"type":"Feature","properties":{"nummer":25015,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":"Entfernung auf Grund Kronenbruches beim Gewittersturm 29.07.2013, auf Grund des dichten Bestandes drzt kein Ersatz geplant","pflanzjahr":"2006","entnahmejahr":"2013","baumpatenschaft":null,"objectid":14703},"geometry":{"type":"Point","coordinates":[15.419043332435718,47.08518596226938],"bbox":[15.419043332435718,47.08518596226938,15.419043332435718,47.08518596226938]}},{"type":"Feature","properties":{"nummer":27541,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":12623},"geometry":{"type":"Point","coordinates":[15.418689115258434,47.08520004486366],"bbox":[15.418689115258434,47.08520004486366,15.418689115258434,47.08520004486366]}},{"type":"Feature","properties":{"nummer":11691,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24614},"geometry":{"type":"Point","coordinates":[15.419118547259826,47.08522170832014],"bbox":[15.419118547259826,47.08522170832014,15.419118547259826,47.08522170832014]}},{"type":"Feature","properties":{"nummer":31449,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28323},"geometry":{"type":"Point","coordinates":[15.419305706225693,47.08549273518891],"bbox":[15.419305706225693,47.08549273518891,15.419305706225693,47.08549273518891]}},{"type":"Feature","properties":{"nummer":30381,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27429},"geometry":{"type":"Point","coordinates":[15.419195125945361,47.08525625990147],"bbox":[15.419195125945361,47.08525625990147,15.419195125945361,47.08525625990147]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25016,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418992179478158,
+          47.085155798718816
+        ],
+        "bbox": [
+          15.418992179478158,
+          47.085155798718816,
+          15.418992179478158,
+          47.085155798718816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11651,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418798509187022,
+          47.08525236400619
+        ],
+        "bbox": [
+          15.418798509187022,
+          47.08525236400619,
+          15.418798509187022,
+          47.08525236400619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29350,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9920
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419153630257343,
+          47.08541966496302
+        ],
+        "bbox": [
+          15.419153630257343,
+          47.08541966496302,
+          15.419153630257343,
+          47.08541966496302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11693,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419272553148124,
+          47.08529278814557
+        ],
+        "bbox": [
+          15.419272553148124,
+          47.08529278814557,
+          15.419272553148124,
+          47.08529278814557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25015,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": "Entfernung auf Grund Kronenbruches beim Gewittersturm 29.07.2013, auf Grund des dichten Bestandes drzt kein Ersatz geplant",
+        "pflanzjahr": "2006",
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 14703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419043332435718,
+          47.08518596226938
+        ],
+        "bbox": [
+          15.419043332435718,
+          47.08518596226938,
+          15.419043332435718,
+          47.08518596226938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27541,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418689115258434,
+          47.08520004486366
+        ],
+        "bbox": [
+          15.418689115258434,
+          47.08520004486366,
+          15.418689115258434,
+          47.08520004486366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11691,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419118547259826,
+          47.08522170832014
+        ],
+        "bbox": [
+          15.419118547259826,
+          47.08522170832014,
+          15.419118547259826,
+          47.08522170832014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31449,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419305706225693,
+          47.08549273518891
+        ],
+        "bbox": [
+          15.419305706225693,
+          47.08549273518891,
+          15.419305706225693,
+          47.08549273518891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30381,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27429
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419195125945361,
+          47.08525625990147
+        ],
+        "bbox": [
+          15.419195125945361,
+          47.08525625990147,
+          15.419195125945361,
+          47.08525625990147
+        ]
+      }
+    }
+  ]
+}

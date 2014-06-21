@@ -1,1 +1,455 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":4991,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3114},"geometry":{"type":"Point","coordinates":[15.455681053563909,47.069075244188625],"bbox":[15.455681053563909,47.069075244188625,15.455681053563909,47.069075244188625]}},{"type":"Feature","properties":{"nummer":27985,"baumbezeichnung_botanisch":"Fagus sylvatica","baumbezeichnung_deutsch":"Rotbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5694,"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat"},"geometry":{"type":"Point","coordinates":[15.457729561832123,47.068554598380395],"bbox":[15.457729561832123,47.068554598380395,15.457729561832123,47.068554598380395]}},{"type":"Feature","properties":{"nummer":5016,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10410},"geometry":{"type":"Point","coordinates":[15.455082882138798,47.069807978431335],"bbox":[15.455082882138798,47.069807978431335,15.455082882138798,47.069807978431335]}},{"type":"Feature","properties":{"nummer":22606,"baumbezeichnung_botanisch":"Gymnocladus dioicus","baumbezeichnung_deutsch":"Geweihbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2000","entnahmejahr":null,"baumpatenschaft":null,"objectid":11183},"geometry":{"type":"Point","coordinates":[15.455292870564634,47.06964577972352],"bbox":[15.455292870564634,47.06964577972352,15.455292870564634,47.06964577972352]}},{"type":"Feature","properties":{"nummer":5017,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12270},"geometry":{"type":"Point","coordinates":[15.455110792485348,47.069759749200884],"bbox":[15.455110792485348,47.069759749200884,15.455110792485348,47.069759749200884]}},{"type":"Feature","properties":{"nummer":5015,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12271},"geometry":{"type":"Point","coordinates":[15.455041731922536,47.069873501393126],"bbox":[15.455041731922536,47.069873501393126,15.455041731922536,47.069873501393126]}},{"type":"Feature","properties":{"nummer":26623,"baumbezeichnung_botanisch":"Liquidambar styraciflua","baumbezeichnung_deutsch":"Amberbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":12272},"geometry":{"type":"Point","coordinates":[15.455573368638253,47.06918313718085],"bbox":[15.455573368638253,47.06918313718085,15.455573368638253,47.06918313718085]}},{"type":"Feature","properties":{"nummer":4990,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12077},"geometry":{"type":"Point","coordinates":[15.455761455204408,47.06912551522787],"bbox":[15.455761455204408,47.06912551522787,15.455761455204408,47.06912551522787]}},{"type":"Feature","properties":{"nummer":4989,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12219},"geometry":{"type":"Point","coordinates":[15.45579880221255,47.069152068002346],"bbox":[15.45579880221255,47.069152068002346,15.45579880221255,47.069152068002346]}},{"type":"Feature","properties":{"nummer":21786,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":7347},"geometry":{"type":"Point","coordinates":[15.455883564190998,47.06920938864574],"bbox":[15.455883564190998,47.06920938864574,15.455883564190998,47.06920938864574]}},{"type":"Feature","properties":{"nummer":4999,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23518},"geometry":{"type":"Point","coordinates":[15.45579050923947,47.06934386954581],"bbox":[15.45579050923947,47.06934386954581,15.45579050923947,47.06934386954581]}},{"type":"Feature","properties":{"nummer":21807,"baumbezeichnung_botanisch":"Pterocarya fraxinifolia","baumbezeichnung_deutsch":"Flügelnuß","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19996},"geometry":{"type":"Point","coordinates":[15.455415106020165,47.06909181899878],"bbox":[15.455415106020165,47.06909181899878,15.455415106020165,47.06909181899878]}},{"type":"Feature","properties":{"nummer":4985,"baumbezeichnung_botanisch":"Malus floribunda","baumbezeichnung_deutsch":"Zierapfel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21266},"geometry":{"type":"Point","coordinates":[15.456065933988818,47.06934346790961],"bbox":[15.456065933988818,47.06934346790961,15.456065933988818,47.06934346790961]}},{"type":"Feature","properties":{"nummer":4986,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28938},"geometry":{"type":"Point","coordinates":[15.456004935569071,47.06929010798093],"bbox":[15.456004935569071,47.06929010798093,15.456004935569071,47.06929010798093]}},{"type":"Feature","properties":{"nummer":5018,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":"Kronenbereich zu 90 % bis in den Teilstammbereich abgestorben, Ersatzpflanzung auf Grund des dichten Bestandes in diesen Parkteil drzt nicht geplant","pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26150},"geometry":{"type":"Point","coordinates":[15.455130954747636,47.069678139841564],"bbox":[15.455130954747636,47.069678139841564,15.455130954747636,47.069678139841564]}},{"type":"Feature","properties":{"nummer":5021,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26078},"geometry":{"type":"Point","coordinates":[15.456141920232648,47.069374095447685],"bbox":[15.456141920232648,47.069374095447685,15.456141920232648,47.069374095447685]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4991,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455681053563909,
+          47.069075244188625
+        ],
+        "bbox": [
+          15.455681053563909,
+          47.069075244188625,
+          15.455681053563909,
+          47.069075244188625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27985,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5694,
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457729561832123,
+          47.068554598380395
+        ],
+        "bbox": [
+          15.457729561832123,
+          47.068554598380395,
+          15.457729561832123,
+          47.068554598380395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5016,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10410
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455082882138798,
+          47.069807978431335
+        ],
+        "bbox": [
+          15.455082882138798,
+          47.069807978431335,
+          15.455082882138798,
+          47.069807978431335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22606,
+        "baumbezeichnung_botanisch": "Gymnocladus dioicus",
+        "baumbezeichnung_deutsch": "Geweihbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455292870564634,
+          47.06964577972352
+        ],
+        "bbox": [
+          15.455292870564634,
+          47.06964577972352,
+          15.455292870564634,
+          47.06964577972352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5017,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455110792485348,
+          47.069759749200884
+        ],
+        "bbox": [
+          15.455110792485348,
+          47.069759749200884,
+          15.455110792485348,
+          47.069759749200884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5015,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455041731922536,
+          47.069873501393126
+        ],
+        "bbox": [
+          15.455041731922536,
+          47.069873501393126,
+          15.455041731922536,
+          47.069873501393126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26623,
+        "baumbezeichnung_botanisch": "Liquidambar styraciflua",
+        "baumbezeichnung_deutsch": "Amberbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455573368638253,
+          47.06918313718085
+        ],
+        "bbox": [
+          15.455573368638253,
+          47.06918313718085,
+          15.455573368638253,
+          47.06918313718085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4990,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455761455204408,
+          47.06912551522787
+        ],
+        "bbox": [
+          15.455761455204408,
+          47.06912551522787,
+          15.455761455204408,
+          47.06912551522787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4989,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45579880221255,
+          47.069152068002346
+        ],
+        "bbox": [
+          15.45579880221255,
+          47.069152068002346,
+          15.45579880221255,
+          47.069152068002346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21786,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455883564190998,
+          47.06920938864574
+        ],
+        "bbox": [
+          15.455883564190998,
+          47.06920938864574,
+          15.455883564190998,
+          47.06920938864574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4999,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45579050923947,
+          47.06934386954581
+        ],
+        "bbox": [
+          15.45579050923947,
+          47.06934386954581,
+          15.45579050923947,
+          47.06934386954581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21807,
+        "baumbezeichnung_botanisch": "Pterocarya fraxinifolia",
+        "baumbezeichnung_deutsch": "Flügelnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455415106020165,
+          47.06909181899878
+        ],
+        "bbox": [
+          15.455415106020165,
+          47.06909181899878,
+          15.455415106020165,
+          47.06909181899878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4985,
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456065933988818,
+          47.06934346790961
+        ],
+        "bbox": [
+          15.456065933988818,
+          47.06934346790961,
+          15.456065933988818,
+          47.06934346790961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4986,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456004935569071,
+          47.06929010798093
+        ],
+        "bbox": [
+          15.456004935569071,
+          47.06929010798093,
+          15.456004935569071,
+          47.06929010798093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5018,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": "Kronenbereich zu 90 % bis in den Teilstammbereich abgestorben, Ersatzpflanzung auf Grund des dichten Bestandes in diesen Parkteil drzt nicht geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455130954747636,
+          47.069678139841564
+        ],
+        "bbox": [
+          15.455130954747636,
+          47.069678139841564,
+          15.455130954747636,
+          47.069678139841564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5021,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456141920232648,
+          47.069374095447685
+        ],
+        "bbox": [
+          15.456141920232648,
+          47.069374095447685,
+          15.456141920232648,
+          47.069374095447685
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,29 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-127","objectid":"Naturdenkmal-101","baumbezeichnung_deutsch":"Eibe","baumbezeichnung_botanisch":"Taxus baccata"},"geometry":{"type":"Point","coordinates":[15.473431885135753,47.09135440063166],"bbox":[15.473431885135753,47.09135440063166,15.473431885135753,47.09135440063166]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-127",
+        "objectid": "Naturdenkmal-101",
+        "baumbezeichnung_deutsch": "Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.473431885135753,
+          47.09135440063166
+        ],
+        "bbox": [
+          15.473431885135753,
+          47.09135440063166,
+          15.473431885135753,
+          47.09135440063166
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23650,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":2449},"geometry":{"type":"Point","coordinates":[15.410990183381944,47.079629941524104],"bbox":[15.410990183381944,47.079629941524104,15.410990183381944,47.079629941524104]}},{"type":"Feature","properties":{"nummer":23649,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":16221},"geometry":{"type":"Point","coordinates":[15.411008186558503,47.07958498291528],"bbox":[15.411008186558503,47.07958498291528,15.411008186558503,47.07958498291528]}},{"type":"Feature","properties":{"nummer":23648,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":14434},"geometry":{"type":"Point","coordinates":[15.411037704369262,47.07953815729149],"bbox":[15.411037704369262,47.07953815729149,15.411037704369262,47.07953815729149]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23650,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.410990183381944,
+          47.079629941524104
+        ],
+        "bbox": [
+          15.410990183381944,
+          47.079629941524104,
+          15.410990183381944,
+          47.079629941524104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23649,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411008186558503,
+          47.07958498291528
+        ],
+        "bbox": [
+          15.411008186558503,
+          47.07958498291528,
+          15.411008186558503,
+          47.07958498291528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23648,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411037704369262,
+          47.07953815729149
+        ],
+        "bbox": [
+          15.411037704369262,
+          47.07953815729149,
+          15.411037704369262,
+          47.07953815729149
+        ]
+      }
+    }
+  ]
+}

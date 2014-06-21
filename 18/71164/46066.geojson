@@ -1,1 +1,145 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29860,"baumbezeichnung_botanisch":"Robinia pseudoacacia 'Frisia'","baumbezeichnung_deutsch":"Gelblaubige Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10061},"geometry":{"type":"Point","coordinates":[15.459084156392901,47.065951898949116],"bbox":[15.459084156392901,47.065951898949116,15.459084156392901,47.065951898949116]}},{"type":"Feature","properties":{"nummer":29861,"baumbezeichnung_botanisch":"Robinia pseudoacacia 'Frisia'","baumbezeichnung_deutsch":"Gelblaubige Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10062},"geometry":{"type":"Point","coordinates":[15.459433573926828,47.065988447359345],"bbox":[15.459433573926828,47.065988447359345,15.459433573926828,47.065988447359345]}},{"type":"Feature","properties":{"nummer":29862,"baumbezeichnung_botanisch":"Robinia pseudoacacia 'Frisia'","baumbezeichnung_deutsch":"Gelblaubige Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10063},"geometry":{"type":"Point","coordinates":[15.459786064311043,47.06602091285652],"bbox":[15.459786064311043,47.06602091285652,15.459786064311043,47.06602091285652]}},{"type":"Feature","properties":{"nummer":29786,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8069},"geometry":{"type":"Point","coordinates":[15.45955428864626,47.06632509179855],"bbox":[15.45955428864626,47.06632509179855,15.45955428864626,47.06632509179855]}},{"type":"Feature","properties":{"nummer":12411,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16978},"geometry":{"type":"Point","coordinates":[15.458108439339943,47.06595027599845],"bbox":[15.458108439339943,47.06595027599845,15.458108439339943,47.06595027599845]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29860,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Frisia'",
+        "baumbezeichnung_deutsch": "Gelblaubige Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459084156392901,
+          47.065951898949116
+        ],
+        "bbox": [
+          15.459084156392901,
+          47.065951898949116,
+          15.459084156392901,
+          47.065951898949116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29861,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Frisia'",
+        "baumbezeichnung_deutsch": "Gelblaubige Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10062
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459433573926828,
+          47.065988447359345
+        ],
+        "bbox": [
+          15.459433573926828,
+          47.065988447359345,
+          15.459433573926828,
+          47.065988447359345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29862,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Frisia'",
+        "baumbezeichnung_deutsch": "Gelblaubige Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459786064311043,
+          47.06602091285652
+        ],
+        "bbox": [
+          15.459786064311043,
+          47.06602091285652,
+          15.459786064311043,
+          47.06602091285652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29786,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45955428864626,
+          47.06632509179855
+        ],
+        "bbox": [
+          15.45955428864626,
+          47.06632509179855,
+          15.45955428864626,
+          47.06632509179855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12411,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458108439339943,
+          47.06595027599845
+        ],
+        "bbox": [
+          15.458108439339943,
+          47.06595027599845,
+          15.458108439339943,
+          47.06595027599845
+        ]
+      }
+    }
+  ]
+}

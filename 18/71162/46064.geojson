@@ -1,1 +1,313 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":5009,"baumbezeichnung_botanisch":"Abies concolor","baumbezeichnung_deutsch":"Coloradotanne","baumtyp":"Nadel","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":996},"geometry":{"type":"Point","coordinates":[15.454735491663156,47.06967621845925],"bbox":[15.454735491663156,47.06967621845925,15.454735491663156,47.06967621845925]}},{"type":"Feature","properties":{"nummer":5002,"baumbezeichnung_botanisch":"Aesculus x carnea","baumbezeichnung_deutsch":"Rotblühende Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3110},"geometry":{"type":"Point","coordinates":[15.454823211696322,47.06947423418164],"bbox":[15.454823211696322,47.06947423418164,15.454823211696322,47.06947423418164]}},{"type":"Feature","properties":{"nummer":21787,"baumbezeichnung_botanisch":"Catalpa bignonioides 'Aurea'","baumbezeichnung_deutsch":"Gelblaubiger Trompetenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":12269},"geometry":{"type":"Point","coordinates":[15.45494606485752,47.0694410378162],"bbox":[15.45494606485752,47.0694410378162,15.45494606485752,47.0694410378162]}},{"type":"Feature","properties":{"nummer":5006,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11601},"geometry":{"type":"Point","coordinates":[15.454872198587404,47.069689144086865],"bbox":[15.454872198587404,47.069689144086865,15.454872198587404,47.069689144086865]}},{"type":"Feature","properties":{"nummer":29481,"baumbezeichnung_botanisch":"Abies concolor","baumbezeichnung_deutsch":"Coloradotanne","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2009","entnahmejahr":null,"baumpatenschaft":null,"objectid":8151},"geometry":{"type":"Point","coordinates":[15.454994039103127,47.069783707044415],"bbox":[15.454994039103127,47.069783707044415,15.454994039103127,47.069783707044415]}},{"type":"Feature","properties":{"nummer":10096,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14489},"geometry":{"type":"Point","coordinates":[15.452394438135805,47.068260900147045],"bbox":[15.452394438135805,47.068260900147045,15.452394438135805,47.068260900147045]}},{"type":"Feature","properties":{"nummer":10092,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13769},"geometry":{"type":"Point","coordinates":[15.45233217259224,47.06828376638194],"bbox":[15.45233217259224,47.06828376638194,15.45233217259224,47.06828376638194]}},{"type":"Feature","properties":{"nummer":5007,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12423},"geometry":{"type":"Point","coordinates":[15.454830308141018,47.06966715253836],"bbox":[15.454830308141018,47.06966715253836,15.454830308141018,47.06966715253836]}},{"type":"Feature","properties":{"nummer":5012,"baumbezeichnung_botanisch":"Ulmus sp.","baumbezeichnung_deutsch":"Ulme","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12633},"geometry":{"type":"Point","coordinates":[15.454632516830538,47.06962163520571],"bbox":[15.454632516830538,47.06962163520571,15.454632516830538,47.06962163520571]}},{"type":"Feature","properties":{"nummer":5008,"baumbezeichnung_botanisch":"Malus 'Kulturapfel'","baumbezeichnung_deutsch":"Apfelbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21100},"geometry":{"type":"Point","coordinates":[15.454789341873052,47.06964356786043],"bbox":[15.454789341873052,47.06964356786043,15.454789341873052,47.06964356786043]}},{"type":"Feature","properties":{"nummer":5010,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12268},"geometry":{"type":"Point","coordinates":[15.45473930153611,47.069506148815556],"bbox":[15.45473930153611,47.069506148815556,15.45473930153611,47.069506148815556]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5009,
+        "baumbezeichnung_botanisch": "Abies concolor",
+        "baumbezeichnung_deutsch": "Coloradotanne",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454735491663156,
+          47.06967621845925
+        ],
+        "bbox": [
+          15.454735491663156,
+          47.06967621845925,
+          15.454735491663156,
+          47.06967621845925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5002,
+        "baumbezeichnung_botanisch": "Aesculus x carnea",
+        "baumbezeichnung_deutsch": "Rotblühende Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454823211696322,
+          47.06947423418164
+        ],
+        "bbox": [
+          15.454823211696322,
+          47.06947423418164,
+          15.454823211696322,
+          47.06947423418164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21787,
+        "baumbezeichnung_botanisch": "Catalpa bignonioides 'Aurea'",
+        "baumbezeichnung_deutsch": "Gelblaubiger Trompetenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45494606485752,
+          47.0694410378162
+        ],
+        "bbox": [
+          15.45494606485752,
+          47.0694410378162,
+          15.45494606485752,
+          47.0694410378162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5006,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454872198587404,
+          47.069689144086865
+        ],
+        "bbox": [
+          15.454872198587404,
+          47.069689144086865,
+          15.454872198587404,
+          47.069689144086865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29481,
+        "baumbezeichnung_botanisch": "Abies concolor",
+        "baumbezeichnung_deutsch": "Coloradotanne",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454994039103127,
+          47.069783707044415
+        ],
+        "bbox": [
+          15.454994039103127,
+          47.069783707044415,
+          15.454994039103127,
+          47.069783707044415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10096,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.452394438135805,
+          47.068260900147045
+        ],
+        "bbox": [
+          15.452394438135805,
+          47.068260900147045,
+          15.452394438135805,
+          47.068260900147045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10092,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45233217259224,
+          47.06828376638194
+        ],
+        "bbox": [
+          15.45233217259224,
+          47.06828376638194,
+          15.45233217259224,
+          47.06828376638194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5007,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454830308141018,
+          47.06966715253836
+        ],
+        "bbox": [
+          15.454830308141018,
+          47.06966715253836,
+          15.454830308141018,
+          47.06966715253836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5012,
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12633
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454632516830538,
+          47.06962163520571
+        ],
+        "bbox": [
+          15.454632516830538,
+          47.06962163520571,
+          15.454632516830538,
+          47.06962163520571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5008,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454789341873052,
+          47.06964356786043
+        ],
+        "bbox": [
+          15.454789341873052,
+          47.06964356786043,
+          15.454789341873052,
+          47.06964356786043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5010,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45473930153611,
+          47.069506148815556
+        ],
+        "bbox": [
+          15.45473930153611,
+          47.069506148815556,
+          15.45473930153611,
+          47.069506148815556
+        ]
+      }
+    }
+  ]
+}

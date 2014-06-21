@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18677,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6742},"geometry":{"type":"Point","coordinates":[15.425731048695896,47.10155874401853],"bbox":[15.425731048695896,47.10155874401853,15.425731048695896,47.10155874401853]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18677,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.425731048695896,
+          47.10155874401853
+        ],
+        "bbox": [
+          15.425731048695896,
+          47.10155874401853,
+          15.425731048695896,
+          47.10155874401853
+        ]
+      }
+    }
+  ]
+}

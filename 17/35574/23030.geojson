@@ -1,1 +1,1657 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":13046,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1987","entnahmejahr":null,"baumpatenschaft":null,"objectid":39},"geometry":{"type":"Point","coordinates":[15.418604389545152,47.0744919538395],"bbox":[15.418604389545152,47.0744919538395,15.418604389545152,47.0744919538395]}},{"type":"Feature","properties":{"nummer":13059,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":41},"geometry":{"type":"Point","coordinates":[15.418447454415439,47.076006638635484],"bbox":[15.418447454415439,47.076006638635484,15.418447454415439,47.076006638635484]}},{"type":"Feature","properties":{"nummer":15024,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":"Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse","objectid":43},"geometry":{"type":"Point","coordinates":[15.419014840412913,47.0773796064329],"bbox":[15.419014840412913,47.0773796064329,15.419014840412913,47.0773796064329]}},{"type":"Feature","properties":{"nummer":12109,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":425},"geometry":{"type":"Point","coordinates":[15.417682942759612,47.07485648736128],"bbox":[15.417682942759612,47.07485648736128,15.417682942759612,47.07485648736128]}},{"type":"Feature","properties":{"nummer":23011,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2000","entnahmejahr":null,"baumpatenschaft":null,"objectid":472},"geometry":{"type":"Point","coordinates":[15.418027469527068,47.07462915561378],"bbox":[15.418027469527068,47.07462915561378,15.418027469527068,47.07462915561378]}},{"type":"Feature","properties":{"nummer":27323,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":1061},"geometry":{"type":"Point","coordinates":[15.416839222307965,47.07750266921885],"bbox":[15.416839222307965,47.07750266921885,15.416839222307965,47.07750266921885]}},{"type":"Feature","properties":{"nummer":27322,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":1096},"geometry":{"type":"Point","coordinates":[15.417063022055611,47.07696455440882],"bbox":[15.417063022055611,47.07696455440882,15.417063022055611,47.07696455440882]}},{"type":"Feature","properties":{"nummer":11986,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2759},"geometry":{"type":"Point","coordinates":[15.417764082530322,47.075301304787885],"bbox":[15.417764082530322,47.075301304787885,15.417764082530322,47.075301304787885]}},{"type":"Feature","properties":{"nummer":13054,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4695},"geometry":{"type":"Point","coordinates":[15.419020788634354,47.076116042346776],"bbox":[15.419020788634354,47.076116042346776,15.419020788634354,47.076116042346776]}},{"type":"Feature","properties":{"nummer":11993,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5398},"geometry":{"type":"Point","coordinates":[15.41703678258447,47.077027484827795],"bbox":[15.41703678258447,47.077027484827795,15.41703678258447,47.077027484827795]}},{"type":"Feature","properties":{"nummer":11392,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5220},"geometry":{"type":"Point","coordinates":[15.41727377180428,47.073884020025524],"bbox":[15.41727377180428,47.073884020025524,15.41727377180428,47.073884020025524]}},{"type":"Feature","properties":{"nummer":11985,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5228},"geometry":{"type":"Point","coordinates":[15.41780921769118,47.075193286712484],"bbox":[15.41780921769118,47.075193286712484,15.41780921769118,47.075193286712484]}},{"type":"Feature","properties":{"nummer":12108,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5229},"geometry":{"type":"Point","coordinates":[15.417646145020358,47.07495207988363],"bbox":[15.417646145020358,47.07495207988363,15.417646145020358,47.07495207988363]}},{"type":"Feature","properties":{"nummer":31722,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":5231},"geometry":{"type":"Point","coordinates":[15.416936783811082,47.077275936050924],"bbox":[15.416936783811082,47.077275936050924,15.416936783811082,47.077275936050924]}},{"type":"Feature","properties":{"nummer":15023,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":"Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse","objectid":5241},"geometry":{"type":"Point","coordinates":[15.419060136429561,47.077253732148236],"bbox":[15.419060136429561,47.077253732148236,15.419060136429561,47.077253732148236]}},{"type":"Feature","properties":{"nummer":15022,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":"1a, 1b und 2a des Schuljahres 1985/86 des Akademischen Gymnasiums","objectid":5612},"geometry":{"type":"Point","coordinates":[15.419116835283747,47.07708026620392],"bbox":[15.419116835283747,47.07708026620392,15.419116835283747,47.07708026620392]}},{"type":"Feature","properties":{"nummer":15041,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":5613},"geometry":{"type":"Point","coordinates":[15.41921880812174,47.07710141160867],"bbox":[15.41921880812174,47.07710141160867,15.41921880812174,47.07710141160867]}},{"type":"Feature","properties":{"nummer":13057,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5615},"geometry":{"type":"Point","coordinates":[15.418675018192605,47.07604963249715],"bbox":[15.418675018192605,47.07604963249715,15.418675018192605,47.07604963249715]}},{"type":"Feature","properties":{"nummer":12111,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11886},"geometry":{"type":"Point","coordinates":[15.417713810008213,47.07476120706755],"bbox":[15.417713810008213,47.07476120706755,15.417713810008213,47.07476120706755]}},{"type":"Feature","properties":{"nummer":11995,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11747},"geometry":{"type":"Point","coordinates":[15.41699734905769,47.07712305595483],"bbox":[15.41699734905769,47.07712305595483,15.41699734905769,47.07712305595483]}},{"type":"Feature","properties":{"nummer":15040,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":8568},"geometry":{"type":"Point","coordinates":[15.419254618107232,47.076979661994756],"bbox":[15.419254618107232,47.076979661994756,15.419254618107232,47.076979661994756]}},{"type":"Feature","properties":{"nummer":15043,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":15953},"geometry":{"type":"Point","coordinates":[15.41911977521571,47.0773831722632],"bbox":[15.41911977521571,47.0773831722632,15.41911977521571,47.0773831722632]}},{"type":"Feature","properties":{"nummer":13063,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":"weitreichender Stammschaden nordseitig, Stammverletzung südostseitig durch Baustelle, Kronenbereich durch Bebauung bereits stark eingekürzt, Ersatzpflanzung geplant","pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":17527},"geometry":{"type":"Point","coordinates":[15.41796476319768,47.0759116709427],"bbox":[15.41796476319768,47.0759116709427,15.41796476319768,47.0759116709427]}},{"type":"Feature","properties":{"nummer":23479,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17661},"geometry":{"type":"Point","coordinates":[15.417982529563377,47.074730540571615],"bbox":[15.417982529563377,47.074730540571615,15.417982529563377,47.074730540571615]}},{"type":"Feature","properties":{"nummer":11991,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18599},"geometry":{"type":"Point","coordinates":[15.4170962199815,47.07688655908654],"bbox":[15.4170962199815,47.07688655908654,15.4170962199815,47.07688655908654]}},{"type":"Feature","properties":{"nummer":11987,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18626},"geometry":{"type":"Point","coordinates":[15.41772836430482,47.07538540306742],"bbox":[15.41772836430482,47.07538540306742,15.41772836430482,47.07538540306742]}},{"type":"Feature","properties":{"nummer":13053,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":"massive Holzzersetzung durch Pilzbefall (Zottiger Schillerporling) im Kronenansatzbereich, Bruchgefahr, Ersatzpflanzung geplant","pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17835},"geometry":{"type":"Point","coordinates":[15.41913940850464,47.07613838256376],"bbox":[15.41913940850464,47.07613838256376,15.41913940850464,47.07613838256376]}},{"type":"Feature","properties":{"nummer":12112,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16371},"geometry":{"type":"Point","coordinates":[15.417755586937464,47.07466700371496],"bbox":[15.417755586937464,47.07466700371496,15.417755586937464,47.07466700371496]}},{"type":"Feature","properties":{"nummer":15025,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":"Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse","objectid":18002},"geometry":{"type":"Point","coordinates":[15.418975682535976,47.07749997089398],"bbox":[15.418975682535976,47.07749997089398,15.418975682535976,47.07749997089398]}},{"type":"Feature","properties":{"nummer":11984,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13601},"geometry":{"type":"Point","coordinates":[15.417959806734624,47.07480464703285],"bbox":[15.417959806734624,47.07480464703285,15.417959806734624,47.07480464703285]}},{"type":"Feature","properties":{"nummer":15021,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":"Anna Krankenedl","objectid":14715},"geometry":{"type":"Point","coordinates":[15.419166061165061,47.076927150239676],"bbox":[15.419166061165061,47.076927150239676,15.419166061165061,47.076927150239676]}},{"type":"Feature","properties":{"nummer":11996,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14716},"geometry":{"type":"Point","coordinates":[15.416971631493272,47.07718671465063],"bbox":[15.416971631493272,47.07718671465063,15.416971631493272,47.07718671465063]}},{"type":"Feature","properties":{"nummer":15044,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":12417},"geometry":{"type":"Point","coordinates":[15.419077377383331,47.077509735413415],"bbox":[15.419077377383331,47.077509735413415,15.419077377383331,47.077509735413415]}},{"type":"Feature","properties":{"nummer":26604,"baumbezeichnung_botanisch":"Populus nigra 'Italica'","baumbezeichnung_deutsch":"Säulenpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":24907},"geometry":{"type":"Point","coordinates":[15.418342855875004,47.07389804412747],"bbox":[15.418342855875004,47.07389804412747,15.418342855875004,47.07389804412747]}},{"type":"Feature","properties":{"nummer":13058,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23397},"geometry":{"type":"Point","coordinates":[15.418557377955775,47.07602547364494],"bbox":[15.418557377955775,47.07602547364494,15.418557377955775,47.07602547364494]}},{"type":"Feature","properties":{"nummer":11994,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24984},"geometry":{"type":"Point","coordinates":[15.417015141569102,47.07708380028103],"bbox":[15.417015141569102,47.07708380028103,15.417015141569102,47.07708380028103]}},{"type":"Feature","properties":{"nummer":13056,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22615},"geometry":{"type":"Point","coordinates":[15.418787006384742,47.07607169507289],"bbox":[15.418787006384742,47.07607169507289,15.418787006384742,47.07607169507289]}},{"type":"Feature","properties":{"nummer":27330,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":23416},"geometry":{"type":"Point","coordinates":[15.417973560120785,47.07477087549978],"bbox":[15.417973560120785,47.07477087549978,15.417973560120785,47.07477087549978]}},{"type":"Feature","properties":{"nummer":13042,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1987","entnahmejahr":null,"baumpatenschaft":null,"objectid":24427},"geometry":{"type":"Point","coordinates":[15.418620987698683,47.074404033890374],"bbox":[15.418620987698683,47.074404033890374,15.418620987698683,47.074404033890374]}},{"type":"Feature","properties":{"nummer":15042,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":19037},"geometry":{"type":"Point","coordinates":[15.419176149740085,47.07723474601426],"bbox":[15.419176149740085,47.07723474601426,15.419176149740085,47.07723474601426]}},{"type":"Feature","properties":{"nummer":27560,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":19813},"geometry":{"type":"Point","coordinates":[15.418180726452174,47.07441310780186],"bbox":[15.418180726452174,47.07441310780186,15.418180726452174,47.07441310780186]}},{"type":"Feature","properties":{"nummer":11982,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19814},"geometry":{"type":"Point","coordinates":[15.417994961905837,47.074704993448556],"bbox":[15.417994961905837,47.074704993448556,15.417994961905837,47.074704993448556]}},{"type":"Feature","properties":{"nummer":13045,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1987","entnahmejahr":null,"baumpatenschaft":null,"objectid":19816},"geometry":{"type":"Point","coordinates":[15.419028253778917,47.07457449689985],"bbox":[15.419028253778917,47.07457449689985,15.419028253778917,47.07457449689985]}},{"type":"Feature","properties":{"nummer":12113,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19473},"geometry":{"type":"Point","coordinates":[15.417794343245273,47.074564680542046],"bbox":[15.417794343245273,47.074564680542046,15.417794343245273,47.074564680542046]}},{"type":"Feature","properties":{"nummer":12106,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21057},"geometry":{"type":"Point","coordinates":[15.41756676456433,47.07515041455758],"bbox":[15.41756676456433,47.07515041455758,15.41756676456433,47.07515041455758]}},{"type":"Feature","properties":{"nummer":13060,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20391},"geometry":{"type":"Point","coordinates":[15.418324281822045,47.07598032136437],"bbox":[15.418324281822045,47.07598032136437,15.418324281822045,47.07598032136437]}},{"type":"Feature","properties":{"nummer":12105,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21177},"geometry":{"type":"Point","coordinates":[15.417527054660402,47.07524688318715],"bbox":[15.417527054660402,47.07524688318715,15.417527054660402,47.07524688318715]}},{"type":"Feature","properties":{"nummer":23012,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2000","entnahmejahr":null,"baumpatenschaft":null,"objectid":20559},"geometry":{"type":"Point","coordinates":[15.417693406278788,47.075481190252404],"bbox":[15.417693406278788,47.075481190252404,15.417693406278788,47.075481190252404]}},{"type":"Feature","properties":{"nummer":31444,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28274},"geometry":{"type":"Point","coordinates":[15.417657789873365,47.07557697214481],"bbox":[15.417657789873365,47.07557697214481,15.417657789873365,47.07557697214481]}},{"type":"Feature","properties":{"nummer":12107,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26118},"geometry":{"type":"Point","coordinates":[15.417606748440104,47.07505331845401],"bbox":[15.417606748440104,47.07505331845401,15.417606748440104,47.07505331845401]}},{"type":"Feature","properties":{"nummer":30877,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27509},"geometry":{"type":"Point","coordinates":[15.41820645796901,47.07595767185412],"bbox":[15.41820645796901,47.07595767185412,15.41820645796901,47.07595767185412]}},{"type":"Feature","properties":{"nummer":30878,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27510},"geometry":{"type":"Point","coordinates":[15.417869168769567,47.07589219827324],"bbox":[15.417869168769567,47.07589219827324,15.417869168769567,47.07589219827324]}},{"type":"Feature","properties":{"nummer":30553,"baumbezeichnung_botanisch":"Populus nigra 'Italica'","baumbezeichnung_deutsch":"Säulenpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":27517},"geometry":{"type":"Point","coordinates":[15.41821966180027,47.07417379968788],"bbox":[15.41821966180027,47.07417379968788,15.41821966180027,47.07417379968788]}},{"type":"Feature","properties":{"nummer":30552,"baumbezeichnung_botanisch":"Populus nigra 'Italica'","baumbezeichnung_deutsch":"Säulenpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":27518},"geometry":{"type":"Point","coordinates":[15.418288096953853,47.07401993848623],"bbox":[15.418288096953853,47.07401993848623,15.418288096953853,47.07401993848623]}},{"type":"Feature","properties":{"nummer":30551,"baumbezeichnung_botanisch":"Populus nigra 'Italica'","baumbezeichnung_deutsch":"Säulenpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":27519},"geometry":{"type":"Point","coordinates":[15.418317093267941,47.07395684544717],"bbox":[15.418317093267941,47.07395684544717,15.418317093267941,47.07395684544717]}},{"type":"Feature","properties":{"nummer":19781,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1995","entnahmejahr":null,"baumpatenschaft":null,"objectid":25607},"geometry":{"type":"Point","coordinates":[15.418067794583196,47.07453512040775],"bbox":[15.418067794583196,47.07453512040775,15.418067794583196,47.07453512040775]}},{"type":"Feature","properties":{"nummer":12110,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25699},"geometry":{"type":"Point","coordinates":[15.417708622486566,47.074787251223604],"bbox":[15.417708622486566,47.074787251223604,15.417708622486566,47.074787251223604]}},{"type":"Feature","properties":{"nummer":26603,"baumbezeichnung_botanisch":"Populus nigra 'Italica'","baumbezeichnung_deutsch":"Säulenpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":27276},"geometry":{"type":"Point","coordinates":[15.41830673156488,47.07398949193808],"bbox":[15.41830673156488,47.07398949193808,15.41830673156488,47.07398949193808]}},{"type":"Feature","properties":{"nummer":30377,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27462},"geometry":{"type":"Point","coordinates":[15.419070014781228,47.074490286484426],"bbox":[15.419070014781228,47.074490286484426,15.419070014781228,47.074490286484426]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13046,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1987",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418604389545152,
+          47.0744919538395
+        ],
+        "bbox": [
+          15.418604389545152,
+          47.0744919538395,
+          15.418604389545152,
+          47.0744919538395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13059,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418447454415439,
+          47.076006638635484
+        ],
+        "bbox": [
+          15.418447454415439,
+          47.076006638635484,
+          15.418447454415439,
+          47.076006638635484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15024,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "objectid": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419014840412913,
+          47.0773796064329
+        ],
+        "bbox": [
+          15.419014840412913,
+          47.0773796064329,
+          15.419014840412913,
+          47.0773796064329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12109,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417682942759612,
+          47.07485648736128
+        ],
+        "bbox": [
+          15.417682942759612,
+          47.07485648736128,
+          15.417682942759612,
+          47.07485648736128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23011,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418027469527068,
+          47.07462915561378
+        ],
+        "bbox": [
+          15.418027469527068,
+          47.07462915561378,
+          15.418027469527068,
+          47.07462915561378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27323,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416839222307965,
+          47.07750266921885
+        ],
+        "bbox": [
+          15.416839222307965,
+          47.07750266921885,
+          15.416839222307965,
+          47.07750266921885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27322,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417063022055611,
+          47.07696455440882
+        ],
+        "bbox": [
+          15.417063022055611,
+          47.07696455440882,
+          15.417063022055611,
+          47.07696455440882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11986,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417764082530322,
+          47.075301304787885
+        ],
+        "bbox": [
+          15.417764082530322,
+          47.075301304787885,
+          15.417764082530322,
+          47.075301304787885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13054,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419020788634354,
+          47.076116042346776
+        ],
+        "bbox": [
+          15.419020788634354,
+          47.076116042346776,
+          15.419020788634354,
+          47.076116042346776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11993,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41703678258447,
+          47.077027484827795
+        ],
+        "bbox": [
+          15.41703678258447,
+          47.077027484827795,
+          15.41703678258447,
+          47.077027484827795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11392,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5220
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41727377180428,
+          47.073884020025524
+        ],
+        "bbox": [
+          15.41727377180428,
+          47.073884020025524,
+          15.41727377180428,
+          47.073884020025524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11985,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41780921769118,
+          47.075193286712484
+        ],
+        "bbox": [
+          15.41780921769118,
+          47.075193286712484,
+          15.41780921769118,
+          47.075193286712484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12108,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417646145020358,
+          47.07495207988363
+        ],
+        "bbox": [
+          15.417646145020358,
+          47.07495207988363,
+          15.417646145020358,
+          47.07495207988363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31722,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416936783811082,
+          47.077275936050924
+        ],
+        "bbox": [
+          15.416936783811082,
+          47.077275936050924,
+          15.416936783811082,
+          47.077275936050924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15023,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "objectid": 5241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419060136429561,
+          47.077253732148236
+        ],
+        "bbox": [
+          15.419060136429561,
+          47.077253732148236,
+          15.419060136429561,
+          47.077253732148236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15022,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "1a, 1b und 2a des Schuljahres 1985/86 des Akademischen Gymnasiums",
+        "objectid": 5612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419116835283747,
+          47.07708026620392
+        ],
+        "bbox": [
+          15.419116835283747,
+          47.07708026620392,
+          15.419116835283747,
+          47.07708026620392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15041,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41921880812174,
+          47.07710141160867
+        ],
+        "bbox": [
+          15.41921880812174,
+          47.07710141160867,
+          15.41921880812174,
+          47.07710141160867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13057,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418675018192605,
+          47.07604963249715
+        ],
+        "bbox": [
+          15.418675018192605,
+          47.07604963249715,
+          15.418675018192605,
+          47.07604963249715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12111,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417713810008213,
+          47.07476120706755
+        ],
+        "bbox": [
+          15.417713810008213,
+          47.07476120706755,
+          15.417713810008213,
+          47.07476120706755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11995,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41699734905769,
+          47.07712305595483
+        ],
+        "bbox": [
+          15.41699734905769,
+          47.07712305595483,
+          15.41699734905769,
+          47.07712305595483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15040,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419254618107232,
+          47.076979661994756
+        ],
+        "bbox": [
+          15.419254618107232,
+          47.076979661994756,
+          15.419254618107232,
+          47.076979661994756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15043,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41911977521571,
+          47.0773831722632
+        ],
+        "bbox": [
+          15.41911977521571,
+          47.0773831722632,
+          15.41911977521571,
+          47.0773831722632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13063,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": "weitreichender Stammschaden nordseitig, Stammverletzung südostseitig durch Baustelle, Kronenbereich durch Bebauung bereits stark eingekürzt, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 17527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41796476319768,
+          47.0759116709427
+        ],
+        "bbox": [
+          15.41796476319768,
+          47.0759116709427,
+          15.41796476319768,
+          47.0759116709427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23479,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17661
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417982529563377,
+          47.074730540571615
+        ],
+        "bbox": [
+          15.417982529563377,
+          47.074730540571615,
+          15.417982529563377,
+          47.074730540571615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11991,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4170962199815,
+          47.07688655908654
+        ],
+        "bbox": [
+          15.4170962199815,
+          47.07688655908654,
+          15.4170962199815,
+          47.07688655908654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11987,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41772836430482,
+          47.07538540306742
+        ],
+        "bbox": [
+          15.41772836430482,
+          47.07538540306742,
+          15.41772836430482,
+          47.07538540306742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13053,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": "massive Holzzersetzung durch Pilzbefall (Zottiger Schillerporling) im Kronenansatzbereich, Bruchgefahr, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41913940850464,
+          47.07613838256376
+        ],
+        "bbox": [
+          15.41913940850464,
+          47.07613838256376,
+          15.41913940850464,
+          47.07613838256376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12112,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417755586937464,
+          47.07466700371496
+        ],
+        "bbox": [
+          15.417755586937464,
+          47.07466700371496,
+          15.417755586937464,
+          47.07466700371496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15025,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "objectid": 18002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418975682535976,
+          47.07749997089398
+        ],
+        "bbox": [
+          15.418975682535976,
+          47.07749997089398,
+          15.418975682535976,
+          47.07749997089398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11984,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417959806734624,
+          47.07480464703285
+        ],
+        "bbox": [
+          15.417959806734624,
+          47.07480464703285,
+          15.417959806734624,
+          47.07480464703285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15021,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Anna Krankenedl",
+        "objectid": 14715
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419166061165061,
+          47.076927150239676
+        ],
+        "bbox": [
+          15.419166061165061,
+          47.076927150239676,
+          15.419166061165061,
+          47.076927150239676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11996,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416971631493272,
+          47.07718671465063
+        ],
+        "bbox": [
+          15.416971631493272,
+          47.07718671465063,
+          15.416971631493272,
+          47.07718671465063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15044,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419077377383331,
+          47.077509735413415
+        ],
+        "bbox": [
+          15.419077377383331,
+          47.077509735413415,
+          15.419077377383331,
+          47.077509735413415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26604,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418342855875004,
+          47.07389804412747
+        ],
+        "bbox": [
+          15.418342855875004,
+          47.07389804412747,
+          15.418342855875004,
+          47.07389804412747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13058,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418557377955775,
+          47.07602547364494
+        ],
+        "bbox": [
+          15.418557377955775,
+          47.07602547364494,
+          15.418557377955775,
+          47.07602547364494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11994,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417015141569102,
+          47.07708380028103
+        ],
+        "bbox": [
+          15.417015141569102,
+          47.07708380028103,
+          15.417015141569102,
+          47.07708380028103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13056,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418787006384742,
+          47.07607169507289
+        ],
+        "bbox": [
+          15.418787006384742,
+          47.07607169507289,
+          15.418787006384742,
+          47.07607169507289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27330,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417973560120785,
+          47.07477087549978
+        ],
+        "bbox": [
+          15.417973560120785,
+          47.07477087549978,
+          15.417973560120785,
+          47.07477087549978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13042,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1987",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418620987698683,
+          47.074404033890374
+        ],
+        "bbox": [
+          15.418620987698683,
+          47.074404033890374,
+          15.418620987698683,
+          47.074404033890374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15042,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419176149740085,
+          47.07723474601426
+        ],
+        "bbox": [
+          15.419176149740085,
+          47.07723474601426,
+          15.419176149740085,
+          47.07723474601426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27560,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418180726452174,
+          47.07441310780186
+        ],
+        "bbox": [
+          15.418180726452174,
+          47.07441310780186,
+          15.418180726452174,
+          47.07441310780186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11982,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417994961905837,
+          47.074704993448556
+        ],
+        "bbox": [
+          15.417994961905837,
+          47.074704993448556,
+          15.417994961905837,
+          47.074704993448556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13045,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1987",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419028253778917,
+          47.07457449689985
+        ],
+        "bbox": [
+          15.419028253778917,
+          47.07457449689985,
+          15.419028253778917,
+          47.07457449689985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12113,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417794343245273,
+          47.074564680542046
+        ],
+        "bbox": [
+          15.417794343245273,
+          47.074564680542046,
+          15.417794343245273,
+          47.074564680542046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12106,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41756676456433,
+          47.07515041455758
+        ],
+        "bbox": [
+          15.41756676456433,
+          47.07515041455758,
+          15.41756676456433,
+          47.07515041455758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13060,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418324281822045,
+          47.07598032136437
+        ],
+        "bbox": [
+          15.418324281822045,
+          47.07598032136437,
+          15.418324281822045,
+          47.07598032136437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12105,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417527054660402,
+          47.07524688318715
+        ],
+        "bbox": [
+          15.417527054660402,
+          47.07524688318715,
+          15.417527054660402,
+          47.07524688318715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23012,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417693406278788,
+          47.075481190252404
+        ],
+        "bbox": [
+          15.417693406278788,
+          47.075481190252404,
+          15.417693406278788,
+          47.075481190252404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31444,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417657789873365,
+          47.07557697214481
+        ],
+        "bbox": [
+          15.417657789873365,
+          47.07557697214481,
+          15.417657789873365,
+          47.07557697214481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12107,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417606748440104,
+          47.07505331845401
+        ],
+        "bbox": [
+          15.417606748440104,
+          47.07505331845401,
+          15.417606748440104,
+          47.07505331845401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30877,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41820645796901,
+          47.07595767185412
+        ],
+        "bbox": [
+          15.41820645796901,
+          47.07595767185412,
+          15.41820645796901,
+          47.07595767185412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30878,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417869168769567,
+          47.07589219827324
+        ],
+        "bbox": [
+          15.417869168769567,
+          47.07589219827324,
+          15.417869168769567,
+          47.07589219827324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30553,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27517
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41821966180027,
+          47.07417379968788
+        ],
+        "bbox": [
+          15.41821966180027,
+          47.07417379968788,
+          15.41821966180027,
+          47.07417379968788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30552,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418288096953853,
+          47.07401993848623
+        ],
+        "bbox": [
+          15.418288096953853,
+          47.07401993848623,
+          15.418288096953853,
+          47.07401993848623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30551,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418317093267941,
+          47.07395684544717
+        ],
+        "bbox": [
+          15.418317093267941,
+          47.07395684544717,
+          15.418317093267941,
+          47.07395684544717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19781,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1995",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418067794583196,
+          47.07453512040775
+        ],
+        "bbox": [
+          15.418067794583196,
+          47.07453512040775,
+          15.418067794583196,
+          47.07453512040775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12110,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417708622486566,
+          47.074787251223604
+        ],
+        "bbox": [
+          15.417708622486566,
+          47.074787251223604,
+          15.417708622486566,
+          47.074787251223604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26603,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41830673156488,
+          47.07398949193808
+        ],
+        "bbox": [
+          15.41830673156488,
+          47.07398949193808,
+          15.41830673156488,
+          47.07398949193808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30377,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419070014781228,
+          47.074490286484426
+        ],
+        "bbox": [
+          15.419070014781228,
+          47.074490286484426,
+          15.419070014781228,
+          47.074490286484426
+        ]
+      }
+    }
+  ]
+}

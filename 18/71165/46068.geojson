@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29027,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":16873},"geometry":{"type":"Point","coordinates":[15.460548326700364,47.06093696837936],"bbox":[15.460548326700364,47.06093696837936,15.460548326700364,47.06093696837936]}},{"type":"Feature","properties":{"nummer":6168,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":22431},"geometry":{"type":"Point","coordinates":[15.461173419801476,47.060812823878756],"bbox":[15.461173419801476,47.060812823878756,15.461173419801476,47.060812823878756]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29027,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16873
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460548326700364,
+          47.06093696837936
+        ],
+        "bbox": [
+          15.460548326700364,
+          47.06093696837936,
+          15.460548326700364,
+          47.06093696837936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6168,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461173419801476,
+          47.060812823878756
+        ],
+        "bbox": [
+          15.461173419801476,
+          47.060812823878756,
+          15.461173419801476,
+          47.060812823878756
+        ]
+      }
+    }
+  ]
+}

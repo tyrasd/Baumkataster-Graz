@@ -1,1 +1,53 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-11","objectid":"Naturdenkmal-62","baumbezeichnung_deutsch":"Weymouthskiefer","baumbezeichnung_botanisch":"Pinus strobus"},"geometry":{"type":"Point","coordinates":[15.39246740333097,47.07226502433681],"bbox":[15.39246740333097,47.07226502433681,15.39246740333097,47.07226502433681]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-12","objectid":"Naturdenkmal-3","baumbezeichnung_deutsch":"Blutbuche","baumbezeichnung_botanisch":"Fagus sylvatica \"Purpurea\""},"geometry":{"type":"Point","coordinates":[15.392347417478058,47.07274716583212],"bbox":[15.392347417478058,47.07274716583212,15.392347417478058,47.07274716583212]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-11",
+        "objectid": "Naturdenkmal-62",
+        "baumbezeichnung_deutsch": "Weymouthskiefer",
+        "baumbezeichnung_botanisch": "Pinus strobus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39246740333097,
+          47.07226502433681
+        ],
+        "bbox": [
+          15.39246740333097,
+          47.07226502433681,
+          15.39246740333097,
+          47.07226502433681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-12",
+        "objectid": "Naturdenkmal-3",
+        "baumbezeichnung_deutsch": "Blutbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica \"Purpurea\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392347417478058,
+          47.07274716583212
+        ],
+        "bbox": [
+          15.392347417478058,
+          47.07274716583212,
+          15.392347417478058,
+          47.07274716583212
+        ]
+      }
+    }
+  ]
+}

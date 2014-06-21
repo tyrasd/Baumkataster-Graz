@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":10908,"baumbezeichnung_botanisch":"Tilia x europaea","baumbezeichnung_deutsch":"Zwischenlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":25096},"geometry":{"type":"Point","coordinates":[15.432105709143018,47.06722229900634],"bbox":[15.432105709143018,47.06722229900634,15.432105709143018,47.06722229900634]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10908,
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432105709143018,
+          47.06722229900634
+        ],
+        "bbox": [
+          15.432105709143018,
+          47.06722229900634,
+          15.432105709143018,
+          47.06722229900634
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23117,"baumbezeichnung_botanisch":"Acer platanoides 'Columnare'","baumbezeichnung_deutsch":"Säulenförmiger Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2001","entnahmejahr":null,"baumpatenschaft":null,"objectid":10201},"geometry":{"type":"Point","coordinates":[15.47145201389152,47.06255639970702],"bbox":[15.47145201389152,47.06255639970702,15.47145201389152,47.06255639970702]}},{"type":"Feature","properties":{"nummer":23118,"baumbezeichnung_botanisch":"Acer platanoides 'Columnare'","baumbezeichnung_deutsch":"Säulenförmiger Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2001","entnahmejahr":null,"baumpatenschaft":null,"objectid":10206},"geometry":{"type":"Point","coordinates":[15.471481266915927,47.06251084363065],"bbox":[15.471481266915927,47.06251084363065,15.471481266915927,47.06251084363065]}},{"type":"Feature","properties":{"nummer":23116,"baumbezeichnung_botanisch":"Acer platanoides 'Columnare'","baumbezeichnung_deutsch":"Säulenförmiger Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2001","entnahmejahr":null,"baumpatenschaft":null,"objectid":26750},"geometry":{"type":"Point","coordinates":[15.471419259569362,47.06259037963016],"bbox":[15.471419259569362,47.06259037963016,15.471419259569362,47.06259037963016]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23117,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Columnare'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2001",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47145201389152,
+          47.06255639970702
+        ],
+        "bbox": [
+          15.47145201389152,
+          47.06255639970702,
+          15.47145201389152,
+          47.06255639970702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23118,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Columnare'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2001",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.471481266915927,
+          47.06251084363065
+        ],
+        "bbox": [
+          15.471481266915927,
+          47.06251084363065,
+          15.471481266915927,
+          47.06251084363065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23116,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Columnare'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2001",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.471419259569362,
+          47.06259037963016
+        ],
+        "bbox": [
+          15.471419259569362,
+          47.06259037963016,
+          15.471419259569362,
+          47.06259037963016
+        ]
+      }
+    }
+  ]
+}

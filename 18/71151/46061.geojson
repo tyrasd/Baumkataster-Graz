@@ -1,1 +1,229 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":27544,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":11802},"geometry":{"type":"Point","coordinates":[15.424564454548149,47.07462925949981],"bbox":[15.424564454548149,47.07462925949981,15.424564454548149,47.07462925949981]}},{"type":"Feature","properties":{"nummer":29233,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9443},"geometry":{"type":"Point","coordinates":[15.422145442588048,47.07542937612586],"bbox":[15.422145442588048,47.07542937612586,15.422145442588048,47.07542937612586]}},{"type":"Feature","properties":{"nummer":17066,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":"Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse","objectid":16343},"geometry":{"type":"Point","coordinates":[15.422145863140635,47.07393107743058],"bbox":[15.422145863140635,47.07393107743058,15.422145863140635,47.07393107743058]}},{"type":"Feature","properties":{"nummer":24773,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":20482},"geometry":{"type":"Point","coordinates":[15.424721348351545,47.07467401752005],"bbox":[15.424721348351545,47.07467401752005,15.424721348351545,47.07467401752005]}},{"type":"Feature","properties":{"nummer":31551,"baumbezeichnung_botanisch":"Tilia tomentosa 'Brabant'","baumbezeichnung_deutsch":"Brabanter Silberlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28465},"geometry":{"type":"Point","coordinates":[15.424200113389153,47.07452399463175],"bbox":[15.424200113389153,47.07452399463175,15.424200113389153,47.07452399463175]}},{"type":"Feature","properties":{"nummer":24772,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":29575},"geometry":{"type":"Point","coordinates":[15.424384195264023,47.07457726308929],"bbox":[15.424384195264023,47.07457726308929,15.424384195264023,47.07457726308929]}},{"type":"Feature","properties":{"nummer":17065,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":"Steirische Raiffeisenbank","objectid":25609},"geometry":{"type":"Point","coordinates":[15.423994481000452,47.07446670433054],"bbox":[15.423994481000452,47.07446670433054,15.423994481000452,47.07446670433054]}},{"type":"Feature","properties":{"nummer":1632,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26654},"geometry":{"type":"Point","coordinates":[15.423550636994639,47.07425071322277],"bbox":[15.423550636994639,47.07425071322277,15.423550636994639,47.07425071322277]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27544,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424564454548149,
+          47.07462925949981
+        ],
+        "bbox": [
+          15.424564454548149,
+          47.07462925949981,
+          15.424564454548149,
+          47.07462925949981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29233,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.422145442588048,
+          47.07542937612586
+        ],
+        "bbox": [
+          15.422145442588048,
+          47.07542937612586,
+          15.422145442588048,
+          47.07542937612586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17066,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "objectid": 16343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.422145863140635,
+          47.07393107743058
+        ],
+        "bbox": [
+          15.422145863140635,
+          47.07393107743058,
+          15.422145863140635,
+          47.07393107743058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24773,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424721348351545,
+          47.07467401752005
+        ],
+        "bbox": [
+          15.424721348351545,
+          47.07467401752005,
+          15.424721348351545,
+          47.07467401752005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31551,
+        "baumbezeichnung_botanisch": "Tilia tomentosa 'Brabant'",
+        "baumbezeichnung_deutsch": "Brabanter Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424200113389153,
+          47.07452399463175
+        ],
+        "bbox": [
+          15.424200113389153,
+          47.07452399463175,
+          15.424200113389153,
+          47.07452399463175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24772,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424384195264023,
+          47.07457726308929
+        ],
+        "bbox": [
+          15.424384195264023,
+          47.07457726308929,
+          15.424384195264023,
+          47.07457726308929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17065,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Steirische Raiffeisenbank",
+        "objectid": 25609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423994481000452,
+          47.07446670433054
+        ],
+        "bbox": [
+          15.423994481000452,
+          47.07446670433054,
+          15.423994481000452,
+          47.07446670433054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1632,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26654
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423550636994639,
+          47.07425071322277
+        ],
+        "bbox": [
+          15.423550636994639,
+          47.07425071322277,
+          15.423550636994639,
+          47.07425071322277
+        ]
+      }
+    }
+  ]
+}

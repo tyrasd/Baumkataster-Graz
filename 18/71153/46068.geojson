@@ -1,1 +1,173 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":27816,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16783},"geometry":{"type":"Point","coordinates":[15.428038980856732,47.06199832434691],"bbox":[15.428038980856732,47.06199832434691,15.428038980856732,47.06199832434691]}},{"type":"Feature","properties":{"nummer":27819,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18523},"geometry":{"type":"Point","coordinates":[15.427891807724288,47.06214952079335],"bbox":[15.427891807724288,47.06214952079335,15.427891807724288,47.06214952079335]}},{"type":"Feature","properties":{"nummer":27820,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18525},"geometry":{"type":"Point","coordinates":[15.427894679087336,47.06219739213917],"bbox":[15.427894679087336,47.06219739213917,15.427894679087336,47.06219739213917]}},{"type":"Feature","properties":{"nummer":27817,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16312},"geometry":{"type":"Point","coordinates":[15.42797060093422,47.0620670417013],"bbox":[15.42797060093422,47.0620670417013,15.42797060093422,47.0620670417013]}},{"type":"Feature","properties":{"nummer":27818,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16320},"geometry":{"type":"Point","coordinates":[15.427939967887342,47.062134792773854],"bbox":[15.427939967887342,47.062134792773854,15.427939967887342,47.062134792773854]}},{"type":"Feature","properties":{"nummer":27821,"baumbezeichnung_botanisch":"Prunus 'Frucht'","baumbezeichnung_deutsch":"Fruchtkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20697},"geometry":{"type":"Point","coordinates":[15.427843544185471,47.062335242256474],"bbox":[15.427843544185471,47.062335242256474,15.427843544185471,47.062335242256474]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27816,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428038980856732,
+          47.06199832434691
+        ],
+        "bbox": [
+          15.428038980856732,
+          47.06199832434691,
+          15.428038980856732,
+          47.06199832434691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27819,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427891807724288,
+          47.06214952079335
+        ],
+        "bbox": [
+          15.427891807724288,
+          47.06214952079335,
+          15.427891807724288,
+          47.06214952079335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27820,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427894679087336,
+          47.06219739213917
+        ],
+        "bbox": [
+          15.427894679087336,
+          47.06219739213917,
+          15.427894679087336,
+          47.06219739213917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27817,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42797060093422,
+          47.0620670417013
+        ],
+        "bbox": [
+          15.42797060093422,
+          47.0620670417013,
+          15.42797060093422,
+          47.0620670417013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27818,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427939967887342,
+          47.062134792773854
+        ],
+        "bbox": [
+          15.427939967887342,
+          47.062134792773854,
+          15.427939967887342,
+          47.062134792773854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27821,
+        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427843544185471,
+          47.062335242256474
+        ],
+        "bbox": [
+          15.427843544185471,
+          47.062335242256474,
+          15.427843544185471,
+          47.062335242256474
+        ]
+      }
+    }
+  ]
+}

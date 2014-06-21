@@ -1,1 +1,201 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":20860,"baumbezeichnung_botanisch":"Rhus typhina","baumbezeichnung_deutsch":"Essigbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3450},"geometry":{"type":"Point","coordinates":[15.438645951897987,47.06036869597176],"bbox":[15.438645951897987,47.06036869597176,15.438645951897987,47.06036869597176]}},{"type":"Feature","properties":{"nummer":20861,"baumbezeichnung_botanisch":"Thuja sp.","baumbezeichnung_deutsch":"Lebensbaum","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12006},"geometry":{"type":"Point","coordinates":[15.438590491509263,47.06036165618585],"bbox":[15.438590491509263,47.06036165618585,15.438590491509263,47.06036165618585]}},{"type":"Feature","properties":{"nummer":12325,"baumbezeichnung_botanisch":"Quercus robur 'Fastigiata'","baumbezeichnung_deutsch":"Säulenstieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1990","entnahmejahr":null,"baumpatenschaft":null,"objectid":16986},"geometry":{"type":"Point","coordinates":[15.438699988698207,47.059247165850984],"bbox":[15.438699988698207,47.059247165850984,15.438699988698207,47.059247165850984]}},{"type":"Feature","properties":{"nummer":23932,"baumbezeichnung_botanisch":"Quercus robur 'Fastigiata'","baumbezeichnung_deutsch":"Säulenstieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":15801},"geometry":{"type":"Point","coordinates":[15.438554196251456,47.05932408275191],"bbox":[15.438554196251456,47.05932408275191,15.438554196251456,47.05932408275191]}},{"type":"Feature","properties":{"nummer":12338,"baumbezeichnung_botanisch":"Quercus robur 'Fastigiata'","baumbezeichnung_deutsch":"Säulenstieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1990","entnahmejahr":null,"baumpatenschaft":null,"objectid":15805},"geometry":{"type":"Point","coordinates":[15.43868892148646,47.05893953631211],"bbox":[15.43868892148646,47.05893953631211,15.43868892148646,47.05893953631211]}},{"type":"Feature","properties":{"nummer":20862,"baumbezeichnung_botanisch":"Thuja sp.","baumbezeichnung_deutsch":"Lebensbaum","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21682},"geometry":{"type":"Point","coordinates":[15.438544724557012,47.060353040851474],"bbox":[15.438544724557012,47.060353040851474,15.438544724557012,47.060353040851474]}},{"type":"Feature","properties":{"nummer":20859,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12861},"geometry":{"type":"Point","coordinates":[15.438601001216158,47.060515040382015],"bbox":[15.438601001216158,47.060515040382015,15.438601001216158,47.060515040382015]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20860,
+        "baumbezeichnung_botanisch": "Rhus typhina",
+        "baumbezeichnung_deutsch": "Essigbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438645951897987,
+          47.06036869597176
+        ],
+        "bbox": [
+          15.438645951897987,
+          47.06036869597176,
+          15.438645951897987,
+          47.06036869597176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20861,
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438590491509263,
+          47.06036165618585
+        ],
+        "bbox": [
+          15.438590491509263,
+          47.06036165618585,
+          15.438590491509263,
+          47.06036165618585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12325,
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1990",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438699988698207,
+          47.059247165850984
+        ],
+        "bbox": [
+          15.438699988698207,
+          47.059247165850984,
+          15.438699988698207,
+          47.059247165850984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23932,
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438554196251456,
+          47.05932408275191
+        ],
+        "bbox": [
+          15.438554196251456,
+          47.05932408275191,
+          15.438554196251456,
+          47.05932408275191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12338,
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1990",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43868892148646,
+          47.05893953631211
+        ],
+        "bbox": [
+          15.43868892148646,
+          47.05893953631211,
+          15.43868892148646,
+          47.05893953631211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20862,
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438544724557012,
+          47.060353040851474
+        ],
+        "bbox": [
+          15.438544724557012,
+          47.060353040851474,
+          15.438544724557012,
+          47.060353040851474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20859,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438601001216158,
+          47.060515040382015
+        ],
+        "bbox": [
+          15.438601001216158,
+          47.060515040382015,
+          15.438601001216158,
+          47.060515040382015
+        ]
+      }
+    }
+  ]
+}

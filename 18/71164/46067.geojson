@@ -1,1 +1,145 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23370,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5700},"geometry":{"type":"Point","coordinates":[15.458174537106618,47.06338412155456],"bbox":[15.458174537106618,47.06338412155456,15.458174537106618,47.06338412155456]}},{"type":"Feature","properties":{"nummer":23377,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10775},"geometry":{"type":"Point","coordinates":[15.457812848416426,47.06323661683812],"bbox":[15.457812848416426,47.06323661683812,15.457812848416426,47.06323661683812]}},{"type":"Feature","properties":{"nummer":23376,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16591},"geometry":{"type":"Point","coordinates":[15.457843182187258,47.06324917277937],"bbox":[15.457843182187258,47.06324917277937,15.457843182187258,47.06324917277937]}},{"type":"Feature","properties":{"nummer":23371,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13500},"geometry":{"type":"Point","coordinates":[15.458142702175296,47.06337479242801],"bbox":[15.458142702175296,47.06337479242801,15.458142702175296,47.06337479242801]}},{"type":"Feature","properties":{"nummer":23374,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19069},"geometry":{"type":"Point","coordinates":[15.457902787936455,47.063274816200604],"bbox":[15.457902787936455,47.063274816200604,15.457902787936455,47.063274816200604]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23370,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458174537106618,
+          47.06338412155456
+        ],
+        "bbox": [
+          15.458174537106618,
+          47.06338412155456,
+          15.458174537106618,
+          47.06338412155456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23377,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457812848416426,
+          47.06323661683812
+        ],
+        "bbox": [
+          15.457812848416426,
+          47.06323661683812,
+          15.457812848416426,
+          47.06323661683812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23376,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457843182187258,
+          47.06324917277937
+        ],
+        "bbox": [
+          15.457843182187258,
+          47.06324917277937,
+          15.457843182187258,
+          47.06324917277937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23371,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458142702175296,
+          47.06337479242801
+        ],
+        "bbox": [
+          15.458142702175296,
+          47.06337479242801,
+          15.458142702175296,
+          47.06337479242801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23374,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457902787936455,
+          47.063274816200604
+        ],
+        "bbox": [
+          15.457902787936455,
+          47.063274816200604,
+          15.457902787936455,
+          47.063274816200604
+        ]
+      }
+    }
+  ]
+}

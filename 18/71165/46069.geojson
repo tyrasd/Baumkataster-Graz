@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":25176,"baumbezeichnung_botanisch":"Acer saccharinum","baumbezeichnung_deutsch":"Zuckerahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1774},"geometry":{"type":"Point","coordinates":[15.460948099097154,47.06042215828104],"bbox":[15.460948099097154,47.06042215828104,15.460948099097154,47.06042215828104]}},{"type":"Feature","properties":{"nummer":25173,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2549},"geometry":{"type":"Point","coordinates":[15.46119401547991,47.06040538611331],"bbox":[15.46119401547991,47.06040538611331,15.46119401547991,47.06040538611331]}},{"type":"Feature","properties":{"nummer":25174,"baumbezeichnung_botanisch":"Acer saccharinum","baumbezeichnung_deutsch":"Zuckerahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2550},"geometry":{"type":"Point","coordinates":[15.46113303291191,47.06037927512049],"bbox":[15.46113303291191,47.06037927512049,15.46113303291191,47.06037927512049]}},{"type":"Feature","properties":{"nummer":6169,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":19014},"geometry":{"type":"Point","coordinates":[15.461396584054562,47.06076563139752],"bbox":[15.461396584054562,47.06076563139752,15.461396584054562,47.06076563139752]}},{"type":"Feature","properties":{"nummer":25175,"baumbezeichnung_botanisch":"Acer saccharinum","baumbezeichnung_deutsch":"Zuckerahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28707},"geometry":{"type":"Point","coordinates":[15.46113452050038,47.060288361277415],"bbox":[15.46113452050038,47.060288361277415,15.46113452050038,47.060288361277415]}},{"type":"Feature","properties":{"nummer":25171,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":27492},"geometry":{"type":"Point","coordinates":[15.461378656961621,47.060468390684896],"bbox":[15.461378656961621,47.060468390684896,15.461378656961621,47.060468390684896]}},{"type":"Feature","properties":{"nummer":25172,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27493},"geometry":{"type":"Point","coordinates":[15.461251862818969,47.06044838301612],"bbox":[15.461251862818969,47.06044838301612,15.461251862818969,47.06044838301612]}},{"type":"Feature","properties":{"nummer":25177,"baumbezeichnung_botanisch":"Acer saccharinum","baumbezeichnung_deutsch":"Zuckerahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27494},"geometry":{"type":"Point","coordinates":[15.461163832893941,47.06050720945048],"bbox":[15.461163832893941,47.06050720945048,15.461163832893941,47.06050720945048]}},{"type":"Feature","properties":{"nummer":30879,"baumbezeichnung_botanisch":"Salix matsudana 'Tortuosa'","baumbezeichnung_deutsch":"Korkenzieherweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27495},"geometry":{"type":"Point","coordinates":[15.460954962803505,47.06039494477852],"bbox":[15.460954962803505,47.06039494477852,15.460954962803505,47.06039494477852]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25176,
+        "baumbezeichnung_botanisch": "Acer saccharinum",
+        "baumbezeichnung_deutsch": "Zuckerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460948099097154,
+          47.06042215828104
+        ],
+        "bbox": [
+          15.460948099097154,
+          47.06042215828104,
+          15.460948099097154,
+          47.06042215828104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25173,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2549
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46119401547991,
+          47.06040538611331
+        ],
+        "bbox": [
+          15.46119401547991,
+          47.06040538611331,
+          15.46119401547991,
+          47.06040538611331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25174,
+        "baumbezeichnung_botanisch": "Acer saccharinum",
+        "baumbezeichnung_deutsch": "Zuckerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46113303291191,
+          47.06037927512049
+        ],
+        "bbox": [
+          15.46113303291191,
+          47.06037927512049,
+          15.46113303291191,
+          47.06037927512049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6169,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461396584054562,
+          47.06076563139752
+        ],
+        "bbox": [
+          15.461396584054562,
+          47.06076563139752,
+          15.461396584054562,
+          47.06076563139752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25175,
+        "baumbezeichnung_botanisch": "Acer saccharinum",
+        "baumbezeichnung_deutsch": "Zuckerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46113452050038,
+          47.060288361277415
+        ],
+        "bbox": [
+          15.46113452050038,
+          47.060288361277415,
+          15.46113452050038,
+          47.060288361277415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25171,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 27492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461378656961621,
+          47.060468390684896
+        ],
+        "bbox": [
+          15.461378656961621,
+          47.060468390684896,
+          15.461378656961621,
+          47.060468390684896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25172,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461251862818969,
+          47.06044838301612
+        ],
+        "bbox": [
+          15.461251862818969,
+          47.06044838301612,
+          15.461251862818969,
+          47.06044838301612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25177,
+        "baumbezeichnung_botanisch": "Acer saccharinum",
+        "baumbezeichnung_deutsch": "Zuckerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461163832893941,
+          47.06050720945048
+        ],
+        "bbox": [
+          15.461163832893941,
+          47.06050720945048,
+          15.461163832893941,
+          47.06050720945048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30879,
+        "baumbezeichnung_botanisch": "Salix matsudana 'Tortuosa'",
+        "baumbezeichnung_deutsch": "Korkenzieherweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460954962803505,
+          47.06039494477852
+        ],
+        "bbox": [
+          15.460954962803505,
+          47.06039494477852,
+          15.460954962803505,
+          47.06039494477852
+        ]
+      }
+    }
+  ]
+}

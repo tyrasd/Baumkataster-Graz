@@ -1,1 +1,81 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":21889,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25558},"geometry":{"type":"Point","coordinates":[15.415781146221311,47.103794623076226],"bbox":[15.415781146221311,47.103794623076226,15.415781146221311,47.103794623076226]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-54","objectid":"Naturdenkmal-82","baumbezeichnung_deutsch":"Sommerlinde","baumbezeichnung_botanisch":"Tilia platyphyllos"},"geometry":{"type":"Point","coordinates":[15.415837042279243,47.10398305070345],"bbox":[15.415837042279243,47.10398305070345,15.415837042279243,47.10398305070345]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-55","objectid":"Naturdenkmal-83","baumbezeichnung_deutsch":"Roßkastanie","baumbezeichnung_botanisch":"Aesculus hippocastanum"},"geometry":{"type":"Point","coordinates":[15.415886877161151,47.1042950125115],"bbox":[15.415886877161151,47.1042950125115,15.415886877161151,47.1042950125115]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21889,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415781146221311,
+          47.103794623076226
+        ],
+        "bbox": [
+          15.415781146221311,
+          47.103794623076226,
+          15.415781146221311,
+          47.103794623076226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-54",
+        "objectid": "Naturdenkmal-82",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415837042279243,
+          47.10398305070345
+        ],
+        "bbox": [
+          15.415837042279243,
+          47.10398305070345,
+          15.415837042279243,
+          47.10398305070345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-55",
+        "objectid": "Naturdenkmal-83",
+        "baumbezeichnung_deutsch": "Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415886877161151,
+          47.1042950125115
+        ],
+        "bbox": [
+          15.415886877161151,
+          47.1042950125115,
+          15.415886877161151,
+          47.1042950125115
+        ]
+      }
+    }
+  ]
+}

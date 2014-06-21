@@ -1,1 +1,101 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-35","objectid":"Naturdenkmal-107","baumbezeichnung_deutsch":"Blutbuche","baumbezeichnung_botanisch":"Fagus sylvatica \"Purpurea\""},"geometry":{"type":"Point","coordinates":[15.487503076728476,47.10456426657855],"bbox":[15.487503076728476,47.10456426657855,15.487503076728476,47.10456426657855]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-52","objectid":"Naturdenkmal-56","baumbezeichnung_deutsch":"Mammutbaum","baumbezeichnung_botanisch":"Sequoiadendron giganteum"},"geometry":{"type":"Point","coordinates":[15.487116653882943,47.10522894093434],"bbox":[15.487116653882943,47.10522894093434,15.487116653882943,47.10522894093434]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-36","objectid":"Naturdenkmal-73","baumbezeichnung_deutsch":"Sommerlinde","baumbezeichnung_botanisch":"Tilia platyphyllos"},"geometry":{"type":"Point","coordinates":[15.487634949864757,47.10456913850648],"bbox":[15.487634949864757,47.10456913850648,15.487634949864757,47.10456913850648]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-53","objectid":"Naturdenkmal-16","baumbezeichnung_deutsch":"Schwarzföhre","baumbezeichnung_botanisch":"Pinus nigra"},"geometry":{"type":"Point","coordinates":[15.486843370289092,47.105233859772326],"bbox":[15.486843370289092,47.105233859772326,15.486843370289092,47.105233859772326]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-35",
+        "objectid": "Naturdenkmal-107",
+        "baumbezeichnung_deutsch": "Blutbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica \"Purpurea\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.487503076728476,
+          47.10456426657855
+        ],
+        "bbox": [
+          15.487503076728476,
+          47.10456426657855,
+          15.487503076728476,
+          47.10456426657855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-52",
+        "objectid": "Naturdenkmal-56",
+        "baumbezeichnung_deutsch": "Mammutbaum",
+        "baumbezeichnung_botanisch": "Sequoiadendron giganteum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.487116653882943,
+          47.10522894093434
+        ],
+        "bbox": [
+          15.487116653882943,
+          47.10522894093434,
+          15.487116653882943,
+          47.10522894093434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-36",
+        "objectid": "Naturdenkmal-73",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.487634949864757,
+          47.10456913850648
+        ],
+        "bbox": [
+          15.487634949864757,
+          47.10456913850648,
+          15.487634949864757,
+          47.10456913850648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-53",
+        "objectid": "Naturdenkmal-16",
+        "baumbezeichnung_deutsch": "Schwarzföhre",
+        "baumbezeichnung_botanisch": "Pinus nigra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.486843370289092,
+          47.105233859772326
+        ],
+        "bbox": [
+          15.486843370289092,
+          47.105233859772326,
+          15.486843370289092,
+          47.105233859772326
+        ]
+      }
+    }
+  ]
+}

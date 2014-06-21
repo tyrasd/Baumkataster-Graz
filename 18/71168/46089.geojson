@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29317,"baumbezeichnung_botanisch":"Carpinus betulus 'Fastigiata'","baumbezeichnung_deutsch":"Säulenhainbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12262},"geometry":{"type":"Point","coordinates":[15.470633512185684,47.02186988714801],"bbox":[15.470633512185684,47.02186988714801,15.470633512185684,47.02186988714801]}},{"type":"Feature","properties":{"nummer":29318,"baumbezeichnung_botanisch":"Carpinus betulus 'Fastigiata'","baumbezeichnung_deutsch":"Säulenhainbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12263},"geometry":{"type":"Point","coordinates":[15.470674381109648,47.02181613513917],"bbox":[15.470674381109648,47.02181613513917,15.470674381109648,47.02181613513917]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29317,
+        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenhainbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.470633512185684,
+          47.02186988714801
+        ],
+        "bbox": [
+          15.470633512185684,
+          47.02186988714801,
+          15.470633512185684,
+          47.02186988714801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29318,
+        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenhainbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.470674381109648,
+          47.02181613513917
+        ],
+        "bbox": [
+          15.470674381109648,
+          47.02181613513917,
+          15.470674381109648,
+          47.02181613513917
+        ]
+      }
+    }
+  ]
+}

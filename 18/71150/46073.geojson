@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23534,"baumbezeichnung_botanisch":"Acer platanoides 'Olmstedt'","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":2529},"geometry":{"type":"Point","coordinates":[15.421845457560808,47.051473521156915],"bbox":[15.421845457560808,47.051473521156915,15.421845457560808,47.051473521156915]}},{"type":"Feature","properties":{"nummer":23535,"baumbezeichnung_botanisch":"Acer platanoides 'Olmstedt'","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":11586},"geometry":{"type":"Point","coordinates":[15.421862194983822,47.05162717548066],"bbox":[15.421862194983822,47.05162717548066,15.421862194983822,47.05162717548066]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23534,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421845457560808,
+          47.051473521156915
+        ],
+        "bbox": [
+          15.421845457560808,
+          47.051473521156915,
+          15.421845457560808,
+          47.051473521156915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23535,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421862194983822,
+          47.05162717548066
+        ],
+        "bbox": [
+          15.421862194983822,
+          47.05162717548066,
+          15.421862194983822,
+          47.05162717548066
+        ]
+      }
+    }
+  ]
+}

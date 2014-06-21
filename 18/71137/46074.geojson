@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":20039,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":465},"geometry":{"type":"Point","coordinates":[15.386169005383309,47.05008402541961],"bbox":[15.386169005383309,47.05008402541961,15.386169005383309,47.05008402541961]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20039,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386169005383309,
+          47.05008402541961
+        ],
+        "bbox": [
+          15.386169005383309,
+          47.05008402541961,
+          15.386169005383309,
+          47.05008402541961
+        ]
+      }
+    }
+  ]
+}

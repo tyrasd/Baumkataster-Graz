@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":10767,"baumbezeichnung_botanisch":"Ulmus sp.","baumbezeichnung_deutsch":"Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11782},"geometry":{"type":"Point","coordinates":[15.4441334200125,47.08606929417799],"bbox":[15.4441334200125,47.08606929417799,15.4441334200125,47.08606929417799]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10767,
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11782
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4441334200125,
+          47.08606929417799
+        ],
+        "bbox": [
+          15.4441334200125,
+          47.08606929417799,
+          15.4441334200125,
+          47.08606929417799
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":30929,"baumbezeichnung_botanisch":"Flächenkartierung","baumbezeichnung_deutsch":"Flächenkartierung","baumtyp":"Flächenkartierung","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28925},"geometry":{"type":"Point","coordinates":[15.463425680300302,47.04439205482368],"bbox":[15.463425680300302,47.04439205482368,15.463425680300302,47.04439205482368]}},{"type":"Feature","properties":{"nummer":30930,"baumbezeichnung_botanisch":"Flächenkartierung","baumbezeichnung_deutsch":"Flächenkartierung","baumtyp":"Flächenkartierung","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28926},"geometry":{"type":"Point","coordinates":[15.463576422573047,47.044328944180386],"bbox":[15.463576422573047,47.044328944180386,15.463576422573047,47.044328944180386]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30929,
+        "baumbezeichnung_botanisch": "Flächenkartierung",
+        "baumbezeichnung_deutsch": "Flächenkartierung",
+        "baumtyp": "Flächenkartierung",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463425680300302,
+          47.04439205482368
+        ],
+        "bbox": [
+          15.463425680300302,
+          47.04439205482368,
+          15.463425680300302,
+          47.04439205482368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30930,
+        "baumbezeichnung_botanisch": "Flächenkartierung",
+        "baumbezeichnung_deutsch": "Flächenkartierung",
+        "baumtyp": "Flächenkartierung",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28926
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463576422573047,
+          47.044328944180386
+        ],
+        "bbox": [
+          15.463576422573047,
+          47.044328944180386,
+          15.463576422573047,
+          47.044328944180386
+        ]
+      }
+    }
+  ]
+}

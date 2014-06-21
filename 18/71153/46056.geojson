@@ -1,1 +1,225 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":31769,"baumbezeichnung_botanisch":"Catalpa bignonioides","baumbezeichnung_deutsch":"Trompetenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":7060},"geometry":{"type":"Point","coordinates":[15.427749079834173,47.08335168414769],"bbox":[15.427749079834173,47.08335168414769,15.427749079834173,47.08335168414769]}},{"type":"Feature","properties":{"nummer":11574,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15594},"geometry":{"type":"Point","coordinates":[15.427571488449425,47.08339103202563],"bbox":[15.427571488449425,47.08339103202563,15.427571488449425,47.08339103202563]}},{"type":"Feature","properties":{"nummer":11572,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":"Baum komplett abgetrocknet, auf Grund des dichten Muruferbestandes und des gegenüberstockenden Baumes drzt kein Ersatz geplant","pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":15595},"geometry":{"type":"Point","coordinates":[15.42767715045294,47.08331614972172],"bbox":[15.42767715045294,47.08331614972172,15.42767715045294,47.08331614972172]}},{"type":"Feature","properties":{"nummer":31135,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1900","entnahmejahr":null,"baumpatenschaft":null,"objectid":28994},"geometry":{"type":"Point","coordinates":[15.427780374833297,47.08324520581781],"bbox":[15.427780374833297,47.08324520581781,15.427780374833297,47.08324520581781]}},{"type":"Feature","properties":{"nummer":7972,"baumbezeichnung_botanisch":"Prunus domestica","baumbezeichnung_deutsch":"Pflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27636},"geometry":{"type":"Point","coordinates":[15.430114917171906,47.084339023274424],"bbox":[15.430114917171906,47.084339023274424,15.430114917171906,47.084339023274424]}},{"type":"Feature","properties":{"nummer":7971,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":27748},"geometry":{"type":"Point","coordinates":[15.430222570288146,47.0843230739126],"bbox":[15.430222570288146,47.0843230739126,15.430222570288146,47.0843230739126]}},{"type":"Feature","properties":{"nummer":30485,"baumbezeichnung_botanisch":"Ailanthus altissima","baumbezeichnung_deutsch":"Götterbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27886},"geometry":{"type":"Point","coordinates":[15.428039657373498,47.08466219615755],"bbox":[15.428039657373498,47.08466219615755,15.428039657373498,47.08466219615755]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-94","objectid":"Naturdenkmal-42","baumbezeichnung_deutsch":"Gemeine Esche","baumbezeichnung_botanisch":"Fraxinus excelsior"},"geometry":{"type":"Point","coordinates":[15.428633931690333,47.083532925025004],"bbox":[15.428633931690333,47.083532925025004,15.428633931690333,47.083532925025004]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31769,
+        "baumbezeichnung_botanisch": "Catalpa bignonioides",
+        "baumbezeichnung_deutsch": "Trompetenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7060
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427749079834173,
+          47.08335168414769
+        ],
+        "bbox": [
+          15.427749079834173,
+          47.08335168414769,
+          15.427749079834173,
+          47.08335168414769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11574,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427571488449425,
+          47.08339103202563
+        ],
+        "bbox": [
+          15.427571488449425,
+          47.08339103202563,
+          15.427571488449425,
+          47.08339103202563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11572,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": "Baum komplett abgetrocknet, auf Grund des dichten Muruferbestandes und des gegenüberstockenden Baumes drzt kein Ersatz geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 15595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42767715045294,
+          47.08331614972172
+        ],
+        "bbox": [
+          15.42767715045294,
+          47.08331614972172,
+          15.42767715045294,
+          47.08331614972172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31135,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1900",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427780374833297,
+          47.08324520581781
+        ],
+        "bbox": [
+          15.427780374833297,
+          47.08324520581781,
+          15.427780374833297,
+          47.08324520581781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7972,
+        "baumbezeichnung_botanisch": "Prunus domestica",
+        "baumbezeichnung_deutsch": "Pflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.430114917171906,
+          47.084339023274424
+        ],
+        "bbox": [
+          15.430114917171906,
+          47.084339023274424,
+          15.430114917171906,
+          47.084339023274424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7971,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 27748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.430222570288146,
+          47.0843230739126
+        ],
+        "bbox": [
+          15.430222570288146,
+          47.0843230739126,
+          15.430222570288146,
+          47.0843230739126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30485,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428039657373498,
+          47.08466219615755
+        ],
+        "bbox": [
+          15.428039657373498,
+          47.08466219615755,
+          15.428039657373498,
+          47.08466219615755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-94",
+        "objectid": "Naturdenkmal-42",
+        "baumbezeichnung_deutsch": "Gemeine Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428633931690333,
+          47.083532925025004
+        ],
+        "bbox": [
+          15.428633931690333,
+          47.083532925025004,
+          15.428633931690333,
+          47.083532925025004
+        ]
+      }
+    }
+  ]
+}

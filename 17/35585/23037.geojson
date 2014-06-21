@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29918,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9805},"geometry":{"type":"Point","coordinates":[15.476620087579798,47.0495584401053],"bbox":[15.476620087579798,47.0495584401053,15.476620087579798,47.0495584401053]}},{"type":"Feature","properties":{"nummer":29920,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":8130},"geometry":{"type":"Point","coordinates":[15.476171276356457,47.04935531767405],"bbox":[15.476171276356457,47.04935531767405,15.476171276356457,47.04935531767405]}},{"type":"Feature","properties":{"nummer":29917,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7610},"geometry":{"type":"Point","coordinates":[15.47682871486012,47.04964739793162],"bbox":[15.47682871486012,47.04964739793162,15.47682871486012,47.04964739793162]}},{"type":"Feature","properties":{"nummer":29916,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7643},"geometry":{"type":"Point","coordinates":[15.477050939698216,47.04974269910023],"bbox":[15.477050939698216,47.04974269910023,15.477050939698216,47.04974269910023]}},{"type":"Feature","properties":{"nummer":29919,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":8648},"geometry":{"type":"Point","coordinates":[15.47639349879959,47.04945062010781],"bbox":[15.47639349879959,47.04945062010781,15.47639349879959,47.04945062010781]}},{"type":"Feature","properties":{"nummer":29915,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":28366},"geometry":{"type":"Point","coordinates":[15.477269640035576,47.0498426472635],"bbox":[15.477269640035576,47.0498426472635,15.477269640035576,47.0498426472635]}},{"type":"Feature","properties":{"nummer":29913,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":28367},"geometry":{"type":"Point","coordinates":[15.477748608004138,47.05003754681033],"bbox":[15.477748608004138,47.05003754681033,15.477748608004138,47.05003754681033]}},{"type":"Feature","properties":{"nummer":29912,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":28368},"geometry":{"type":"Point","coordinates":[15.477984855201115,47.05016481377166],"bbox":[15.477984855201115,47.05016481377166,15.477984855201115,47.05016481377166]}},{"type":"Feature","properties":{"nummer":31566,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28479},"geometry":{"type":"Point","coordinates":[15.477540754916507,47.04994542569512],"bbox":[15.477540754916507,47.04994542569512,15.477540754916507,47.04994542569512]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29918,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.476620087579798,
+          47.0495584401053
+        ],
+        "bbox": [
+          15.476620087579798,
+          47.0495584401053,
+          15.476620087579798,
+          47.0495584401053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29920,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.476171276356457,
+          47.04935531767405
+        ],
+        "bbox": [
+          15.476171276356457,
+          47.04935531767405,
+          15.476171276356457,
+          47.04935531767405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29917,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47682871486012,
+          47.04964739793162
+        ],
+        "bbox": [
+          15.47682871486012,
+          47.04964739793162,
+          15.47682871486012,
+          47.04964739793162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29916,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477050939698216,
+          47.04974269910023
+        ],
+        "bbox": [
+          15.477050939698216,
+          47.04974269910023,
+          15.477050939698216,
+          47.04974269910023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29919,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47639349879959,
+          47.04945062010781
+        ],
+        "bbox": [
+          15.47639349879959,
+          47.04945062010781,
+          15.47639349879959,
+          47.04945062010781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29915,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477269640035576,
+          47.0498426472635
+        ],
+        "bbox": [
+          15.477269640035576,
+          47.0498426472635,
+          15.477269640035576,
+          47.0498426472635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29913,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477748608004138,
+          47.05003754681033
+        ],
+        "bbox": [
+          15.477748608004138,
+          47.05003754681033,
+          15.477748608004138,
+          47.05003754681033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29912,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477984855201115,
+          47.05016481377166
+        ],
+        "bbox": [
+          15.477984855201115,
+          47.05016481377166,
+          15.477984855201115,
+          47.05016481377166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31566,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.477540754916507,
+          47.04994542569512
+        ],
+        "bbox": [
+          15.477540754916507,
+          47.04994542569512,
+          15.477540754916507,
+          47.04994542569512
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,229 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18445,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3808},"geometry":{"type":"Point","coordinates":[15.386631143618734,47.03845691120981],"bbox":[15.386631143618734,47.03845691120981,15.386631143618734,47.03845691120981]}},{"type":"Feature","properties":{"nummer":18446,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4215},"geometry":{"type":"Point","coordinates":[15.386692716459068,47.03841582548802],"bbox":[15.386692716459068,47.03841582548802,15.386692716459068,47.03841582548802]}},{"type":"Feature","properties":{"nummer":24902,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":9804},"geometry":{"type":"Point","coordinates":[15.386371595850601,47.03866434751963],"bbox":[15.386371595850601,47.03866434751963,15.386371595850601,47.03866434751963]}},{"type":"Feature","properties":{"nummer":29814,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7757},"geometry":{"type":"Point","coordinates":[15.38649899067757,47.03855683264486],"bbox":[15.38649899067757,47.03855683264486,15.38649899067757,47.03855683264486]}},{"type":"Feature","properties":{"nummer":18444,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14432},"geometry":{"type":"Point","coordinates":[15.3865781559985,47.038504009389776],"bbox":[15.3865781559985,47.038504009389776,15.3865781559985,47.038504009389776]}},{"type":"Feature","properties":{"nummer":18427,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22793},"geometry":{"type":"Point","coordinates":[15.386449954731518,47.04017724398174],"bbox":[15.386449954731518,47.04017724398174,15.386449954731518,47.04017724398174]}},{"type":"Feature","properties":{"nummer":18442,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24458},"geometry":{"type":"Point","coordinates":[15.386428356466084,47.03861863989648],"bbox":[15.386428356466084,47.03861863989648,15.386428356466084,47.03861863989648]}},{"type":"Feature","properties":{"nummer":18467,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25167},"geometry":{"type":"Point","coordinates":[15.386401936211206,47.0384718834615],"bbox":[15.386401936211206,47.0384718834615,15.386401936211206,47.0384718834615]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18445,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386631143618734,
+          47.03845691120981
+        ],
+        "bbox": [
+          15.386631143618734,
+          47.03845691120981,
+          15.386631143618734,
+          47.03845691120981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18446,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386692716459068,
+          47.03841582548802
+        ],
+        "bbox": [
+          15.386692716459068,
+          47.03841582548802,
+          15.386692716459068,
+          47.03841582548802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24902,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386371595850601,
+          47.03866434751963
+        ],
+        "bbox": [
+          15.386371595850601,
+          47.03866434751963,
+          15.386371595850601,
+          47.03866434751963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29814,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7757
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38649899067757,
+          47.03855683264486
+        ],
+        "bbox": [
+          15.38649899067757,
+          47.03855683264486,
+          15.38649899067757,
+          47.03855683264486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18444,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3865781559985,
+          47.038504009389776
+        ],
+        "bbox": [
+          15.3865781559985,
+          47.038504009389776,
+          15.3865781559985,
+          47.038504009389776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18427,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386449954731518,
+          47.04017724398174
+        ],
+        "bbox": [
+          15.386449954731518,
+          47.04017724398174,
+          15.386449954731518,
+          47.04017724398174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18442,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386428356466084,
+          47.03861863989648
+        ],
+        "bbox": [
+          15.386428356466084,
+          47.03861863989648,
+          15.386428356466084,
+          47.03861863989648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18467,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386401936211206,
+          47.0384718834615
+        ],
+        "bbox": [
+          15.386401936211206,
+          47.0384718834615,
+          15.386401936211206,
+          47.0384718834615
+        ]
+      }
+    }
+  ]
+}

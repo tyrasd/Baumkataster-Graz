@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23352,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14574},"geometry":{"type":"Point","coordinates":[15.400242171264834,47.0240806992792],"bbox":[15.400242171264834,47.0240806992792,15.400242171264834,47.0240806992792]}},{"type":"Feature","properties":{"nummer":23351,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19865},"geometry":{"type":"Point","coordinates":[15.400362879741122,47.02407277162234],"bbox":[15.400362879741122,47.02407277162234,15.400362879741122,47.02407277162234]}},{"type":"Feature","properties":{"nummer":23353,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28567},"geometry":{"type":"Point","coordinates":[15.400127901848451,47.0240931347536],"bbox":[15.400127901848451,47.0240931347536,15.400127901848451,47.0240931347536]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23352,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400242171264834,
+          47.0240806992792
+        ],
+        "bbox": [
+          15.400242171264834,
+          47.0240806992792,
+          15.400242171264834,
+          47.0240806992792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23351,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400362879741122,
+          47.02407277162234
+        ],
+        "bbox": [
+          15.400362879741122,
+          47.02407277162234,
+          15.400362879741122,
+          47.02407277162234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23353,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28567
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.400127901848451,
+          47.0240931347536
+        ],
+        "bbox": [
+          15.400127901848451,
+          47.0240931347536,
+          15.400127901848451,
+          47.0240931347536
+        ]
+      }
+    }
+  ]
+}

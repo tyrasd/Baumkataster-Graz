@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":25324,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4863},"geometry":{"type":"Point","coordinates":[15.421780204376764,47.08744103486984],"bbox":[15.421780204376764,47.08744103486984,15.421780204376764,47.08744103486984]}},{"type":"Feature","properties":{"nummer":12847,"baumbezeichnung_botanisch":"Thuja occidentalis","baumbezeichnung_deutsch":"Abendländischer Lebensbaum","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":"Thuje stockt direkt nordwestlich der denkmalgeschützten Kapelle, Aufforderung zur Entfernung vom Bundesdenkmalamt zum Schutz der Kapelle, Ersatzpflanzung geplant","pflanzjahr":null,"entnahmejahr":"2014","baumpatenschaft":null,"objectid":17554},"geometry":{"type":"Point","coordinates":[15.419597207429588,47.086982393688594],"bbox":[15.419597207429588,47.086982393688594,15.419597207429588,47.086982393688594]}},{"type":"Feature","properties":{"nummer":25327,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24939},"geometry":{"type":"Point","coordinates":[15.422010153145385,47.08710287493719],"bbox":[15.422010153145385,47.08710287493719,15.422010153145385,47.08710287493719]}},{"type":"Feature","properties":{"nummer":25326,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21367},"geometry":{"type":"Point","coordinates":[15.421910602450826,47.08729995381154],"bbox":[15.421910602450826,47.08729995381154,15.421910602450826,47.08729995381154]}},{"type":"Feature","properties":{"nummer":30850,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29156},"geometry":{"type":"Point","coordinates":[15.42081079405706,47.08725866061104],"bbox":[15.42081079405706,47.08725866061104,15.42081079405706,47.08725866061104]}},{"type":"Feature","properties":{"nummer":30849,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29157},"geometry":{"type":"Point","coordinates":[15.421150912878037,47.087368770666934],"bbox":[15.421150912878037,47.087368770666934,15.421150912878037,47.087368770666934]}},{"type":"Feature","properties":{"nummer":30848,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29158},"geometry":{"type":"Point","coordinates":[15.421220715084708,47.08739246365622],"bbox":[15.421220715084708,47.08739246365622,15.421220715084708,47.08739246365622]}},{"type":"Feature","properties":{"nummer":30847,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":29182},"geometry":{"type":"Point","coordinates":[15.421304791273721,47.08741935593675],"bbox":[15.421304791273721,47.08741935593675,15.421304791273721,47.08741935593675]}},{"type":"Feature","properties":{"nummer":25325,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28542},"geometry":{"type":"Point","coordinates":[15.421829830226638,47.08736549470179],"bbox":[15.421829830226638,47.08736549470179,15.421829830226638,47.08736549470179]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25324,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421780204376764,
+          47.08744103486984
+        ],
+        "bbox": [
+          15.421780204376764,
+          47.08744103486984,
+          15.421780204376764,
+          47.08744103486984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12847,
+        "baumbezeichnung_botanisch": "Thuja occidentalis",
+        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": "Thuje stockt direkt nordwestlich der denkmalgeschützten Kapelle, Aufforderung zur Entfernung vom Bundesdenkmalamt zum Schutz der Kapelle, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": "2014",
+        "baumpatenschaft": null,
+        "objectid": 17554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419597207429588,
+          47.086982393688594
+        ],
+        "bbox": [
+          15.419597207429588,
+          47.086982393688594,
+          15.419597207429588,
+          47.086982393688594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25327,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.422010153145385,
+          47.08710287493719
+        ],
+        "bbox": [
+          15.422010153145385,
+          47.08710287493719,
+          15.422010153145385,
+          47.08710287493719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25326,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421910602450826,
+          47.08729995381154
+        ],
+        "bbox": [
+          15.421910602450826,
+          47.08729995381154,
+          15.421910602450826,
+          47.08729995381154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30850,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42081079405706,
+          47.08725866061104
+        ],
+        "bbox": [
+          15.42081079405706,
+          47.08725866061104,
+          15.42081079405706,
+          47.08725866061104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30849,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421150912878037,
+          47.087368770666934
+        ],
+        "bbox": [
+          15.421150912878037,
+          47.087368770666934,
+          15.421150912878037,
+          47.087368770666934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30848,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421220715084708,
+          47.08739246365622
+        ],
+        "bbox": [
+          15.421220715084708,
+          47.08739246365622,
+          15.421220715084708,
+          47.08739246365622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30847,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 29182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421304791273721,
+          47.08741935593675
+        ],
+        "bbox": [
+          15.421304791273721,
+          47.08741935593675,
+          15.421304791273721,
+          47.08741935593675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25325,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28542
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421829830226638,
+          47.08736549470179
+        ],
+        "bbox": [
+          15.421829830226638,
+          47.08736549470179,
+          15.421829830226638,
+          47.08736549470179
+        ]
+      }
+    }
+  ]
+}

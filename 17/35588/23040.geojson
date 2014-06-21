@@ -1,1 +1,29 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-122","objectid":"Naturdenkmal-53","baumbezeichnung_deutsch":"Stieleiche","baumbezeichnung_botanisch":"Quercus robur"},"geometry":{"type":"Point","coordinates":[15.493144813244994,47.04016999131407],"bbox":[15.493144813244994,47.04016999131407,15.493144813244994,47.04016999131407]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-122",
+        "objectid": "Naturdenkmal-53",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.493144813244994,
+          47.04016999131407
+        ],
+        "bbox": [
+          15.493144813244994,
+          47.04016999131407,
+          15.493144813244994,
+          47.04016999131407
+        ]
+      }
+    }
+  ]
+}

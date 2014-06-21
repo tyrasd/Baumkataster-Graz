@@ -1,1 +1,29 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-111","objectid":"Naturdenkmal-50","baumbezeichnung_deutsch":"Linde","baumbezeichnung_botanisch":null},"geometry":{"type":"Point","coordinates":[15.429164509294708,47.123142099679995],"bbox":[15.429164509294708,47.123142099679995,15.429164509294708,47.123142099679995]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-111",
+        "objectid": "Naturdenkmal-50",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumbezeichnung_botanisch": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429164509294708,
+          47.123142099679995
+        ],
+        "bbox": [
+          15.429164509294708,
+          47.123142099679995,
+          15.429164509294708,
+          47.123142099679995
+        ]
+      }
+    }
+  ]
+}

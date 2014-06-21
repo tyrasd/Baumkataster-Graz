@@ -1,1 +1,313 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23357,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4370},"geometry":{"type":"Point","coordinates":[15.421145312547338,47.0784482969978],"bbox":[15.421145312547338,47.0784482969978,15.421145312547338,47.0784482969978]}},{"type":"Feature","properties":{"nummer":23356,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4420},"geometry":{"type":"Point","coordinates":[15.421132743806927,47.07851183948681],"bbox":[15.421132743806927,47.07851183948681,15.421132743806927,47.07851183948681]}},{"type":"Feature","properties":{"nummer":23355,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5413},"geometry":{"type":"Point","coordinates":[15.421115929375846,47.07857794493083],"bbox":[15.421115929375846,47.07857794493083,15.421115929375846,47.07857794493083]}},{"type":"Feature","properties":{"nummer":12480,"baumbezeichnung_botanisch":"Tilia henryana","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":null,"objectid":5227},"geometry":{"type":"Point","coordinates":[15.419868338842452,47.07934447027495],"bbox":[15.419868338842452,47.07934447027495,15.419868338842452,47.07934447027495]}},{"type":"Feature","properties":{"nummer":12479,"baumbezeichnung_botanisch":"Tilia henryana","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":null,"objectid":5240},"geometry":{"type":"Point","coordinates":[15.419850636577593,47.07914584315363],"bbox":[15.419850636577593,47.07914584315363,15.419850636577593,47.07914584315363]}},{"type":"Feature","properties":{"nummer":24841,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":10688},"geometry":{"type":"Point","coordinates":[15.419864321835815,47.078999692609074],"bbox":[15.419864321835815,47.078999692609074,15.419864321835815,47.078999692609074]}},{"type":"Feature","properties":{"nummer":12511,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":null,"objectid":11486},"geometry":{"type":"Point","coordinates":[15.420306808631802,47.07792169026276],"bbox":[15.420306808631802,47.07792169026276,15.420306808631802,47.07792169026276]}},{"type":"Feature","properties":{"nummer":12513,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":null,"objectid":11597},"geometry":{"type":"Point","coordinates":[15.42005154901385,47.07841153578696],"bbox":[15.42005154901385,47.07841153578696,15.42005154901385,47.07841153578696]}},{"type":"Feature","properties":{"nummer":12512,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":null,"objectid":11822},"geometry":{"type":"Point","coordinates":[15.42012284472125,47.07826903028816],"bbox":[15.42012284472125,47.07826903028816,15.42012284472125,47.07826903028816]}},{"type":"Feature","properties":{"nummer":12510,"baumbezeichnung_botanisch":"Tilia tomentosa","baumbezeichnung_deutsch":"Silberlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1983","entnahmejahr":null,"baumpatenschaft":null,"objectid":15948},"geometry":{"type":"Point","coordinates":[15.420468162820537,47.077635002901175],"bbox":[15.420468162820537,47.077635002901175,15.420468162820537,47.077635002901175]}},{"type":"Feature","properties":{"nummer":23358,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18709},"geometry":{"type":"Point","coordinates":[15.421156343868251,47.07838779695346],"bbox":[15.421156343868251,47.07838779695346,15.421156343868251,47.07838779695346]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23357,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4370
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421145312547338,
+          47.0784482969978
+        ],
+        "bbox": [
+          15.421145312547338,
+          47.0784482969978,
+          15.421145312547338,
+          47.0784482969978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23356,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4420
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421132743806927,
+          47.07851183948681
+        ],
+        "bbox": [
+          15.421132743806927,
+          47.07851183948681,
+          15.421132743806927,
+          47.07851183948681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23355,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421115929375846,
+          47.07857794493083
+        ],
+        "bbox": [
+          15.421115929375846,
+          47.07857794493083,
+          15.421115929375846,
+          47.07857794493083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12480,
+        "baumbezeichnung_botanisch": "Tilia henryana",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419868338842452,
+          47.07934447027495
+        ],
+        "bbox": [
+          15.419868338842452,
+          47.07934447027495,
+          15.419868338842452,
+          47.07934447027495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12479,
+        "baumbezeichnung_botanisch": "Tilia henryana",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419850636577593,
+          47.07914584315363
+        ],
+        "bbox": [
+          15.419850636577593,
+          47.07914584315363,
+          15.419850636577593,
+          47.07914584315363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24841,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419864321835815,
+          47.078999692609074
+        ],
+        "bbox": [
+          15.419864321835815,
+          47.078999692609074,
+          15.419864321835815,
+          47.078999692609074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12511,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420306808631802,
+          47.07792169026276
+        ],
+        "bbox": [
+          15.420306808631802,
+          47.07792169026276,
+          15.420306808631802,
+          47.07792169026276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12513,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42005154901385,
+          47.07841153578696
+        ],
+        "bbox": [
+          15.42005154901385,
+          47.07841153578696,
+          15.42005154901385,
+          47.07841153578696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12512,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11822
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42012284472125,
+          47.07826903028816
+        ],
+        "bbox": [
+          15.42012284472125,
+          47.07826903028816,
+          15.42012284472125,
+          47.07826903028816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12510,
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420468162820537,
+          47.077635002901175
+        ],
+        "bbox": [
+          15.420468162820537,
+          47.077635002901175,
+          15.420468162820537,
+          47.077635002901175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23358,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421156343868251,
+          47.07838779695346
+        ],
+        "bbox": [
+          15.421156343868251,
+          47.07838779695346,
+          15.421156343868251,
+          47.07838779695346
+        ]
+      }
+    }
+  ]
+}

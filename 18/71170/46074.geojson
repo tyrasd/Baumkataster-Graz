@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29918,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9805},"geometry":{"type":"Point","coordinates":[15.476620087579798,47.0495584401053],"bbox":[15.476620087579798,47.0495584401053,15.476620087579798,47.0495584401053]}},{"type":"Feature","properties":{"nummer":29917,"baumbezeichnung_botanisch":"Fraxinus ornus","baumbezeichnung_deutsch":"Blumenesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7610},"geometry":{"type":"Point","coordinates":[15.47682871486012,47.04964739793162],"bbox":[15.47682871486012,47.04964739793162,15.47682871486012,47.04964739793162]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29918,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.476620087579798,
+          47.0495584401053
+        ],
+        "bbox": [
+          15.476620087579798,
+          47.0495584401053,
+          15.476620087579798,
+          47.0495584401053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29917,
+        "baumbezeichnung_botanisch": "Fraxinus ornus",
+        "baumbezeichnung_deutsch": "Blumenesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47682871486012,
+          47.04964739793162
+        ],
+        "bbox": [
+          15.47682871486012,
+          47.04964739793162,
+          15.47682871486012,
+          47.04964739793162
+        ]
+      }
+    }
+  ]
+}

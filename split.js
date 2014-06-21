@@ -41,7 +41,7 @@ for (var zoom in tiles) {
 			};
 			fs.writeFile(
 				"./"+zoom+"/"+x+"/"+y+".geojson",
-				JSON.stringify(geojson),
+				JSON.stringify(geojson, null, 2),
 				function(err) { if (err) throw err; }
 			);
 		}

@@ -1,1 +1,57 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23340,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11109},"geometry":{"type":"Point","coordinates":[15.388864170295475,47.05502826586514],"bbox":[15.388864170295475,47.05502826586514,15.388864170295475,47.05502826586514]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-115","objectid":"Naturdenkmal-125","baumbezeichnung_deutsch":"2 Weihrauchzedern","baumbezeichnung_botanisch":"Calocedrus decurrens"},"geometry":{"type":"Point","coordinates":[15.388772806348822,47.05389596096654],"bbox":[15.388772806348822,47.05389596096654,15.388772806348822,47.05389596096654]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23340,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388864170295475,
+          47.05502826586514
+        ],
+        "bbox": [
+          15.388864170295475,
+          47.05502826586514,
+          15.388864170295475,
+          47.05502826586514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-115",
+        "objectid": "Naturdenkmal-125",
+        "baumbezeichnung_deutsch": "2 Weihrauchzedern",
+        "baumbezeichnung_botanisch": "Calocedrus decurrens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388772806348822,
+          47.05389596096654
+        ],
+        "bbox": [
+          15.388772806348822,
+          47.05389596096654,
+          15.388772806348822,
+          47.05389596096654
+        ]
+      }
+    }
+  ]
+}

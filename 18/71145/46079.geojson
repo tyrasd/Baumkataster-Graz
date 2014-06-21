@@ -1,1 +1,173 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18518,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4765},"geometry":{"type":"Point","coordinates":[15.406360602463925,47.041545352574325],"bbox":[15.406360602463925,47.041545352574325,15.406360602463925,47.041545352574325]}},{"type":"Feature","properties":{"nummer":24815,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":12177},"geometry":{"type":"Point","coordinates":[15.406397774974728,47.04154892233567],"bbox":[15.406397774974728,47.04154892233567,15.406397774974728,47.04154892233567]}},{"type":"Feature","properties":{"nummer":24816,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":12178},"geometry":{"type":"Point","coordinates":[15.406059793460605,47.041528301568725],"bbox":[15.406059793460605,47.041528301568725,15.406059793460605,47.041528301568725]}},{"type":"Feature","properties":{"nummer":18510,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6848},"geometry":{"type":"Point","coordinates":[15.406096192376483,47.04182265741131],"bbox":[15.406096192376483,47.04182265741131,15.406096192376483,47.04182265741131]}},{"type":"Feature","properties":{"nummer":18520,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20027},"geometry":{"type":"Point","coordinates":[15.406333306554624,47.04154111010593],"bbox":[15.406333306554624,47.04154111010593,15.406333306554624,47.04154111010593]}},{"type":"Feature","properties":{"nummer":31799,"baumbezeichnung_botanisch":"Zelkova serrata","baumbezeichnung_deutsch":"Japanische Zelkova","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":19444},"geometry":{"type":"Point","coordinates":[15.406248618723575,47.0418417147039],"bbox":[15.406248618723575,47.0418417147039,15.406248618723575,47.0418417147039]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18518,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406360602463925,
+          47.041545352574325
+        ],
+        "bbox": [
+          15.406360602463925,
+          47.041545352574325,
+          15.406360602463925,
+          47.041545352574325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24815,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406397774974728,
+          47.04154892233567
+        ],
+        "bbox": [
+          15.406397774974728,
+          47.04154892233567,
+          15.406397774974728,
+          47.04154892233567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24816,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406059793460605,
+          47.041528301568725
+        ],
+        "bbox": [
+          15.406059793460605,
+          47.041528301568725,
+          15.406059793460605,
+          47.041528301568725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18510,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6848
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406096192376483,
+          47.04182265741131
+        ],
+        "bbox": [
+          15.406096192376483,
+          47.04182265741131,
+          15.406096192376483,
+          47.04182265741131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18520,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406333306554624,
+          47.04154111010593
+        ],
+        "bbox": [
+          15.406333306554624,
+          47.04154111010593,
+          15.406333306554624,
+          47.04154111010593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31799,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406248618723575,
+          47.0418417147039
+        ],
+        "bbox": [
+          15.406248618723575,
+          47.0418417147039,
+          15.406248618723575,
+          47.0418417147039
+        ]
+      }
+    }
+  ]
+}

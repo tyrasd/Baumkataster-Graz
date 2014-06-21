@@ -1,1 +1,2469 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":4647,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23},"geometry":{"type":"Point","coordinates":[15.44762286641565,47.0879320349246],"bbox":[15.44762286641565,47.0879320349246,15.44762286641565,47.0879320349246]}},{"type":"Feature","properties":{"nummer":23492,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1065},"geometry":{"type":"Point","coordinates":[15.447300822364308,47.0874238082187],"bbox":[15.447300822364308,47.0874238082187,15.447300822364308,47.0874238082187]}},{"type":"Feature","properties":{"nummer":4645,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1188},"geometry":{"type":"Point","coordinates":[15.447819473447021,47.087957435712305],"bbox":[15.447819473447021,47.087957435712305,15.447819473447021,47.087957435712305]}},{"type":"Feature","properties":{"nummer":19701,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1994","entnahmejahr":null,"baumpatenschaft":null,"objectid":1296},"geometry":{"type":"Point","coordinates":[15.448642723131185,47.08775544959649],"bbox":[15.448642723131185,47.08775544959649,15.448642723131185,47.08775544959649]}},{"type":"Feature","properties":{"nummer":23499,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":1297},"geometry":{"type":"Point","coordinates":[15.447189828751549,47.087027914943725],"bbox":[15.447189828751549,47.087027914943725,15.447189828751549,47.087027914943725]}},{"type":"Feature","properties":{"nummer":23497,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":1333},"geometry":{"type":"Point","coordinates":[15.4473064548891,47.087085253401895],"bbox":[15.4473064548891,47.087085253401895,15.4473064548891,47.087085253401895]}},{"type":"Feature","properties":{"nummer":4646,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1586},"geometry":{"type":"Point","coordinates":[15.447699126017607,47.087932626552714],"bbox":[15.447699126017607,47.087932626552714,15.447699126017607,47.087932626552714]}},{"type":"Feature","properties":{"nummer":22481,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1587},"geometry":{"type":"Point","coordinates":[15.44822084522901,47.087899774078885],"bbox":[15.44822084522901,47.087899774078885,15.44822084522901,47.087899774078885]}},{"type":"Feature","properties":{"nummer":22483,"baumbezeichnung_botanisch":"Corylus avellana","baumbezeichnung_deutsch":"Waldhasel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1588},"geometry":{"type":"Point","coordinates":[15.448348305154763,47.08787905714024],"bbox":[15.448348305154763,47.08787905714024,15.448348305154763,47.08787905714024]}},{"type":"Feature","properties":{"nummer":21762,"baumbezeichnung_botanisch":"Acer platanoides 'Crimson King'","baumbezeichnung_deutsch":"Blutahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2308},"geometry":{"type":"Point","coordinates":[15.447748715622218,47.087906587346005],"bbox":[15.447748715622218,47.087906587346005,15.447748715622218,47.087906587346005]}},{"type":"Feature","properties":{"nummer":23487,"baumbezeichnung_botanisch":"Pinus nigra","baumbezeichnung_deutsch":"Schwarzkiefer","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":2309},"geometry":{"type":"Point","coordinates":[15.447370282108766,47.08776312120687],"bbox":[15.447370282108766,47.08776312120687,15.447370282108766,47.08776312120687]}},{"type":"Feature","properties":{"nummer":23488,"baumbezeichnung_botanisch":"Pinus wallichiana","baumbezeichnung_deutsch":"Tränen - Kiefer","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":2310},"geometry":{"type":"Point","coordinates":[15.447358149887435,47.08772829890877],"bbox":[15.447358149887435,47.08772829890877,15.447358149887435,47.08772829890877]}},{"type":"Feature","properties":{"nummer":22475,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2913},"geometry":{"type":"Point","coordinates":[15.44829251578173,47.0877939747952],"bbox":[15.44829251578173,47.0877939747952,15.44829251578173,47.0877939747952]}},{"type":"Feature","properties":{"nummer":4658,"baumbezeichnung_botanisch":"Ailanthus altissima","baumbezeichnung_deutsch":"Götterbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4007},"geometry":{"type":"Point","coordinates":[15.447908077698884,47.087597819367],"bbox":[15.447908077698884,47.087597819367,15.447908077698884,47.087597819367]}},{"type":"Feature","properties":{"nummer":22480,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3773},"geometry":{"type":"Point","coordinates":[15.448103603068404,47.08787933043773],"bbox":[15.448103603068404,47.08787933043773,15.448103603068404,47.08787933043773]}},{"type":"Feature","properties":{"nummer":22472,"baumbezeichnung_botanisch":"Pyrus communis","baumbezeichnung_deutsch":"Gemeine Birne","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4604},"geometry":{"type":"Point","coordinates":[15.448606472984926,47.08783330699097],"bbox":[15.448606472984926,47.08783330699097,15.448606472984926,47.08783330699097]}},{"type":"Feature","properties":{"nummer":4642,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11876},"geometry":{"type":"Point","coordinates":[15.447612287229166,47.08799489760451],"bbox":[15.447612287229166,47.08799489760451,15.447612287229166,47.08799489760451]}},{"type":"Feature","properties":{"nummer":22482,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11137},"geometry":{"type":"Point","coordinates":[15.448290928864933,47.08788946398532],"bbox":[15.448290928864933,47.08788946398532,15.448290928864933,47.08788946398532]}},{"type":"Feature","properties":{"nummer":23749,"baumbezeichnung_botanisch":"Fagus sylvatica 'Purpurea'","baumbezeichnung_deutsch":"Purpurbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11140},"geometry":{"type":"Point","coordinates":[15.448308180695868,47.08742511060664],"bbox":[15.448308180695868,47.08742511060664,15.448308180695868,47.08742511060664]}},{"type":"Feature","properties":{"nummer":23498,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":10623},"geometry":{"type":"Point","coordinates":[15.447240342644866,47.0870478416156],"bbox":[15.447240342644866,47.0870478416156,15.447240342644866,47.0870478416156]}},{"type":"Feature","properties":{"nummer":4649,"baumbezeichnung_botanisch":"Fagus sylvatica","baumbezeichnung_deutsch":"Rotbuche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9956},"geometry":{"type":"Point","coordinates":[15.44789006369751,47.0879167435686],"bbox":[15.44789006369751,47.0879167435686,15.44789006369751,47.0879167435686]}},{"type":"Feature","properties":{"nummer":4654,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11625},"geometry":{"type":"Point","coordinates":[15.447642290937496,47.08771947664882],"bbox":[15.447642290937496,47.08771947664882,15.447642290937496,47.08771947664882]}},{"type":"Feature","properties":{"nummer":23747,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8101},"geometry":{"type":"Point","coordinates":[15.447565237543952,47.087766629121695],"bbox":[15.447565237543952,47.087766629121695,15.447565237543952,47.087766629121695]}},{"type":"Feature","properties":{"nummer":4657,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17510},"geometry":{"type":"Point","coordinates":[15.44772685400504,47.08760292519247],"bbox":[15.44772685400504,47.08760292519247,15.44772685400504,47.08760292519247]}},{"type":"Feature","properties":{"nummer":21798,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":18613},"geometry":{"type":"Point","coordinates":[15.448622103188503,47.08765761779681],"bbox":[15.448622103188503,47.08765761779681,15.448622103188503,47.08765761779681]}},{"type":"Feature","properties":{"nummer":22476,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18554},"geometry":{"type":"Point","coordinates":[15.448241064320554,47.08783047455447],"bbox":[15.448241064320554,47.08783047455447,15.448241064320554,47.08783047455447]}},{"type":"Feature","properties":{"nummer":4641,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17273},"geometry":{"type":"Point","coordinates":[15.447710681059798,47.08800217247785],"bbox":[15.447710681059798,47.08800217247785,15.447710681059798,47.08800217247785]}},{"type":"Feature","properties":{"nummer":23493,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":17328},"geometry":{"type":"Point","coordinates":[15.44732086193062,47.087365360002416],"bbox":[15.44732086193062,47.087365360002416,15.44732086193062,47.087365360002416]}},{"type":"Feature","properties":{"nummer":26711,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15821},"geometry":{"type":"Point","coordinates":[15.44727637681727,47.08717793718028],"bbox":[15.44727637681727,47.08717793718028,15.44727637681727,47.08717793718028]}},{"type":"Feature","properties":{"nummer":23549,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":15832},"geometry":{"type":"Point","coordinates":[15.448561190467139,47.08768970336023],"bbox":[15.448561190467139,47.08768970336023,15.448561190467139,47.08768970336023]}},{"type":"Feature","properties":{"nummer":22474,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16671},"geometry":{"type":"Point","coordinates":[15.448340395622505,47.08778132292333],"bbox":[15.448340395622505,47.08778132292333,15.448340395622505,47.08778132292333]}},{"type":"Feature","properties":{"nummer":4655,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16679},"geometry":{"type":"Point","coordinates":[15.447671610007358,47.08767629392979],"bbox":[15.447671610007358,47.08767629392979,15.447671610007358,47.08767629392979]}},{"type":"Feature","properties":{"nummer":22479,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":15236},"geometry":{"type":"Point","coordinates":[15.448145343188505,47.087853607985075],"bbox":[15.448145343188505,47.087853607985075,15.448145343188505,47.087853607985075]}},{"type":"Feature","properties":{"nummer":4656,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13862},"geometry":{"type":"Point","coordinates":[15.447700892939068,47.08763528143159],"bbox":[15.447700892939068,47.08763528143159,15.447700892939068,47.08763528143159]}},{"type":"Feature","properties":{"nummer":4661,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14681},"geometry":{"type":"Point","coordinates":[15.447983294264299,47.08804335614934],"bbox":[15.447983294264299,47.08804335614934,15.447983294264299,47.08804335614934]}},{"type":"Feature","properties":{"nummer":23495,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":13163},"geometry":{"type":"Point","coordinates":[15.447360253626517,47.08728969879642],"bbox":[15.447360253626517,47.08728969879642,15.447360253626517,47.08728969879642]}},{"type":"Feature","properties":{"nummer":22473,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22839},"geometry":{"type":"Point","coordinates":[15.448375413727108,47.08777762935937],"bbox":[15.448375413727108,47.08777762935937,15.448375413727108,47.08777762935937]}},{"type":"Feature","properties":{"nummer":23359,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20642},"geometry":{"type":"Point","coordinates":[15.447199451388347,47.08764578598245],"bbox":[15.447199451388347,47.08764578598245,15.447199451388347,47.08764578598245]}},{"type":"Feature","properties":{"nummer":23494,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":21474},"geometry":{"type":"Point","coordinates":[15.447340612615482,47.087324273613326],"bbox":[15.447340612615482,47.087324273613326,15.447340612615482,47.087324273613326]}},{"type":"Feature","properties":{"nummer":4659,"baumbezeichnung_botanisch":"Castanea sativa","baumbezeichnung_deutsch":"Eßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":20843},"geometry":{"type":"Point","coordinates":[15.448063922034818,47.08797235461802],"bbox":[15.448063922034818,47.08797235461802,15.448063922034818,47.08797235461802]}},{"type":"Feature","properties":{"nummer":23496,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":20161},"geometry":{"type":"Point","coordinates":[15.447393111148585,47.087224838514594],"bbox":[15.447393111148585,47.087224838514594,15.447393111148585,47.087224838514594]}},{"type":"Feature","properties":{"nummer":23746,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18696},"geometry":{"type":"Point","coordinates":[15.447578416664436,47.08773851565943],"bbox":[15.447578416664436,47.08773851565943,15.447578416664436,47.08773851565943]}},{"type":"Feature","properties":{"nummer":4653,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21195},"geometry":{"type":"Point","coordinates":[15.447619543344352,47.08774968639138],"bbox":[15.447619543344352,47.08774968639138,15.447619543344352,47.08774968639138]}},{"type":"Feature","properties":{"nummer":4639,"baumbezeichnung_botanisch":"Taxus baccata","baumbezeichnung_deutsch":"Gemeine Eibe","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":19750},"geometry":{"type":"Point","coordinates":[15.447812180233916,47.08801381237181],"bbox":[15.447812180233916,47.08801381237181,15.447812180233916,47.08801381237181]}},{"type":"Feature","properties":{"nummer":29037,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":29210},"geometry":{"type":"Point","coordinates":[15.44835688155964,47.08772109564307],"bbox":[15.44835688155964,47.08772109564307,15.44835688155964,47.08772109564307]}},{"type":"Feature","properties":{"nummer":4577,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29211},"geometry":{"type":"Point","coordinates":[15.44824297762927,47.087716223291345],"bbox":[15.44824297762927,47.087716223291345,15.44824297762927,47.087716223291345]}},{"type":"Feature","properties":{"nummer":4589,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29212},"geometry":{"type":"Point","coordinates":[15.449486167687732,47.0872685837135],"bbox":[15.449486167687732,47.0872685837135,15.449486167687732,47.0872685837135]}},{"type":"Feature","properties":{"nummer":24682,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":29214},"geometry":{"type":"Point","coordinates":[15.449520144775672,47.08733703744881],"bbox":[15.449520144775672,47.08733703744881,15.449520144775672,47.08733703744881]}},{"type":"Feature","properties":{"nummer":23751,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":29215},"geometry":{"type":"Point","coordinates":[15.44943778912692,47.087372745290885],"bbox":[15.44943778912692,47.087372745290885,15.44943778912692,47.087372745290885]}},{"type":"Feature","properties":{"nummer":19702,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1994","entnahmejahr":null,"baumpatenschaft":null,"objectid":29216},"geometry":{"type":"Point","coordinates":[15.448988879866967,47.08757133562131],"bbox":[15.448988879866967,47.08757133562131,15.448988879866967,47.08757133562131]}},{"type":"Feature","properties":{"nummer":4606,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29217},"geometry":{"type":"Point","coordinates":[15.448917376267351,47.087599141335254],"bbox":[15.448917376267351,47.087599141335254,15.448917376267351,47.087599141335254]}},{"type":"Feature","properties":{"nummer":4605,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29218},"geometry":{"type":"Point","coordinates":[15.448822719260662,47.087657286069096],"bbox":[15.448822719260662,47.087657286069096,15.448822719260662,47.087657286069096]}},{"type":"Feature","properties":{"nummer":21800,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":29219},"geometry":{"type":"Point","coordinates":[15.448698053785725,47.08771373469485],"bbox":[15.448698053785725,47.08771373469485,15.448698053785725,47.08771373469485]}},{"type":"Feature","properties":{"nummer":23748,"baumbezeichnung_botanisch":"Acer ginnala","baumbezeichnung_deutsch":"Feuerahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29221},"geometry":{"type":"Point","coordinates":[15.448021500649384,47.08775567097691],"bbox":[15.448021500649384,47.08775567097691,15.448021500649384,47.08775567097691]}},{"type":"Feature","properties":{"nummer":4609,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29222},"geometry":{"type":"Point","coordinates":[15.44913707345852,47.08750554943407],"bbox":[15.44913707345852,47.08750554943407,15.44913707345852,47.08750554943407]}},{"type":"Feature","properties":{"nummer":23752,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":29223},"geometry":{"type":"Point","coordinates":[15.449054451456322,47.08753648665347],"bbox":[15.449054451456322,47.08753648665347,15.449054451456322,47.08753648665347]}},{"type":"Feature","properties":{"nummer":30820,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":29224},"geometry":{"type":"Point","coordinates":[15.447475113334953,47.087925629985456],"bbox":[15.447475113334953,47.087925629985456,15.447475113334953,47.087925629985456]}},{"type":"Feature","properties":{"nummer":30819,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":29225},"geometry":{"type":"Point","coordinates":[15.4475378268132,47.087926116606276],"bbox":[15.4475378268132,47.087926116606276,15.4475378268132,47.087926116606276]}},{"type":"Feature","properties":{"nummer":4662,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":29226},"geometry":{"type":"Point","coordinates":[15.447767695093022,47.08832782858002],"bbox":[15.447767695093022,47.08832782858002,15.447767695093022,47.08832782858002]}},{"type":"Feature","properties":{"nummer":24307,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2004","entnahmejahr":null,"baumpatenschaft":null,"objectid":29227},"geometry":{"type":"Point","coordinates":[15.447664709242256,47.0880497442336],"bbox":[15.447664709242256,47.0880497442336,15.447664709242256,47.0880497442336]}},{"type":"Feature","properties":{"nummer":21801,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":29228},"geometry":{"type":"Point","coordinates":[15.448765056208043,47.087685056800616],"bbox":[15.448765056208043,47.087685056800616,15.448765056208043,47.087685056800616]}},{"type":"Feature","properties":{"nummer":21761,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29229},"geometry":{"type":"Point","coordinates":[15.448795104020203,47.08755345975942],"bbox":[15.448795104020203,47.08755345975942,15.448795104020203,47.08755345975942]}},{"type":"Feature","properties":{"nummer":23542,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":29230},"geometry":{"type":"Point","coordinates":[15.448900912023417,47.08750869884133],"bbox":[15.448900912023417,47.08750869884133,15.448900912023417,47.08750869884133]}},{"type":"Feature","properties":{"nummer":23543,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":29231},"geometry":{"type":"Point","coordinates":[15.448948638128623,47.08748680219581],"bbox":[15.448948638128623,47.08748680219581,15.448948638128623,47.08748680219581]}},{"type":"Feature","properties":{"nummer":4583,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29232},"geometry":{"type":"Point","coordinates":[15.449032309287812,47.08745565459937],"bbox":[15.449032309287812,47.08745565459937,15.449032309287812,47.08745565459937]}},{"type":"Feature","properties":{"nummer":4588,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29233},"geometry":{"type":"Point","coordinates":[15.44941623716616,47.08730654925098],"bbox":[15.44941623716616,47.08730654925098,15.44941623716616,47.08730654925098]}},{"type":"Feature","properties":{"nummer":4578,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29234},"geometry":{"type":"Point","coordinates":[15.448438191926682,47.087713814773956],"bbox":[15.448438191926682,47.087713814773956,15.448438191926682,47.087713814773956]}},{"type":"Feature","properties":{"nummer":30816,"baumbezeichnung_botanisch":"Populus tremula","baumbezeichnung_deutsch":"Zitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29235},"geometry":{"type":"Point","coordinates":[15.447346794368089,47.08711402326556],"bbox":[15.447346794368089,47.08711402326556,15.447346794368089,47.08711402326556]}},{"type":"Feature","properties":{"nummer":23758,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29333},"geometry":{"type":"Point","coordinates":[15.449129019439283,47.08742230339749],"bbox":[15.449129019439283,47.08742230339749,15.449129019439283,47.08742230339749]}},{"type":"Feature","properties":{"nummer":23750,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":29334},"geometry":{"type":"Point","coordinates":[15.44922762029404,47.08738595880672],"bbox":[15.44922762029404,47.08738595880672,15.44922762029404,47.08738595880672]}},{"type":"Feature","properties":{"nummer":4587,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29335},"geometry":{"type":"Point","coordinates":[15.449318088528726,47.0873525600044],"bbox":[15.449318088528726,47.0873525600044,15.449318088528726,47.0873525600044]}},{"type":"Feature","properties":{"nummer":30824,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29336},"geometry":{"type":"Point","coordinates":[15.447658524530056,47.088211457178616],"bbox":[15.447658524530056,47.088211457178616,15.447658524530056,47.088211457178616]}},{"type":"Feature","properties":{"nummer":23753,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":29337},"geometry":{"type":"Point","coordinates":[15.449266216173477,47.08745137297352],"bbox":[15.449266216173477,47.08745137297352,15.449266216173477,47.08745137297352]}},{"type":"Feature","properties":{"nummer":30818,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29338},"geometry":{"type":"Point","coordinates":[15.447407857157105,47.08733940255692],"bbox":[15.447407857157105,47.08733940255692,15.447407857157105,47.08733940255692]}},{"type":"Feature","properties":{"nummer":30823,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29339},"geometry":{"type":"Point","coordinates":[15.44763114731054,47.08818149540685],"bbox":[15.44763114731054,47.08818149540685,15.44763114731054,47.08818149540685]}},{"type":"Feature","properties":{"nummer":30822,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29340},"geometry":{"type":"Point","coordinates":[15.447607530167101,47.088134903043944],"bbox":[15.447607530167101,47.088134903043944,15.447607530167101,47.088134903043944]}},{"type":"Feature","properties":{"nummer":30817,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29341},"geometry":{"type":"Point","coordinates":[15.447391512834614,47.087190767196766],"bbox":[15.447391512834614,47.087190767196766,15.447391512834614,47.087190767196766]}},{"type":"Feature","properties":{"nummer":30821,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":29342},"geometry":{"type":"Point","coordinates":[15.447585773948576,47.088081185732186],"bbox":[15.447585773948576,47.088081185732186,15.447585773948576,47.088081185732186]}},{"type":"Feature","properties":{"nummer":30825,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2012","baumpatenschaft":null,"objectid":29347},"geometry":{"type":"Point","coordinates":[15.447678324848283,47.08824499776649],"bbox":[15.447678324848283,47.08824499776649,15.447678324848283,47.08824499776649]}},{"type":"Feature","properties":{"nummer":31032,"baumbezeichnung_botanisch":"Malus 'Frucht'","baumbezeichnung_deutsch":"Fruchtapfelbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":26874},"geometry":{"type":"Point","coordinates":[15.447755492385,47.0881739893989],"bbox":[15.447755492385,47.0881739893989,15.447755492385,47.0881739893989]}},{"type":"Feature","properties":{"nummer":31031,"baumbezeichnung_botanisch":"Prunus 'Hedelfinger Riesenkirsche'","baumbezeichnung_deutsch":"Fruchtkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":26878},"geometry":{"type":"Point","coordinates":[15.447704868964944,47.08816057363627],"bbox":[15.447704868964944,47.08816057363627,15.447704868964944,47.08816057363627]}},{"type":"Feature","properties":{"nummer":23489,"baumbezeichnung_botanisch":"Pinus wallichiana","baumbezeichnung_deutsch":"Tränen - Kiefer","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":26244},"geometry":{"type":"Point","coordinates":[15.447358201349882,47.08768942353992],"bbox":[15.447358201349882,47.08768942353992,15.447358201349882,47.08768942353992]}},{"type":"Feature","properties":{"nummer":4637,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25924},"geometry":{"type":"Point","coordinates":[15.447881218974645,47.08806644008047],"bbox":[15.447881218974645,47.08806644008047,15.447881218974645,47.08806644008047]}},{"type":"Feature","properties":{"nummer":31033,"baumbezeichnung_botanisch":"Prunus 'Hedelfinger Riesenkirsche'","baumbezeichnung_deutsch":"Fruchtkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":27298},"geometry":{"type":"Point","coordinates":[15.447725745817543,47.08811298529579],"bbox":[15.447725745817543,47.08811298529579,15.447725745817543,47.08811298529579]}},{"type":"Feature","properties":{"nummer":4648,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25198},"geometry":{"type":"Point","coordinates":[15.44796289192295,47.08793250196928],"bbox":[15.44796289192295,47.08793250196928,15.44796289192295,47.08793250196928]}},{"type":"Feature","properties":{"nummer":30984,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":26801},"geometry":{"type":"Point","coordinates":[15.44812131998971,47.087665435665755],"bbox":[15.44812131998971,47.087665435665755,15.44812131998971,47.087665435665755]}},{"type":"Feature","properties":{"nummer":30985,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":26802},"geometry":{"type":"Point","coordinates":[15.44921472930571,47.08747737295864],"bbox":[15.44921472930571,47.08747737295864,15.44921472930571,47.08747737295864]}},{"type":"Feature","properties":{"nummer":30986,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":26803},"geometry":{"type":"Point","coordinates":[15.449358176318848,47.087413787696725],"bbox":[15.449358176318848,47.087413787696725,15.449358176318848,47.087413787696725]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4647,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44762286641565,
+          47.0879320349246
+        ],
+        "bbox": [
+          15.44762286641565,
+          47.0879320349246,
+          15.44762286641565,
+          47.0879320349246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23492,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447300822364308,
+          47.0874238082187
+        ],
+        "bbox": [
+          15.447300822364308,
+          47.0874238082187,
+          15.447300822364308,
+          47.0874238082187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4645,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447819473447021,
+          47.087957435712305
+        ],
+        "bbox": [
+          15.447819473447021,
+          47.087957435712305,
+          15.447819473447021,
+          47.087957435712305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19701,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448642723131185,
+          47.08775544959649
+        ],
+        "bbox": [
+          15.448642723131185,
+          47.08775544959649,
+          15.448642723131185,
+          47.08775544959649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23499,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447189828751549,
+          47.087027914943725
+        ],
+        "bbox": [
+          15.447189828751549,
+          47.087027914943725,
+          15.447189828751549,
+          47.087027914943725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23497,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4473064548891,
+          47.087085253401895
+        ],
+        "bbox": [
+          15.4473064548891,
+          47.087085253401895,
+          15.4473064548891,
+          47.087085253401895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4646,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447699126017607,
+          47.087932626552714
+        ],
+        "bbox": [
+          15.447699126017607,
+          47.087932626552714,
+          15.447699126017607,
+          47.087932626552714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22481,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44822084522901,
+          47.087899774078885
+        ],
+        "bbox": [
+          15.44822084522901,
+          47.087899774078885,
+          15.44822084522901,
+          47.087899774078885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22483,
+        "baumbezeichnung_botanisch": "Corylus avellana",
+        "baumbezeichnung_deutsch": "Waldhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448348305154763,
+          47.08787905714024
+        ],
+        "bbox": [
+          15.448348305154763,
+          47.08787905714024,
+          15.448348305154763,
+          47.08787905714024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21762,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Crimson King'",
+        "baumbezeichnung_deutsch": "Blutahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447748715622218,
+          47.087906587346005
+        ],
+        "bbox": [
+          15.447748715622218,
+          47.087906587346005,
+          15.447748715622218,
+          47.087906587346005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23487,
+        "baumbezeichnung_botanisch": "Pinus nigra",
+        "baumbezeichnung_deutsch": "Schwarzkiefer",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447370282108766,
+          47.08776312120687
+        ],
+        "bbox": [
+          15.447370282108766,
+          47.08776312120687,
+          15.447370282108766,
+          47.08776312120687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23488,
+        "baumbezeichnung_botanisch": "Pinus wallichiana",
+        "baumbezeichnung_deutsch": "Tränen - Kiefer",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447358149887435,
+          47.08772829890877
+        ],
+        "bbox": [
+          15.447358149887435,
+          47.08772829890877,
+          15.447358149887435,
+          47.08772829890877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22475,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44829251578173,
+          47.0877939747952
+        ],
+        "bbox": [
+          15.44829251578173,
+          47.0877939747952,
+          15.44829251578173,
+          47.0877939747952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4658,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447908077698884,
+          47.087597819367
+        ],
+        "bbox": [
+          15.447908077698884,
+          47.087597819367,
+          15.447908077698884,
+          47.087597819367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22480,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448103603068404,
+          47.08787933043773
+        ],
+        "bbox": [
+          15.448103603068404,
+          47.08787933043773,
+          15.448103603068404,
+          47.08787933043773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22472,
+        "baumbezeichnung_botanisch": "Pyrus communis",
+        "baumbezeichnung_deutsch": "Gemeine Birne",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448606472984926,
+          47.08783330699097
+        ],
+        "bbox": [
+          15.448606472984926,
+          47.08783330699097,
+          15.448606472984926,
+          47.08783330699097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4642,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447612287229166,
+          47.08799489760451
+        ],
+        "bbox": [
+          15.447612287229166,
+          47.08799489760451,
+          15.447612287229166,
+          47.08799489760451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22482,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448290928864933,
+          47.08788946398532
+        ],
+        "bbox": [
+          15.448290928864933,
+          47.08788946398532,
+          15.448290928864933,
+          47.08788946398532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23749,
+        "baumbezeichnung_botanisch": "Fagus sylvatica 'Purpurea'",
+        "baumbezeichnung_deutsch": "Purpurbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448308180695868,
+          47.08742511060664
+        ],
+        "bbox": [
+          15.448308180695868,
+          47.08742511060664,
+          15.448308180695868,
+          47.08742511060664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23498,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447240342644866,
+          47.0870478416156
+        ],
+        "bbox": [
+          15.447240342644866,
+          47.0870478416156,
+          15.447240342644866,
+          47.0870478416156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4649,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9956
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44789006369751,
+          47.0879167435686
+        ],
+        "bbox": [
+          15.44789006369751,
+          47.0879167435686,
+          15.44789006369751,
+          47.0879167435686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4654,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447642290937496,
+          47.08771947664882
+        ],
+        "bbox": [
+          15.447642290937496,
+          47.08771947664882,
+          15.447642290937496,
+          47.08771947664882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23747,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447565237543952,
+          47.087766629121695
+        ],
+        "bbox": [
+          15.447565237543952,
+          47.087766629121695,
+          15.447565237543952,
+          47.087766629121695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4657,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44772685400504,
+          47.08760292519247
+        ],
+        "bbox": [
+          15.44772685400504,
+          47.08760292519247,
+          15.44772685400504,
+          47.08760292519247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21798,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448622103188503,
+          47.08765761779681
+        ],
+        "bbox": [
+          15.448622103188503,
+          47.08765761779681,
+          15.448622103188503,
+          47.08765761779681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22476,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448241064320554,
+          47.08783047455447
+        ],
+        "bbox": [
+          15.448241064320554,
+          47.08783047455447,
+          15.448241064320554,
+          47.08783047455447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4641,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447710681059798,
+          47.08800217247785
+        ],
+        "bbox": [
+          15.447710681059798,
+          47.08800217247785,
+          15.447710681059798,
+          47.08800217247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23493,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44732086193062,
+          47.087365360002416
+        ],
+        "bbox": [
+          15.44732086193062,
+          47.087365360002416,
+          15.44732086193062,
+          47.087365360002416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26711,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15821
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44727637681727,
+          47.08717793718028
+        ],
+        "bbox": [
+          15.44727637681727,
+          47.08717793718028,
+          15.44727637681727,
+          47.08717793718028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23549,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448561190467139,
+          47.08768970336023
+        ],
+        "bbox": [
+          15.448561190467139,
+          47.08768970336023,
+          15.448561190467139,
+          47.08768970336023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22474,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448340395622505,
+          47.08778132292333
+        ],
+        "bbox": [
+          15.448340395622505,
+          47.08778132292333,
+          15.448340395622505,
+          47.08778132292333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4655,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16679
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447671610007358,
+          47.08767629392979
+        ],
+        "bbox": [
+          15.447671610007358,
+          47.08767629392979,
+          15.447671610007358,
+          47.08767629392979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22479,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 15236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448145343188505,
+          47.087853607985075
+        ],
+        "bbox": [
+          15.448145343188505,
+          47.087853607985075,
+          15.448145343188505,
+          47.087853607985075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4656,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447700892939068,
+          47.08763528143159
+        ],
+        "bbox": [
+          15.447700892939068,
+          47.08763528143159,
+          15.447700892939068,
+          47.08763528143159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4661,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14681
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447983294264299,
+          47.08804335614934
+        ],
+        "bbox": [
+          15.447983294264299,
+          47.08804335614934,
+          15.447983294264299,
+          47.08804335614934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23495,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447360253626517,
+          47.08728969879642
+        ],
+        "bbox": [
+          15.447360253626517,
+          47.08728969879642,
+          15.447360253626517,
+          47.08728969879642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22473,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448375413727108,
+          47.08777762935937
+        ],
+        "bbox": [
+          15.448375413727108,
+          47.08777762935937,
+          15.448375413727108,
+          47.08777762935937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23359,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447199451388347,
+          47.08764578598245
+        ],
+        "bbox": [
+          15.447199451388347,
+          47.08764578598245,
+          15.447199451388347,
+          47.08764578598245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23494,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447340612615482,
+          47.087324273613326
+        ],
+        "bbox": [
+          15.447340612615482,
+          47.087324273613326,
+          15.447340612615482,
+          47.087324273613326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4659,
+        "baumbezeichnung_botanisch": "Castanea sativa",
+        "baumbezeichnung_deutsch": "Eßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 20843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448063922034818,
+          47.08797235461802
+        ],
+        "bbox": [
+          15.448063922034818,
+          47.08797235461802,
+          15.448063922034818,
+          47.08797235461802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23496,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447393111148585,
+          47.087224838514594
+        ],
+        "bbox": [
+          15.447393111148585,
+          47.087224838514594,
+          15.447393111148585,
+          47.087224838514594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23746,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18696
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447578416664436,
+          47.08773851565943
+        ],
+        "bbox": [
+          15.447578416664436,
+          47.08773851565943,
+          15.447578416664436,
+          47.08773851565943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4653,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447619543344352,
+          47.08774968639138
+        ],
+        "bbox": [
+          15.447619543344352,
+          47.08774968639138,
+          15.447619543344352,
+          47.08774968639138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4639,
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 19750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447812180233916,
+          47.08801381237181
+        ],
+        "bbox": [
+          15.447812180233916,
+          47.08801381237181,
+          15.447812180233916,
+          47.08801381237181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29037,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44835688155964,
+          47.08772109564307
+        ],
+        "bbox": [
+          15.44835688155964,
+          47.08772109564307,
+          15.44835688155964,
+          47.08772109564307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4577,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44824297762927,
+          47.087716223291345
+        ],
+        "bbox": [
+          15.44824297762927,
+          47.087716223291345,
+          15.44824297762927,
+          47.087716223291345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4589,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449486167687732,
+          47.0872685837135
+        ],
+        "bbox": [
+          15.449486167687732,
+          47.0872685837135,
+          15.449486167687732,
+          47.0872685837135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24682,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449520144775672,
+          47.08733703744881
+        ],
+        "bbox": [
+          15.449520144775672,
+          47.08733703744881,
+          15.449520144775672,
+          47.08733703744881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23751,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44943778912692,
+          47.087372745290885
+        ],
+        "bbox": [
+          15.44943778912692,
+          47.087372745290885,
+          15.44943778912692,
+          47.087372745290885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19702,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448988879866967,
+          47.08757133562131
+        ],
+        "bbox": [
+          15.448988879866967,
+          47.08757133562131,
+          15.448988879866967,
+          47.08757133562131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4606,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448917376267351,
+          47.087599141335254
+        ],
+        "bbox": [
+          15.448917376267351,
+          47.087599141335254,
+          15.448917376267351,
+          47.087599141335254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4605,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448822719260662,
+          47.087657286069096
+        ],
+        "bbox": [
+          15.448822719260662,
+          47.087657286069096,
+          15.448822719260662,
+          47.087657286069096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21800,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448698053785725,
+          47.08771373469485
+        ],
+        "bbox": [
+          15.448698053785725,
+          47.08771373469485,
+          15.448698053785725,
+          47.08771373469485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23748,
+        "baumbezeichnung_botanisch": "Acer ginnala",
+        "baumbezeichnung_deutsch": "Feuerahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448021500649384,
+          47.08775567097691
+        ],
+        "bbox": [
+          15.448021500649384,
+          47.08775567097691,
+          15.448021500649384,
+          47.08775567097691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4609,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44913707345852,
+          47.08750554943407
+        ],
+        "bbox": [
+          15.44913707345852,
+          47.08750554943407,
+          15.44913707345852,
+          47.08750554943407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23752,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449054451456322,
+          47.08753648665347
+        ],
+        "bbox": [
+          15.449054451456322,
+          47.08753648665347,
+          15.449054451456322,
+          47.08753648665347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30820,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 29224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447475113334953,
+          47.087925629985456
+        ],
+        "bbox": [
+          15.447475113334953,
+          47.087925629985456,
+          15.447475113334953,
+          47.087925629985456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30819,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 29225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4475378268132,
+          47.087926116606276
+        ],
+        "bbox": [
+          15.4475378268132,
+          47.087926116606276,
+          15.4475378268132,
+          47.087926116606276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4662,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 29226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447767695093022,
+          47.08832782858002
+        ],
+        "bbox": [
+          15.447767695093022,
+          47.08832782858002,
+          15.447767695093022,
+          47.08832782858002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24307,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447664709242256,
+          47.0880497442336
+        ],
+        "bbox": [
+          15.447664709242256,
+          47.0880497442336,
+          15.447664709242256,
+          47.0880497442336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21801,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448765056208043,
+          47.087685056800616
+        ],
+        "bbox": [
+          15.448765056208043,
+          47.087685056800616,
+          15.448765056208043,
+          47.087685056800616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21761,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448795104020203,
+          47.08755345975942
+        ],
+        "bbox": [
+          15.448795104020203,
+          47.08755345975942,
+          15.448795104020203,
+          47.08755345975942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23542,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448900912023417,
+          47.08750869884133
+        ],
+        "bbox": [
+          15.448900912023417,
+          47.08750869884133,
+          15.448900912023417,
+          47.08750869884133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23543,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448948638128623,
+          47.08748680219581
+        ],
+        "bbox": [
+          15.448948638128623,
+          47.08748680219581,
+          15.448948638128623,
+          47.08748680219581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4583,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449032309287812,
+          47.08745565459937
+        ],
+        "bbox": [
+          15.449032309287812,
+          47.08745565459937,
+          15.449032309287812,
+          47.08745565459937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4588,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44941623716616,
+          47.08730654925098
+        ],
+        "bbox": [
+          15.44941623716616,
+          47.08730654925098,
+          15.44941623716616,
+          47.08730654925098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4578,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448438191926682,
+          47.087713814773956
+        ],
+        "bbox": [
+          15.448438191926682,
+          47.087713814773956,
+          15.448438191926682,
+          47.087713814773956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30816,
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447346794368089,
+          47.08711402326556
+        ],
+        "bbox": [
+          15.447346794368089,
+          47.08711402326556,
+          15.447346794368089,
+          47.08711402326556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23758,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449129019439283,
+          47.08742230339749
+        ],
+        "bbox": [
+          15.449129019439283,
+          47.08742230339749,
+          15.449129019439283,
+          47.08742230339749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23750,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44922762029404,
+          47.08738595880672
+        ],
+        "bbox": [
+          15.44922762029404,
+          47.08738595880672,
+          15.44922762029404,
+          47.08738595880672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4587,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449318088528726,
+          47.0873525600044
+        ],
+        "bbox": [
+          15.449318088528726,
+          47.0873525600044,
+          15.449318088528726,
+          47.0873525600044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30824,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447658524530056,
+          47.088211457178616
+        ],
+        "bbox": [
+          15.447658524530056,
+          47.088211457178616,
+          15.447658524530056,
+          47.088211457178616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23753,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449266216173477,
+          47.08745137297352
+        ],
+        "bbox": [
+          15.449266216173477,
+          47.08745137297352,
+          15.449266216173477,
+          47.08745137297352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30818,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447407857157105,
+          47.08733940255692
+        ],
+        "bbox": [
+          15.447407857157105,
+          47.08733940255692,
+          15.447407857157105,
+          47.08733940255692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30823,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44763114731054,
+          47.08818149540685
+        ],
+        "bbox": [
+          15.44763114731054,
+          47.08818149540685,
+          15.44763114731054,
+          47.08818149540685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30822,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447607530167101,
+          47.088134903043944
+        ],
+        "bbox": [
+          15.447607530167101,
+          47.088134903043944,
+          15.447607530167101,
+          47.088134903043944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30817,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447391512834614,
+          47.087190767196766
+        ],
+        "bbox": [
+          15.447391512834614,
+          47.087190767196766,
+          15.447391512834614,
+          47.087190767196766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30821,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 29342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447585773948576,
+          47.088081185732186
+        ],
+        "bbox": [
+          15.447585773948576,
+          47.088081185732186,
+          15.447585773948576,
+          47.088081185732186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30825,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 29347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447678324848283,
+          47.08824499776649
+        ],
+        "bbox": [
+          15.447678324848283,
+          47.08824499776649,
+          15.447678324848283,
+          47.08824499776649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31032,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26874
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447755492385,
+          47.0881739893989
+        ],
+        "bbox": [
+          15.447755492385,
+          47.0881739893989,
+          15.447755492385,
+          47.0881739893989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31031,
+        "baumbezeichnung_botanisch": "Prunus 'Hedelfinger Riesenkirsche'",
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447704868964944,
+          47.08816057363627
+        ],
+        "bbox": [
+          15.447704868964944,
+          47.08816057363627,
+          15.447704868964944,
+          47.08816057363627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23489,
+        "baumbezeichnung_botanisch": "Pinus wallichiana",
+        "baumbezeichnung_deutsch": "Tränen - Kiefer",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447358201349882,
+          47.08768942353992
+        ],
+        "bbox": [
+          15.447358201349882,
+          47.08768942353992,
+          15.447358201349882,
+          47.08768942353992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4637,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447881218974645,
+          47.08806644008047
+        ],
+        "bbox": [
+          15.447881218974645,
+          47.08806644008047,
+          15.447881218974645,
+          47.08806644008047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31033,
+        "baumbezeichnung_botanisch": "Prunus 'Hedelfinger Riesenkirsche'",
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447725745817543,
+          47.08811298529579
+        ],
+        "bbox": [
+          15.447725745817543,
+          47.08811298529579,
+          15.447725745817543,
+          47.08811298529579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4648,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44796289192295,
+          47.08793250196928
+        ],
+        "bbox": [
+          15.44796289192295,
+          47.08793250196928,
+          15.44796289192295,
+          47.08793250196928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30984,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44812131998971,
+          47.087665435665755
+        ],
+        "bbox": [
+          15.44812131998971,
+          47.087665435665755,
+          15.44812131998971,
+          47.087665435665755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30985,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26802
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44921472930571,
+          47.08747737295864
+        ],
+        "bbox": [
+          15.44921472930571,
+          47.08747737295864,
+          15.44921472930571,
+          47.08747737295864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30986,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449358176318848,
+          47.087413787696725
+        ],
+        "bbox": [
+          15.449358176318848,
+          47.087413787696725,
+          15.449358176318848,
+          47.087413787696725
+        ]
+      }
+    }
+  ]
+}

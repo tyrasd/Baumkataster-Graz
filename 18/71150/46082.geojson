@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29663,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9084},"geometry":{"type":"Point","coordinates":[15.421831657330165,47.03458939479375],"bbox":[15.421831657330165,47.03458939479375,15.421831657330165,47.03458939479375]}},{"type":"Feature","properties":{"nummer":29664,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9085},"geometry":{"type":"Point","coordinates":[15.42199767453095,47.03460911896637],"bbox":[15.42199767453095,47.03460911896637,15.42199767453095,47.03460911896637]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29663,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421831657330165,
+          47.03458939479375
+        ],
+        "bbox": [
+          15.421831657330165,
+          47.03458939479375,
+          15.421831657330165,
+          47.03458939479375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29664,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42199767453095,
+          47.03460911896637
+        ],
+        "bbox": [
+          15.42199767453095,
+          47.03460911896637,
+          15.42199767453095,
+          47.03460911896637
+        ]
+      }
+    }
+  ]
+}

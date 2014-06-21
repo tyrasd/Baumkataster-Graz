@@ -1,1 +1,365 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":25281,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7995},"geometry":{"type":"Point","coordinates":[15.447331726873054,47.081338960990294],"bbox":[15.447331726873054,47.081338960990294,15.447331726873054,47.081338960990294]}},{"type":"Feature","properties":{"nummer":31622,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7365},"geometry":{"type":"Point","coordinates":[15.448574146513577,47.081030824206486],"bbox":[15.448574146513577,47.081030824206486,15.448574146513577,47.081030824206486]}},{"type":"Feature","properties":{"nummer":25282,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7675},"geometry":{"type":"Point","coordinates":[15.447318294247777,47.081328570870404],"bbox":[15.447318294247777,47.081328570870404,15.447318294247777,47.081328570870404]}},{"type":"Feature","properties":{"nummer":31623,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14201},"geometry":{"type":"Point","coordinates":[15.448556261704887,47.08099680024874],"bbox":[15.448556261704887,47.08099680024874,15.448556261704887,47.08099680024874]}},{"type":"Feature","properties":{"nummer":31625,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24721},"geometry":{"type":"Point","coordinates":[15.44851830782962,47.080963062397785],"bbox":[15.44851830782962,47.080963062397785,15.44851830782962,47.080963062397785]}},{"type":"Feature","properties":{"nummer":31618,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":30001},"geometry":{"type":"Point","coordinates":[15.448052032309004,47.081206148175745],"bbox":[15.448052032309004,47.081206148175745,15.448052032309004,47.081206148175745]}},{"type":"Feature","properties":{"nummer":31619,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":30002},"geometry":{"type":"Point","coordinates":[15.448108979560976,47.08123871928172],"bbox":[15.448108979560976,47.08123871928172,15.448108979560976,47.08123871928172]}},{"type":"Feature","properties":{"nummer":31620,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":30003},"geometry":{"type":"Point","coordinates":[15.448167351149232,47.08129034127634],"bbox":[15.448167351149232,47.08129034127634,15.448167351149232,47.08129034127634]}},{"type":"Feature","properties":{"nummer":31621,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17925},"geometry":{"type":"Point","coordinates":[15.44820643369005,47.0813076665858],"bbox":[15.44820643369005,47.0813076665858,15.44820643369005,47.0813076665858]}},{"type":"Feature","properties":{"nummer":31624,"baumbezeichnung_botanisch":"Taxus baccata","baumbezeichnung_deutsch":"Gemeine Eibe","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":30004},"geometry":{"type":"Point","coordinates":[15.448512086734622,47.080987189341506],"bbox":[15.448512086734622,47.080987189341506,15.448512086734622,47.080987189341506]}},{"type":"Feature","properties":{"nummer":31626,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":30005},"geometry":{"type":"Point","coordinates":[15.448479704312025,47.08094409930544],"bbox":[15.448479704312025,47.08094409930544,15.448479704312025,47.08094409930544]}},{"type":"Feature","properties":{"nummer":31627,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":30006},"geometry":{"type":"Point","coordinates":[15.448441779925641,47.08092000617619],"bbox":[15.448441779925641,47.08092000617619,15.448441779925641,47.08092000617619]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-77","objectid":"Naturdenkmal-123","baumbezeichnung_deutsch":"Paulownia","baumbezeichnung_botanisch":"Paulownia tomentosa"},"geometry":{"type":"Point","coordinates":[15.448980994149265,47.080947811039195],"bbox":[15.448980994149265,47.080947811039195,15.448980994149265,47.080947811039195]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25281,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7995
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447331726873054,
+          47.081338960990294
+        ],
+        "bbox": [
+          15.447331726873054,
+          47.081338960990294,
+          15.447331726873054,
+          47.081338960990294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31622,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448574146513577,
+          47.081030824206486
+        ],
+        "bbox": [
+          15.448574146513577,
+          47.081030824206486,
+          15.448574146513577,
+          47.081030824206486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25282,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7675
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447318294247777,
+          47.081328570870404
+        ],
+        "bbox": [
+          15.447318294247777,
+          47.081328570870404,
+          15.447318294247777,
+          47.081328570870404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31623,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448556261704887,
+          47.08099680024874
+        ],
+        "bbox": [
+          15.448556261704887,
+          47.08099680024874,
+          15.448556261704887,
+          47.08099680024874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31625,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44851830782962,
+          47.080963062397785
+        ],
+        "bbox": [
+          15.44851830782962,
+          47.080963062397785,
+          15.44851830782962,
+          47.080963062397785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31618,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448052032309004,
+          47.081206148175745
+        ],
+        "bbox": [
+          15.448052032309004,
+          47.081206148175745,
+          15.448052032309004,
+          47.081206148175745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31619,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30002
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448108979560976,
+          47.08123871928172
+        ],
+        "bbox": [
+          15.448108979560976,
+          47.08123871928172,
+          15.448108979560976,
+          47.08123871928172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31620,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448167351149232,
+          47.08129034127634
+        ],
+        "bbox": [
+          15.448167351149232,
+          47.08129034127634,
+          15.448167351149232,
+          47.08129034127634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31621,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17925
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44820643369005,
+          47.0813076665858
+        ],
+        "bbox": [
+          15.44820643369005,
+          47.0813076665858,
+          15.44820643369005,
+          47.0813076665858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31624,
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30004
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448512086734622,
+          47.080987189341506
+        ],
+        "bbox": [
+          15.448512086734622,
+          47.080987189341506,
+          15.448512086734622,
+          47.080987189341506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31626,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448479704312025,
+          47.08094409930544
+        ],
+        "bbox": [
+          15.448479704312025,
+          47.08094409930544,
+          15.448479704312025,
+          47.08094409930544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31627,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30006
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448441779925641,
+          47.08092000617619
+        ],
+        "bbox": [
+          15.448441779925641,
+          47.08092000617619,
+          15.448441779925641,
+          47.08092000617619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-77",
+        "objectid": "Naturdenkmal-123",
+        "baumbezeichnung_deutsch": "Paulownia",
+        "baumbezeichnung_botanisch": "Paulownia tomentosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448980994149265,
+          47.080947811039195
+        ],
+        "bbox": [
+          15.448980994149265,
+          47.080947811039195,
+          15.448980994149265,
+          47.080947811039195
+        ]
+      }
+    }
+  ]
+}

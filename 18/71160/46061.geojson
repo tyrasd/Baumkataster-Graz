@@ -1,1 +1,29 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-13","objectid":"Naturdenkmal-63","baumbezeichnung_deutsch":"Mädchenhaarbaum","baumbezeichnung_botanisch":"Ginkgo biloba"},"geometry":{"type":"Point","coordinates":[15.448408204719627,47.07423166491191],"bbox":[15.448408204719627,47.07423166491191,15.448408204719627,47.07423166491191]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-13",
+        "objectid": "Naturdenkmal-63",
+        "baumbezeichnung_deutsch": "Mädchenhaarbaum",
+        "baumbezeichnung_botanisch": "Ginkgo biloba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448408204719627,
+          47.07423166491191
+        ],
+        "bbox": [
+          15.448408204719627,
+          47.07423166491191,
+          15.448408204719627,
+          47.07423166491191
+        ]
+      }
+    }
+  ]
+}

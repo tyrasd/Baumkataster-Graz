@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29954,"baumbezeichnung_botanisch":"Acer pseudoplatanus 'Erectum'","baumbezeichnung_deutsch":"Schmalkroniger Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":4241},"geometry":{"type":"Point","coordinates":[15.402412522370094,47.090796970415475],"bbox":[15.402412522370094,47.090796970415475,15.402412522370094,47.090796970415475]}},{"type":"Feature","properties":{"nummer":27690,"baumbezeichnung_botanisch":"Acer pseudoplatanus 'Erectum'","baumbezeichnung_deutsch":"Schmalkroniger Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":4278},"geometry":{"type":"Point","coordinates":[15.402339069361647,47.09089246132726],"bbox":[15.402339069361647,47.09089246132726,15.402339069361647,47.09089246132726]}},{"type":"Feature","properties":{"nummer":20147,"baumbezeichnung_botanisch":"Acer pseudoplatanus 'Erectum'","baumbezeichnung_deutsch":"Schmalkroniger Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":6667},"geometry":{"type":"Point","coordinates":[15.402287869360215,47.09098591006882],"bbox":[15.402287869360215,47.09098591006882,15.402287869360215,47.09098591006882]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29954,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus 'Erectum'",
+        "baumbezeichnung_deutsch": "Schmalkroniger Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402412522370094,
+          47.090796970415475
+        ],
+        "bbox": [
+          15.402412522370094,
+          47.090796970415475,
+          15.402412522370094,
+          47.090796970415475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27690,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus 'Erectum'",
+        "baumbezeichnung_deutsch": "Schmalkroniger Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402339069361647,
+          47.09089246132726
+        ],
+        "bbox": [
+          15.402339069361647,
+          47.09089246132726,
+          15.402339069361647,
+          47.09089246132726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20147,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus 'Erectum'",
+        "baumbezeichnung_deutsch": "Schmalkroniger Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402287869360215,
+          47.09098591006882
+        ],
+        "bbox": [
+          15.402287869360215,
+          47.09098591006882,
+          15.402287869360215,
+          47.09098591006882
+        ]
+      }
+    }
+  ]
+}

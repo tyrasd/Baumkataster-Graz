@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":30339,"baumbezeichnung_botanisch":"Quercus cerris","baumbezeichnung_deutsch":"Zerr - Eiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27349},"geometry":{"type":"Point","coordinates":[15.428092369736152,47.078343258422905],"bbox":[15.428092369736152,47.078343258422905,15.428092369736152,47.078343258422905]}},{"type":"Feature","properties":{"nummer":30248,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27430},"geometry":{"type":"Point","coordinates":[15.42755372800212,47.0787254139905],"bbox":[15.42755372800212,47.0787254139905,15.42755372800212,47.0787254139905]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30339,
+        "baumbezeichnung_botanisch": "Quercus cerris",
+        "baumbezeichnung_deutsch": "Zerr - Eiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428092369736152,
+          47.078343258422905
+        ],
+        "bbox": [
+          15.428092369736152,
+          47.078343258422905,
+          15.428092369736152,
+          47.078343258422905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30248,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42755372800212,
+          47.0787254139905
+        ],
+        "bbox": [
+          15.42755372800212,
+          47.0787254139905,
+          15.42755372800212,
+          47.0787254139905
+        ]
+      }
+    }
+  ]
+}

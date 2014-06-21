@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":31366,"baumbezeichnung_botanisch":"Prunus serrulata 'Amanogawa'","baumbezeichnung_deutsch":"Japanische Säulenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":"Baumpate Kr. H. Bäck","objectid":28319},"geometry":{"type":"Point","coordinates":[15.456434359827762,47.034832181229085],"bbox":[15.456434359827762,47.034832181229085,15.456434359827762,47.034832181229085]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31366,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Amanogawa'",
+        "baumbezeichnung_deutsch": "Japanische Säulenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Baumpate Kr. H. Bäck",
+        "objectid": 28319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456434359827762,
+          47.034832181229085
+        ],
+        "bbox": [
+          15.456434359827762,
+          47.034832181229085,
+          15.456434359827762,
+          47.034832181229085
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,145 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29980,"baumbezeichnung_botanisch":"Gleditsia triacanthos 'Inermis'","baumbezeichnung_deutsch":"dornenloser Christusdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":8088},"geometry":{"type":"Point","coordinates":[15.450811059045204,47.06525726272116],"bbox":[15.450811059045204,47.06525726272116,15.450811059045204,47.06525726272116]}},{"type":"Feature","properties":{"nummer":29981,"baumbezeichnung_botanisch":"Gleditsia triacanthos 'Inermis'","baumbezeichnung_deutsch":"dornenloser Christusdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":8089},"geometry":{"type":"Point","coordinates":[15.4511293393106,47.065206574480825],"bbox":[15.4511293393106,47.065206574480825,15.4511293393106,47.065206574480825]}},{"type":"Feature","properties":{"nummer":29982,"baumbezeichnung_botanisch":"Gleditsia triacanthos 'Inermis'","baumbezeichnung_deutsch":"dornenloser Christusdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7591},"geometry":{"type":"Point","coordinates":[15.451432904539914,47.065155770774716],"bbox":[15.451432904539914,47.065155770774716,15.451432904539914,47.065155770774716]}},{"type":"Feature","properties":{"nummer":29983,"baumbezeichnung_botanisch":"Gleditsia triacanthos 'Inermis'","baumbezeichnung_deutsch":"dornenloser Christusdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7592},"geometry":{"type":"Point","coordinates":[15.451580892836157,47.06471959207676],"bbox":[15.451580892836157,47.06471959207676,15.451580892836157,47.06471959207676]}},{"type":"Feature","properties":{"nummer":29984,"baumbezeichnung_botanisch":"Gleditsia triacanthos 'Inermis'","baumbezeichnung_deutsch":"dornenloser Christusdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":7593},"geometry":{"type":"Point","coordinates":[15.451510939471898,47.064579893932326],"bbox":[15.451510939471898,47.064579893932326,15.451510939471898,47.064579893932326]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29980,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450811059045204,
+          47.06525726272116
+        ],
+        "bbox": [
+          15.450811059045204,
+          47.06525726272116,
+          15.450811059045204,
+          47.06525726272116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29981,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4511293393106,
+          47.065206574480825
+        ],
+        "bbox": [
+          15.4511293393106,
+          47.065206574480825,
+          15.4511293393106,
+          47.065206574480825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29982,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.451432904539914,
+          47.065155770774716
+        ],
+        "bbox": [
+          15.451432904539914,
+          47.065155770774716,
+          15.451432904539914,
+          47.065155770774716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29983,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.451580892836157,
+          47.06471959207676
+        ],
+        "bbox": [
+          15.451580892836157,
+          47.06471959207676,
+          15.451580892836157,
+          47.06471959207676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29984,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.451510939471898,
+          47.064579893932326
+        ],
+        "bbox": [
+          15.451510939471898,
+          47.064579893932326,
+          15.451510939471898,
+          47.064579893932326
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,113 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":11211,"baumbezeichnung_botanisch":"Prunus domestica","baumbezeichnung_deutsch":"Pflaume","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15387},"geometry":{"type":"Point","coordinates":[15.460425694616097,47.08950687765799],"bbox":[15.460425694616097,47.08950687765799,15.460425694616097,47.08950687765799]}},{"type":"Feature","properties":{"nummer":11210,"baumbezeichnung_botanisch":"Prunus serrulata 'Hokusai'","baumbezeichnung_deutsch":"Japanische Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19210},"geometry":{"type":"Point","coordinates":[15.46038071220079,47.08945984033524],"bbox":[15.46038071220079,47.08945984033524,15.46038071220079,47.08945984033524]}},{"type":"Feature","properties":{"nummer":11213,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20961},"geometry":{"type":"Point","coordinates":[15.460751044696558,47.08966812780124],"bbox":[15.460751044696558,47.08966812780124,15.460751044696558,47.08966812780124]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-37","objectid":"Naturdenkmal-74","baumbezeichnung_deutsch":"Blutbuche","baumbezeichnung_botanisch":"Fagus sylvatica \"Purpurea\""},"geometry":{"type":"Point","coordinates":[15.459851425251806,47.09002680160912],"bbox":[15.459851425251806,47.09002680160912,15.459851425251806,47.09002680160912]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11211,
+        "baumbezeichnung_botanisch": "Prunus domestica",
+        "baumbezeichnung_deutsch": "Pflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460425694616097,
+          47.08950687765799
+        ],
+        "bbox": [
+          15.460425694616097,
+          47.08950687765799,
+          15.460425694616097,
+          47.08950687765799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11210,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46038071220079,
+          47.08945984033524
+        ],
+        "bbox": [
+          15.46038071220079,
+          47.08945984033524,
+          15.46038071220079,
+          47.08945984033524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11213,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460751044696558,
+          47.08966812780124
+        ],
+        "bbox": [
+          15.460751044696558,
+          47.08966812780124,
+          15.460751044696558,
+          47.08966812780124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-37",
+        "objectid": "Naturdenkmal-74",
+        "baumbezeichnung_deutsch": "Blutbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica \"Purpurea\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459851425251806,
+          47.09002680160912
+        ],
+        "bbox": [
+          15.459851425251806,
+          47.09002680160912,
+          15.459851425251806,
+          47.09002680160912
+        ]
+      }
+    }
+  ]
+}

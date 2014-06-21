@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":12700,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16416},"geometry":{"type":"Point","coordinates":[15.408376677265728,47.082254507476726],"bbox":[15.408376677265728,47.082254507476726,15.408376677265728,47.082254507476726]}},{"type":"Feature","properties":{"nummer":12688,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12786},"geometry":{"type":"Point","coordinates":[15.40855642262775,47.082212292389734],"bbox":[15.40855642262775,47.082212292389734,15.40855642262775,47.082212292389734]}},{"type":"Feature","properties":{"nummer":12699,"baumbezeichnung_botanisch":"Tilia sp.","baumbezeichnung_deutsch":"Linde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21492},"geometry":{"type":"Point","coordinates":[15.408510233959246,47.08228626259962],"bbox":[15.408510233959246,47.08228626259962,15.408510233959246,47.08228626259962]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12700,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16416
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408376677265728,
+          47.082254507476726
+        ],
+        "bbox": [
+          15.408376677265728,
+          47.082254507476726,
+          15.408376677265728,
+          47.082254507476726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12688,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40855642262775,
+          47.082212292389734
+        ],
+        "bbox": [
+          15.40855642262775,
+          47.082212292389734,
+          15.40855642262775,
+          47.082212292389734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 12699,
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumbezeichnung_deutsch": "Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408510233959246,
+          47.08228626259962
+        ],
+        "bbox": [
+          15.408510233959246,
+          47.08228626259962,
+          15.408510233959246,
+          47.08228626259962
+        ]
+      }
+    }
+  ]
+}

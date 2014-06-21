@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":16159,"baumbezeichnung_botanisch":"Populus x canadensis","baumbezeichnung_deutsch":"Karnadische Pappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15964},"geometry":{"type":"Point","coordinates":[15.422007966288078,47.08948259265344],"bbox":[15.422007966288078,47.08948259265344,15.422007966288078,47.08948259265344]}},{"type":"Feature","properties":{"nummer":16160,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15261},"geometry":{"type":"Point","coordinates":[15.421116268891502,47.090349531108714],"bbox":[15.421116268891502,47.090349531108714,15.421116268891502,47.090349531108714]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16159,
+        "baumbezeichnung_botanisch": "Populus x canadensis",
+        "baumbezeichnung_deutsch": "Karnadische Pappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.422007966288078,
+          47.08948259265344
+        ],
+        "bbox": [
+          15.422007966288078,
+          47.08948259265344,
+          15.422007966288078,
+          47.08948259265344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16160,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421116268891502,
+          47.090349531108714
+        ],
+        "bbox": [
+          15.421116268891502,
+          47.090349531108714,
+          15.421116268891502,
+          47.090349531108714
+        ]
+      }
+    }
+  ]
+}

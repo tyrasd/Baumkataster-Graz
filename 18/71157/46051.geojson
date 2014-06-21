@@ -1,1 +1,173 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":27063,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2480},"geometry":{"type":"Point","coordinates":[15.438774934720254,47.093761104189674],"bbox":[15.438774934720254,47.093761104189674,15.438774934720254,47.093761104189674]}},{"type":"Feature","properties":{"nummer":27064,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15179},"geometry":{"type":"Point","coordinates":[15.438835614703805,47.09376974714631],"bbox":[15.438835614703805,47.09376974714631,15.438835614703805,47.09376974714631]}},{"type":"Feature","properties":{"nummer":31361,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27482},"geometry":{"type":"Point","coordinates":[15.4389058332793,47.093789060077384],"bbox":[15.4389058332793,47.093789060077384,15.4389058332793,47.093789060077384]}},{"type":"Feature","properties":{"nummer":31362,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27483},"geometry":{"type":"Point","coordinates":[15.438966611307293,47.09380143578154],"bbox":[15.438966611307293,47.09380143578154,15.438966611307293,47.09380143578154]}},{"type":"Feature","properties":{"nummer":31363,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27484},"geometry":{"type":"Point","coordinates":[15.439008224939137,47.09381366222984],"bbox":[15.439008224939137,47.09381366222984,15.439008224939137,47.09381366222984]}},{"type":"Feature","properties":{"nummer":31364,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27485},"geometry":{"type":"Point","coordinates":[15.439058666505787,47.09381942920132],"bbox":[15.439058666505787,47.09381942920132,15.439058666505787,47.09381942920132]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27063,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2480
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438774934720254,
+          47.093761104189674
+        ],
+        "bbox": [
+          15.438774934720254,
+          47.093761104189674,
+          15.438774934720254,
+          47.093761104189674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27064,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438835614703805,
+          47.09376974714631
+        ],
+        "bbox": [
+          15.438835614703805,
+          47.09376974714631,
+          15.438835614703805,
+          47.09376974714631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31361,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4389058332793,
+          47.093789060077384
+        ],
+        "bbox": [
+          15.4389058332793,
+          47.093789060077384,
+          15.4389058332793,
+          47.093789060077384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31362,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27483
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438966611307293,
+          47.09380143578154
+        ],
+        "bbox": [
+          15.438966611307293,
+          47.09380143578154,
+          15.438966611307293,
+          47.09380143578154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31363,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439008224939137,
+          47.09381366222984
+        ],
+        "bbox": [
+          15.439008224939137,
+          47.09381366222984,
+          15.439008224939137,
+          47.09381366222984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31364,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439058666505787,
+          47.09381942920132
+        ],
+        "bbox": [
+          15.439058666505787,
+          47.09381942920132,
+          15.439058666505787,
+          47.09381942920132
+        ]
+      }
+    }
+  ]
+}

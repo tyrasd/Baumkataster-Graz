@@ -1,1 +1,621 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":13967,"baumbezeichnung_botanisch":"Gleditsia triacanthos","baumbezeichnung_deutsch":"Christusdorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1410},"geometry":{"type":"Point","coordinates":[15.417873458035261,47.09349191213536],"bbox":[15.417873458035261,47.09349191213536,15.417873458035261,47.09349191213536]}},{"type":"Feature","properties":{"nummer":13950,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1905},"geometry":{"type":"Point","coordinates":[15.416610404748308,47.09358901071266],"bbox":[15.416610404748308,47.09358901071266,15.416610404748308,47.09358901071266]}},{"type":"Feature","properties":{"nummer":24918,"baumbezeichnung_botanisch":"Alnus glutinosa","baumbezeichnung_deutsch":"Schwarzerle","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":3568},"geometry":{"type":"Point","coordinates":[15.418786587584407,47.092660654678966],"bbox":[15.418786587584407,47.092660654678966,15.418786587584407,47.092660654678966]}},{"type":"Feature","properties":{"nummer":13947,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9628},"geometry":{"type":"Point","coordinates":[15.416654753437873,47.09351955791688],"bbox":[15.416654753437873,47.09351955791688,15.416654753437873,47.09351955791688]}},{"type":"Feature","properties":{"nummer":13966,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11521},"geometry":{"type":"Point","coordinates":[15.417810043735505,47.09352714822835],"bbox":[15.417810043735505,47.09352714822835,15.417810043735505,47.09352714822835]}},{"type":"Feature","properties":{"nummer":13952,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":9251},"geometry":{"type":"Point","coordinates":[15.416773392962899,47.093626883270716],"bbox":[15.416773392962899,47.093626883270716,15.416773392962899,47.093626883270716]}},{"type":"Feature","properties":{"nummer":28286,"baumbezeichnung_botanisch":"Quercus robur 'Fastigiata'","baumbezeichnung_deutsch":"Säulenstieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":16859},"geometry":{"type":"Point","coordinates":[15.418176583965366,47.09260841503783],"bbox":[15.418176583965366,47.09260841503783,15.418176583965366,47.09260841503783]}},{"type":"Feature","properties":{"nummer":28285,"baumbezeichnung_botanisch":"Quercus robur 'Fastigiata'","baumbezeichnung_deutsch":"Säulenstieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":16866},"geometry":{"type":"Point","coordinates":[15.418170667636394,47.092659911119625],"bbox":[15.418170667636394,47.092659911119625,15.418170667636394,47.092659911119625]}},{"type":"Feature","properties":{"nummer":13949,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17664},"geometry":{"type":"Point","coordinates":[15.416668708080257,47.09354658587473],"bbox":[15.416668708080257,47.09354658587473,15.416668708080257,47.09354658587473]}},{"type":"Feature","properties":{"nummer":13960,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18072},"geometry":{"type":"Point","coordinates":[15.417273119808655,47.09370513726542],"bbox":[15.417273119808655,47.09370513726542,15.417273119808655,47.09370513726542]}},{"type":"Feature","properties":{"nummer":13968,"baumbezeichnung_botanisch":"Euonymus europaeus","baumbezeichnung_deutsch":"Pfaffenhütchen","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13274},"geometry":{"type":"Point","coordinates":[15.417613218635822,47.09371144012206],"bbox":[15.417613218635822,47.09371144012206,15.417613218635822,47.09371144012206]}},{"type":"Feature","properties":{"nummer":13958,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21931},"geometry":{"type":"Point","coordinates":[15.416759580036203,47.093436508856946],"bbox":[15.416759580036203,47.093436508856946,15.416759580036203,47.093436508856946]}},{"type":"Feature","properties":{"nummer":13953,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19897},"geometry":{"type":"Point","coordinates":[15.416783900938773,47.09354393691771],"bbox":[15.416783900938773,47.09354393691771,15.416783900938773,47.09354393691771]}},{"type":"Feature","properties":{"nummer":13965,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20072},"geometry":{"type":"Point","coordinates":[15.417757343558742,47.09354817255537],"bbox":[15.417757343558742,47.09354817255537,15.417757343558742,47.09354817255537]}},{"type":"Feature","properties":{"nummer":15957,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18697},"geometry":{"type":"Point","coordinates":[15.417447359337988,47.09421207727839],"bbox":[15.417447359337988,47.09421207727839,15.417447359337988,47.09421207727839]}},{"type":"Feature","properties":{"nummer":13946,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18792},"geometry":{"type":"Point","coordinates":[15.416575556888496,47.093485072727795],"bbox":[15.416575556888496,47.093485072727795,15.416575556888496,47.093485072727795]}},{"type":"Feature","properties":{"nummer":16173,"baumbezeichnung_botanisch":"Gleditsia triacanthos","baumbezeichnung_deutsch":"Christusdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27938},"geometry":{"type":"Point","coordinates":[15.41820081593027,47.09324463027579],"bbox":[15.41820081593027,47.09324463027579,15.41820081593027,47.09324463027579]}},{"type":"Feature","properties":{"nummer":13931,"baumbezeichnung_botanisch":"Sambucus nigra","baumbezeichnung_deutsch":"Schwarzer Hollunder","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27940},"geometry":{"type":"Point","coordinates":[15.416694686643657,47.09287793607394],"bbox":[15.416694686643657,47.09287793607394,15.416694686643657,47.09287793607394]}},{"type":"Feature","properties":{"nummer":13963,"baumbezeichnung_botanisch":"Populus x canadensis","baumbezeichnung_deutsch":"Karnadische Pappel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27943},"geometry":{"type":"Point","coordinates":[15.417552973890192,47.09362974771669],"bbox":[15.417552973890192,47.09362974771669,15.417552973890192,47.09362974771669]}},{"type":"Feature","properties":{"nummer":24295,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27944},"geometry":{"type":"Point","coordinates":[15.416788458261495,47.0928965386721],"bbox":[15.416788458261495,47.0928965386721,15.416788458261495,47.0928965386721]}},{"type":"Feature","properties":{"nummer":13959,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28175},"geometry":{"type":"Point","coordinates":[15.417153000515333,47.09368987489764],"bbox":[15.417153000515333,47.09368987489764,15.417153000515333,47.09368987489764]}},{"type":"Feature","properties":{"nummer":13961,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27883},"geometry":{"type":"Point","coordinates":[15.417323411178723,47.09360410615926],"bbox":[15.417323411178723,47.09360410615926,15.417323411178723,47.09360410615926]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13967,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
+        "baumbezeichnung_deutsch": "Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1410
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417873458035261,
+          47.09349191213536
+        ],
+        "bbox": [
+          15.417873458035261,
+          47.09349191213536,
+          15.417873458035261,
+          47.09349191213536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13950,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1905
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416610404748308,
+          47.09358901071266
+        ],
+        "bbox": [
+          15.416610404748308,
+          47.09358901071266,
+          15.416610404748308,
+          47.09358901071266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24918,
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418786587584407,
+          47.092660654678966
+        ],
+        "bbox": [
+          15.418786587584407,
+          47.092660654678966,
+          15.418786587584407,
+          47.092660654678966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13947,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416654753437873,
+          47.09351955791688
+        ],
+        "bbox": [
+          15.416654753437873,
+          47.09351955791688,
+          15.416654753437873,
+          47.09351955791688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13966,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417810043735505,
+          47.09352714822835
+        ],
+        "bbox": [
+          15.417810043735505,
+          47.09352714822835,
+          15.417810043735505,
+          47.09352714822835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13952,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 9251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416773392962899,
+          47.093626883270716
+        ],
+        "bbox": [
+          15.416773392962899,
+          47.093626883270716,
+          15.416773392962899,
+          47.093626883270716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28286,
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418176583965366,
+          47.09260841503783
+        ],
+        "bbox": [
+          15.418176583965366,
+          47.09260841503783,
+          15.418176583965366,
+          47.09260841503783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28285,
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418170667636394,
+          47.092659911119625
+        ],
+        "bbox": [
+          15.418170667636394,
+          47.092659911119625,
+          15.418170667636394,
+          47.092659911119625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13949,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17664
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416668708080257,
+          47.09354658587473
+        ],
+        "bbox": [
+          15.416668708080257,
+          47.09354658587473,
+          15.416668708080257,
+          47.09354658587473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13960,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417273119808655,
+          47.09370513726542
+        ],
+        "bbox": [
+          15.417273119808655,
+          47.09370513726542,
+          15.417273119808655,
+          47.09370513726542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13968,
+        "baumbezeichnung_botanisch": "Euonymus europaeus",
+        "baumbezeichnung_deutsch": "Pfaffenhütchen",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417613218635822,
+          47.09371144012206
+        ],
+        "bbox": [
+          15.417613218635822,
+          47.09371144012206,
+          15.417613218635822,
+          47.09371144012206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13958,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416759580036203,
+          47.093436508856946
+        ],
+        "bbox": [
+          15.416759580036203,
+          47.093436508856946,
+          15.416759580036203,
+          47.093436508856946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13953,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416783900938773,
+          47.09354393691771
+        ],
+        "bbox": [
+          15.416783900938773,
+          47.09354393691771,
+          15.416783900938773,
+          47.09354393691771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13965,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417757343558742,
+          47.09354817255537
+        ],
+        "bbox": [
+          15.417757343558742,
+          47.09354817255537,
+          15.417757343558742,
+          47.09354817255537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15957,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417447359337988,
+          47.09421207727839
+        ],
+        "bbox": [
+          15.417447359337988,
+          47.09421207727839,
+          15.417447359337988,
+          47.09421207727839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13946,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416575556888496,
+          47.093485072727795
+        ],
+        "bbox": [
+          15.416575556888496,
+          47.093485072727795,
+          15.416575556888496,
+          47.093485072727795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16173,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
+        "baumbezeichnung_deutsch": "Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41820081593027,
+          47.09324463027579
+        ],
+        "bbox": [
+          15.41820081593027,
+          47.09324463027579,
+          15.41820081593027,
+          47.09324463027579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13931,
+        "baumbezeichnung_botanisch": "Sambucus nigra",
+        "baumbezeichnung_deutsch": "Schwarzer Hollunder",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27940
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416694686643657,
+          47.09287793607394
+        ],
+        "bbox": [
+          15.416694686643657,
+          47.09287793607394,
+          15.416694686643657,
+          47.09287793607394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13963,
+        "baumbezeichnung_botanisch": "Populus x canadensis",
+        "baumbezeichnung_deutsch": "Karnadische Pappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417552973890192,
+          47.09362974771669
+        ],
+        "bbox": [
+          15.417552973890192,
+          47.09362974771669,
+          15.417552973890192,
+          47.09362974771669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24295,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416788458261495,
+          47.0928965386721
+        ],
+        "bbox": [
+          15.416788458261495,
+          47.0928965386721,
+          15.416788458261495,
+          47.0928965386721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13959,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417153000515333,
+          47.09368987489764
+        ],
+        "bbox": [
+          15.417153000515333,
+          47.09368987489764,
+          15.417153000515333,
+          47.09368987489764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13961,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417323411178723,
+          47.09360410615926
+        ],
+        "bbox": [
+          15.417323411178723,
+          47.09360410615926,
+          15.417323411178723,
+          47.09360410615926
+        ]
+      }
+    }
+  ]
+}

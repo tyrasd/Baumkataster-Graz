@@ -1,1 +1,649 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":6995,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9666},"geometry":{"type":"Point","coordinates":[15.441400317002731,47.05373433798729],"bbox":[15.441400317002731,47.05373433798729,15.441400317002731,47.05373433798729]}},{"type":"Feature","properties":{"nummer":6996,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9667},"geometry":{"type":"Point","coordinates":[15.441339805476753,47.053801706342696],"bbox":[15.441339805476753,47.053801706342696,15.441339805476753,47.053801706342696]}},{"type":"Feature","properties":{"nummer":6997,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9668},"geometry":{"type":"Point","coordinates":[15.441295427767404,47.05386518352308],"bbox":[15.441295427767404,47.05386518352308,15.441295427767404,47.05386518352308]}},{"type":"Feature","properties":{"nummer":6999,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9669},"geometry":{"type":"Point","coordinates":[15.441338064457812,47.0540953833176],"bbox":[15.441338064457812,47.0540953833176,15.441338064457812,47.0540953833176]}},{"type":"Feature","properties":{"nummer":26643,"baumbezeichnung_botanisch":"Magnolia sp.","baumbezeichnung_deutsch":"Magnolie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9670},"geometry":{"type":"Point","coordinates":[15.441611495461649,47.05391029971312],"bbox":[15.441611495461649,47.05391029971312,15.441611495461649,47.05391029971312]}},{"type":"Feature","properties":{"nummer":7005,"baumbezeichnung_botanisch":"Thuja occidentalis","baumbezeichnung_deutsch":"Abendländischer Lebensbaum","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12211},"geometry":{"type":"Point","coordinates":[15.441560686409103,47.05427018872026],"bbox":[15.441560686409103,47.05427018872026,15.441560686409103,47.05427018872026]}},{"type":"Feature","properties":{"nummer":29931,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9897},"geometry":{"type":"Point","coordinates":[15.441746642586294,47.05368868032048],"bbox":[15.441746642586294,47.05368868032048,15.441746642586294,47.05368868032048]}},{"type":"Feature","properties":{"nummer":29932,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9898},"geometry":{"type":"Point","coordinates":[15.441779466635495,47.053696981919586],"bbox":[15.441779466635495,47.053696981919586,15.441779466635495,47.053696981919586]}},{"type":"Feature","properties":{"nummer":29933,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9899},"geometry":{"type":"Point","coordinates":[15.441816863404513,47.0537133662537],"bbox":[15.441816863404513,47.0537133662537,15.441816863404513,47.0537133662537]}},{"type":"Feature","properties":{"nummer":6029,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":11640},"geometry":{"type":"Point","coordinates":[15.443810064788348,47.0542129202304],"bbox":[15.443810064788348,47.0542129202304,15.443810064788348,47.0542129202304]}},{"type":"Feature","properties":{"nummer":29934,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9333},"geometry":{"type":"Point","coordinates":[15.44188401619881,47.05392172107461],"bbox":[15.44188401619881,47.05392172107461,15.44188401619881,47.05392172107461]}},{"type":"Feature","properties":{"nummer":29925,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9334},"geometry":{"type":"Point","coordinates":[15.441554840286681,47.053613161273844],"bbox":[15.441554840286681,47.053613161273844,15.441554840286681,47.053613161273844]}},{"type":"Feature","properties":{"nummer":29926,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9335},"geometry":{"type":"Point","coordinates":[15.44158758221447,47.0536262899663],"bbox":[15.44158758221447,47.0536262899663,15.44158758221447,47.0536262899663]}},{"type":"Feature","properties":{"nummer":29927,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9336},"geometry":{"type":"Point","coordinates":[15.44162035236793,47.053637810542746],"bbox":[15.44162035236793,47.053637810542746,15.44162035236793,47.053637810542746]}},{"type":"Feature","properties":{"nummer":29928,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9337},"geometry":{"type":"Point","coordinates":[15.441655476825265,47.05364934860035],"bbox":[15.441655476825265,47.05364934860035,15.441655476825265,47.05364934860035]}},{"type":"Feature","properties":{"nummer":29929,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9338},"geometry":{"type":"Point","coordinates":[15.441685864524999,47.05366245887509],"bbox":[15.441685864524999,47.05366245887509,15.441685864524999,47.05366245887509]}},{"type":"Feature","properties":{"nummer":29930,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9339},"geometry":{"type":"Point","coordinates":[15.441718607816425,47.053675588440036],"bbox":[15.441718607816425,47.053675588440036,15.441718607816425,47.053675588440036]}},{"type":"Feature","properties":{"nummer":6028,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":16274},"geometry":{"type":"Point","coordinates":[15.443648661388398,47.054142894727946],"bbox":[15.443648661388398,47.054142894727946,15.443648661388398,47.054142894727946]}},{"type":"Feature","properties":{"nummer":6025,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":"Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse","objectid":14444},"geometry":{"type":"Point","coordinates":[15.441942798306684,47.05338147908502],"bbox":[15.441942798306684,47.05338147908502,15.441942798306684,47.05338147908502]}},{"type":"Feature","properties":{"nummer":6030,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1985","entnahmejahr":null,"baumpatenschaft":null,"objectid":19196},"geometry":{"type":"Point","coordinates":[15.443972718868629,47.05428452939348],"bbox":[15.443972718868629,47.05428452939348,15.443972718868629,47.05428452939348]}},{"type":"Feature","properties":{"nummer":19521,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1991","entnahmejahr":null,"baumpatenschaft":null,"objectid":20238},"geometry":{"type":"Point","coordinates":[15.443528739796653,47.05408887083828],"bbox":[15.443528739796653,47.05408887083828,15.443528739796653,47.05408887083828]}},{"type":"Feature","properties":{"nummer":6994,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28033},"geometry":{"type":"Point","coordinates":[15.441459273761406,47.053655417615495],"bbox":[15.441459273761406,47.053655417615495,15.441459273761406,47.053655417615495]}},{"type":"Feature","properties":{"nummer":30425,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27596},"geometry":{"type":"Point","coordinates":[15.441781949815205,47.05330815765888],"bbox":[15.441781949815205,47.05330815765888,15.441781949815205,47.05330815765888]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6995,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9666
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441400317002731,
+          47.05373433798729
+        ],
+        "bbox": [
+          15.441400317002731,
+          47.05373433798729,
+          15.441400317002731,
+          47.05373433798729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6996,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441339805476753,
+          47.053801706342696
+        ],
+        "bbox": [
+          15.441339805476753,
+          47.053801706342696,
+          15.441339805476753,
+          47.053801706342696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6997,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9668
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441295427767404,
+          47.05386518352308
+        ],
+        "bbox": [
+          15.441295427767404,
+          47.05386518352308,
+          15.441295427767404,
+          47.05386518352308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6999,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441338064457812,
+          47.0540953833176
+        ],
+        "bbox": [
+          15.441338064457812,
+          47.0540953833176,
+          15.441338064457812,
+          47.0540953833176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26643,
+        "baumbezeichnung_botanisch": "Magnolia sp.",
+        "baumbezeichnung_deutsch": "Magnolie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9670
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441611495461649,
+          47.05391029971312
+        ],
+        "bbox": [
+          15.441611495461649,
+          47.05391029971312,
+          15.441611495461649,
+          47.05391029971312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7005,
+        "baumbezeichnung_botanisch": "Thuja occidentalis",
+        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441560686409103,
+          47.05427018872026
+        ],
+        "bbox": [
+          15.441560686409103,
+          47.05427018872026,
+          15.441560686409103,
+          47.05427018872026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29931,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441746642586294,
+          47.05368868032048
+        ],
+        "bbox": [
+          15.441746642586294,
+          47.05368868032048,
+          15.441746642586294,
+          47.05368868032048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29932,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441779466635495,
+          47.053696981919586
+        ],
+        "bbox": [
+          15.441779466635495,
+          47.053696981919586,
+          15.441779466635495,
+          47.053696981919586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29933,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441816863404513,
+          47.0537133662537
+        ],
+        "bbox": [
+          15.441816863404513,
+          47.0537133662537,
+          15.441816863404513,
+          47.0537133662537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6029,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443810064788348,
+          47.0542129202304
+        ],
+        "bbox": [
+          15.443810064788348,
+          47.0542129202304,
+          15.443810064788348,
+          47.0542129202304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29934,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44188401619881,
+          47.05392172107461
+        ],
+        "bbox": [
+          15.44188401619881,
+          47.05392172107461,
+          15.44188401619881,
+          47.05392172107461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29925,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441554840286681,
+          47.053613161273844
+        ],
+        "bbox": [
+          15.441554840286681,
+          47.053613161273844,
+          15.441554840286681,
+          47.053613161273844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29926,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44158758221447,
+          47.0536262899663
+        ],
+        "bbox": [
+          15.44158758221447,
+          47.0536262899663,
+          15.44158758221447,
+          47.0536262899663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29927,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44162035236793,
+          47.053637810542746
+        ],
+        "bbox": [
+          15.44162035236793,
+          47.053637810542746,
+          15.44162035236793,
+          47.053637810542746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29928,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441655476825265,
+          47.05364934860035
+        ],
+        "bbox": [
+          15.441655476825265,
+          47.05364934860035,
+          15.441655476825265,
+          47.05364934860035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29929,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441685864524999,
+          47.05366245887509
+        ],
+        "bbox": [
+          15.441685864524999,
+          47.05366245887509,
+          15.441685864524999,
+          47.05366245887509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29930,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441718607816425,
+          47.053675588440036
+        ],
+        "bbox": [
+          15.441718607816425,
+          47.053675588440036,
+          15.441718607816425,
+          47.053675588440036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6028,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443648661388398,
+          47.054142894727946
+        ],
+        "bbox": [
+          15.443648661388398,
+          47.054142894727946,
+          15.443648661388398,
+          47.054142894727946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6025,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "objectid": 14444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441942798306684,
+          47.05338147908502
+        ],
+        "bbox": [
+          15.441942798306684,
+          47.05338147908502,
+          15.441942798306684,
+          47.05338147908502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6030,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443972718868629,
+          47.05428452939348
+        ],
+        "bbox": [
+          15.443972718868629,
+          47.05428452939348,
+          15.443972718868629,
+          47.05428452939348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19521,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1991",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443528739796653,
+          47.05408887083828
+        ],
+        "bbox": [
+          15.443528739796653,
+          47.05408887083828,
+          15.443528739796653,
+          47.05408887083828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6994,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441459273761406,
+          47.053655417615495
+        ],
+        "bbox": [
+          15.441459273761406,
+          47.053655417615495,
+          15.441459273761406,
+          47.053655417615495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30425,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441781949815205,
+          47.05330815765888
+        ],
+        "bbox": [
+          15.441781949815205,
+          47.05330815765888,
+          15.441781949815205,
+          47.05330815765888
+        ]
+      }
+    }
+  ]
+}

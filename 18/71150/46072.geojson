@@ -1,1 +1,173 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29652,"baumbezeichnung_botanisch":"Koelreuteria paniculata","baumbezeichnung_deutsch":"Blasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8936},"geometry":{"type":"Point","coordinates":[15.4194780100995,47.05439254526189],"bbox":[15.4194780100995,47.05439254526189,15.4194780100995,47.05439254526189]}},{"type":"Feature","properties":{"nummer":29653,"baumbezeichnung_botanisch":"Populus tremula 'Erecta'","baumbezeichnung_deutsch":"Säulenzitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8937},"geometry":{"type":"Point","coordinates":[15.419872400890496,47.054517555847184],"bbox":[15.419872400890496,47.054517555847184,15.419872400890496,47.054517555847184]}},{"type":"Feature","properties":{"nummer":29654,"baumbezeichnung_botanisch":"Populus tremula 'Erecta'","baumbezeichnung_deutsch":"Säulenzitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8938},"geometry":{"type":"Point","coordinates":[15.41993377593194,47.054515121708576],"bbox":[15.41993377593194,47.054515121708576,15.41993377593194,47.054515121708576]}},{"type":"Feature","properties":{"nummer":29655,"baumbezeichnung_botanisch":"Populus tremula 'Erecta'","baumbezeichnung_deutsch":"Säulenzitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8939},"geometry":{"type":"Point","coordinates":[15.419986677879558,47.054507747091954],"bbox":[15.419986677879558,47.054507747091954,15.419986677879558,47.054507747091954]}},{"type":"Feature","properties":{"nummer":29656,"baumbezeichnung_botanisch":"Populus tremula 'Erecta'","baumbezeichnung_deutsch":"Säulenzitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8940},"geometry":{"type":"Point","coordinates":[15.420042499662808,47.05449649552546],"bbox":[15.420042499662808,47.05449649552546,15.420042499662808,47.05449649552546]}},{"type":"Feature","properties":{"nummer":29657,"baumbezeichnung_botanisch":"Populus tremula 'Erecta'","baumbezeichnung_deutsch":"Säulenzitterpappel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8941},"geometry":{"type":"Point","coordinates":[15.420102649766909,47.054482354242495],"bbox":[15.420102649766909,47.054482354242495,15.420102649766909,47.054482354242495]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29652,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4194780100995,
+          47.05439254526189
+        ],
+        "bbox": [
+          15.4194780100995,
+          47.05439254526189,
+          15.4194780100995,
+          47.05439254526189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29653,
+        "baumbezeichnung_botanisch": "Populus tremula 'Erecta'",
+        "baumbezeichnung_deutsch": "Säulenzitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419872400890496,
+          47.054517555847184
+        ],
+        "bbox": [
+          15.419872400890496,
+          47.054517555847184,
+          15.419872400890496,
+          47.054517555847184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29654,
+        "baumbezeichnung_botanisch": "Populus tremula 'Erecta'",
+        "baumbezeichnung_deutsch": "Säulenzitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41993377593194,
+          47.054515121708576
+        ],
+        "bbox": [
+          15.41993377593194,
+          47.054515121708576,
+          15.41993377593194,
+          47.054515121708576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29655,
+        "baumbezeichnung_botanisch": "Populus tremula 'Erecta'",
+        "baumbezeichnung_deutsch": "Säulenzitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419986677879558,
+          47.054507747091954
+        ],
+        "bbox": [
+          15.419986677879558,
+          47.054507747091954,
+          15.419986677879558,
+          47.054507747091954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29656,
+        "baumbezeichnung_botanisch": "Populus tremula 'Erecta'",
+        "baumbezeichnung_deutsch": "Säulenzitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8940
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420042499662808,
+          47.05449649552546
+        ],
+        "bbox": [
+          15.420042499662808,
+          47.05449649552546,
+          15.420042499662808,
+          47.05449649552546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29657,
+        "baumbezeichnung_botanisch": "Populus tremula 'Erecta'",
+        "baumbezeichnung_deutsch": "Säulenzitterpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420102649766909,
+          47.054482354242495
+        ],
+        "bbox": [
+          15.420102649766909,
+          47.054482354242495,
+          15.420102649766909,
+          47.054482354242495
+        ]
+      }
+    }
+  ]
+}

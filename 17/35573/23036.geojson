@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":15557,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1991","entnahmejahr":null,"baumpatenschaft":null,"objectid":5033},"geometry":{"type":"Point","coordinates":[15.412582172137597,47.05480244288747],"bbox":[15.412582172137597,47.05480244288747,15.412582172137597,47.05480244288747]}},{"type":"Feature","properties":{"nummer":15556,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1991","entnahmejahr":null,"baumpatenschaft":null,"objectid":7793},"geometry":{"type":"Point","coordinates":[15.412944832397436,47.05498305683764],"bbox":[15.412944832397436,47.05498305683764,15.412944832397436,47.05498305683764]}},{"type":"Feature","properties":{"nummer":31729,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30961},"geometry":{"type":"Point","coordinates":[15.409050331466553,47.05400596033868],"bbox":[15.409050331466553,47.05400596033868,15.409050331466553,47.05400596033868]}},{"type":"Feature","properties":{"nummer":31730,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30962},"geometry":{"type":"Point","coordinates":[15.408985142262823,47.05415061023327],"bbox":[15.408985142262823,47.05415061023327,15.408985142262823,47.05415061023327]}},{"type":"Feature","properties":{"nummer":31731,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30963},"geometry":{"type":"Point","coordinates":[15.408944902098783,47.05426214236759],"bbox":[15.408944902098783,47.05426214236759,15.408944902098783,47.05426214236759]}},{"type":"Feature","properties":{"nummer":31732,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30964},"geometry":{"type":"Point","coordinates":[15.408875900170235,47.05442580129851],"bbox":[15.408875900170235,47.05442580129851,15.408875900170235,47.05442580129851]}},{"type":"Feature","properties":{"nummer":31733,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30965},"geometry":{"type":"Point","coordinates":[15.408765668009371,47.054758104153436],"bbox":[15.408765668009371,47.054758104153436,15.408765668009371,47.054758104153436]}},{"type":"Feature","properties":{"nummer":31734,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30966},"geometry":{"type":"Point","coordinates":[15.408721822341402,47.054876746427745],"bbox":[15.408721822341402,47.054876746427745,15.408721822341402,47.054876746427745]}},{"type":"Feature","properties":{"nummer":31735,"baumbezeichnung_botanisch":"Ulmus 'Regal'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":30967},"geometry":{"type":"Point","coordinates":[15.408656878727685,47.055007119249176],"bbox":[15.408656878727685,47.055007119249176,15.408656878727685,47.055007119249176]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15557,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1991",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.412582172137597,
+          47.05480244288747
+        ],
+        "bbox": [
+          15.412582172137597,
+          47.05480244288747,
+          15.412582172137597,
+          47.05480244288747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15556,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1991",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.412944832397436,
+          47.05498305683764
+        ],
+        "bbox": [
+          15.412944832397436,
+          47.05498305683764,
+          15.412944832397436,
+          47.05498305683764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31729,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.409050331466553,
+          47.05400596033868
+        ],
+        "bbox": [
+          15.409050331466553,
+          47.05400596033868,
+          15.409050331466553,
+          47.05400596033868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31730,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30962
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408985142262823,
+          47.05415061023327
+        ],
+        "bbox": [
+          15.408985142262823,
+          47.05415061023327,
+          15.408985142262823,
+          47.05415061023327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31731,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30963
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408944902098783,
+          47.05426214236759
+        ],
+        "bbox": [
+          15.408944902098783,
+          47.05426214236759,
+          15.408944902098783,
+          47.05426214236759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31732,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408875900170235,
+          47.05442580129851
+        ],
+        "bbox": [
+          15.408875900170235,
+          47.05442580129851,
+          15.408875900170235,
+          47.05442580129851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31733,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408765668009371,
+          47.054758104153436
+        ],
+        "bbox": [
+          15.408765668009371,
+          47.054758104153436,
+          15.408765668009371,
+          47.054758104153436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31734,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408721822341402,
+          47.054876746427745
+        ],
+        "bbox": [
+          15.408721822341402,
+          47.054876746427745,
+          15.408721822341402,
+          47.054876746427745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31735,
+        "baumbezeichnung_botanisch": "Ulmus 'Regal'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408656878727685,
+          47.055007119249176
+        ],
+        "bbox": [
+          15.408656878727685,
+          47.055007119249176,
+          15.408656878727685,
+          47.055007119249176
+        ]
+      }
+    }
+  ]
+}

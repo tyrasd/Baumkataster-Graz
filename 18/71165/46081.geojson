@@ -1,1 +1,201 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29901,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1900","entnahmejahr":null,"baumpatenschaft":null,"objectid":9880},"geometry":{"type":"Point","coordinates":[15.463105386639812,47.03691672676371],"bbox":[15.463105386639812,47.03691672676371,15.463105386639812,47.03691672676371]}},{"type":"Feature","properties":{"nummer":22384,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10761},"geometry":{"type":"Point","coordinates":[15.46169887026165,47.03765646076801],"bbox":[15.46169887026165,47.03765646076801,15.46169887026165,47.03765646076801]}},{"type":"Feature","properties":{"nummer":22387,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":"Ida Klug","objectid":18087},"geometry":{"type":"Point","coordinates":[15.462593944863347,47.03702762223324],"bbox":[15.462593944863347,47.03702762223324,15.462593944863347,47.03702762223324]}},{"type":"Feature","properties":{"nummer":22388,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":"Walter Holzer","objectid":23779},"geometry":{"type":"Point","coordinates":[15.462759648305722,47.03698256484694],"bbox":[15.462759648305722,47.03698256484694,15.462759648305722,47.03698256484694]}},{"type":"Feature","properties":{"nummer":22389,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":"Fr. Heuberger","objectid":24052},"geometry":{"type":"Point","coordinates":[15.46292819714778,47.03694357095462],"bbox":[15.46292819714778,47.03694357095462,15.46292819714778,47.03694357095462]}},{"type":"Feature","properties":{"nummer":22386,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":"Gr.H.H.Heuberger","objectid":19435},"geometry":{"type":"Point","coordinates":[15.462286857941479,47.03707159961373],"bbox":[15.462286857941479,47.03707159961373,15.462286857941479,47.03707159961373]}},{"type":"Feature","properties":{"nummer":22385,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18864},"geometry":{"type":"Point","coordinates":[15.461951348111652,47.037485541550915],"bbox":[15.461951348111652,47.037485541550915,15.461951348111652,47.037485541550915]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29901,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1900",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9880
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463105386639812,
+          47.03691672676371
+        ],
+        "bbox": [
+          15.463105386639812,
+          47.03691672676371,
+          15.463105386639812,
+          47.03691672676371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22384,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10761
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46169887026165,
+          47.03765646076801
+        ],
+        "bbox": [
+          15.46169887026165,
+          47.03765646076801,
+          15.46169887026165,
+          47.03765646076801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22387,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Ida Klug",
+        "objectid": 18087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462593944863347,
+          47.03702762223324
+        ],
+        "bbox": [
+          15.462593944863347,
+          47.03702762223324,
+          15.462593944863347,
+          47.03702762223324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22388,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Walter Holzer",
+        "objectid": 23779
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462759648305722,
+          47.03698256484694
+        ],
+        "bbox": [
+          15.462759648305722,
+          47.03698256484694,
+          15.462759648305722,
+          47.03698256484694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22389,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Fr. Heuberger",
+        "objectid": 24052
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46292819714778,
+          47.03694357095462
+        ],
+        "bbox": [
+          15.46292819714778,
+          47.03694357095462,
+          15.46292819714778,
+          47.03694357095462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22386,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Gr.H.H.Heuberger",
+        "objectid": 19435
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462286857941479,
+          47.03707159961373
+        ],
+        "bbox": [
+          15.462286857941479,
+          47.03707159961373,
+          15.462286857941479,
+          47.03707159961373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22385,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461951348111652,
+          47.037485541550915
+        ],
+        "bbox": [
+          15.461951348111652,
+          47.037485541550915,
+          15.461951348111652,
+          47.037485541550915
+        ]
+      }
+    }
+  ]
+}

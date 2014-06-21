@@ -1,1 +1,229 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":15960,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2538},"geometry":{"type":"Point","coordinates":[15.416718148839719,47.09513126736233],"bbox":[15.416718148839719,47.09513126736233,15.416718148839719,47.09513126736233]}},{"type":"Feature","properties":{"nummer":24195,"baumbezeichnung_botanisch":"Pyrus sp.","baumbezeichnung_deutsch":"Birne","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4610},"geometry":{"type":"Point","coordinates":[15.417764071039166,47.09560332314819],"bbox":[15.417764071039166,47.09560332314819,15.417764071039166,47.09560332314819]}},{"type":"Feature","properties":{"nummer":24197,"baumbezeichnung_botanisch":"Acer tataricum","baumbezeichnung_deutsch":"Tatarischer Ahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2000","entnahmejahr":null,"baumpatenschaft":null,"objectid":4611},"geometry":{"type":"Point","coordinates":[15.416908891796803,47.09619198543065],"bbox":[15.416908891796803,47.09619198543065,15.416908891796803,47.09619198543065]}},{"type":"Feature","properties":{"nummer":24198,"baumbezeichnung_botanisch":"Ostrya carpinifolia","baumbezeichnung_deutsch":"Hopfenbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2000","entnahmejahr":null,"baumpatenschaft":null,"objectid":4612},"geometry":{"type":"Point","coordinates":[15.416949003901864,47.09621443162311],"bbox":[15.416949003901864,47.09621443162311,15.416949003901864,47.09621443162311]}},{"type":"Feature","properties":{"nummer":24196,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23018},"geometry":{"type":"Point","coordinates":[15.417445280621166,47.095615515519945],"bbox":[15.417445280621166,47.095615515519945,15.417445280621166,47.095615515519945]}},{"type":"Feature","properties":{"nummer":24199,"baumbezeichnung_botanisch":"Prunus 'Frucht'","baumbezeichnung_deutsch":"Fruchtkirsche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19076},"geometry":{"type":"Point","coordinates":[15.416883042158078,47.09628211979837],"bbox":[15.416883042158078,47.09628211979837,15.416883042158078,47.09628211979837]}},{"type":"Feature","properties":{"nummer":15958,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29454},"geometry":{"type":"Point","coordinates":[15.416748475084674,47.09512033716023],"bbox":[15.416748475084674,47.09512033716023,15.416748475084674,47.09512033716023]}},{"type":"Feature","properties":{"nummer":15959,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29468},"geometry":{"type":"Point","coordinates":[15.416725488948321,47.09509915726212],"bbox":[15.416725488948321,47.09509915726212,15.416725488948321,47.09509915726212]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15960,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2538
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416718148839719,
+          47.09513126736233
+        ],
+        "bbox": [
+          15.416718148839719,
+          47.09513126736233,
+          15.416718148839719,
+          47.09513126736233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24195,
+        "baumbezeichnung_botanisch": "Pyrus sp.",
+        "baumbezeichnung_deutsch": "Birne",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417764071039166,
+          47.09560332314819
+        ],
+        "bbox": [
+          15.417764071039166,
+          47.09560332314819,
+          15.417764071039166,
+          47.09560332314819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24197,
+        "baumbezeichnung_botanisch": "Acer tataricum",
+        "baumbezeichnung_deutsch": "Tatarischer Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416908891796803,
+          47.09619198543065
+        ],
+        "bbox": [
+          15.416908891796803,
+          47.09619198543065,
+          15.416908891796803,
+          47.09619198543065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24198,
+        "baumbezeichnung_botanisch": "Ostrya carpinifolia",
+        "baumbezeichnung_deutsch": "Hopfenbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416949003901864,
+          47.09621443162311
+        ],
+        "bbox": [
+          15.416949003901864,
+          47.09621443162311,
+          15.416949003901864,
+          47.09621443162311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24196,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.417445280621166,
+          47.095615515519945
+        ],
+        "bbox": [
+          15.417445280621166,
+          47.095615515519945,
+          15.417445280621166,
+          47.095615515519945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24199,
+        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416883042158078,
+          47.09628211979837
+        ],
+        "bbox": [
+          15.416883042158078,
+          47.09628211979837,
+          15.416883042158078,
+          47.09628211979837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15958,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416748475084674,
+          47.09512033716023
+        ],
+        "bbox": [
+          15.416748475084674,
+          47.09512033716023,
+          15.416748475084674,
+          47.09512033716023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15959,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.416725488948321,
+          47.09509915726212
+        ],
+        "bbox": [
+          15.416725488948321,
+          47.09509915726212,
+          15.416725488948321,
+          47.09509915726212
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":30178,"baumbezeichnung_botanisch":"Ulmus resista 'New Horizon'","baumbezeichnung_deutsch":"Resista-Ulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":9759},"geometry":{"type":"Point","coordinates":[15.45215395040839,47.06839716816782],"bbox":[15.45215395040839,47.06839716816782,15.45215395040839,47.06839716816782]}},{"type":"Feature","properties":{"nummer":10120,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17846},"geometry":{"type":"Point","coordinates":[15.451203857647906,47.069251893814766],"bbox":[15.451203857647906,47.069251893814766,15.451203857647906,47.069251893814766]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30178,
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45215395040839,
+          47.06839716816782
+        ],
+        "bbox": [
+          15.45215395040839,
+          47.06839716816782,
+          15.45215395040839,
+          47.06839716816782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10120,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.451203857647906,
+          47.069251893814766
+        ],
+        "bbox": [
+          15.451203857647906,
+          47.069251893814766,
+          15.451203857647906,
+          47.069251893814766
+        ]
+      }
+    }
+  ]
+}

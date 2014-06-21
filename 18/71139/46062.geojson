@@ -1,1 +1,77 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-8","objectid":"Naturdenkmal-60","baumbezeichnung_deutsch":"Weymouthskiefer","baumbezeichnung_botanisch":"Pinus strobus"},"geometry":{"type":"Point","coordinates":[15.391469996261367,47.07298716777446],"bbox":[15.391469996261367,47.07298716777446,15.391469996261367,47.07298716777446]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-7","objectid":"Naturdenkmal-104","baumbezeichnung_deutsch":"Weymouthskiefer","baumbezeichnung_botanisch":"Pinus strobus"},"geometry":{"type":"Point","coordinates":[15.391573888656788,47.0730219389634],"bbox":[15.391573888656788,47.0730219389634,15.391573888656788,47.0730219389634]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-9","objectid":"Naturdenkmal-19","baumbezeichnung_deutsch":"Weymouthskiefer","baumbezeichnung_botanisch":"Pinus strobus"},"geometry":{"type":"Point","coordinates":[15.391445428481564,47.07280895213484],"bbox":[15.391445428481564,47.07280895213484,15.391445428481564,47.07280895213484]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-8",
+        "objectid": "Naturdenkmal-60",
+        "baumbezeichnung_deutsch": "Weymouthskiefer",
+        "baumbezeichnung_botanisch": "Pinus strobus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.391469996261367,
+          47.07298716777446
+        ],
+        "bbox": [
+          15.391469996261367,
+          47.07298716777446,
+          15.391469996261367,
+          47.07298716777446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-7",
+        "objectid": "Naturdenkmal-104",
+        "baumbezeichnung_deutsch": "Weymouthskiefer",
+        "baumbezeichnung_botanisch": "Pinus strobus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.391573888656788,
+          47.0730219389634
+        ],
+        "bbox": [
+          15.391573888656788,
+          47.0730219389634,
+          15.391573888656788,
+          47.0730219389634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-9",
+        "objectid": "Naturdenkmal-19",
+        "baumbezeichnung_deutsch": "Weymouthskiefer",
+        "baumbezeichnung_botanisch": "Pinus strobus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.391445428481564,
+          47.07280895213484
+        ],
+        "bbox": [
+          15.391445428481564,
+          47.07280895213484,
+          15.391445428481564,
+          47.07280895213484
+        ]
+      }
+    }
+  ]
+}

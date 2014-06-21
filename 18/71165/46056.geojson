@@ -1,1 +1,197 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18526,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":512},"geometry":{"type":"Point","coordinates":[15.461112266359681,47.08475710959462],"bbox":[15.461112266359681,47.08475710959462,15.461112266359681,47.08475710959462]}},{"type":"Feature","properties":{"nummer":27781,"baumbezeichnung_botanisch":"Fagus sylvatica","baumbezeichnung_deutsch":"Rotbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2276},"geometry":{"type":"Point","coordinates":[15.461370010274956,47.08423727482191],"bbox":[15.461370010274956,47.08423727482191,15.461370010274956,47.08423727482191]}},{"type":"Feature","properties":{"nummer":7670,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17256},"geometry":{"type":"Point","coordinates":[15.461400853441273,47.08394446820761],"bbox":[15.461400853441273,47.08394446820761,15.461400853441273,47.08394446820761]}},{"type":"Feature","properties":{"nummer":7673,"baumbezeichnung_botanisch":"Salix alba 'Tristis'","baumbezeichnung_deutsch":"Trauerweide","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17257},"geometry":{"type":"Point","coordinates":[15.461272490859596,47.08382889681386],"bbox":[15.461272490859596,47.08382889681386,15.461272490859596,47.08382889681386]}},{"type":"Feature","properties":{"nummer":7672,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17988},"geometry":{"type":"Point","coordinates":[15.46133912306291,47.083864829294065],"bbox":[15.46133912306291,47.083864829294065,15.46133912306291,47.083864829294065]}},{"type":"Feature","properties":{"nummer":7671,"baumbezeichnung_botanisch":"Corylus avellana","baumbezeichnung_deutsch":"Waldhasel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15104},"geometry":{"type":"Point","coordinates":[15.461370993372958,47.08390535085194],"bbox":[15.461370993372958,47.08390535085194,15.461370993372958,47.08390535085194]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-80","objectid":"Naturdenkmal-91","baumbezeichnung_deutsch":"Hemlocktanne","baumbezeichnung_botanisch":null},"geometry":{"type":"Point","coordinates":[15.462794735195017,47.08334697868862],"bbox":[15.462794735195017,47.08334697868862,15.462794735195017,47.08334697868862]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18526,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461112266359681,
+          47.08475710959462
+        ],
+        "bbox": [
+          15.461112266359681,
+          47.08475710959462,
+          15.461112266359681,
+          47.08475710959462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27781,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461370010274956,
+          47.08423727482191
+        ],
+        "bbox": [
+          15.461370010274956,
+          47.08423727482191,
+          15.461370010274956,
+          47.08423727482191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7670,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461400853441273,
+          47.08394446820761
+        ],
+        "bbox": [
+          15.461400853441273,
+          47.08394446820761,
+          15.461400853441273,
+          47.08394446820761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7673,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461272490859596,
+          47.08382889681386
+        ],
+        "bbox": [
+          15.461272490859596,
+          47.08382889681386,
+          15.461272490859596,
+          47.08382889681386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7672,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46133912306291,
+          47.083864829294065
+        ],
+        "bbox": [
+          15.46133912306291,
+          47.083864829294065,
+          15.46133912306291,
+          47.083864829294065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7671,
+        "baumbezeichnung_botanisch": "Corylus avellana",
+        "baumbezeichnung_deutsch": "Waldhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461370993372958,
+          47.08390535085194
+        ],
+        "bbox": [
+          15.461370993372958,
+          47.08390535085194,
+          15.461370993372958,
+          47.08390535085194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-80",
+        "objectid": "Naturdenkmal-91",
+        "baumbezeichnung_deutsch": "Hemlocktanne",
+        "baumbezeichnung_botanisch": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462794735195017,
+          47.08334697868862
+        ],
+        "bbox": [
+          15.462794735195017,
+          47.08334697868862,
+          15.462794735195017,
+          47.08334697868862
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":27793,"baumbezeichnung_botanisch":"Picea sp.","baumbezeichnung_deutsch":"Fichte","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":1649},"geometry":{"type":"Point","coordinates":[15.424749290402158,47.02341502216401],"bbox":[15.424749290402158,47.02341502216401,15.424749290402158,47.02341502216401]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27793,
+        "baumbezeichnung_botanisch": "Picea sp.",
+        "baumbezeichnung_deutsch": "Fichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424749290402158,
+          47.02341502216401
+        ],
+        "bbox": [
+          15.424749290402158,
+          47.02341502216401,
+          15.424749290402158,
+          47.02341502216401
+        ]
+      }
+    }
+  ]
+}

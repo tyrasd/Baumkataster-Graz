@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":22523,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":1759},"geometry":{"type":"Point","coordinates":[15.426098779514684,47.070448553611065],"bbox":[15.426098779514684,47.070448553611065,15.426098779514684,47.070448553611065]}},{"type":"Feature","properties":{"nummer":22522,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":20127},"geometry":{"type":"Point","coordinates":[15.425975050237444,47.070453606006254],"bbox":[15.425975050237444,47.070453606006254,15.425975050237444,47.070453606006254]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22523,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1759
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426098779514684,
+          47.070448553611065
+        ],
+        "bbox": [
+          15.426098779514684,
+          47.070448553611065,
+          15.426098779514684,
+          47.070448553611065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22522,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.425975050237444,
+          47.070453606006254
+        ],
+        "bbox": [
+          15.425975050237444,
+          47.070453606006254,
+          15.425975050237444,
+          47.070453606006254
+        ]
+      }
+    }
+  ]
+}

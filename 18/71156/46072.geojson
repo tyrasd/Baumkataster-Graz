@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":4747,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13896},"geometry":{"type":"Point","coordinates":[15.438416821951222,47.05328949079378],"bbox":[15.438416821951222,47.05328949079378,15.438416821951222,47.05328949079378]}},{"type":"Feature","properties":{"nummer":4748,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28183},"geometry":{"type":"Point","coordinates":[15.438406576912616,47.053324087559346],"bbox":[15.438406576912616,47.053324087559346,15.438406576912616,47.053324087559346]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4747,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438416821951222,
+          47.05328949079378
+        ],
+        "bbox": [
+          15.438416821951222,
+          47.05328949079378,
+          15.438416821951222,
+          47.05328949079378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4748,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438406576912616,
+          47.053324087559346
+        ],
+        "bbox": [
+          15.438406576912616,
+          47.053324087559346,
+          15.438406576912616,
+          47.053324087559346
+        ]
+      }
+    }
+  ]
+}

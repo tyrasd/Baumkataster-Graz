@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":27047,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17203},"geometry":{"type":"Point","coordinates":[15.47638091770032,47.09418292658366],"bbox":[15.47638091770032,47.09418292658366,15.47638091770032,47.09418292658366]}},{"type":"Feature","properties":{"nummer":27049,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16601},"geometry":{"type":"Point","coordinates":[15.476545014809915,47.0941693615115],"bbox":[15.476545014809915,47.0941693615115,15.476545014809915,47.0941693615115]}},{"type":"Feature","properties":{"nummer":27046,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22649},"geometry":{"type":"Point","coordinates":[15.476331981977369,47.09418717816322],"bbox":[15.476331981977369,47.09418717816322,15.476331981977369,47.09418717816322]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27047,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47638091770032,
+          47.09418292658366
+        ],
+        "bbox": [
+          15.47638091770032,
+          47.09418292658366,
+          15.47638091770032,
+          47.09418292658366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27049,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.476545014809915,
+          47.0941693615115
+        ],
+        "bbox": [
+          15.476545014809915,
+          47.0941693615115,
+          15.476545014809915,
+          47.0941693615115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27046,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.476331981977369,
+          47.09418717816322
+        ],
+        "bbox": [
+          15.476331981977369,
+          47.09418717816322,
+          15.476331981977369,
+          47.09418717816322
+        ]
+      }
+    }
+  ]
+}

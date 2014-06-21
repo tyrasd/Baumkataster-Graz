@@ -1,1 +1,145 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":9892,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":578},"geometry":{"type":"Point","coordinates":[15.459709063858684,47.07567500163991],"bbox":[15.459709063858684,47.07567500163991,15.459709063858684,47.07567500163991]}},{"type":"Feature","properties":{"nummer":9891,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15912},"geometry":{"type":"Point","coordinates":[15.459778300352166,47.07570038490191],"bbox":[15.459778300352166,47.07570038490191,15.459778300352166,47.07570038490191]}},{"type":"Feature","properties":{"nummer":22035,"baumbezeichnung_botanisch":"Populus sp.","baumbezeichnung_deutsch":"Pappel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17490},"geometry":{"type":"Point","coordinates":[15.458681558092591,47.075185176954115],"bbox":[15.458681558092591,47.075185176954115,15.458681558092591,47.075185176954115]}},{"type":"Feature","properties":{"nummer":22037,"baumbezeichnung_botanisch":"Populus sp.","baumbezeichnung_deutsch":"Pappel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14094},"geometry":{"type":"Point","coordinates":[15.45876713279803,47.07522423260743],"bbox":[15.45876713279803,47.07522423260743,15.45876713279803,47.07522423260743]}},{"type":"Feature","properties":{"nummer":22036,"baumbezeichnung_botanisch":"Populus sp.","baumbezeichnung_deutsch":"Pappel","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22202},"geometry":{"type":"Point","coordinates":[15.458723666529341,47.07520435327652],"bbox":[15.458723666529341,47.07520435327652,15.458723666529341,47.07520435327652]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9892,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459709063858684,
+          47.07567500163991
+        ],
+        "bbox": [
+          15.459709063858684,
+          47.07567500163991,
+          15.459709063858684,
+          47.07567500163991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9891,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15912
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459778300352166,
+          47.07570038490191
+        ],
+        "bbox": [
+          15.459778300352166,
+          47.07570038490191,
+          15.459778300352166,
+          47.07570038490191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22035,
+        "baumbezeichnung_botanisch": "Populus sp.",
+        "baumbezeichnung_deutsch": "Pappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17490
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458681558092591,
+          47.075185176954115
+        ],
+        "bbox": [
+          15.458681558092591,
+          47.075185176954115,
+          15.458681558092591,
+          47.075185176954115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22037,
+        "baumbezeichnung_botanisch": "Populus sp.",
+        "baumbezeichnung_deutsch": "Pappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45876713279803,
+          47.07522423260743
+        ],
+        "bbox": [
+          15.45876713279803,
+          47.07522423260743,
+          15.45876713279803,
+          47.07522423260743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22036,
+        "baumbezeichnung_botanisch": "Populus sp.",
+        "baumbezeichnung_deutsch": "Pappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458723666529341,
+          47.07520435327652
+        ],
+        "bbox": [
+          15.458723666529341,
+          47.07520435327652,
+          15.458723666529341,
+          47.07520435327652
+        ]
+      }
+    }
+  ]
+}

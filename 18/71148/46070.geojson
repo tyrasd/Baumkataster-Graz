@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23618,"baumbezeichnung_botanisch":"Acer campestre 'Elsrijk'","baumbezeichnung_deutsch":"Schmalkroniger Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":2024},"geometry":{"type":"Point","coordinates":[15.414783261999705,47.05856978509018],"bbox":[15.414783261999705,47.05856978509018,15.414783261999705,47.05856978509018]}},{"type":"Feature","properties":{"nummer":23616,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":27487},"geometry":{"type":"Point","coordinates":[15.415270876616889,47.0573192736567],"bbox":[15.415270876616889,47.0573192736567,15.415270876616889,47.0573192736567]}},{"type":"Feature","properties":{"nummer":23617,"baumbezeichnung_botanisch":"Acer campestre 'Elsrijk'","baumbezeichnung_deutsch":"Schmalkroniger Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":25191},"geometry":{"type":"Point","coordinates":[15.415217500384255,47.05769987484913],"bbox":[15.415217500384255,47.05769987484913,15.415217500384255,47.05769987484913]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23618,
+        "baumbezeichnung_botanisch": "Acer campestre 'Elsrijk'",
+        "baumbezeichnung_deutsch": "Schmalkroniger Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.414783261999705,
+          47.05856978509018
+        ],
+        "bbox": [
+          15.414783261999705,
+          47.05856978509018,
+          15.414783261999705,
+          47.05856978509018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23616,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415270876616889,
+          47.0573192736567
+        ],
+        "bbox": [
+          15.415270876616889,
+          47.0573192736567,
+          15.415270876616889,
+          47.0573192736567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23617,
+        "baumbezeichnung_botanisch": "Acer campestre 'Elsrijk'",
+        "baumbezeichnung_deutsch": "Schmalkroniger Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415217500384255,
+          47.05769987484913
+        ],
+        "bbox": [
+          15.415217500384255,
+          47.05769987484913,
+          15.415217500384255,
+          47.05769987484913
+        ]
+      }
+    }
+  ]
+}

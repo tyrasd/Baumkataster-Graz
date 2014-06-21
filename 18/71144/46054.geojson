@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18089,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":2655},"geometry":{"type":"Point","coordinates":[15.404402997543166,47.08720641685235],"bbox":[15.404402997543166,47.08720641685235,15.404402997543166,47.08720641685235]}},{"type":"Feature","properties":{"nummer":18090,"baumbezeichnung_botanisch":"Acer sp.","baumbezeichnung_deutsch":"Ahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":20242},"geometry":{"type":"Point","coordinates":[15.404312280761303,47.08735545661276],"bbox":[15.404312280761303,47.08735545661276,15.404312280761303,47.08735545661276]}},{"type":"Feature","properties":{"nummer":18088,"baumbezeichnung_botanisch":"Acer sp.","baumbezeichnung_deutsch":"Ahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":20243},"geometry":{"type":"Point","coordinates":[15.404499121578162,47.0870487506542],"bbox":[15.404499121578162,47.0870487506542,15.404499121578162,47.0870487506542]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18089,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.404402997543166,
+          47.08720641685235
+        ],
+        "bbox": [
+          15.404402997543166,
+          47.08720641685235,
+          15.404402997543166,
+          47.08720641685235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18090,
+        "baumbezeichnung_botanisch": "Acer sp.",
+        "baumbezeichnung_deutsch": "Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.404312280761303,
+          47.08735545661276
+        ],
+        "bbox": [
+          15.404312280761303,
+          47.08735545661276,
+          15.404312280761303,
+          47.08735545661276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18088,
+        "baumbezeichnung_botanisch": "Acer sp.",
+        "baumbezeichnung_deutsch": "Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.404499121578162,
+          47.0870487506542
+        ],
+        "bbox": [
+          15.404499121578162,
+          47.0870487506542,
+          15.404499121578162,
+          47.0870487506542
+        ]
+      }
+    }
+  ]
+}

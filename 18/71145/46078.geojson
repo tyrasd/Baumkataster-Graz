@@ -1,1 +1,313 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":15948,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":4770},"geometry":{"type":"Point","coordinates":[15.405904187018201,47.043366525973276],"bbox":[15.405904187018201,47.043366525973276,15.405904187018201,47.043366525973276]}},{"type":"Feature","properties":{"nummer":15940,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":6852},"geometry":{"type":"Point","coordinates":[15.407381655949804,47.04338405997981],"bbox":[15.407381655949804,47.04338405997981,15.407381655949804,47.04338405997981]}},{"type":"Feature","properties":{"nummer":15949,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":6877},"geometry":{"type":"Point","coordinates":[15.405705253383848,47.043355761663356],"bbox":[15.405705253383848,47.043355761663356,15.405705253383848,47.043355761663356]}},{"type":"Feature","properties":{"nummer":15946,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":7034},"geometry":{"type":"Point","coordinates":[15.40625255498501,47.043387804516414],"bbox":[15.40625255498501,47.043387804516414,15.40625255498501,47.043387804516414]}},{"type":"Feature","properties":{"nummer":15944,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":15928},"geometry":{"type":"Point","coordinates":[15.406587601663622,47.04339344825008],"bbox":[15.406587601663622,47.04339344825008,15.406587601663622,47.04339344825008]}},{"type":"Feature","properties":{"nummer":15947,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":24321},"geometry":{"type":"Point","coordinates":[15.406079463705067,47.0433771337744],"bbox":[15.406079463705067,47.0433771337744,15.406079463705067,47.0433771337744]}},{"type":"Feature","properties":{"nummer":15941,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":24353},"geometry":{"type":"Point","coordinates":[15.407268382018621,47.04338341103482],"bbox":[15.407268382018621,47.04338341103482,15.407268382018621,47.04338341103482]}},{"type":"Feature","properties":{"nummer":31577,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28490},"geometry":{"type":"Point","coordinates":[15.406416810259806,47.04339430147169],"bbox":[15.406416810259806,47.04339430147169,15.406416810259806,47.04339430147169]}},{"type":"Feature","properties":{"nummer":15942,"baumbezeichnung_botanisch":"Quercus rubra","baumbezeichnung_deutsch":"Roteiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28145},"geometry":{"type":"Point","coordinates":[15.407181397780127,47.04335937201096],"bbox":[15.407181397780127,47.04335937201096,15.407181397780127,47.04335937201096]}},{"type":"Feature","properties":{"nummer":15943,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":25527},"geometry":{"type":"Point","coordinates":[15.406923496988206,47.04338811482427],"bbox":[15.406923496988206,47.04338811482427,15.406923496988206,47.04338811482427]}},{"type":"Feature","properties":{"nummer":30815,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2012","entnahmejahr":null,"baumpatenschaft":null,"objectid":27915},"geometry":{"type":"Point","coordinates":[15.407517685263498,47.04338071061261],"bbox":[15.407517685263498,47.04338071061261,15.407517685263498,47.04338071061261]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15948,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4770
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.405904187018201,
+          47.043366525973276
+        ],
+        "bbox": [
+          15.405904187018201,
+          47.043366525973276,
+          15.405904187018201,
+          47.043366525973276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15940,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.407381655949804,
+          47.04338405997981
+        ],
+        "bbox": [
+          15.407381655949804,
+          47.04338405997981,
+          15.407381655949804,
+          47.04338405997981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15949,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.405705253383848,
+          47.043355761663356
+        ],
+        "bbox": [
+          15.405705253383848,
+          47.043355761663356,
+          15.405705253383848,
+          47.043355761663356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15946,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40625255498501,
+          47.043387804516414
+        ],
+        "bbox": [
+          15.40625255498501,
+          47.043387804516414,
+          15.40625255498501,
+          47.043387804516414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15944,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15928
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406587601663622,
+          47.04339344825008
+        ],
+        "bbox": [
+          15.406587601663622,
+          47.04339344825008,
+          15.406587601663622,
+          47.04339344825008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15947,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406079463705067,
+          47.0433771337744
+        ],
+        "bbox": [
+          15.406079463705067,
+          47.0433771337744,
+          15.406079463705067,
+          47.0433771337744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15941,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.407268382018621,
+          47.04338341103482
+        ],
+        "bbox": [
+          15.407268382018621,
+          47.04338341103482,
+          15.407268382018621,
+          47.04338341103482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31577,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28490
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406416810259806,
+          47.04339430147169
+        ],
+        "bbox": [
+          15.406416810259806,
+          47.04339430147169,
+          15.406416810259806,
+          47.04339430147169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15942,
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.407181397780127,
+          47.04335937201096
+        ],
+        "bbox": [
+          15.407181397780127,
+          47.04335937201096,
+          15.407181397780127,
+          47.04335937201096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15943,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406923496988206,
+          47.04338811482427
+        ],
+        "bbox": [
+          15.406923496988206,
+          47.04338811482427,
+          15.406923496988206,
+          47.04338811482427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30815,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.407517685263498,
+          47.04338071061261
+        ],
+        "bbox": [
+          15.407517685263498,
+          47.04338071061261,
+          15.407517685263498,
+          47.04338071061261
+        ]
+      }
+    }
+  ]
+}

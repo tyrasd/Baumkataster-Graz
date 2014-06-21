@@ -1,1 +1,117 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":26699,"baumbezeichnung_botanisch":"Salix alba 'Liempde'","baumbezeichnung_deutsch":"Silberweide Liempde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":9649},"geometry":{"type":"Point","coordinates":[15.43143814402591,47.02351893553194],"bbox":[15.43143814402591,47.02351893553194,15.43143814402591,47.02351893553194]}},{"type":"Feature","properties":{"nummer":26697,"baumbezeichnung_botanisch":"Salix alba 'Liempde'","baumbezeichnung_deutsch":"Silberweide Liempde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":9656},"geometry":{"type":"Point","coordinates":[15.431191896004185,47.023503321478564],"bbox":[15.431191896004185,47.023503321478564,15.431191896004185,47.023503321478564]}},{"type":"Feature","properties":{"nummer":26700,"baumbezeichnung_botanisch":"Salix alba 'Liempde'","baumbezeichnung_deutsch":"Silberweide Liempde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2006","entnahmejahr":null,"baumpatenschaft":null,"objectid":28031},"geometry":{"type":"Point","coordinates":[15.431557128561108,47.023574547298686],"bbox":[15.431557128561108,47.023574547298686,15.431557128561108,47.023574547298686]}},{"type":"Feature","properties":{"nummer":30432,"baumbezeichnung_botanisch":"Salix alba 'Liempde'","baumbezeichnung_deutsch":"Silberweide Liempde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27588},"geometry":{"type":"Point","coordinates":[15.431315058486119,47.02350885084971],"bbox":[15.431315058486119,47.02350885084971,15.431315058486119,47.02350885084971]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26699,
+        "baumbezeichnung_botanisch": "Salix alba 'Liempde'",
+        "baumbezeichnung_deutsch": "Silberweide Liempde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43143814402591,
+          47.02351893553194
+        ],
+        "bbox": [
+          15.43143814402591,
+          47.02351893553194,
+          15.43143814402591,
+          47.02351893553194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26697,
+        "baumbezeichnung_botanisch": "Salix alba 'Liempde'",
+        "baumbezeichnung_deutsch": "Silberweide Liempde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431191896004185,
+          47.023503321478564
+        ],
+        "bbox": [
+          15.431191896004185,
+          47.023503321478564,
+          15.431191896004185,
+          47.023503321478564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26700,
+        "baumbezeichnung_botanisch": "Salix alba 'Liempde'",
+        "baumbezeichnung_deutsch": "Silberweide Liempde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28031
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431557128561108,
+          47.023574547298686
+        ],
+        "bbox": [
+          15.431557128561108,
+          47.023574547298686,
+          15.431557128561108,
+          47.023574547298686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30432,
+        "baumbezeichnung_botanisch": "Salix alba 'Liempde'",
+        "baumbezeichnung_deutsch": "Silberweide Liempde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431315058486119,
+          47.02350885084971
+        ],
+        "bbox": [
+          15.431315058486119,
+          47.02350885084971,
+          15.431315058486119,
+          47.02350885084971
+        ]
+      }
+    }
+  ]
+}

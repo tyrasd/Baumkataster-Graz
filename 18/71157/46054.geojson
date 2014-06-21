@@ -1,1 +1,285 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":10738,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2765},"geometry":{"type":"Point","coordinates":[15.438758755991678,47.08855525257009],"bbox":[15.438758755991678,47.08855525257009,15.438758755991678,47.08855525257009]}},{"type":"Feature","properties":{"nummer":27468,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18250},"geometry":{"type":"Point","coordinates":[15.438604900554468,47.088693634093524],"bbox":[15.438604900554468,47.088693634093524,15.438604900554468,47.088693634093524]}},{"type":"Feature","properties":{"nummer":27470,"baumbezeichnung_botanisch":"Ailanthus altissima","baumbezeichnung_deutsch":"Götterbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23773},"geometry":{"type":"Point","coordinates":[15.438585174341252,47.08864229398035],"bbox":[15.438585174341252,47.08864229398035,15.438585174341252,47.08864229398035]}},{"type":"Feature","properties":{"nummer":27471,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23774},"geometry":{"type":"Point","coordinates":[15.438631843325998,47.08860947423961],"bbox":[15.438631843325998,47.08860947423961,15.438631843325998,47.08860947423961]}},{"type":"Feature","properties":{"nummer":27473,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23776},"geometry":{"type":"Point","coordinates":[15.438714509769731,47.0886399335022],"bbox":[15.438714509769731,47.0886399335022,15.438714509769731,47.0886399335022]}},{"type":"Feature","properties":{"nummer":27464,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24835},"geometry":{"type":"Point","coordinates":[15.438536623129805,47.08870537993406],"bbox":[15.438536623129805,47.08870537993406,15.438536623129805,47.08870537993406]}},{"type":"Feature","properties":{"nummer":10741,"baumbezeichnung_botanisch":"Ailanthus altissima","baumbezeichnung_deutsch":"Götterbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24839},"geometry":{"type":"Point","coordinates":[15.438616055451808,47.08862105308913],"bbox":[15.438616055451808,47.08862105308913,15.438616055451808,47.08862105308913]}},{"type":"Feature","properties":{"nummer":10739,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19357},"geometry":{"type":"Point","coordinates":[15.438728684506529,47.088562720304964],"bbox":[15.438728684506529,47.088562720304964,15.438728684506529,47.088562720304964]}},{"type":"Feature","properties":{"nummer":27472,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20401},"geometry":{"type":"Point","coordinates":[15.438658212038455,47.08860855560343],"bbox":[15.438658212038455,47.08860855560343,15.438658212038455,47.08860855560343]}},{"type":"Feature","properties":{"nummer":27469,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26043},"geometry":{"type":"Point","coordinates":[15.438562619659855,47.08866124161619],"bbox":[15.438562619659855,47.08866124161619,15.438562619659855,47.08866124161619]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10738,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438758755991678,
+          47.08855525257009
+        ],
+        "bbox": [
+          15.438758755991678,
+          47.08855525257009,
+          15.438758755991678,
+          47.08855525257009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27468,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438604900554468,
+          47.088693634093524
+        ],
+        "bbox": [
+          15.438604900554468,
+          47.088693634093524,
+          15.438604900554468,
+          47.088693634093524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27470,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438585174341252,
+          47.08864229398035
+        ],
+        "bbox": [
+          15.438585174341252,
+          47.08864229398035,
+          15.438585174341252,
+          47.08864229398035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27471,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438631843325998,
+          47.08860947423961
+        ],
+        "bbox": [
+          15.438631843325998,
+          47.08860947423961,
+          15.438631843325998,
+          47.08860947423961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27473,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438714509769731,
+          47.0886399335022
+        ],
+        "bbox": [
+          15.438714509769731,
+          47.0886399335022,
+          15.438714509769731,
+          47.0886399335022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27464,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438536623129805,
+          47.08870537993406
+        ],
+        "bbox": [
+          15.438536623129805,
+          47.08870537993406,
+          15.438536623129805,
+          47.08870537993406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10741,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24839
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438616055451808,
+          47.08862105308913
+        ],
+        "bbox": [
+          15.438616055451808,
+          47.08862105308913,
+          15.438616055451808,
+          47.08862105308913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10739,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438728684506529,
+          47.088562720304964
+        ],
+        "bbox": [
+          15.438728684506529,
+          47.088562720304964,
+          15.438728684506529,
+          47.088562720304964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27472,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438658212038455,
+          47.08860855560343
+        ],
+        "bbox": [
+          15.438658212038455,
+          47.08860855560343,
+          15.438658212038455,
+          47.08860855560343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27469,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.438562619659855,
+          47.08866124161619
+        ],
+        "bbox": [
+          15.438562619659855,
+          47.08866124161619,
+          15.438562619659855,
+          47.08866124161619
+        ]
+      }
+    }
+  ]
+}

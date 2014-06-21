@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23812,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13359},"geometry":{"type":"Point","coordinates":[15.38931299050425,47.06632673161476],"bbox":[15.38931299050425,47.06632673161476,15.38931299050425,47.06632673161476]}},{"type":"Feature","properties":{"nummer":23813,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22133},"geometry":{"type":"Point","coordinates":[15.389311083286236,47.06628203714546],"bbox":[15.389311083286236,47.06628203714546,15.389311083286236,47.06628203714546]}},{"type":"Feature","properties":{"nummer":23814,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19602},"geometry":{"type":"Point","coordinates":[15.389313075254933,47.06624314977402],"bbox":[15.389313075254933,47.06624314977402,15.389313075254933,47.06624314977402]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23812,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38931299050425,
+          47.06632673161476
+        ],
+        "bbox": [
+          15.38931299050425,
+          47.06632673161476,
+          15.38931299050425,
+          47.06632673161476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23813,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.389311083286236,
+          47.06628203714546
+        ],
+        "bbox": [
+          15.389311083286236,
+          47.06628203714546,
+          15.389311083286236,
+          47.06628203714546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23814,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.389313075254933,
+          47.06624314977402
+        ],
+        "bbox": [
+          15.389313075254933,
+          47.06624314977402,
+          15.389313075254933,
+          47.06624314977402
+        ]
+      }
+    }
+  ]
+}

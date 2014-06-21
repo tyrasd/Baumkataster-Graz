@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23569,"baumbezeichnung_botanisch":"Quercus rubra","baumbezeichnung_deutsch":"Roteiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":14800},"geometry":{"type":"Point","coordinates":[15.42490032757292,47.042767142718894],"bbox":[15.42490032757292,47.042767142718894,15.42490032757292,47.042767142718894]}},{"type":"Feature","properties":{"nummer":23568,"baumbezeichnung_botanisch":"Quercus rubra","baumbezeichnung_deutsch":"Roteiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":24228},"geometry":{"type":"Point","coordinates":[15.425093268680817,47.042797014427244],"bbox":[15.425093268680817,47.042797014427244,15.425093268680817,47.042797014427244]}},{"type":"Feature","properties":{"nummer":23567,"baumbezeichnung_botanisch":"Quercus rubra","baumbezeichnung_deutsch":"Roteiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":19728},"geometry":{"type":"Point","coordinates":[15.42521387642688,47.042814503398574],"bbox":[15.42521387642688,47.042814503398574,15.42521387642688,47.042814503398574]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23569,
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42490032757292,
+          47.042767142718894
+        ],
+        "bbox": [
+          15.42490032757292,
+          47.042767142718894,
+          15.42490032757292,
+          47.042767142718894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23568,
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.425093268680817,
+          47.042797014427244
+        ],
+        "bbox": [
+          15.425093268680817,
+          47.042797014427244,
+          15.425093268680817,
+          47.042797014427244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23567,
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19728
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42521387642688,
+          47.042814503398574
+        ],
+        "bbox": [
+          15.42521387642688,
+          47.042814503398574,
+          15.42521387642688,
+          47.042814503398574
+        ]
+      }
+    }
+  ]
+}

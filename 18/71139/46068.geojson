@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":15379,"baumbezeichnung_botanisch":"Crataegus sp.","baumbezeichnung_deutsch":"Weißdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25646},"geometry":{"type":"Point","coordinates":[15.390775851602038,47.062618205889855],"bbox":[15.390775851602038,47.062618205889855,15.390775851602038,47.062618205889855]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15379,
+        "baumbezeichnung_botanisch": "Crataegus sp.",
+        "baumbezeichnung_deutsch": "Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25646
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.390775851602038,
+          47.062618205889855
+        ],
+        "bbox": [
+          15.390775851602038,
+          47.062618205889855,
+          15.390775851602038,
+          47.062618205889855
+        ]
+      }
+    }
+  ]
+}

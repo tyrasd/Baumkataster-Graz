@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29466,"baumbezeichnung_botanisch":"Aesculus flava","baumbezeichnung_deutsch":"Gelbe Pavie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2009","entnahmejahr":null,"baumpatenschaft":null,"objectid":8296},"geometry":{"type":"Point","coordinates":[15.433130649844683,47.04200663101795],"bbox":[15.433130649844683,47.04200663101795,15.433130649844683,47.04200663101795]}},{"type":"Feature","properties":{"nummer":19906,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1996","entnahmejahr":null,"baumpatenschaft":null,"objectid":6191},"geometry":{"type":"Point","coordinates":[15.433056595177053,47.04351050957803],"bbox":[15.433056595177053,47.04351050957803,15.433056595177053,47.04351050957803]}},{"type":"Feature","properties":{"nummer":27517,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":18578},"geometry":{"type":"Point","coordinates":[15.433067510491433,47.04329571178213],"bbox":[15.433067510491433,47.04329571178213,15.433067510491433,47.04329571178213]}},{"type":"Feature","properties":{"nummer":15528,"baumbezeichnung_botanisch":"Aesculus x carnea","baumbezeichnung_deutsch":"Rotblühende Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17828},"geometry":{"type":"Point","coordinates":[15.433117922307536,47.042298439931116],"bbox":[15.433117922307536,47.042298439931116,15.433117922307536,47.042298439931116]}},{"type":"Feature","properties":{"nummer":22543,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":16457},"geometry":{"type":"Point","coordinates":[15.433047541376528,47.04368050019047],"bbox":[15.433047541376528,47.04368050019047,15.433047541376528,47.04368050019047]}},{"type":"Feature","properties":{"nummer":15526,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16529},"geometry":{"type":"Point","coordinates":[15.433098561292992,47.042658083707714],"bbox":[15.433098561292992,47.042658083707714,15.433098561292992,47.042658083707714]}},{"type":"Feature","properties":{"nummer":31472,"baumbezeichnung_botanisch":"Aesculus flava","baumbezeichnung_deutsch":"Gelbe Pavie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28346},"geometry":{"type":"Point","coordinates":[15.43310950899651,47.042435261571065],"bbox":[15.43310950899651,47.042435261571065,15.43310950899651,47.042435261571065]}},{"type":"Feature","properties":{"nummer":30433,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27587},"geometry":{"type":"Point","coordinates":[15.43304113577852,47.04383314297808],"bbox":[15.43304113577852,47.04383314297808,15.43304113577852,47.04383314297808]}},{"type":"Feature","properties":{"nummer":15525,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25780},"geometry":{"type":"Point","coordinates":[15.433081357492844,47.04302493248459],"bbox":[15.433081357492844,47.04302493248459,15.433081357492844,47.04302493248459]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29466,
+        "baumbezeichnung_botanisch": "Aesculus flava",
+        "baumbezeichnung_deutsch": "Gelbe Pavie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433130649844683,
+          47.04200663101795
+        ],
+        "bbox": [
+          15.433130649844683,
+          47.04200663101795,
+          15.433130649844683,
+          47.04200663101795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19906,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433056595177053,
+          47.04351050957803
+        ],
+        "bbox": [
+          15.433056595177053,
+          47.04351050957803,
+          15.433056595177053,
+          47.04351050957803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27517,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433067510491433,
+          47.04329571178213
+        ],
+        "bbox": [
+          15.433067510491433,
+          47.04329571178213,
+          15.433067510491433,
+          47.04329571178213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15528,
+        "baumbezeichnung_botanisch": "Aesculus x carnea",
+        "baumbezeichnung_deutsch": "Rotblühende Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433117922307536,
+          47.042298439931116
+        ],
+        "bbox": [
+          15.433117922307536,
+          47.042298439931116,
+          15.433117922307536,
+          47.042298439931116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22543,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433047541376528,
+          47.04368050019047
+        ],
+        "bbox": [
+          15.433047541376528,
+          47.04368050019047,
+          15.433047541376528,
+          47.04368050019047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15526,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433098561292992,
+          47.042658083707714
+        ],
+        "bbox": [
+          15.433098561292992,
+          47.042658083707714,
+          15.433098561292992,
+          47.042658083707714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31472,
+        "baumbezeichnung_botanisch": "Aesculus flava",
+        "baumbezeichnung_deutsch": "Gelbe Pavie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43310950899651,
+          47.042435261571065
+        ],
+        "bbox": [
+          15.43310950899651,
+          47.042435261571065,
+          15.43310950899651,
+          47.042435261571065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30433,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43304113577852,
+          47.04383314297808
+        ],
+        "bbox": [
+          15.43304113577852,
+          47.04383314297808,
+          15.43304113577852,
+          47.04383314297808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15525,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25780
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433081357492844,
+          47.04302493248459
+        ],
+        "bbox": [
+          15.433081357492844,
+          47.04302493248459,
+          15.433081357492844,
+          47.04302493248459
+        ]
+      }
+    }
+  ]
+}

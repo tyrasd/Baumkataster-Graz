@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":21734,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1998","entnahmejahr":null,"baumpatenschaft":null,"objectid":8911},"geometry":{"type":"Point","coordinates":[15.407332672582438,47.03047055164012],"bbox":[15.407332672582438,47.03047055164012,15.407332672582438,47.03047055164012]}},{"type":"Feature","properties":{"nummer":21733,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1998","entnahmejahr":null,"baumpatenschaft":null,"objectid":28310},"geometry":{"type":"Point","coordinates":[15.40723472211107,47.03048089937559],"bbox":[15.40723472211107,47.03048089937559,15.40723472211107,47.03048089937559]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21734,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8911
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.407332672582438,
+          47.03047055164012
+        ],
+        "bbox": [
+          15.407332672582438,
+          47.03047055164012,
+          15.407332672582438,
+          47.03047055164012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21733,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40723472211107,
+          47.03048089937559
+        ],
+        "bbox": [
+          15.40723472211107,
+          47.03048089937559,
+          15.40723472211107,
+          47.03048089937559
+        ]
+      }
+    }
+  ]
+}

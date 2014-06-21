@@ -1,1 +1,29 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-56","objectid":"Naturdenkmal-84","baumbezeichnung_deutsch":"Stechpalme","baumbezeichnung_botanisch":"Ilex aquifolium"},"geometry":{"type":"Point","coordinates":[15.484728685490877,47.09606135950266],"bbox":[15.484728685490877,47.09606135950266,15.484728685490877,47.09606135950266]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-56",
+        "objectid": "Naturdenkmal-84",
+        "baumbezeichnung_deutsch": "Stechpalme",
+        "baumbezeichnung_botanisch": "Ilex aquifolium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.484728685490877,
+          47.09606135950266
+        ],
+        "bbox": [
+          15.484728685490877,
+          47.09606135950266,
+          15.484728685490877,
+          47.09606135950266
+        ]
+      }
+    }
+  ]
+}

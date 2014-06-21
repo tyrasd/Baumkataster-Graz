@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":19806,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1995","entnahmejahr":null,"baumpatenschaft":null,"objectid":1565},"geometry":{"type":"Point","coordinates":[15.391364030036359,47.10891296927795],"bbox":[15.391364030036359,47.10891296927795,15.391364030036359,47.10891296927795]}},{"type":"Feature","properties":{"nummer":20201,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":11862},"geometry":{"type":"Point","coordinates":[15.391401517226257,47.10899798122466],"bbox":[15.391401517226257,47.10899798122466,15.391401517226257,47.10899798122466]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19806,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1995",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.391364030036359,
+          47.10891296927795
+        ],
+        "bbox": [
+          15.391364030036359,
+          47.10891296927795,
+          15.391364030036359,
+          47.10891296927795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20201,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.391401517226257,
+          47.10899798122466
+        ],
+        "bbox": [
+          15.391401517226257,
+          47.10899798122466,
+          15.391401517226257,
+          47.10899798122466
+        ]
+      }
+    }
+  ]
+}

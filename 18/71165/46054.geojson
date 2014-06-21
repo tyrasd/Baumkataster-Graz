@@ -1,1 +1,29 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"öffentlich","nummer":"Naturdenkmal-96","objectid":"Naturdenkmal-18","baumbezeichnung_deutsch":"Fichte","baumbezeichnung_botanisch":"Picea abies"},"geometry":{"type":"Point","coordinates":[15.461210617018734,47.087209185194205],"bbox":[15.461210617018734,47.087209185194205,15.461210617018734,47.087209185194205]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-96",
+        "objectid": "Naturdenkmal-18",
+        "baumbezeichnung_deutsch": "Fichte",
+        "baumbezeichnung_botanisch": "Picea abies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461210617018734,
+          47.087209185194205
+        ],
+        "bbox": [
+          15.461210617018734,
+          47.087209185194205,
+          15.461210617018734,
+          47.087209185194205
+        ]
+      }
+    }
+  ]
+}

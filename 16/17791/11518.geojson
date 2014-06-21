@@ -1,1 +1,4541 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":4967,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":57},"geometry":{"type":"Point","coordinates":[15.464308868161439,47.05335260246661],"bbox":[15.464308868161439,47.05335260246661,15.464308868161439,47.05335260246661]}},{"type":"Feature","properties":{"nummer":5566,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":85},"geometry":{"type":"Point","coordinates":[15.458026423620783,47.05155258623224],"bbox":[15.458026423620783,47.05155258623224,15.458026423620783,47.05155258623224]}},{"type":"Feature","properties":{"nummer":29031,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":186},"geometry":{"type":"Point","coordinates":[15.46535595706196,47.052942892253995],"bbox":[15.46535595706196,47.052942892253995,15.46535595706196,47.052942892253995]}},{"type":"Feature","properties":{"nummer":4892,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":933},"geometry":{"type":"Point","coordinates":[15.465194426106038,47.0532490070863],"bbox":[15.465194426106038,47.0532490070863,15.465194426106038,47.0532490070863]}},{"type":"Feature","properties":{"nummer":4901,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":934},"geometry":{"type":"Point","coordinates":[15.464835309017554,47.053491768049575],"bbox":[15.464835309017554,47.053491768049575,15.464835309017554,47.053491768049575]}},{"type":"Feature","properties":{"nummer":27661,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":1592},"geometry":{"type":"Point","coordinates":[15.464444586848547,47.054245567734775],"bbox":[15.464444586848547,47.054245567734775,15.464444586848547,47.054245567734775]}},{"type":"Feature","properties":{"nummer":27662,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":1593},"geometry":{"type":"Point","coordinates":[15.464370234512614,47.05416747464653],"bbox":[15.464370234512614,47.05416747464653,15.464370234512614,47.05416747464653]}},{"type":"Feature","properties":{"nummer":27660,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":1642},"geometry":{"type":"Point","coordinates":[15.464286140447042,47.054300354276826],"bbox":[15.464286140447042,47.054300354276826,15.464286140447042,47.054300354276826]}},{"type":"Feature","properties":{"nummer":24874,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Westhof`s Glorie'","baumbezeichnung_deutsch":"Esche Westhof`s Glorie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":1964},"geometry":{"type":"Point","coordinates":[15.459662798531863,47.052608672378284],"bbox":[15.459662798531863,47.052608672378284,15.459662798531863,47.052608672378284]}},{"type":"Feature","properties":{"nummer":5550,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2094},"geometry":{"type":"Point","coordinates":[15.457793255949015,47.051428484173826],"bbox":[15.457793255949015,47.051428484173826,15.457793255949015,47.051428484173826]}},{"type":"Feature","properties":{"nummer":5562,"baumbezeichnung_botanisch":"Ulmus glabra","baumbezeichnung_deutsch":"Bergulme","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2095},"geometry":{"type":"Point","coordinates":[15.458016914558192,47.05150883032137],"bbox":[15.458016914558192,47.05150883032137,15.458016914558192,47.05150883032137]}},{"type":"Feature","properties":{"nummer":5578,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2096},"geometry":{"type":"Point","coordinates":[15.458384849138945,47.051677648904125],"bbox":[15.458384849138945,47.051677648904125,15.458384849138945,47.051677648904125]}},{"type":"Feature","properties":{"nummer":5591,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2097},"geometry":{"type":"Point","coordinates":[15.458245248878768,47.05130439405202],"bbox":[15.458245248878768,47.05130439405202,15.458245248878768,47.05130439405202]}},{"type":"Feature","properties":{"nummer":5609,"baumbezeichnung_botanisch":"Crataegus laevigata","baumbezeichnung_deutsch":"Zweigriffeliger Weißdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2098},"geometry":{"type":"Point","coordinates":[15.457768270000457,47.051156936780124],"bbox":[15.457768270000457,47.051156936780124,15.457768270000457,47.051156936780124]}},{"type":"Feature","properties":{"nummer":5594,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2142},"geometry":{"type":"Point","coordinates":[15.45810034655733,47.05125435683173],"bbox":[15.45810034655733,47.05125435683173,15.45810034655733,47.05125435683173]}},{"type":"Feature","properties":{"nummer":19709,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1994","entnahmejahr":null,"baumpatenschaft":null,"objectid":2180},"geometry":{"type":"Point","coordinates":[15.465006279888376,47.05340204365039],"bbox":[15.465006279888376,47.05340204365039,15.465006279888376,47.05340204365039]}},{"type":"Feature","properties":{"nummer":4922,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2181},"geometry":{"type":"Point","coordinates":[15.464085097276651,47.05395773684933],"bbox":[15.464085097276651,47.05395773684933,15.464085097276651,47.05395773684933]}},{"type":"Feature","properties":{"nummer":4911,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2443},"geometry":{"type":"Point","coordinates":[15.464467444853977,47.053775837920085],"bbox":[15.464467444853977,47.053775837920085,15.464467444853977,47.053775837920085]}},{"type":"Feature","properties":{"nummer":4955,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2714},"geometry":{"type":"Point","coordinates":[15.465101152673661,47.05279505000828],"bbox":[15.465101152673661,47.05279505000828,15.465101152673661,47.05279505000828]}},{"type":"Feature","properties":{"nummer":20163,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":2591},"geometry":{"type":"Point","coordinates":[15.465238186443582,47.0532879568296],"bbox":[15.465238186443582,47.0532879568296,15.465238186443582,47.0532879568296]}},{"type":"Feature","properties":{"nummer":4903,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3328},"geometry":{"type":"Point","coordinates":[15.464745855307607,47.053532463103394],"bbox":[15.464745855307607,47.053532463103394,15.464745855307607,47.053532463103394]}},{"type":"Feature","properties":{"nummer":4894,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3329},"geometry":{"type":"Point","coordinates":[15.465113087532442,47.053287005347336],"bbox":[15.465113087532442,47.053287005347336,15.465113087532442,47.053287005347336]}},{"type":"Feature","properties":{"nummer":4895,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3330},"geometry":{"type":"Point","coordinates":[15.465091653488054,47.05336407615853],"bbox":[15.465091653488054,47.05336407615853,15.465091653488054,47.05336407615853]}},{"type":"Feature","properties":{"nummer":4899,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3331},"geometry":{"type":"Point","coordinates":[15.46491261198668,47.053453740182846],"bbox":[15.46491261198668,47.053453740182846,15.46491261198668,47.053453740182846]}},{"type":"Feature","properties":{"nummer":23817,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":3332},"geometry":{"type":"Point","coordinates":[15.46456282150461,47.05361933739813],"bbox":[15.46456282150461,47.05361933739813,15.46456282150461,47.05361933739813]}},{"type":"Feature","properties":{"nummer":4933,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3333},"geometry":{"type":"Point","coordinates":[15.463583198990154,47.05429319129563],"bbox":[15.463583198990154,47.05429319129563,15.463583198990154,47.05429319129563]}},{"type":"Feature","properties":{"nummer":4925,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3334},"geometry":{"type":"Point","coordinates":[15.463937391535836,47.0541055629025],"bbox":[15.463937391535836,47.0541055629025,15.463937391535836,47.0541055629025]}},{"type":"Feature","properties":{"nummer":4924,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3335},"geometry":{"type":"Point","coordinates":[15.463979500300438,47.05399830836483],"bbox":[15.463979500300438,47.05399830836483,15.463979500300438,47.05399830836483]}},{"type":"Feature","properties":{"nummer":4917,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3336},"geometry":{"type":"Point","coordinates":[15.464308083134599,47.05389599221335],"bbox":[15.464308083134599,47.05389599221335,15.464308083134599,47.05389599221335]}},{"type":"Feature","properties":{"nummer":20191,"baumbezeichnung_botanisch":"Fagus sylvatica","baumbezeichnung_deutsch":"Rotbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":3604},"geometry":{"type":"Point","coordinates":[15.458391824978161,47.051564124619375],"bbox":[15.458391824978161,47.051564124619375,15.458391824978161,47.051564124619375]}},{"type":"Feature","properties":{"nummer":4915,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3348},"geometry":{"type":"Point","coordinates":[15.464381440849792,47.053852417067425],"bbox":[15.464381440849792,47.053852417067425,15.464381440849792,47.053852417067425]}},{"type":"Feature","properties":{"nummer":4943,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3349},"geometry":{"type":"Point","coordinates":[15.4637693990562,47.05376500555419],"bbox":[15.4637693990562,47.05376500555419,15.4637693990562,47.05376500555419]}},{"type":"Feature","properties":{"nummer":4964,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3350},"geometry":{"type":"Point","coordinates":[15.464463077532026,47.05305311562201],"bbox":[15.464463077532026,47.05305311562201,15.464463077532026,47.05305311562201]}},{"type":"Feature","properties":{"nummer":20153,"baumbezeichnung_botanisch":"Liquidambar styraciflua","baumbezeichnung_deutsch":"Amberbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":3439},"geometry":{"type":"Point","coordinates":[15.466012884990404,47.05323452414077],"bbox":[15.466012884990404,47.05323452414077,15.466012884990404,47.05323452414077]}},{"type":"Feature","properties":{"nummer":5551,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3799},"geometry":{"type":"Point","coordinates":[15.457834270909839,47.051421809558775],"bbox":[15.457834270909839,47.051421809558775,15.457834270909839,47.051421809558775]}},{"type":"Feature","properties":{"nummer":5577,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3800},"geometry":{"type":"Point","coordinates":[15.458304687674365,47.05173294987509],"bbox":[15.458304687674365,47.05173294987509,15.458304687674365,47.05173294987509]}},{"type":"Feature","properties":{"nummer":4923,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3993},"geometry":{"type":"Point","coordinates":[15.464035232559969,47.05404562434851],"bbox":[15.464035232559969,47.05404562434851,15.464035232559969,47.05404562434851]}},{"type":"Feature","properties":{"nummer":5597,"baumbezeichnung_botanisch":"Fagus sylvatica","baumbezeichnung_deutsch":"Rotbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4018},"geometry":{"type":"Point","coordinates":[15.457977990480863,47.05123245005903],"bbox":[15.457977990480863,47.05123245005903,15.457977990480863,47.05123245005903]}},{"type":"Feature","properties":{"nummer":20193,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":4434},"geometry":{"type":"Point","coordinates":[15.45839789549766,47.0514537974538],"bbox":[15.45839789549766,47.0514537974538,15.45839789549766,47.0514537974538]}},{"type":"Feature","properties":{"nummer":20164,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":4627},"geometry":{"type":"Point","coordinates":[15.464354182164865,47.053791525816195],"bbox":[15.464354182164865,47.053791525816195,15.464354182164865,47.053791525816195]}},{"type":"Feature","properties":{"nummer":4912,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4628},"geometry":{"type":"Point","coordinates":[15.46441162258933,47.05373403816269],"bbox":[15.46441162258933,47.05373403816269,15.46441162258933,47.05373403816269]}},{"type":"Feature","properties":{"nummer":4968,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4710},"geometry":{"type":"Point","coordinates":[15.464224484421853,47.05332989317343],"bbox":[15.464224484421853,47.05332989317343,15.464224484421853,47.05332989317343]}},{"type":"Feature","properties":{"nummer":4961,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5104},"geometry":{"type":"Point","coordinates":[15.465713471553142,47.05307161299755],"bbox":[15.465713471553142,47.05307161299755,15.465713471553142,47.05307161299755]}},{"type":"Feature","properties":{"nummer":4959,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5275},"geometry":{"type":"Point","coordinates":[15.465452418568173,47.05295445585089],"bbox":[15.465452418568173,47.05295445585089,15.465452418568173,47.05295445585089]}},{"type":"Feature","properties":{"nummer":4886,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5276},"geometry":{"type":"Point","coordinates":[15.465417763634163,47.05312658911575],"bbox":[15.465417763634163,47.05312658911575,15.465417763634163,47.05312658911575]}},{"type":"Feature","properties":{"nummer":4900,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11184},"geometry":{"type":"Point","coordinates":[15.464856834650979,47.05340918128107],"bbox":[15.464856834650979,47.05340918128107,15.464856834650979,47.05340918128107]}},{"type":"Feature","properties":{"nummer":30099,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9752},"geometry":{"type":"Point","coordinates":[15.464821579431534,47.05335932026962],"bbox":[15.464821579431534,47.05335932026962,15.464821579431534,47.05335932026962]}},{"type":"Feature","properties":{"nummer":30100,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9753},"geometry":{"type":"Point","coordinates":[15.464741189854445,47.05338751271707],"bbox":[15.464741189854445,47.05338751271707,15.464741189854445,47.05338751271707]}},{"type":"Feature","properties":{"nummer":4881,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9344},"geometry":{"type":"Point","coordinates":[15.465613482679622,47.053062548634145],"bbox":[15.465613482679622,47.053062548634145,15.465613482679622,47.053062548634145]}},{"type":"Feature","properties":{"nummer":30087,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9361},"geometry":{"type":"Point","coordinates":[15.464355792629553,47.052691299763005],"bbox":[15.464355792629553,47.052691299763005,15.464355792629553,47.052691299763005]}},{"type":"Feature","properties":{"nummer":30088,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9362},"geometry":{"type":"Point","coordinates":[15.464207740946595,47.052680239242285],"bbox":[15.464207740946595,47.052680239242285,15.464207740946595,47.052680239242285]}},{"type":"Feature","properties":{"nummer":30089,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9363},"geometry":{"type":"Point","coordinates":[15.464186830946721,47.05271484434662],"bbox":[15.464186830946721,47.05271484434662,15.464186830946721,47.05271484434662]}},{"type":"Feature","properties":{"nummer":30090,"baumbezeichnung_botanisch":"Populus nigra","baumbezeichnung_deutsch":"Schwarzpappel","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9364},"geometry":{"type":"Point","coordinates":[15.464209271868251,47.052764676351856],"bbox":[15.464209271868251,47.052764676351856,15.464209271868251,47.052764676351856]}},{"type":"Feature","properties":{"nummer":30085,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9401},"geometry":{"type":"Point","coordinates":[15.464606530856553,47.05264354633047],"bbox":[15.464606530856553,47.05264354633047,15.464606530856553,47.05264354633047]}},{"type":"Feature","properties":{"nummer":30086,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9402},"geometry":{"type":"Point","coordinates":[15.464572624075213,47.05267308548565],"bbox":[15.464572624075213,47.05267308548565,15.464572624075213,47.05267308548565]}},{"type":"Feature","properties":{"nummer":30091,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9403},"geometry":{"type":"Point","coordinates":[15.464195497745633,47.052807281176854],"bbox":[15.464195497745633,47.052807281176854,15.464195497745633,47.052807281176854]}},{"type":"Feature","properties":{"nummer":30092,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9404},"geometry":{"type":"Point","coordinates":[15.464177687621772,47.05282998955611],"bbox":[15.464177687621772,47.05282998955611,15.464177687621772,47.05282998955611]}},{"type":"Feature","properties":{"nummer":30093,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9405},"geometry":{"type":"Point","coordinates":[15.464192992646634,47.05287182274098],"bbox":[15.464192992646634,47.05287182274098,15.464192992646634,47.05287182274098]}},{"type":"Feature","properties":{"nummer":30094,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9406},"geometry":{"type":"Point","coordinates":[15.46410388524787,47.05289994746189],"bbox":[15.46410388524787,47.05289994746189,15.46410388524787,47.05289994746189]}},{"type":"Feature","properties":{"nummer":30095,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9407},"geometry":{"type":"Point","coordinates":[15.464092903321268,47.0529495258611],"bbox":[15.464092903321268,47.0529495258611,15.464092903321268,47.0529495258611]}},{"type":"Feature","properties":{"nummer":30096,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9408},"geometry":{"type":"Point","coordinates":[15.464183946435478,47.0529810094238],"bbox":[15.464183946435478,47.0529810094238,15.464183946435478,47.0529810094238]}},{"type":"Feature","properties":{"nummer":30097,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9409},"geometry":{"type":"Point","coordinates":[15.46430966449305,47.05311406709091],"bbox":[15.46430966449305,47.05311406709091,15.46430966449305,47.05311406709091]}},{"type":"Feature","properties":{"nummer":30098,"baumbezeichnung_botanisch":"Salix caprea","baumbezeichnung_deutsch":"Salweide","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9410},"geometry":{"type":"Point","coordinates":[15.46423692488478,47.05320787112337],"bbox":[15.46423692488478,47.05320787112337,15.46423692488478,47.05320787112337]}},{"type":"Feature","properties":{"nummer":4949,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7116},"geometry":{"type":"Point","coordinates":[15.464574161315568,47.05255668959968],"bbox":[15.464574161315568,47.05255668959968,15.464574161315568,47.05255668959968]}},{"type":"Feature","properties":{"nummer":4948,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7117},"geometry":{"type":"Point","coordinates":[15.464484641541441,47.05251591159351],"bbox":[15.464484641541441,47.05251591159351,15.464484641541441,47.05251591159351]}},{"type":"Feature","properties":{"nummer":5589,"baumbezeichnung_botanisch":"Ulmus carpinifolia","baumbezeichnung_deutsch":"Feldulme","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8897},"geometry":{"type":"Point","coordinates":[15.458283392800256,47.05131691713499],"bbox":[15.458283392800256,47.05131691713499,15.458283392800256,47.05131691713499]}},{"type":"Feature","properties":{"nummer":4935,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7507},"geometry":{"type":"Point","coordinates":[15.463461233969191,47.05434742891773],"bbox":[15.463461233969191,47.05434742891773,15.463461233969191,47.05434742891773]}},{"type":"Feature","properties":{"nummer":4882,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8518},"geometry":{"type":"Point","coordinates":[15.46557347663669,47.05303430567489],"bbox":[15.46557347663669,47.05303430567489,15.46557347663669,47.05303430567489]}},{"type":"Feature","properties":{"nummer":24875,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Westhof`s Glorie'","baumbezeichnung_deutsch":"Esche Westhof`s Glorie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":16716},"geometry":{"type":"Point","coordinates":[15.45924579285702,47.052443381564125],"bbox":[15.45924579285702,47.052443381564125,15.45924579285702,47.052443381564125]}},{"type":"Feature","properties":{"nummer":24876,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Westhof`s Glorie'","baumbezeichnung_deutsch":"Esche Westhof`s Glorie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":17526},"geometry":{"type":"Point","coordinates":[15.458894944018853,47.05231051252491],"bbox":[15.458894944018853,47.05231051252491,15.458894944018853,47.05231051252491]}},{"type":"Feature","properties":{"nummer":24877,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Westhof`s Glorie'","baumbezeichnung_deutsch":"Esche Westhof`s Glorie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2005","entnahmejahr":null,"baumpatenschaft":null,"objectid":17528},"geometry":{"type":"Point","coordinates":[15.458608457256398,47.05220251061252],"bbox":[15.458608457256398,47.05220251061252,15.458608457256398,47.05220251061252]}},{"type":"Feature","properties":{"nummer":4921,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18360},"geometry":{"type":"Point","coordinates":[15.464128768761384,47.05400220303839],"bbox":[15.464128768761384,47.05400220303839,15.464128768761384,47.05400220303839]}},{"type":"Feature","properties":{"nummer":4947,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18361},"geometry":{"type":"Point","coordinates":[15.46389482553922,47.05349840043752],"bbox":[15.46389482553922,47.05349840043752,15.46389482553922,47.05349840043752]}},{"type":"Feature","properties":{"nummer":4954,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18512},"geometry":{"type":"Point","coordinates":[15.465016237595714,47.052756511248916],"bbox":[15.465016237595714,47.052756511248916,15.465016237595714,47.052756511248916]}},{"type":"Feature","properties":{"nummer":4926,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18618},"geometry":{"type":"Point","coordinates":[15.463893586523344,47.05406937022869],"bbox":[15.463893586523344,47.05406937022869,15.463893586523344,47.05406937022869]}},{"type":"Feature","properties":{"nummer":4945,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18619},"geometry":{"type":"Point","coordinates":[15.463879975018957,47.053666547222385],"bbox":[15.463879975018957,47.053666547222385,15.463879975018957,47.053666547222385]}},{"type":"Feature","properties":{"nummer":5576,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16160},"geometry":{"type":"Point","coordinates":[15.458274240075232,47.05171873715095],"bbox":[15.458274240075232,47.05171873715095,15.458274240075232,47.05171873715095]}},{"type":"Feature","properties":{"nummer":20189,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":16246},"geometry":{"type":"Point","coordinates":[15.458452061199559,47.05160599624645],"bbox":[15.458452061199559,47.05160599624645,15.458452061199559,47.05160599624645]}},{"type":"Feature","properties":{"nummer":5595,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17785},"geometry":{"type":"Point","coordinates":[15.458020729058058,47.05127646169581],"bbox":[15.458020729058058,47.05127646169581,15.458020729058058,47.05127646169581]}},{"type":"Feature","properties":{"nummer":4953,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17806},"geometry":{"type":"Point","coordinates":[15.464926941934479,47.05271550771906],"bbox":[15.464926941934479,47.05271550771906,15.464926941934479,47.05271550771906]}},{"type":"Feature","properties":{"nummer":4944,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16300},"geometry":{"type":"Point","coordinates":[15.463818724188659,47.05371021427559],"bbox":[15.463818724188659,47.05371021427559,15.463818724188659,47.05371021427559]}},{"type":"Feature","properties":{"nummer":4883,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17847},"geometry":{"type":"Point","coordinates":[15.46553461408645,47.053110472291486],"bbox":[15.46553461408645,47.053110472291486,15.46553461408645,47.053110472291486]}},{"type":"Feature","properties":{"nummer":4885,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16337},"geometry":{"type":"Point","coordinates":[15.465454280178063,47.0531578495436],"bbox":[15.465454280178063,47.0531578495436,15.465454280178063,47.0531578495436]}},{"type":"Feature","properties":{"nummer":4929,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17940},"geometry":{"type":"Point","coordinates":[15.463754310789072,47.05419519434325],"bbox":[15.463754310789072,47.05419519434325,15.463754310789072,47.05419519434325]}},{"type":"Feature","properties":{"nummer":4889,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17309},"geometry":{"type":"Point","coordinates":[15.465315668468476,47.05323889484569],"bbox":[15.465315668468476,47.05323889484569,15.465315668468476,47.05323889484569]}},{"type":"Feature","properties":{"nummer":4888,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17334},"geometry":{"type":"Point","coordinates":[15.465337147030803,47.05315906642779],"bbox":[15.465337147030803,47.05315906642779,15.465337147030803,47.05315906642779]}},{"type":"Feature","properties":{"nummer":20190,"baumbezeichnung_botanisch":"Corylus colurna","baumbezeichnung_deutsch":"Baumhasel","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":15738},"geometry":{"type":"Point","coordinates":[15.458470002554266,47.05147386234703],"bbox":[15.458470002554266,47.05147386234703,15.458470002554266,47.05147386234703]}},{"type":"Feature","properties":{"nummer":5585,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15739},"geometry":{"type":"Point","coordinates":[15.45850231197154,47.05137451063057],"bbox":[15.45850231197154,47.05137451063057,15.45850231197154,47.05137451063057]}},{"type":"Feature","properties":{"nummer":5572,"baumbezeichnung_botanisch":"Ulmus sp.","baumbezeichnung_deutsch":"Ulme","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15872},"geometry":{"type":"Point","coordinates":[15.45817250710224,47.05168650487703],"bbox":[15.45817250710224,47.05168650487703,15.45817250710224,47.05168650487703]}},{"type":"Feature","properties":{"nummer":4932,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14343},"geometry":{"type":"Point","coordinates":[15.463608851712815,47.05420511951518],"bbox":[15.463608851712815,47.05420511951518,15.463608851712815,47.05420511951518]}},{"type":"Feature","properties":{"nummer":4920,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12792},"geometry":{"type":"Point","coordinates":[15.464170832104834,47.0538977059848],"bbox":[15.464170832104834,47.0538977059848,15.464170832104834,47.0538977059848]}},{"type":"Feature","properties":{"nummer":4965,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13762},"geometry":{"type":"Point","coordinates":[15.46437877470889,47.05327314202081],"bbox":[15.46437877470889,47.05327314202081,15.46437877470889,47.05327314202081]}},{"type":"Feature","properties":{"nummer":4969,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14555},"geometry":{"type":"Point","coordinates":[15.464227170462982,47.0534126641783],"bbox":[15.464227170462982,47.0534126641783,15.464227170462982,47.0534126641783]}},{"type":"Feature","properties":{"nummer":5558,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13033},"geometry":{"type":"Point","coordinates":[15.45785891478973,47.05147791312909],"bbox":[15.45785891478973,47.05147791312909,15.45785891478973,47.05147791312909]}},{"type":"Feature","properties":{"nummer":5606,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13034},"geometry":{"type":"Point","coordinates":[15.457847536353672,47.05123669192066],"bbox":[15.457847536353672,47.05123669192066,15.457847536353672,47.05123669192066]}},{"type":"Feature","properties":{"nummer":5584,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":"extrem schräger Wuchs, Stammfußverletzungen mit Rindenabblattungen, starker Dürrholzanteil im gesamten Kronenbereich","pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":13097},"geometry":{"type":"Point","coordinates":[15.458476318885682,47.051400521387954],"bbox":[15.458476318885682,47.051400521387954,15.458476318885682,47.051400521387954]}},{"type":"Feature","properties":{"nummer":5588,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":"Bruchgefahr durch Verletzungsstellen im Kronenansatz- und Teilstammansatzbereich","pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":14710},"geometry":{"type":"Point","coordinates":[15.458344140280198,47.051354077499276],"bbox":[15.458344140280198,47.051354077499276,15.458344140280198,47.051354077499276]}},{"type":"Feature","properties":{"nummer":20192,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":13970},"geometry":{"type":"Point","coordinates":[15.458389844406717,47.05150195587099],"bbox":[15.458389844406717,47.05150195587099,15.458389844406717,47.05150195587099]}},{"type":"Feature","properties":{"nummer":4966,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14801},"geometry":{"type":"Point","coordinates":[15.464286543665262,47.05323658172334],"bbox":[15.464286543665262,47.05323658172334,15.464286543665262,47.05323658172334]}},{"type":"Feature","properties":{"nummer":19548,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1992","entnahmejahr":null,"baumpatenschaft":null,"objectid":14038},"geometry":{"type":"Point","coordinates":[15.458430305010848,47.05163333836153],"bbox":[15.458430305010848,47.05163333836153,15.458430305010848,47.05163333836153]}},{"type":"Feature","properties":{"nummer":4909,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14960},"geometry":{"type":"Point","coordinates":[15.464557213763845,47.053715837472545],"bbox":[15.464557213763845,47.053715837472545,15.464557213763845,47.053715837472545]}},{"type":"Feature","properties":{"nummer":5598,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":"schräger Wuchs Richtung Süden, Brandkrustenpilzbefall am nördl. Stammfuß","pflanzjahr":null,"entnahmejahr":"2013","baumpatenschaft":null,"objectid":24627},"geometry":{"type":"Point","coordinates":[15.457920978924811,47.051279191335084],"bbox":[15.457920978924811,47.051279191335084,15.457920978924811,47.051279191335084]}},{"type":"Feature","properties":{"nummer":4960,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22428},"geometry":{"type":"Point","coordinates":[15.465539999794647,47.05299369998244],"bbox":[15.465539999794647,47.05299369998244,15.465539999794647,47.05299369998244]}},{"type":"Feature","properties":{"nummer":5604,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23226},"geometry":{"type":"Point","coordinates":[15.457808906234474,47.05125386954303],"bbox":[15.457808906234474,47.05125386954303,15.457808906234474,47.05125386954303]}},{"type":"Feature","properties":{"nummer":5569,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24039},"geometry":{"type":"Point","coordinates":[15.458094324204193,47.051621253909005],"bbox":[15.458094324204193,47.051621253909005,15.458094324204193,47.051621253909005]}},{"type":"Feature","properties":{"nummer":4951,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23308},"geometry":{"type":"Point","coordinates":[15.46474834827001,47.052635850855],"bbox":[15.46474834827001,47.052635850855,15.46474834827001,47.052635850855]}},{"type":"Feature","properties":{"nummer":5549,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24862},"geometry":{"type":"Point","coordinates":[15.457769932769935,47.051447526043205],"bbox":[15.457769932769935,47.051447526043205,15.457769932769935,47.051447526043205]}},{"type":"Feature","properties":{"nummer":4934,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23358},"geometry":{"type":"Point","coordinates":[15.463527421890907,47.054248632653724],"bbox":[15.463527421890907,47.054248632653724,15.463527421890907,47.054248632653724]}},{"type":"Feature","properties":{"nummer":4919,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24967},"geometry":{"type":"Point","coordinates":[15.464226699299958,47.0539367482988],"bbox":[15.464226699299958,47.0539367482988,15.464226699299958,47.0539367482988]}},{"type":"Feature","properties":{"nummer":4884,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22608},"geometry":{"type":"Point","coordinates":[15.46549587820262,47.05308020246809],"bbox":[15.46549587820262,47.05308020246809,15.46549587820262,47.05308020246809]}},{"type":"Feature","properties":{"nummer":4930,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24167},"geometry":{"type":"Point","coordinates":[15.463710639462327,47.05415072801391],"bbox":[15.463710639462327,47.05415072801391,15.463710639462327,47.05415072801391]}},{"type":"Feature","properties":{"nummer":5560,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24782},"geometry":{"type":"Point","coordinates":[15.45793275925416,47.051495953392454],"bbox":[15.45793275925416,47.051495953392454,15.45793275925416,47.051495953392454]}},{"type":"Feature","properties":{"nummer":4957,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22671},"geometry":{"type":"Point","coordinates":[15.46527745048543,47.05287553170125],"bbox":[15.46527745048543,47.05287553170125,15.46527745048543,47.05287553170125]}},{"type":"Feature","properties":{"nummer":4936,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22684},"geometry":{"type":"Point","coordinates":[15.463409538070696,47.05430014341905],"bbox":[15.463409538070696,47.05430014341905,15.463409538070696,47.05430014341905]}},{"type":"Feature","properties":{"nummer":4918,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22685},"geometry":{"type":"Point","coordinates":[15.464244324813073,47.053845856450174],"bbox":[15.464244324813073,47.053845856450174,15.464244324813073,47.053845856450174]}},{"type":"Feature","properties":{"nummer":5565,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23598},"geometry":{"type":"Point","coordinates":[15.457952120105361,47.05156250113512],"bbox":[15.457952120105361,47.05156250113512,15.457952120105361,47.05156250113512]}},{"type":"Feature","properties":{"nummer":5593,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22902},"geometry":{"type":"Point","coordinates":[15.458112667928173,47.05128240903509],"bbox":[15.458112667928173,47.05128240903509,15.458112667928173,47.05128240903509]}},{"type":"Feature","properties":{"nummer":4913,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23667},"geometry":{"type":"Point","coordinates":[15.464410229181267,47.05381953600415],"bbox":[15.464410229181267,47.05381953600415,15.464410229181267,47.05381953600415]}},{"type":"Feature","properties":{"nummer":5556,"baumbezeichnung_botanisch":"Crataegus monogyna","baumbezeichnung_deutsch":"Eingriffeliger Weißdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22150},"geometry":{"type":"Point","coordinates":[15.45781132435712,47.05157365285287],"bbox":[15.45781132435712,47.05157365285287,15.45781132435712,47.05157365285287]}},{"type":"Feature","properties":{"nummer":4898,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23720},"geometry":{"type":"Point","coordinates":[15.464946376580869,47.05336297100718],"bbox":[15.464946376580869,47.05336297100718,15.464946376580869,47.05336297100718]}},{"type":"Feature","properties":{"nummer":4910,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23727},"geometry":{"type":"Point","coordinates":[15.464485159791462,47.053679430009836],"bbox":[15.464485159791462,47.053679430009836,15.464485159791462,47.053679430009836]}},{"type":"Feature","properties":{"nummer":4962,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24475},"geometry":{"type":"Point","coordinates":[15.465818081800334,47.053118589024635],"bbox":[15.465818081800334,47.053118589024635,15.465818081800334,47.053118589024635]}},{"type":"Feature","properties":{"nummer":4952,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22989},"geometry":{"type":"Point","coordinates":[15.464838596105226,47.05267688065956],"bbox":[15.464838596105226,47.05267688065956,15.464838596105226,47.05267688065956]}},{"type":"Feature","properties":{"nummer":4906,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18990},"geometry":{"type":"Point","coordinates":[15.464628468549373,47.053553636591666],"bbox":[15.464628468549373,47.053553636591666,15.464628468549373,47.053553636591666]}},{"type":"Feature","properties":{"nummer":4902,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20690},"geometry":{"type":"Point","coordinates":[15.464767381096186,47.05344987635332],"bbox":[15.464767381096186,47.05344987635332,15.464767381096186,47.05344987635332]}},{"type":"Feature","properties":{"nummer":4946,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20848},"geometry":{"type":"Point","coordinates":[15.463873433306695,47.053572713436296],"bbox":[15.463873433306695,47.053572713436296,15.463873433306695,47.053572713436296]}},{"type":"Feature","properties":{"nummer":5559,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20866},"geometry":{"type":"Point","coordinates":[15.457894387149839,47.05149740595726],"bbox":[15.457894387149839,47.05149740595726,15.457894387149839,47.05149740595726]}},{"type":"Feature","properties":{"nummer":5599,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20867},"geometry":{"type":"Point","coordinates":[15.45788978719544,47.05131040444526],"bbox":[15.45788978719544,47.05131040444526,15.45788978719544,47.05131040444526]}},{"type":"Feature","properties":{"nummer":4893,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20875},"geometry":{"type":"Point","coordinates":[15.465164875115828,47.053328774078416],"bbox":[15.465164875115828,47.053328774078416,15.465164875115828,47.053328774078416]}},{"type":"Feature","properties":{"nummer":4931,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19316},"geometry":{"type":"Point","coordinates":[15.463664673831028,47.05424691965959],"bbox":[15.463664673831028,47.05424691965959,15.463664673831028,47.05424691965959]}},{"type":"Feature","properties":{"nummer":4956,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21658},"geometry":{"type":"Point","coordinates":[15.46518915995795,47.05283476989411],"bbox":[15.46518915995795,47.05283476989411,15.46518915995795,47.05283476989411]}},{"type":"Feature","properties":{"nummer":5579,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19588},"geometry":{"type":"Point","coordinates":[15.4585331925487,47.05151802963741],"bbox":[15.4585331925487,47.05151802963741,15.4585331925487,47.05151802963741]}},{"type":"Feature","properties":{"nummer":5567,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20346},"geometry":{"type":"Point","coordinates":[15.458038314809453,47.051606846017684],"bbox":[15.458038314809453,47.051606846017684,15.458038314809453,47.051606846017684]}},{"type":"Feature","properties":{"nummer":5600,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20347},"geometry":{"type":"Point","coordinates":[15.457919974991771,47.05134034144604],"bbox":[15.457919974991771,47.05134034144604,15.457919974991771,47.05134034144604]}},{"type":"Feature","properties":{"nummer":5607,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20348},"geometry":{"type":"Point","coordinates":[15.4578148505004,47.05120324203559],"bbox":[15.4578148505004,47.05120324203559,15.4578148505004,47.05120324203559]}},{"type":"Feature","properties":{"nummer":4890,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21198},"geometry":{"type":"Point","coordinates":[15.46526383594107,47.053199884641955],"bbox":[15.46526383594107,47.053199884641955,15.46526383594107,47.053199884641955]}},{"type":"Feature","properties":{"nummer":4928,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21199},"geometry":{"type":"Point","coordinates":[15.4638162369415,47.054110156750696],"bbox":[15.4638162369415,47.054110156750696,15.4638162369415,47.054110156750696]}},{"type":"Feature","properties":{"nummer":4927,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21200},"geometry":{"type":"Point","coordinates":[15.463851972268449,47.05414628798428],"bbox":[15.463851972268449,47.05414628798428,15.463851972268449,47.05414628798428]}},{"type":"Feature","properties":{"nummer":4904,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21248},"geometry":{"type":"Point","coordinates":[15.464685863494983,47.05349890635461],"bbox":[15.464685863494983,47.05349890635461,15.464685863494983,47.05349890635461]}},{"type":"Feature","properties":{"nummer":4896,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21249},"geometry":{"type":"Point","coordinates":[15.465043857108306,47.053325095657655],"bbox":[15.465043857108306,47.053325095657655,15.465043857108306,47.053325095657655]}},{"type":"Feature","properties":{"nummer":4916,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21250},"geometry":{"type":"Point","coordinates":[15.464301360830301,47.053813190487475],"bbox":[15.464301360830301,47.053813190487475,15.464301360830301,47.053813190487475]}},{"type":"Feature","properties":{"nummer":19708,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1994","entnahmejahr":null,"baumpatenschaft":null,"objectid":28960},"geometry":{"type":"Point","coordinates":[15.465392969431365,47.05320086573898],"bbox":[15.465392969431365,47.05320086573898,15.465392969431365,47.05320086573898]}},{"type":"Feature","properties":{"nummer":4905,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28961},"geometry":{"type":"Point","coordinates":[15.464680299617855,47.0535926479692],"bbox":[15.464680299617855,47.0535926479692,15.464680299617855,47.0535926479692]}},{"type":"Feature","properties":{"nummer":5602,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29162},"geometry":{"type":"Point","coordinates":[15.457843215334378,47.05134412076102],"bbox":[15.457843215334378,47.05134412076102,15.457843215334378,47.05134412076102]}},{"type":"Feature","properties":{"nummer":16697,"baumbezeichnung_botanisch":"Magnolia sp.","baumbezeichnung_deutsch":"Magnolie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27939},"geometry":{"type":"Point","coordinates":[15.465904836466347,47.05324831024581],"bbox":[15.465904836466347,47.05324831024581,15.465904836466347,47.05324831024581]}},{"type":"Feature","properties":{"nummer":30445,"baumbezeichnung_botanisch":"Prunus 'Bigarreau Burlat'","baumbezeichnung_deutsch":"Fruchtkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27953},"geometry":{"type":"Point","coordinates":[15.465806161726434,47.05342724762364],"bbox":[15.465806161726434,47.05342724762364,15.465806161726434,47.05342724762364]}},{"type":"Feature","properties":{"nummer":19547,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1992","entnahmejahr":null,"baumpatenschaft":null,"objectid":28152},"geometry":{"type":"Point","coordinates":[15.458408600582644,47.05165744442573],"bbox":[15.458408600582644,47.05165744442573,15.458408600582644,47.05165744442573]}},{"type":"Feature","properties":{"nummer":5552,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26156},"geometry":{"type":"Point","coordinates":[15.457808047985536,47.051461796815495],"bbox":[15.457808047985536,47.051461796815495,15.457808047985536,47.051461796815495]}},{"type":"Feature","properties":{"nummer":5608,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26157},"geometry":{"type":"Point","coordinates":[15.457776821550297,47.05118372867177],"bbox":[15.457776821550297,47.05118372867177,15.457776821550297,47.05118372867177]}},{"type":"Feature","properties":{"nummer":5563,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25400},"geometry":{"type":"Point","coordinates":[15.457887926594738,47.05157948183635],"bbox":[15.457887926594738,47.05157948183635,15.457887926594738,47.05157948183635]}},{"type":"Feature","properties":{"nummer":30443,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":27580},"geometry":{"type":"Point","coordinates":[15.464614788711007,47.053650075235964],"bbox":[15.464614788711007,47.053650075235964,15.464614788711007,47.053650075235964]}},{"type":"Feature","properties":{"nummer":5596,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25496},"geometry":{"type":"Point","coordinates":[15.45798769890596,47.05126397684151],"bbox":[15.45798769890596,47.05126397684151,15.45798769890596,47.05126397684151]}},{"type":"Feature","properties":{"nummer":5555,"baumbezeichnung_botanisch":"Carpinus betulus","baumbezeichnung_deutsch":"Hain - oder Weißbuche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26299},"geometry":{"type":"Point","coordinates":[15.457809772895088,47.051512483144805],"bbox":[15.457809772895088,47.051512483144805,15.457809772895088,47.051512483144805]}},{"type":"Feature","properties":{"nummer":4937,"baumbezeichnung_botanisch":"Prunus sp.","baumbezeichnung_deutsch":"Kirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26384},"geometry":{"type":"Point","coordinates":[15.46362433311595,47.053998360665986],"bbox":[15.46362433311595,47.053998360665986,15.46362433311595,47.053998360665986]}},{"type":"Feature","properties":{"nummer":4963,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26385},"geometry":{"type":"Point","coordinates":[15.464640906469235,47.05303791901843],"bbox":[15.464640906469235,47.05303791901843,15.464640906469235,47.05303791901843]}},{"type":"Feature","properties":{"nummer":29382,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2009","entnahmejahr":null,"baumpatenschaft":null,"objectid":27250},"geometry":{"type":"Point","coordinates":[15.457828960520436,47.051283379830885],"bbox":[15.457828960520436,47.051283379830885,15.457828960520436,47.051283379830885]}},{"type":"Feature","properties":{"nummer":5583,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27253},"geometry":{"type":"Point","coordinates":[15.458549104011528,47.051408613529205],"bbox":[15.458549104011528,47.051408613529205,15.458549104011528,47.051408613529205]}},{"type":"Feature","properties":{"nummer":5582,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27254},"geometry":{"type":"Point","coordinates":[15.458587199646725,47.05142128096194],"bbox":[15.458587199646725,47.05142128096194,15.458587199646725,47.05142128096194]}},{"type":"Feature","properties":{"nummer":5586,"baumbezeichnung_botanisch":"Ulmus carpinifolia","baumbezeichnung_deutsch":"Feldulme","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27255},"geometry":{"type":"Point","coordinates":[15.45844076104515,47.0513478082134],"bbox":[15.45844076104515,47.0513478082134,15.45844076104515,47.0513478082134]}},{"type":"Feature","properties":{"nummer":4950,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25100},"geometry":{"type":"Point","coordinates":[15.464661487094997,47.05259610426967],"bbox":[15.464661487094997,47.05259610426967,15.464661487094997,47.05259610426967]}},{"type":"Feature","properties":{"nummer":5590,"baumbezeichnung_botanisch":"Ulmus carpinifolia","baumbezeichnung_deutsch":"Feldulme","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25163},"geometry":{"type":"Point","coordinates":[15.458306169669598,47.051331071055316],"bbox":[15.458306169669598,47.051331071055316,15.458306169669598,47.051331071055316]}},{"type":"Feature","properties":{"nummer":5592,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25244},"geometry":{"type":"Point","coordinates":[15.458191796620618,47.05129000493921],"bbox":[15.458191796620618,47.05129000493921,15.458191796620618,47.05129000493921]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4967,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464308868161439,
+          47.05335260246661
+        ],
+        "bbox": [
+          15.464308868161439,
+          47.05335260246661,
+          15.464308868161439,
+          47.05335260246661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5566,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458026423620783,
+          47.05155258623224
+        ],
+        "bbox": [
+          15.458026423620783,
+          47.05155258623224,
+          15.458026423620783,
+          47.05155258623224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29031,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46535595706196,
+          47.052942892253995
+        ],
+        "bbox": [
+          15.46535595706196,
+          47.052942892253995,
+          15.46535595706196,
+          47.052942892253995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4892,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465194426106038,
+          47.0532490070863
+        ],
+        "bbox": [
+          15.465194426106038,
+          47.0532490070863,
+          15.465194426106038,
+          47.0532490070863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4901,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 934
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464835309017554,
+          47.053491768049575
+        ],
+        "bbox": [
+          15.464835309017554,
+          47.053491768049575,
+          15.464835309017554,
+          47.053491768049575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27661,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1592
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464444586848547,
+          47.054245567734775
+        ],
+        "bbox": [
+          15.464444586848547,
+          47.054245567734775,
+          15.464444586848547,
+          47.054245567734775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27662,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464370234512614,
+          47.05416747464653
+        ],
+        "bbox": [
+          15.464370234512614,
+          47.05416747464653,
+          15.464370234512614,
+          47.05416747464653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27660,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464286140447042,
+          47.054300354276826
+        ],
+        "bbox": [
+          15.464286140447042,
+          47.054300354276826,
+          15.464286140447042,
+          47.054300354276826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24874,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Westhof`s Glorie'",
+        "baumbezeichnung_deutsch": "Esche Westhof`s Glorie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459662798531863,
+          47.052608672378284
+        ],
+        "bbox": [
+          15.459662798531863,
+          47.052608672378284,
+          15.459662798531863,
+          47.052608672378284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5550,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457793255949015,
+          47.051428484173826
+        ],
+        "bbox": [
+          15.457793255949015,
+          47.051428484173826,
+          15.457793255949015,
+          47.051428484173826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5562,
+        "baumbezeichnung_botanisch": "Ulmus glabra",
+        "baumbezeichnung_deutsch": "Bergulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458016914558192,
+          47.05150883032137
+        ],
+        "bbox": [
+          15.458016914558192,
+          47.05150883032137,
+          15.458016914558192,
+          47.05150883032137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5578,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458384849138945,
+          47.051677648904125
+        ],
+        "bbox": [
+          15.458384849138945,
+          47.051677648904125,
+          15.458384849138945,
+          47.051677648904125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5591,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458245248878768,
+          47.05130439405202
+        ],
+        "bbox": [
+          15.458245248878768,
+          47.05130439405202,
+          15.458245248878768,
+          47.05130439405202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5609,
+        "baumbezeichnung_botanisch": "Crataegus laevigata",
+        "baumbezeichnung_deutsch": "Zweigriffeliger Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457768270000457,
+          47.051156936780124
+        ],
+        "bbox": [
+          15.457768270000457,
+          47.051156936780124,
+          15.457768270000457,
+          47.051156936780124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5594,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45810034655733,
+          47.05125435683173
+        ],
+        "bbox": [
+          15.45810034655733,
+          47.05125435683173,
+          15.45810034655733,
+          47.05125435683173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19709,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465006279888376,
+          47.05340204365039
+        ],
+        "bbox": [
+          15.465006279888376,
+          47.05340204365039,
+          15.465006279888376,
+          47.05340204365039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4922,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464085097276651,
+          47.05395773684933
+        ],
+        "bbox": [
+          15.464085097276651,
+          47.05395773684933,
+          15.464085097276651,
+          47.05395773684933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4911,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464467444853977,
+          47.053775837920085
+        ],
+        "bbox": [
+          15.464467444853977,
+          47.053775837920085,
+          15.464467444853977,
+          47.053775837920085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4955,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465101152673661,
+          47.05279505000828
+        ],
+        "bbox": [
+          15.465101152673661,
+          47.05279505000828,
+          15.465101152673661,
+          47.05279505000828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20163,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465238186443582,
+          47.0532879568296
+        ],
+        "bbox": [
+          15.465238186443582,
+          47.0532879568296,
+          15.465238186443582,
+          47.0532879568296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4903,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464745855307607,
+          47.053532463103394
+        ],
+        "bbox": [
+          15.464745855307607,
+          47.053532463103394,
+          15.464745855307607,
+          47.053532463103394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4894,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465113087532442,
+          47.053287005347336
+        ],
+        "bbox": [
+          15.465113087532442,
+          47.053287005347336,
+          15.465113087532442,
+          47.053287005347336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4895,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465091653488054,
+          47.05336407615853
+        ],
+        "bbox": [
+          15.465091653488054,
+          47.05336407615853,
+          15.465091653488054,
+          47.05336407615853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4899,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46491261198668,
+          47.053453740182846
+        ],
+        "bbox": [
+          15.46491261198668,
+          47.053453740182846,
+          15.46491261198668,
+          47.053453740182846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23817,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46456282150461,
+          47.05361933739813
+        ],
+        "bbox": [
+          15.46456282150461,
+          47.05361933739813,
+          15.46456282150461,
+          47.05361933739813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4933,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463583198990154,
+          47.05429319129563
+        ],
+        "bbox": [
+          15.463583198990154,
+          47.05429319129563,
+          15.463583198990154,
+          47.05429319129563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4925,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463937391535836,
+          47.0541055629025
+        ],
+        "bbox": [
+          15.463937391535836,
+          47.0541055629025,
+          15.463937391535836,
+          47.0541055629025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4924,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463979500300438,
+          47.05399830836483
+        ],
+        "bbox": [
+          15.463979500300438,
+          47.05399830836483,
+          15.463979500300438,
+          47.05399830836483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4917,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464308083134599,
+          47.05389599221335
+        ],
+        "bbox": [
+          15.464308083134599,
+          47.05389599221335,
+          15.464308083134599,
+          47.05389599221335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20191,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458391824978161,
+          47.051564124619375
+        ],
+        "bbox": [
+          15.458391824978161,
+          47.051564124619375,
+          15.458391824978161,
+          47.051564124619375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4915,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464381440849792,
+          47.053852417067425
+        ],
+        "bbox": [
+          15.464381440849792,
+          47.053852417067425,
+          15.464381440849792,
+          47.053852417067425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4943,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4637693990562,
+          47.05376500555419
+        ],
+        "bbox": [
+          15.4637693990562,
+          47.05376500555419,
+          15.4637693990562,
+          47.05376500555419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4964,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464463077532026,
+          47.05305311562201
+        ],
+        "bbox": [
+          15.464463077532026,
+          47.05305311562201,
+          15.464463077532026,
+          47.05305311562201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20153,
+        "baumbezeichnung_botanisch": "Liquidambar styraciflua",
+        "baumbezeichnung_deutsch": "Amberbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.466012884990404,
+          47.05323452414077
+        ],
+        "bbox": [
+          15.466012884990404,
+          47.05323452414077,
+          15.466012884990404,
+          47.05323452414077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5551,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3799
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457834270909839,
+          47.051421809558775
+        ],
+        "bbox": [
+          15.457834270909839,
+          47.051421809558775,
+          15.457834270909839,
+          47.051421809558775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5577,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458304687674365,
+          47.05173294987509
+        ],
+        "bbox": [
+          15.458304687674365,
+          47.05173294987509,
+          15.458304687674365,
+          47.05173294987509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4923,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3993
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464035232559969,
+          47.05404562434851
+        ],
+        "bbox": [
+          15.464035232559969,
+          47.05404562434851,
+          15.464035232559969,
+          47.05404562434851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5597,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457977990480863,
+          47.05123245005903
+        ],
+        "bbox": [
+          15.457977990480863,
+          47.05123245005903,
+          15.457977990480863,
+          47.05123245005903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20193,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45839789549766,
+          47.0514537974538
+        ],
+        "bbox": [
+          15.45839789549766,
+          47.0514537974538,
+          15.45839789549766,
+          47.0514537974538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20164,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464354182164865,
+          47.053791525816195
+        ],
+        "bbox": [
+          15.464354182164865,
+          47.053791525816195,
+          15.464354182164865,
+          47.053791525816195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4912,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46441162258933,
+          47.05373403816269
+        ],
+        "bbox": [
+          15.46441162258933,
+          47.05373403816269,
+          15.46441162258933,
+          47.05373403816269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4968,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4710
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464224484421853,
+          47.05332989317343
+        ],
+        "bbox": [
+          15.464224484421853,
+          47.05332989317343,
+          15.464224484421853,
+          47.05332989317343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4961,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465713471553142,
+          47.05307161299755
+        ],
+        "bbox": [
+          15.465713471553142,
+          47.05307161299755,
+          15.465713471553142,
+          47.05307161299755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4959,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465452418568173,
+          47.05295445585089
+        ],
+        "bbox": [
+          15.465452418568173,
+          47.05295445585089,
+          15.465452418568173,
+          47.05295445585089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4886,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465417763634163,
+          47.05312658911575
+        ],
+        "bbox": [
+          15.465417763634163,
+          47.05312658911575,
+          15.465417763634163,
+          47.05312658911575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4900,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464856834650979,
+          47.05340918128107
+        ],
+        "bbox": [
+          15.464856834650979,
+          47.05340918128107,
+          15.464856834650979,
+          47.05340918128107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30099,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464821579431534,
+          47.05335932026962
+        ],
+        "bbox": [
+          15.464821579431534,
+          47.05335932026962,
+          15.464821579431534,
+          47.05335932026962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30100,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464741189854445,
+          47.05338751271707
+        ],
+        "bbox": [
+          15.464741189854445,
+          47.05338751271707,
+          15.464741189854445,
+          47.05338751271707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4881,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465613482679622,
+          47.053062548634145
+        ],
+        "bbox": [
+          15.465613482679622,
+          47.053062548634145,
+          15.465613482679622,
+          47.053062548634145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30087,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464355792629553,
+          47.052691299763005
+        ],
+        "bbox": [
+          15.464355792629553,
+          47.052691299763005,
+          15.464355792629553,
+          47.052691299763005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30088,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464207740946595,
+          47.052680239242285
+        ],
+        "bbox": [
+          15.464207740946595,
+          47.052680239242285,
+          15.464207740946595,
+          47.052680239242285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30089,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464186830946721,
+          47.05271484434662
+        ],
+        "bbox": [
+          15.464186830946721,
+          47.05271484434662,
+          15.464186830946721,
+          47.05271484434662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30090,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464209271868251,
+          47.052764676351856
+        ],
+        "bbox": [
+          15.464209271868251,
+          47.052764676351856,
+          15.464209271868251,
+          47.052764676351856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30085,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464606530856553,
+          47.05264354633047
+        ],
+        "bbox": [
+          15.464606530856553,
+          47.05264354633047,
+          15.464606530856553,
+          47.05264354633047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30086,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464572624075213,
+          47.05267308548565
+        ],
+        "bbox": [
+          15.464572624075213,
+          47.05267308548565,
+          15.464572624075213,
+          47.05267308548565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30091,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464195497745633,
+          47.052807281176854
+        ],
+        "bbox": [
+          15.464195497745633,
+          47.052807281176854,
+          15.464195497745633,
+          47.052807281176854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30092,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464177687621772,
+          47.05282998955611
+        ],
+        "bbox": [
+          15.464177687621772,
+          47.05282998955611,
+          15.464177687621772,
+          47.05282998955611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30093,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9405
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464192992646634,
+          47.05287182274098
+        ],
+        "bbox": [
+          15.464192992646634,
+          47.05287182274098,
+          15.464192992646634,
+          47.05287182274098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30094,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46410388524787,
+          47.05289994746189
+        ],
+        "bbox": [
+          15.46410388524787,
+          47.05289994746189,
+          15.46410388524787,
+          47.05289994746189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30095,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464092903321268,
+          47.0529495258611
+        ],
+        "bbox": [
+          15.464092903321268,
+          47.0529495258611,
+          15.464092903321268,
+          47.0529495258611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30096,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9408
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464183946435478,
+          47.0529810094238
+        ],
+        "bbox": [
+          15.464183946435478,
+          47.0529810094238,
+          15.464183946435478,
+          47.0529810094238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30097,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46430966449305,
+          47.05311406709091
+        ],
+        "bbox": [
+          15.46430966449305,
+          47.05311406709091,
+          15.46430966449305,
+          47.05311406709091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30098,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9410
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46423692488478,
+          47.05320787112337
+        ],
+        "bbox": [
+          15.46423692488478,
+          47.05320787112337,
+          15.46423692488478,
+          47.05320787112337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4949,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464574161315568,
+          47.05255668959968
+        ],
+        "bbox": [
+          15.464574161315568,
+          47.05255668959968,
+          15.464574161315568,
+          47.05255668959968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4948,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464484641541441,
+          47.05251591159351
+        ],
+        "bbox": [
+          15.464484641541441,
+          47.05251591159351,
+          15.464484641541441,
+          47.05251591159351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5589,
+        "baumbezeichnung_botanisch": "Ulmus carpinifolia",
+        "baumbezeichnung_deutsch": "Feldulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458283392800256,
+          47.05131691713499
+        ],
+        "bbox": [
+          15.458283392800256,
+          47.05131691713499,
+          15.458283392800256,
+          47.05131691713499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4935,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463461233969191,
+          47.05434742891773
+        ],
+        "bbox": [
+          15.463461233969191,
+          47.05434742891773,
+          15.463461233969191,
+          47.05434742891773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4882,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46557347663669,
+          47.05303430567489
+        ],
+        "bbox": [
+          15.46557347663669,
+          47.05303430567489,
+          15.46557347663669,
+          47.05303430567489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24875,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Westhof`s Glorie'",
+        "baumbezeichnung_deutsch": "Esche Westhof`s Glorie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45924579285702,
+          47.052443381564125
+        ],
+        "bbox": [
+          15.45924579285702,
+          47.052443381564125,
+          15.45924579285702,
+          47.052443381564125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24876,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Westhof`s Glorie'",
+        "baumbezeichnung_deutsch": "Esche Westhof`s Glorie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458894944018853,
+          47.05231051252491
+        ],
+        "bbox": [
+          15.458894944018853,
+          47.05231051252491,
+          15.458894944018853,
+          47.05231051252491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24877,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Westhof`s Glorie'",
+        "baumbezeichnung_deutsch": "Esche Westhof`s Glorie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458608457256398,
+          47.05220251061252
+        ],
+        "bbox": [
+          15.458608457256398,
+          47.05220251061252,
+          15.458608457256398,
+          47.05220251061252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4921,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464128768761384,
+          47.05400220303839
+        ],
+        "bbox": [
+          15.464128768761384,
+          47.05400220303839,
+          15.464128768761384,
+          47.05400220303839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4947,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46389482553922,
+          47.05349840043752
+        ],
+        "bbox": [
+          15.46389482553922,
+          47.05349840043752,
+          15.46389482553922,
+          47.05349840043752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4954,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465016237595714,
+          47.052756511248916
+        ],
+        "bbox": [
+          15.465016237595714,
+          47.052756511248916,
+          15.465016237595714,
+          47.052756511248916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4926,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463893586523344,
+          47.05406937022869
+        ],
+        "bbox": [
+          15.463893586523344,
+          47.05406937022869,
+          15.463893586523344,
+          47.05406937022869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4945,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463879975018957,
+          47.053666547222385
+        ],
+        "bbox": [
+          15.463879975018957,
+          47.053666547222385,
+          15.463879975018957,
+          47.053666547222385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5576,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458274240075232,
+          47.05171873715095
+        ],
+        "bbox": [
+          15.458274240075232,
+          47.05171873715095,
+          15.458274240075232,
+          47.05171873715095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20189,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458452061199559,
+          47.05160599624645
+        ],
+        "bbox": [
+          15.458452061199559,
+          47.05160599624645,
+          15.458452061199559,
+          47.05160599624645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5595,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458020729058058,
+          47.05127646169581
+        ],
+        "bbox": [
+          15.458020729058058,
+          47.05127646169581,
+          15.458020729058058,
+          47.05127646169581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4953,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464926941934479,
+          47.05271550771906
+        ],
+        "bbox": [
+          15.464926941934479,
+          47.05271550771906,
+          15.464926941934479,
+          47.05271550771906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4944,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463818724188659,
+          47.05371021427559
+        ],
+        "bbox": [
+          15.463818724188659,
+          47.05371021427559,
+          15.463818724188659,
+          47.05371021427559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4883,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17847
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46553461408645,
+          47.053110472291486
+        ],
+        "bbox": [
+          15.46553461408645,
+          47.053110472291486,
+          15.46553461408645,
+          47.053110472291486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4885,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465454280178063,
+          47.0531578495436
+        ],
+        "bbox": [
+          15.465454280178063,
+          47.0531578495436,
+          15.465454280178063,
+          47.0531578495436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4929,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17940
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463754310789072,
+          47.05419519434325
+        ],
+        "bbox": [
+          15.463754310789072,
+          47.05419519434325,
+          15.463754310789072,
+          47.05419519434325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4889,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465315668468476,
+          47.05323889484569
+        ],
+        "bbox": [
+          15.465315668468476,
+          47.05323889484569,
+          15.465315668468476,
+          47.05323889484569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4888,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465337147030803,
+          47.05315906642779
+        ],
+        "bbox": [
+          15.465337147030803,
+          47.05315906642779,
+          15.465337147030803,
+          47.05315906642779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20190,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458470002554266,
+          47.05147386234703
+        ],
+        "bbox": [
+          15.458470002554266,
+          47.05147386234703,
+          15.458470002554266,
+          47.05147386234703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5585,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15739
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45850231197154,
+          47.05137451063057
+        ],
+        "bbox": [
+          15.45850231197154,
+          47.05137451063057,
+          15.45850231197154,
+          47.05137451063057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5572,
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45817250710224,
+          47.05168650487703
+        ],
+        "bbox": [
+          15.45817250710224,
+          47.05168650487703,
+          15.45817250710224,
+          47.05168650487703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4932,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463608851712815,
+          47.05420511951518
+        ],
+        "bbox": [
+          15.463608851712815,
+          47.05420511951518,
+          15.463608851712815,
+          47.05420511951518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4920,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464170832104834,
+          47.0538977059848
+        ],
+        "bbox": [
+          15.464170832104834,
+          47.0538977059848,
+          15.464170832104834,
+          47.0538977059848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4965,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46437877470889,
+          47.05327314202081
+        ],
+        "bbox": [
+          15.46437877470889,
+          47.05327314202081,
+          15.46437877470889,
+          47.05327314202081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4969,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464227170462982,
+          47.0534126641783
+        ],
+        "bbox": [
+          15.464227170462982,
+          47.0534126641783,
+          15.464227170462982,
+          47.0534126641783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5558,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13033
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45785891478973,
+          47.05147791312909
+        ],
+        "bbox": [
+          15.45785891478973,
+          47.05147791312909,
+          15.45785891478973,
+          47.05147791312909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5606,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13034
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457847536353672,
+          47.05123669192066
+        ],
+        "bbox": [
+          15.457847536353672,
+          47.05123669192066,
+          15.457847536353672,
+          47.05123669192066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5584,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": "extrem schräger Wuchs, Stammfußverletzungen mit Rindenabblattungen, starker Dürrholzanteil im gesamten Kronenbereich",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 13097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458476318885682,
+          47.051400521387954
+        ],
+        "bbox": [
+          15.458476318885682,
+          47.051400521387954,
+          15.458476318885682,
+          47.051400521387954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5588,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": "Bruchgefahr durch Verletzungsstellen im Kronenansatz- und Teilstammansatzbereich",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 14710
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458344140280198,
+          47.051354077499276
+        ],
+        "bbox": [
+          15.458344140280198,
+          47.051354077499276,
+          15.458344140280198,
+          47.051354077499276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20192,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13970
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458389844406717,
+          47.05150195587099
+        ],
+        "bbox": [
+          15.458389844406717,
+          47.05150195587099,
+          15.458389844406717,
+          47.05150195587099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4966,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464286543665262,
+          47.05323658172334
+        ],
+        "bbox": [
+          15.464286543665262,
+          47.05323658172334,
+          15.464286543665262,
+          47.05323658172334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19548,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1992",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458430305010848,
+          47.05163333836153
+        ],
+        "bbox": [
+          15.458430305010848,
+          47.05163333836153,
+          15.458430305010848,
+          47.05163333836153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4909,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464557213763845,
+          47.053715837472545
+        ],
+        "bbox": [
+          15.464557213763845,
+          47.053715837472545,
+          15.464557213763845,
+          47.053715837472545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5598,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": "schräger Wuchs Richtung Süden, Brandkrustenpilzbefall am nördl. Stammfuß",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "objectid": 24627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457920978924811,
+          47.051279191335084
+        ],
+        "bbox": [
+          15.457920978924811,
+          47.051279191335084,
+          15.457920978924811,
+          47.051279191335084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4960,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465539999794647,
+          47.05299369998244
+        ],
+        "bbox": [
+          15.465539999794647,
+          47.05299369998244,
+          15.465539999794647,
+          47.05299369998244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5604,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457808906234474,
+          47.05125386954303
+        ],
+        "bbox": [
+          15.457808906234474,
+          47.05125386954303,
+          15.457808906234474,
+          47.05125386954303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5569,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458094324204193,
+          47.051621253909005
+        ],
+        "bbox": [
+          15.458094324204193,
+          47.051621253909005,
+          15.458094324204193,
+          47.051621253909005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4951,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46474834827001,
+          47.052635850855
+        ],
+        "bbox": [
+          15.46474834827001,
+          47.052635850855,
+          15.46474834827001,
+          47.052635850855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5549,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457769932769935,
+          47.051447526043205
+        ],
+        "bbox": [
+          15.457769932769935,
+          47.051447526043205,
+          15.457769932769935,
+          47.051447526043205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4934,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463527421890907,
+          47.054248632653724
+        ],
+        "bbox": [
+          15.463527421890907,
+          47.054248632653724,
+          15.463527421890907,
+          47.054248632653724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4919,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464226699299958,
+          47.0539367482988
+        ],
+        "bbox": [
+          15.464226699299958,
+          47.0539367482988,
+          15.464226699299958,
+          47.0539367482988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4884,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46549587820262,
+          47.05308020246809
+        ],
+        "bbox": [
+          15.46549587820262,
+          47.05308020246809,
+          15.46549587820262,
+          47.05308020246809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4930,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463710639462327,
+          47.05415072801391
+        ],
+        "bbox": [
+          15.463710639462327,
+          47.05415072801391,
+          15.463710639462327,
+          47.05415072801391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5560,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24782
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45793275925416,
+          47.051495953392454
+        ],
+        "bbox": [
+          15.45793275925416,
+          47.051495953392454,
+          15.45793275925416,
+          47.051495953392454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4957,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46527745048543,
+          47.05287553170125
+        ],
+        "bbox": [
+          15.46527745048543,
+          47.05287553170125,
+          15.46527745048543,
+          47.05287553170125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4936,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463409538070696,
+          47.05430014341905
+        ],
+        "bbox": [
+          15.463409538070696,
+          47.05430014341905,
+          15.463409538070696,
+          47.05430014341905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4918,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464244324813073,
+          47.053845856450174
+        ],
+        "bbox": [
+          15.464244324813073,
+          47.053845856450174,
+          15.464244324813073,
+          47.053845856450174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5565,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23598
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457952120105361,
+          47.05156250113512
+        ],
+        "bbox": [
+          15.457952120105361,
+          47.05156250113512,
+          15.457952120105361,
+          47.05156250113512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5593,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458112667928173,
+          47.05128240903509
+        ],
+        "bbox": [
+          15.458112667928173,
+          47.05128240903509,
+          15.458112667928173,
+          47.05128240903509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4913,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464410229181267,
+          47.05381953600415
+        ],
+        "bbox": [
+          15.464410229181267,
+          47.05381953600415,
+          15.464410229181267,
+          47.05381953600415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5556,
+        "baumbezeichnung_botanisch": "Crataegus monogyna",
+        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45781132435712,
+          47.05157365285287
+        ],
+        "bbox": [
+          15.45781132435712,
+          47.05157365285287,
+          15.45781132435712,
+          47.05157365285287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4898,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23720
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464946376580869,
+          47.05336297100718
+        ],
+        "bbox": [
+          15.464946376580869,
+          47.05336297100718,
+          15.464946376580869,
+          47.05336297100718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4910,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23727
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464485159791462,
+          47.053679430009836
+        ],
+        "bbox": [
+          15.464485159791462,
+          47.053679430009836,
+          15.464485159791462,
+          47.053679430009836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4962,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465818081800334,
+          47.053118589024635
+        ],
+        "bbox": [
+          15.465818081800334,
+          47.053118589024635,
+          15.465818081800334,
+          47.053118589024635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4952,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22989
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464838596105226,
+          47.05267688065956
+        ],
+        "bbox": [
+          15.464838596105226,
+          47.05267688065956,
+          15.464838596105226,
+          47.05267688065956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4906,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18990
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464628468549373,
+          47.053553636591666
+        ],
+        "bbox": [
+          15.464628468549373,
+          47.053553636591666,
+          15.464628468549373,
+          47.053553636591666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4902,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20690
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464767381096186,
+          47.05344987635332
+        ],
+        "bbox": [
+          15.464767381096186,
+          47.05344987635332,
+          15.464767381096186,
+          47.05344987635332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4946,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20848
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463873433306695,
+          47.053572713436296
+        ],
+        "bbox": [
+          15.463873433306695,
+          47.053572713436296,
+          15.463873433306695,
+          47.053572713436296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5559,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457894387149839,
+          47.05149740595726
+        ],
+        "bbox": [
+          15.457894387149839,
+          47.05149740595726,
+          15.457894387149839,
+          47.05149740595726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5599,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45788978719544,
+          47.05131040444526
+        ],
+        "bbox": [
+          15.45788978719544,
+          47.05131040444526,
+          15.45788978719544,
+          47.05131040444526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4893,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465164875115828,
+          47.053328774078416
+        ],
+        "bbox": [
+          15.465164875115828,
+          47.053328774078416,
+          15.465164875115828,
+          47.053328774078416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4931,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463664673831028,
+          47.05424691965959
+        ],
+        "bbox": [
+          15.463664673831028,
+          47.05424691965959,
+          15.463664673831028,
+          47.05424691965959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4956,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21658
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46518915995795,
+          47.05283476989411
+        ],
+        "bbox": [
+          15.46518915995795,
+          47.05283476989411,
+          15.46518915995795,
+          47.05283476989411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5579,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19588
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4585331925487,
+          47.05151802963741
+        ],
+        "bbox": [
+          15.4585331925487,
+          47.05151802963741,
+          15.4585331925487,
+          47.05151802963741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5567,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458038314809453,
+          47.051606846017684
+        ],
+        "bbox": [
+          15.458038314809453,
+          47.051606846017684,
+          15.458038314809453,
+          47.051606846017684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5600,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457919974991771,
+          47.05134034144604
+        ],
+        "bbox": [
+          15.457919974991771,
+          47.05134034144604,
+          15.457919974991771,
+          47.05134034144604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5607,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4578148505004,
+          47.05120324203559
+        ],
+        "bbox": [
+          15.4578148505004,
+          47.05120324203559,
+          15.4578148505004,
+          47.05120324203559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4890,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46526383594107,
+          47.053199884641955
+        ],
+        "bbox": [
+          15.46526383594107,
+          47.053199884641955,
+          15.46526383594107,
+          47.053199884641955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4928,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4638162369415,
+          47.054110156750696
+        ],
+        "bbox": [
+          15.4638162369415,
+          47.054110156750696,
+          15.4638162369415,
+          47.054110156750696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4927,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.463851972268449,
+          47.05414628798428
+        ],
+        "bbox": [
+          15.463851972268449,
+          47.05414628798428,
+          15.463851972268449,
+          47.05414628798428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4904,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464685863494983,
+          47.05349890635461
+        ],
+        "bbox": [
+          15.464685863494983,
+          47.05349890635461,
+          15.464685863494983,
+          47.05349890635461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4896,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465043857108306,
+          47.053325095657655
+        ],
+        "bbox": [
+          15.465043857108306,
+          47.053325095657655,
+          15.465043857108306,
+          47.053325095657655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4916,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464301360830301,
+          47.053813190487475
+        ],
+        "bbox": [
+          15.464301360830301,
+          47.053813190487475,
+          15.464301360830301,
+          47.053813190487475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19708,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28960
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465392969431365,
+          47.05320086573898
+        ],
+        "bbox": [
+          15.465392969431365,
+          47.05320086573898,
+          15.465392969431365,
+          47.05320086573898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4905,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464680299617855,
+          47.0535926479692
+        ],
+        "bbox": [
+          15.464680299617855,
+          47.0535926479692,
+          15.464680299617855,
+          47.0535926479692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5602,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457843215334378,
+          47.05134412076102
+        ],
+        "bbox": [
+          15.457843215334378,
+          47.05134412076102,
+          15.457843215334378,
+          47.05134412076102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16697,
+        "baumbezeichnung_botanisch": "Magnolia sp.",
+        "baumbezeichnung_deutsch": "Magnolie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465904836466347,
+          47.05324831024581
+        ],
+        "bbox": [
+          15.465904836466347,
+          47.05324831024581,
+          15.465904836466347,
+          47.05324831024581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30445,
+        "baumbezeichnung_botanisch": "Prunus 'Bigarreau Burlat'",
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.465806161726434,
+          47.05342724762364
+        ],
+        "bbox": [
+          15.465806161726434,
+          47.05342724762364,
+          15.465806161726434,
+          47.05342724762364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19547,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1992",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458408600582644,
+          47.05165744442573
+        ],
+        "bbox": [
+          15.458408600582644,
+          47.05165744442573,
+          15.458408600582644,
+          47.05165744442573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5552,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457808047985536,
+          47.051461796815495
+        ],
+        "bbox": [
+          15.457808047985536,
+          47.051461796815495,
+          15.457808047985536,
+          47.051461796815495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5608,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457776821550297,
+          47.05118372867177
+        ],
+        "bbox": [
+          15.457776821550297,
+          47.05118372867177,
+          15.457776821550297,
+          47.05118372867177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5563,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457887926594738,
+          47.05157948183635
+        ],
+        "bbox": [
+          15.457887926594738,
+          47.05157948183635,
+          15.457887926594738,
+          47.05157948183635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30443,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27580
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464614788711007,
+          47.053650075235964
+        ],
+        "bbox": [
+          15.464614788711007,
+          47.053650075235964,
+          15.464614788711007,
+          47.053650075235964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5596,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45798769890596,
+          47.05126397684151
+        ],
+        "bbox": [
+          15.45798769890596,
+          47.05126397684151,
+          15.45798769890596,
+          47.05126397684151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5555,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457809772895088,
+          47.051512483144805
+        ],
+        "bbox": [
+          15.457809772895088,
+          47.051512483144805,
+          15.457809772895088,
+          47.051512483144805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4937,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46362433311595,
+          47.053998360665986
+        ],
+        "bbox": [
+          15.46362433311595,
+          47.053998360665986,
+          15.46362433311595,
+          47.053998360665986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4963,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464640906469235,
+          47.05303791901843
+        ],
+        "bbox": [
+          15.464640906469235,
+          47.05303791901843,
+          15.464640906469235,
+          47.05303791901843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29382,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457828960520436,
+          47.051283379830885
+        ],
+        "bbox": [
+          15.457828960520436,
+          47.051283379830885,
+          15.457828960520436,
+          47.051283379830885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5583,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458549104011528,
+          47.051408613529205
+        ],
+        "bbox": [
+          15.458549104011528,
+          47.051408613529205,
+          15.458549104011528,
+          47.051408613529205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5582,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458587199646725,
+          47.05142128096194
+        ],
+        "bbox": [
+          15.458587199646725,
+          47.05142128096194,
+          15.458587199646725,
+          47.05142128096194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5586,
+        "baumbezeichnung_botanisch": "Ulmus carpinifolia",
+        "baumbezeichnung_deutsch": "Feldulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45844076104515,
+          47.0513478082134
+        ],
+        "bbox": [
+          15.45844076104515,
+          47.0513478082134,
+          15.45844076104515,
+          47.0513478082134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4950,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464661487094997,
+          47.05259610426967
+        ],
+        "bbox": [
+          15.464661487094997,
+          47.05259610426967,
+          15.464661487094997,
+          47.05259610426967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5590,
+        "baumbezeichnung_botanisch": "Ulmus carpinifolia",
+        "baumbezeichnung_deutsch": "Feldulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458306169669598,
+          47.051331071055316
+        ],
+        "bbox": [
+          15.458306169669598,
+          47.051331071055316,
+          15.458306169669598,
+          47.051331071055316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5592,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458191796620618,
+          47.05129000493921
+        ],
+        "bbox": [
+          15.458191796620618,
+          47.05129000493921,
+          15.458191796620618,
+          47.05129000493921
+        ]
+      }
+    }
+  ]
+}

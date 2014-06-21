@@ -1,1 +1,145 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29638,"baumbezeichnung_botanisch":"Koelreuteria paniculata 'Fastigiata'","baumbezeichnung_deutsch":"Säulenblasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":350},"geometry":{"type":"Point","coordinates":[15.419299635097563,47.04763841789916],"bbox":[15.419299635097563,47.04763841789916,15.419299635097563,47.04763841789916]}},{"type":"Feature","properties":{"nummer":29639,"baumbezeichnung_botanisch":"Koelreuteria paniculata 'Fastigiata'","baumbezeichnung_deutsch":"Säulenblasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":351},"geometry":{"type":"Point","coordinates":[15.41927147966513,47.047641393832784],"bbox":[15.41927147966513,47.047641393832784,15.41927147966513,47.047641393832784]}},{"type":"Feature","properties":{"nummer":29640,"baumbezeichnung_botanisch":"Koelreuteria paniculata 'Fastigiata'","baumbezeichnung_deutsch":"Säulenblasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":352},"geometry":{"type":"Point","coordinates":[15.419248020939246,47.04764360679981],"bbox":[15.419248020939246,47.04764360679981,15.419248020939246,47.04764360679981]}},{"type":"Feature","properties":{"nummer":29641,"baumbezeichnung_botanisch":"Koelreuteria paniculata 'Fastigiata'","baumbezeichnung_deutsch":"Säulenblasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":353},"geometry":{"type":"Point","coordinates":[15.419223419872884,47.04764421038121],"bbox":[15.419223419872884,47.04764421038121,15.419223419872884,47.04764421038121]}},{"type":"Feature","properties":{"nummer":29642,"baumbezeichnung_botanisch":"Koelreuteria paniculata 'Fastigiata'","baumbezeichnung_deutsch":"Säulenblasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":354},"geometry":{"type":"Point","coordinates":[15.41919759286772,47.04764800550769],"bbox":[15.41919759286772,47.04764800550769,15.41919759286772,47.04764800550769]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29638,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenblasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419299635097563,
+          47.04763841789916
+        ],
+        "bbox": [
+          15.419299635097563,
+          47.04763841789916,
+          15.419299635097563,
+          47.04763841789916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29639,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenblasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41927147966513,
+          47.047641393832784
+        ],
+        "bbox": [
+          15.41927147966513,
+          47.047641393832784,
+          15.41927147966513,
+          47.047641393832784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29640,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenblasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419248020939246,
+          47.04764360679981
+        ],
+        "bbox": [
+          15.419248020939246,
+          47.04764360679981,
+          15.419248020939246,
+          47.04764360679981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29641,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenblasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419223419872884,
+          47.04764421038121
+        ],
+        "bbox": [
+          15.419223419872884,
+          47.04764421038121,
+          15.419223419872884,
+          47.04764421038121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29642,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenblasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41919759286772,
+          47.04764800550769
+        ],
+        "bbox": [
+          15.41919759286772,
+          47.04764800550769,
+          15.41919759286772,
+          47.04764800550769
+        ]
+      }
+    }
+  ]
+}

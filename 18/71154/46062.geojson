@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":20904,"baumbezeichnung_botanisch":"Chamaecyparis sp.","baumbezeichnung_deutsch":"Scheinzypresse","baumtyp":"Nadel","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":29209},"geometry":{"type":"Point","coordinates":[15.43031940184898,47.07232155115524],"bbox":[15.43031940184898,47.07232155115524,15.43031940184898,47.07232155115524]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20904,
+        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
+        "baumbezeichnung_deutsch": "Scheinzypresse",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43031940184898,
+          47.07232155115524
+        ],
+        "bbox": [
+          15.43031940184898,
+          47.07232155115524,
+          15.43031940184898,
+          47.07232155115524
+        ]
+      }
+    }
+  ]
+}

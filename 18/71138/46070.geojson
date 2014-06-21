@@ -1,1 +1,817 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":30109,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":107},"geometry":{"type":"Point","coordinates":[15.388378581810658,47.058189973437166],"bbox":[15.388378581810658,47.058189973437166,15.388378581810658,47.058189973437166]}},{"type":"Feature","properties":{"nummer":22548,"baumbezeichnung_botanisch":"Quercus rubra","baumbezeichnung_deutsch":"Roteiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":587},"geometry":{"type":"Point","coordinates":[15.388339270422914,47.05831370877041],"bbox":[15.388339270422914,47.05831370877041,15.388339270422914,47.05831370877041]}},{"type":"Feature","properties":{"nummer":17380,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1377},"geometry":{"type":"Point","coordinates":[15.388928199839146,47.05799064390456],"bbox":[15.388928199839146,47.05799064390456,15.388928199839146,47.05799064390456]}},{"type":"Feature","properties":{"nummer":17409,"baumbezeichnung_botanisch":"Acer pseudoplatanus 'Purpurascens'","baumbezeichnung_deutsch":"Rotlaubiger Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1378},"geometry":{"type":"Point","coordinates":[15.389092880039614,47.05832758152018],"bbox":[15.389092880039614,47.05832758152018,15.389092880039614,47.05832758152018]}},{"type":"Feature","properties":{"nummer":17391,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2717},"geometry":{"type":"Point","coordinates":[15.388619483720266,47.05817434555703],"bbox":[15.388619483720266,47.05817434555703,15.388619483720266,47.05817434555703]}},{"type":"Feature","properties":{"nummer":17404,"baumbezeichnung_botanisch":"Chamaecyparis sp.","baumbezeichnung_deutsch":"Scheinzypresse","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4265},"geometry":{"type":"Point","coordinates":[15.388799996961382,47.05823599481119],"bbox":[15.388799996961382,47.05823599481119,15.388799996961382,47.05823599481119]}},{"type":"Feature","properties":{"nummer":17379,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5529},"geometry":{"type":"Point","coordinates":[15.388890450360888,47.057908937499306],"bbox":[15.388890450360888,47.057908937499306,15.388890450360888,47.057908937499306]}},{"type":"Feature","properties":{"nummer":30108,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":9758},"geometry":{"type":"Point","coordinates":[15.38868172957246,47.058048038381195],"bbox":[15.38868172957246,47.058048038381195,15.38868172957246,47.058048038381195]}},{"type":"Feature","properties":{"nummer":17412,"baumbezeichnung_botanisch":"Thuja sp.","baumbezeichnung_deutsch":"Lebensbaum","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11358},"geometry":{"type":"Point","coordinates":[15.388958974177623,47.058219375412804],"bbox":[15.388958974177623,47.058219375412804,15.388958974177623,47.058219375412804]}},{"type":"Feature","properties":{"nummer":17405,"baumbezeichnung_botanisch":"Chamaecyparis sp.","baumbezeichnung_deutsch":"Scheinzypresse","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":9893},"geometry":{"type":"Point","coordinates":[15.388790560556856,47.05828801648168],"bbox":[15.388790560556856,47.05828801648168,15.388790560556856,47.05828801648168]}},{"type":"Feature","properties":{"nummer":28240,"baumbezeichnung_botanisch":"Paulownia tomentosa","baumbezeichnung_deutsch":"Blauglockenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10041},"geometry":{"type":"Point","coordinates":[15.387990393307183,47.05840359542404],"bbox":[15.387990393307183,47.05840359542404,15.387990393307183,47.05840359542404]}},{"type":"Feature","properties":{"nummer":17388,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11607},"geometry":{"type":"Point","coordinates":[15.388922178527173,47.0581530666623],"bbox":[15.388922178527173,47.0581530666623,15.388922178527173,47.0581530666623]}},{"type":"Feature","properties":{"nummer":30107,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":10104},"geometry":{"type":"Point","coordinates":[15.38871975006825,47.057976311028575],"bbox":[15.38871975006825,47.057976311028575,15.38871975006825,47.057976311028575]}},{"type":"Feature","properties":{"nummer":17411,"baumbezeichnung_botanisch":"Thuja occidentalis","baumbezeichnung_deutsch":"Abendländischer Lebensbaum","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8783},"geometry":{"type":"Point","coordinates":[15.389019336949561,47.058194969891325],"bbox":[15.389019336949561,47.058194969891325,15.389019336949561,47.058194969891325]}},{"type":"Feature","properties":{"nummer":17406,"baumbezeichnung_botanisch":"Acer pseudoplatanus 'Purpurascens'","baumbezeichnung_deutsch":"Rotlaubiger Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8786},"geometry":{"type":"Point","coordinates":[15.388784120612232,47.058365486747725],"bbox":[15.388784120612232,47.058365486747725,15.388784120612232,47.058365486747725]}},{"type":"Feature","properties":{"nummer":17381,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7686},"geometry":{"type":"Point","coordinates":[15.388944095313457,47.05805118931341],"bbox":[15.388944095313457,47.05805118931341,15.388944095313457,47.05805118931341]}},{"type":"Feature","properties":{"nummer":17040,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6229},"geometry":{"type":"Point","coordinates":[15.388338162838346,47.05844750201442],"bbox":[15.388338162838346,47.05844750201442,15.388338162838346,47.05844750201442]}},{"type":"Feature","properties":{"nummer":30106,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":17671},"geometry":{"type":"Point","coordinates":[15.388790335873335,47.05791602321655],"bbox":[15.388790335873335,47.05791602321655,15.388790335873335,47.05791602321655]}},{"type":"Feature","properties":{"nummer":30105,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2011","entnahmejahr":null,"baumpatenschaft":null,"objectid":17672},"geometry":{"type":"Point","coordinates":[15.388840082616714,47.057761736665945],"bbox":[15.388840082616714,47.057761736665945,15.388840082616714,47.057761736665945]}},{"type":"Feature","properties":{"nummer":17378,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13382},"geometry":{"type":"Point","coordinates":[15.388859045658734,47.05783679770551],"bbox":[15.388859045658734,47.05783679770551,15.388859045658734,47.05783679770551]}},{"type":"Feature","properties":{"nummer":17389,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24317},"geometry":{"type":"Point","coordinates":[15.388774792345373,47.058163747975996],"bbox":[15.388774792345373,47.058163747975996,15.388774792345373,47.058163747975996]}},{"type":"Feature","properties":{"nummer":17398,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19160},"geometry":{"type":"Point","coordinates":[15.388057513640375,47.0582668235494],"bbox":[15.388057513640375,47.0582668235494,15.388057513640375,47.0582668235494]}},{"type":"Feature","properties":{"nummer":17410,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20012},"geometry":{"type":"Point","coordinates":[15.389069516538918,47.05827026838463],"bbox":[15.389069516538918,47.05827026838463,15.389069516538918,47.05827026838463]}},{"type":"Feature","properties":{"nummer":17407,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20853},"geometry":{"type":"Point","coordinates":[15.388973518539691,47.05838133321606],"bbox":[15.388973518539691,47.05838133321606,15.388973518539691,47.05838133321606]}},{"type":"Feature","properties":{"nummer":17403,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20915},"geometry":{"type":"Point","coordinates":[15.38845620263529,47.058291374675996],"bbox":[15.38845620263529,47.058291374675996,15.38845620263529,47.058291374675996]}},{"type":"Feature","properties":{"nummer":31575,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28488},"geometry":{"type":"Point","coordinates":[15.388993896356691,47.058148145860095],"bbox":[15.388993896356691,47.058148145860095,15.388993896356691,47.058148145860095]}},{"type":"Feature","properties":{"nummer":22547,"baumbezeichnung_botanisch":"Quercus rubra","baumbezeichnung_deutsch":"Roteiche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1999","entnahmejahr":null,"baumpatenschaft":null,"objectid":26114},"geometry":{"type":"Point","coordinates":[15.388242576644448,47.05830709756718],"bbox":[15.388242576644448,47.05830709756718,15.388242576644448,47.05830709756718]}},{"type":"Feature","properties":{"nummer":17392,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25762},"geometry":{"type":"Point","coordinates":[15.388541865806786,47.05818018877455],"bbox":[15.388541865806786,47.05818018877455,15.388541865806786,47.05818018877455]}},{"type":"Feature","properties":{"nummer":17390,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26109},"geometry":{"type":"Point","coordinates":[15.38869807958357,47.058169023100014],"bbox":[15.38869807958357,47.058169023100014,15.38869807958357,47.058169023100014]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30109,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388378581810658,
+          47.058189973437166
+        ],
+        "bbox": [
+          15.388378581810658,
+          47.058189973437166,
+          15.388378581810658,
+          47.058189973437166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22548,
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388339270422914,
+          47.05831370877041
+        ],
+        "bbox": [
+          15.388339270422914,
+          47.05831370877041,
+          15.388339270422914,
+          47.05831370877041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17380,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388928199839146,
+          47.05799064390456
+        ],
+        "bbox": [
+          15.388928199839146,
+          47.05799064390456,
+          15.388928199839146,
+          47.05799064390456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17409,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus 'Purpurascens'",
+        "baumbezeichnung_deutsch": "Rotlaubiger Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.389092880039614,
+          47.05832758152018
+        ],
+        "bbox": [
+          15.389092880039614,
+          47.05832758152018,
+          15.389092880039614,
+          47.05832758152018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17391,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2717
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388619483720266,
+          47.05817434555703
+        ],
+        "bbox": [
+          15.388619483720266,
+          47.05817434555703,
+          15.388619483720266,
+          47.05817434555703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17404,
+        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
+        "baumbezeichnung_deutsch": "Scheinzypresse",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388799996961382,
+          47.05823599481119
+        ],
+        "bbox": [
+          15.388799996961382,
+          47.05823599481119,
+          15.388799996961382,
+          47.05823599481119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17379,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388890450360888,
+          47.057908937499306
+        ],
+        "bbox": [
+          15.388890450360888,
+          47.057908937499306,
+          15.388890450360888,
+          47.057908937499306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30108,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38868172957246,
+          47.058048038381195
+        ],
+        "bbox": [
+          15.38868172957246,
+          47.058048038381195,
+          15.38868172957246,
+          47.058048038381195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17412,
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388958974177623,
+          47.058219375412804
+        ],
+        "bbox": [
+          15.388958974177623,
+          47.058219375412804,
+          15.388958974177623,
+          47.058219375412804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17405,
+        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
+        "baumbezeichnung_deutsch": "Scheinzypresse",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388790560556856,
+          47.05828801648168
+        ],
+        "bbox": [
+          15.388790560556856,
+          47.05828801648168,
+          15.388790560556856,
+          47.05828801648168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28240,
+        "baumbezeichnung_botanisch": "Paulownia tomentosa",
+        "baumbezeichnung_deutsch": "Blauglockenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.387990393307183,
+          47.05840359542404
+        ],
+        "bbox": [
+          15.387990393307183,
+          47.05840359542404,
+          15.387990393307183,
+          47.05840359542404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17388,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388922178527173,
+          47.0581530666623
+        ],
+        "bbox": [
+          15.388922178527173,
+          47.0581530666623,
+          15.388922178527173,
+          47.0581530666623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30107,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38871975006825,
+          47.057976311028575
+        ],
+        "bbox": [
+          15.38871975006825,
+          47.057976311028575,
+          15.38871975006825,
+          47.057976311028575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17411,
+        "baumbezeichnung_botanisch": "Thuja occidentalis",
+        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8783
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.389019336949561,
+          47.058194969891325
+        ],
+        "bbox": [
+          15.389019336949561,
+          47.058194969891325,
+          15.389019336949561,
+          47.058194969891325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17406,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus 'Purpurascens'",
+        "baumbezeichnung_deutsch": "Rotlaubiger Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388784120612232,
+          47.058365486747725
+        ],
+        "bbox": [
+          15.388784120612232,
+          47.058365486747725,
+          15.388784120612232,
+          47.058365486747725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17381,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388944095313457,
+          47.05805118931341
+        ],
+        "bbox": [
+          15.388944095313457,
+          47.05805118931341,
+          15.388944095313457,
+          47.05805118931341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17040,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388338162838346,
+          47.05844750201442
+        ],
+        "bbox": [
+          15.388338162838346,
+          47.05844750201442,
+          15.388338162838346,
+          47.05844750201442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30106,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17671
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388790335873335,
+          47.05791602321655
+        ],
+        "bbox": [
+          15.388790335873335,
+          47.05791602321655,
+          15.388790335873335,
+          47.05791602321655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30105,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17672
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388840082616714,
+          47.057761736665945
+        ],
+        "bbox": [
+          15.388840082616714,
+          47.057761736665945,
+          15.388840082616714,
+          47.057761736665945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17378,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388859045658734,
+          47.05783679770551
+        ],
+        "bbox": [
+          15.388859045658734,
+          47.05783679770551,
+          15.388859045658734,
+          47.05783679770551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17389,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388774792345373,
+          47.058163747975996
+        ],
+        "bbox": [
+          15.388774792345373,
+          47.058163747975996,
+          15.388774792345373,
+          47.058163747975996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17398,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388057513640375,
+          47.0582668235494
+        ],
+        "bbox": [
+          15.388057513640375,
+          47.0582668235494,
+          15.388057513640375,
+          47.0582668235494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17410,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20012
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.389069516538918,
+          47.05827026838463
+        ],
+        "bbox": [
+          15.389069516538918,
+          47.05827026838463,
+          15.389069516538918,
+          47.05827026838463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17407,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388973518539691,
+          47.05838133321606
+        ],
+        "bbox": [
+          15.388973518539691,
+          47.05838133321606,
+          15.388973518539691,
+          47.05838133321606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17403,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38845620263529,
+          47.058291374675996
+        ],
+        "bbox": [
+          15.38845620263529,
+          47.058291374675996,
+          15.38845620263529,
+          47.058291374675996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31575,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388993896356691,
+          47.058148145860095
+        ],
+        "bbox": [
+          15.388993896356691,
+          47.058148145860095,
+          15.388993896356691,
+          47.058148145860095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22547,
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388242576644448,
+          47.05830709756718
+        ],
+        "bbox": [
+          15.388242576644448,
+          47.05830709756718,
+          15.388242576644448,
+          47.05830709756718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17392,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25762
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.388541865806786,
+          47.05818018877455
+        ],
+        "bbox": [
+          15.388541865806786,
+          47.05818018877455,
+          15.388541865806786,
+          47.05818018877455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17390,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38869807958357,
+          47.058169023100014
+        ],
+        "bbox": [
+          15.38869807958357,
+          47.058169023100014,
+          15.38869807958357,
+          47.058169023100014
+        ]
+      }
+    }
+  ]
+}

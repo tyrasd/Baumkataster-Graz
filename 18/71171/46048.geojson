@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23815,"baumbezeichnung_botanisch":"Alnus glutinosa","baumbezeichnung_deutsch":"Schwarzerle","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5213},"geometry":{"type":"Point","coordinates":[15.478198169678718,47.09848590498476],"bbox":[15.478198169678718,47.09848590498476,15.478198169678718,47.09848590498476]}},{"type":"Feature","properties":{"nummer":23816,"baumbezeichnung_botanisch":"Alnus glutinosa","baumbezeichnung_deutsch":"Schwarzerle","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11473},"geometry":{"type":"Point","coordinates":[15.47817069405051,47.098459532578296],"bbox":[15.47817069405051,47.098459532578296,15.47817069405051,47.098459532578296]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23815,
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.478198169678718,
+          47.09848590498476
+        ],
+        "bbox": [
+          15.478198169678718,
+          47.09848590498476,
+          15.478198169678718,
+          47.09848590498476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23816,
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.47817069405051,
+          47.098459532578296
+        ],
+        "bbox": [
+          15.47817069405051,
+          47.098459532578296,
+          15.47817069405051,
+          47.098459532578296
+        ]
+      }
+    }
+  ]
+}

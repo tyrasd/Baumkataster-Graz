@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":24424,"baumbezeichnung_botanisch":"Carpinus betulus 'Fastigiata'","baumbezeichnung_deutsch":"Säulenhainbuche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2004","entnahmejahr":null,"baumpatenschaft":null,"objectid":28411},"geometry":{"type":"Point","coordinates":[15.453546841966102,47.06296607774013],"bbox":[15.453546841966102,47.06296607774013,15.453546841966102,47.06296607774013]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24424,
+        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenhainbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.453546841966102,
+          47.06296607774013
+        ],
+        "bbox": [
+          15.453546841966102,
+          47.06296607774013,
+          15.453546841966102,
+          47.06296607774013
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,313 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18514,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2712},"geometry":{"type":"Point","coordinates":[15.41179387878861,47.04502353170853],"bbox":[15.41179387878861,47.04502353170853,15.41179387878861,47.04502353170853]}},{"type":"Feature","properties":{"nummer":27714,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":10432},"geometry":{"type":"Point","coordinates":[15.411497540313455,47.04505830801347],"bbox":[15.411497540313455,47.04505830801347,15.411497540313455,47.04505830801347]}},{"type":"Feature","properties":{"nummer":27717,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":10907},"geometry":{"type":"Point","coordinates":[15.411615674870594,47.04525932718795],"bbox":[15.411615674870594,47.04525932718795,15.411615674870594,47.04525932718795]}},{"type":"Feature","properties":{"nummer":18501,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11709},"geometry":{"type":"Point","coordinates":[15.41173846532897,47.0451796447296],"bbox":[15.41173846532897,47.0451796447296,15.41173846532897,47.0451796447296]}},{"type":"Feature","properties":{"nummer":27718,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":11037},"geometry":{"type":"Point","coordinates":[15.411574311481559,47.045267445950515],"bbox":[15.411574311481559,47.045267445950515,15.411574311481559,47.045267445950515]}},{"type":"Feature","properties":{"nummer":18502,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15903},"geometry":{"type":"Point","coordinates":[15.41185862666651,47.045212979194375],"bbox":[15.41185862666651,47.045212979194375,15.41185862666651,47.045212979194375]}},{"type":"Feature","properties":{"nummer":27716,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":16460},"geometry":{"type":"Point","coordinates":[15.411597870443595,47.04521621097425],"bbox":[15.411597870443595,47.04521621097425,15.411597870443595,47.04521621097425]}},{"type":"Feature","properties":{"nummer":18503,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16518},"geometry":{"type":"Point","coordinates":[15.411812643674203,47.0452368319269],"bbox":[15.411812643674203,47.0452368319269,15.411812643674203,47.0452368319269]}},{"type":"Feature","properties":{"nummer":27715,"baumbezeichnung_botanisch":"Liquidambar styraciflua","baumbezeichnung_deutsch":"Amberbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2008","entnahmejahr":null,"baumpatenschaft":null,"objectid":12772},"geometry":{"type":"Point","coordinates":[15.411764398583532,47.04524080242147],"bbox":[15.411764398583532,47.04524080242147,15.411764398583532,47.04524080242147]}},{"type":"Feature","properties":{"nummer":18508,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22260},"geometry":{"type":"Point","coordinates":[15.411514882158809,47.04515407443797],"bbox":[15.411514882158809,47.04515407443797,15.411514882158809,47.04515407443797]}},{"type":"Feature","properties":{"nummer":18515,"baumbezeichnung_botanisch":"Betula pendula","baumbezeichnung_deutsch":"Sandbirke, Weißbirke","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18723},"geometry":{"type":"Point","coordinates":[15.411808922980663,47.04502259172172],"bbox":[15.411808922980663,47.04502259172172,15.411808922980663,47.04502259172172]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18514,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41179387878861,
+          47.04502353170853
+        ],
+        "bbox": [
+          15.41179387878861,
+          47.04502353170853,
+          15.41179387878861,
+          47.04502353170853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27714,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10432
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411497540313455,
+          47.04505830801347
+        ],
+        "bbox": [
+          15.411497540313455,
+          47.04505830801347,
+          15.411497540313455,
+          47.04505830801347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27717,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411615674870594,
+          47.04525932718795
+        ],
+        "bbox": [
+          15.411615674870594,
+          47.04525932718795,
+          15.411615674870594,
+          47.04525932718795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18501,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41173846532897,
+          47.0451796447296
+        ],
+        "bbox": [
+          15.41173846532897,
+          47.0451796447296,
+          15.41173846532897,
+          47.0451796447296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27718,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411574311481559,
+          47.045267445950515
+        ],
+        "bbox": [
+          15.411574311481559,
+          47.045267445950515,
+          15.411574311481559,
+          47.045267445950515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18502,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15903
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41185862666651,
+          47.045212979194375
+        ],
+        "bbox": [
+          15.41185862666651,
+          47.045212979194375,
+          15.41185862666651,
+          47.045212979194375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27716,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411597870443595,
+          47.04521621097425
+        ],
+        "bbox": [
+          15.411597870443595,
+          47.04521621097425,
+          15.411597870443595,
+          47.04521621097425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18503,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411812643674203,
+          47.0452368319269
+        ],
+        "bbox": [
+          15.411812643674203,
+          47.0452368319269,
+          15.411812643674203,
+          47.0452368319269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27715,
+        "baumbezeichnung_botanisch": "Liquidambar styraciflua",
+        "baumbezeichnung_deutsch": "Amberbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411764398583532,
+          47.04524080242147
+        ],
+        "bbox": [
+          15.411764398583532,
+          47.04524080242147,
+          15.411764398583532,
+          47.04524080242147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18508,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411514882158809,
+          47.04515407443797
+        ],
+        "bbox": [
+          15.411514882158809,
+          47.04515407443797,
+          15.411514882158809,
+          47.04515407443797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18515,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411808922980663,
+          47.04502259172172
+        ],
+        "bbox": [
+          15.411808922980663,
+          47.04502259172172,
+          15.411808922980663,
+          47.04502259172172
+        ]
+      }
+    }
+  ]
+}

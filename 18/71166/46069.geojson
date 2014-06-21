@@ -1,1 +1,173 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":31427,"baumbezeichnung_botanisch":"Liquidambar styraciflua 'Moraine'","baumbezeichnung_deutsch":"Amberbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28257},"geometry":{"type":"Point","coordinates":[15.464601891669753,47.060321093199605],"bbox":[15.464601891669753,47.060321093199605,15.464601891669753,47.060321093199605]}},{"type":"Feature","properties":{"nummer":31428,"baumbezeichnung_botanisch":"Liquidambar styraciflua 'Moraine'","baumbezeichnung_deutsch":"Amberbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28258},"geometry":{"type":"Point","coordinates":[15.464583862631622,47.06020452336458],"bbox":[15.464583862631622,47.06020452336458,15.464583862631622,47.06020452336458]}},{"type":"Feature","properties":{"nummer":31120,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28604},"geometry":{"type":"Point","coordinates":[15.464287516087328,47.06052708071104],"bbox":[15.464287516087328,47.06052708071104,15.464287516087328,47.06052708071104]}},{"type":"Feature","properties":{"nummer":31122,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28606},"geometry":{"type":"Point","coordinates":[15.464450676766287,47.0604477176905],"bbox":[15.464450676766287,47.0604477176905,15.464450676766287,47.0604477176905]}},{"type":"Feature","properties":{"nummer":31121,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28609},"geometry":{"type":"Point","coordinates":[15.464387346486507,47.06048259535214],"bbox":[15.464387346486507,47.06048259535214,15.464387346486507,47.06048259535214]}},{"type":"Feature","properties":{"nummer":31119,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28611},"geometry":{"type":"Point","coordinates":[15.464061058969586,47.06025328867088],"bbox":[15.464061058969586,47.06025328867088,15.464061058969586,47.06025328867088]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31427,
+        "baumbezeichnung_botanisch": "Liquidambar styraciflua 'Moraine'",
+        "baumbezeichnung_deutsch": "Amberbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464601891669753,
+          47.060321093199605
+        ],
+        "bbox": [
+          15.464601891669753,
+          47.060321093199605,
+          15.464601891669753,
+          47.060321093199605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31428,
+        "baumbezeichnung_botanisch": "Liquidambar styraciflua 'Moraine'",
+        "baumbezeichnung_deutsch": "Amberbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464583862631622,
+          47.06020452336458
+        ],
+        "bbox": [
+          15.464583862631622,
+          47.06020452336458,
+          15.464583862631622,
+          47.06020452336458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31120,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464287516087328,
+          47.06052708071104
+        ],
+        "bbox": [
+          15.464287516087328,
+          47.06052708071104,
+          15.464287516087328,
+          47.06052708071104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31122,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464450676766287,
+          47.0604477176905
+        ],
+        "bbox": [
+          15.464450676766287,
+          47.0604477176905,
+          15.464450676766287,
+          47.0604477176905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31121,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464387346486507,
+          47.06048259535214
+        ],
+        "bbox": [
+          15.464387346486507,
+          47.06048259535214,
+          15.464387346486507,
+          47.06048259535214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31119,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464061058969586,
+          47.06025328867088
+        ],
+        "bbox": [
+          15.464061058969586,
+          47.06025328867088,
+          15.464061058969586,
+          47.06025328867088
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29995,"baumbezeichnung_botanisch":"Gleditsia triacanthos 'Inermis'","baumbezeichnung_deutsch":"dornenloser Christusdorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":8321},"geometry":{"type":"Point","coordinates":[15.449814216116845,47.05688284313024],"bbox":[15.449814216116845,47.05688284313024,15.449814216116845,47.05688284313024]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29995,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449814216116845,
+          47.05688284313024
+        ],
+        "bbox": [
+          15.449814216116845,
+          47.05688284313024,
+          15.449814216116845,
+          47.05688284313024
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23028,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":15118},"geometry":{"type":"Point","coordinates":[15.45332094634432,47.0361461845605],"bbox":[15.45332094634432,47.0361461845605,15.45332094634432,47.0361461845605]}},{"type":"Feature","properties":{"nummer":31366,"baumbezeichnung_botanisch":"Prunus serrulata 'Amanogawa'","baumbezeichnung_deutsch":"Japanische Säulenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":"Baumpate Kr. H. Bäck","objectid":28319},"geometry":{"type":"Point","coordinates":[15.456434359827762,47.034832181229085],"bbox":[15.456434359827762,47.034832181229085,15.456434359827762,47.034832181229085]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23028,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45332094634432,
+          47.0361461845605
+        ],
+        "bbox": [
+          15.45332094634432,
+          47.0361461845605,
+          15.45332094634432,
+          47.0361461845605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31366,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Amanogawa'",
+        "baumbezeichnung_deutsch": "Japanische Säulenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Baumpate Kr. H. Bäck",
+        "objectid": 28319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456434359827762,
+          47.034832181229085
+        ],
+        "bbox": [
+          15.456434359827762,
+          47.034832181229085,
+          15.456434359827762,
+          47.034832181229085
+        ]
+      }
+    }
+  ]
+}

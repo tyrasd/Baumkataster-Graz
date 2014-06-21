@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29808,"baumbezeichnung_botanisch":"Prunus sargentii 'Rancho'","baumbezeichnung_deutsch":"Scharlach - Kirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2010","entnahmejahr":null,"baumpatenschaft":null,"objectid":9054},"geometry":{"type":"Point","coordinates":[15.409433709553978,47.03825744605065],"bbox":[15.409433709553978,47.03825744605065,15.409433709553978,47.03825744605065]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29808,
+        "baumbezeichnung_botanisch": "Prunus sargentii 'Rancho'",
+        "baumbezeichnung_deutsch": "Scharlach - Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.409433709553978,
+          47.03825744605065
+        ],
+        "bbox": [
+          15.409433709553978,
+          47.03825744605065,
+          15.409433709553978,
+          47.03825744605065
+        ]
+      }
+    }
+  ]
+}

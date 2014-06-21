@@ -1,1 +1,89 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18351,"baumbezeichnung_botanisch":"Acer pseudoplatanus 'Purpurascens'","baumbezeichnung_deutsch":"Rotlaubiger Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":13559},"geometry":{"type":"Point","coordinates":[15.402455861113316,47.04012022353379],"bbox":[15.402455861113316,47.04012022353379,15.402455861113316,47.04012022353379]}},{"type":"Feature","properties":{"nummer":18352,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":12967},"geometry":{"type":"Point","coordinates":[15.402720824151599,47.040039628370856],"bbox":[15.402720824151599,47.040039628370856,15.402720824151599,47.040039628370856]}},{"type":"Feature","properties":{"nummer":18350,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":"1984","entnahmejahr":null,"baumpatenschaft":null,"objectid":24806},"geometry":{"type":"Point","coordinates":[15.402252129446577,47.040183057337835],"bbox":[15.402252129446577,47.040183057337835,15.402252129446577,47.040183057337835]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18351,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus 'Purpurascens'",
+        "baumbezeichnung_deutsch": "Rotlaubiger Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13559
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402455861113316,
+          47.04012022353379
+        ],
+        "bbox": [
+          15.402455861113316,
+          47.04012022353379,
+          15.402455861113316,
+          47.04012022353379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18352,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402720824151599,
+          47.040039628370856
+        ],
+        "bbox": [
+          15.402720824151599,
+          47.040039628370856,
+          15.402720824151599,
+          47.040039628370856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18350,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24806
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402252129446577,
+          47.040183057337835
+        ],
+        "bbox": [
+          15.402252129446577,
+          47.040183057337835,
+          15.402252129446577,
+          47.040183057337835
+        ]
+      }
+    }
+  ]
+}

@@ -1,1 +1,169 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":8448,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":569},"geometry":{"type":"Point","coordinates":[15.455213579465637,47.07930818025624],"bbox":[15.455213579465637,47.07930818025624,15.455213579465637,47.07930818025624]}},{"type":"Feature","properties":{"nummer":8442,"baumbezeichnung_botanisch":"Aesculus x carnea","baumbezeichnung_deutsch":"Rotblühende Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13765},"geometry":{"type":"Point","coordinates":[15.455160630547175,47.07941369895659],"bbox":[15.455160630547175,47.07941369895659,15.455160630547175,47.07941369895659]}},{"type":"Feature","properties":{"nummer":8447,"baumbezeichnung_botanisch":"Aesculus x carnea","baumbezeichnung_deutsch":"Rotblühende Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24686},"geometry":{"type":"Point","coordinates":[15.455106960919824,47.079206696169805],"bbox":[15.455106960919824,47.079206696169805,15.455106960919824,47.079206696169805]}},{"type":"Feature","properties":{"nummer":8441,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23938},"geometry":{"type":"Point","coordinates":[15.45504791680893,47.07930652801552],"bbox":[15.45504791680893,47.07930652801552,15.45504791680893,47.07930652801552]}},{"type":"Feature","properties":{"nummer":23895,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":20190},"geometry":{"type":"Point","coordinates":[15.455321681091027,47.079411582604145],"bbox":[15.455321681091027,47.079411582604145,15.455321681091027,47.079411582604145]}},{"type":"Feature","properties":{"Naturdenkmal":true,"Naturdenkmal_Eigentum":"privat","nummer":"Naturdenkmal-72","objectid":"Naturdenkmal-89","baumbezeichnung_deutsch":"Roteiche","baumbezeichnung_botanisch":"Quercus rubra"},"geometry":{"type":"Point","coordinates":[15.456796469151254,47.077652205696175],"bbox":[15.456796469151254,47.077652205696175,15.456796469151254,47.077652205696175]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8448,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455213579465637,
+          47.07930818025624
+        ],
+        "bbox": [
+          15.455213579465637,
+          47.07930818025624,
+          15.455213579465637,
+          47.07930818025624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8442,
+        "baumbezeichnung_botanisch": "Aesculus x carnea",
+        "baumbezeichnung_deutsch": "Rotblühende Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455160630547175,
+          47.07941369895659
+        ],
+        "bbox": [
+          15.455160630547175,
+          47.07941369895659,
+          15.455160630547175,
+          47.07941369895659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8447,
+        "baumbezeichnung_botanisch": "Aesculus x carnea",
+        "baumbezeichnung_deutsch": "Rotblühende Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455106960919824,
+          47.079206696169805
+        ],
+        "bbox": [
+          15.455106960919824,
+          47.079206696169805,
+          15.455106960919824,
+          47.079206696169805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8441,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45504791680893,
+          47.07930652801552
+        ],
+        "bbox": [
+          15.45504791680893,
+          47.07930652801552,
+          15.45504791680893,
+          47.07930652801552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23895,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455321681091027,
+          47.079411582604145
+        ],
+        "bbox": [
+          15.455321681091027,
+          47.079411582604145,
+          15.455321681091027,
+          47.079411582604145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-72",
+        "objectid": "Naturdenkmal-89",
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumbezeichnung_botanisch": "Quercus rubra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456796469151254,
+          47.077652205696175
+        ],
+        "bbox": [
+          15.456796469151254,
+          47.077652205696175,
+          15.456796469151254,
+          47.077652205696175
+        ]
+      }
+    }
+  ]
+}

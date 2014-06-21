@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":26809,"baumbezeichnung_botanisch":"Prunus serrulata 'Kanzan'","baumbezeichnung_deutsch":"Japanische Blütenkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":3809},"geometry":{"type":"Point","coordinates":[15.392663107786646,47.055329272872655],"bbox":[15.392663107786646,47.055329272872655,15.392663107786646,47.055329272872655]}},{"type":"Feature","properties":{"nummer":14872,"baumbezeichnung_botanisch":"Prunus serrulata 'Hokusai'","baumbezeichnung_deutsch":"Japanische Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":4840},"geometry":{"type":"Point","coordinates":[15.392657279518595,47.055377558352255],"bbox":[15.392657279518595,47.055377558352255,15.392657279518595,47.055377558352255]}},{"type":"Feature","properties":{"nummer":14870,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12148},"geometry":{"type":"Point","coordinates":[15.392601339006779,47.055953675855],"bbox":[15.392601339006779,47.055953675855,15.392601339006779,47.055953675855]}},{"type":"Feature","properties":{"nummer":14874,"baumbezeichnung_botanisch":"Prunus serrulata 'Hokusai'","baumbezeichnung_deutsch":"Japanische Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7212},"geometry":{"type":"Point","coordinates":[15.392676468863135,47.05519404501696],"bbox":[15.392676468863135,47.05519404501696,15.392676468863135,47.05519404501696]}},{"type":"Feature","properties":{"nummer":14871,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":13526},"geometry":{"type":"Point","coordinates":[15.392609235835094,47.05590371004719],"bbox":[15.392609235835094,47.05590371004719,15.392609235835094,47.05590371004719]}},{"type":"Feature","properties":{"nummer":14868,"baumbezeichnung_botanisch":"Prunus serrulata 'Hokusai'","baumbezeichnung_deutsch":"Japanische Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22522},"geometry":{"type":"Point","coordinates":[15.3925938399516,47.0560698760292],"bbox":[15.3925938399516,47.0560698760292,15.3925938399516,47.0560698760292]}},{"type":"Feature","properties":{"nummer":14867,"baumbezeichnung_botanisch":"Prunus serrulata 'Hokusai'","baumbezeichnung_deutsch":"Japanische Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20724},"geometry":{"type":"Point","coordinates":[15.392584441750621,47.05612958917182],"bbox":[15.392584441750621,47.05612958917182,15.392584441750621,47.05612958917182]}},{"type":"Feature","properties":{"nummer":14869,"baumbezeichnung_botanisch":"Prunus serrulata 'Hokusai'","baumbezeichnung_deutsch":"Japanische Kirsche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19164},"geometry":{"type":"Point","coordinates":[15.392592994962143,47.05600959274828],"bbox":[15.392592994962143,47.05600959274828,15.392592994962143,47.05600959274828]}},{"type":"Feature","properties":{"nummer":31576,"baumbezeichnung_botanisch":"Prunus avium","baumbezeichnung_deutsch":"Vogelkirsche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28489},"geometry":{"type":"Point","coordinates":[15.392575582777214,47.05618932474644],"bbox":[15.392575582777214,47.05618932474644,15.392575582777214,47.05618932474644]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26809,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3809
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392663107786646,
+          47.055329272872655
+        ],
+        "bbox": [
+          15.392663107786646,
+          47.055329272872655,
+          15.392663107786646,
+          47.055329272872655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14872,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4840
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392657279518595,
+          47.055377558352255
+        ],
+        "bbox": [
+          15.392657279518595,
+          47.055377558352255,
+          15.392657279518595,
+          47.055377558352255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14870,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392601339006779,
+          47.055953675855
+        ],
+        "bbox": [
+          15.392601339006779,
+          47.055953675855,
+          15.392601339006779,
+          47.055953675855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14874,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392676468863135,
+          47.05519404501696
+        ],
+        "bbox": [
+          15.392676468863135,
+          47.05519404501696,
+          15.392676468863135,
+          47.05519404501696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14871,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 13526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392609235835094,
+          47.05590371004719
+        ],
+        "bbox": [
+          15.392609235835094,
+          47.05590371004719,
+          15.392609235835094,
+          47.05590371004719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14868,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3925938399516,
+          47.0560698760292
+        ],
+        "bbox": [
+          15.3925938399516,
+          47.0560698760292,
+          15.3925938399516,
+          47.0560698760292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14867,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392584441750621,
+          47.05612958917182
+        ],
+        "bbox": [
+          15.392584441750621,
+          47.05612958917182,
+          15.392584441750621,
+          47.05612958917182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14869,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392592994962143,
+          47.05600959274828
+        ],
+        "bbox": [
+          15.392592994962143,
+          47.05600959274828,
+          15.392592994962143,
+          47.05600959274828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31576,
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28489
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392575582777214,
+          47.05618932474644
+        ],
+        "bbox": [
+          15.392575582777214,
+          47.05618932474644,
+          15.392575582777214,
+          47.05618932474644
+        ]
+      }
+    }
+  ]
+}

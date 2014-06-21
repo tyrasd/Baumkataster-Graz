@@ -1,1 +1,285 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":8498,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2314},"geometry":{"type":"Point","coordinates":[15.457697408145368,47.081827006778],"bbox":[15.457697408145368,47.081827006778,15.457697408145368,47.081827006778]}},{"type":"Feature","properties":{"nummer":8469,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2315},"geometry":{"type":"Point","coordinates":[15.457666453880611,47.08164241624354],"bbox":[15.457666453880611,47.08164241624354,15.457666453880611,47.08164241624354]}},{"type":"Feature","properties":{"nummer":8493,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2326},"geometry":{"type":"Point","coordinates":[15.457318963786525,47.08146739650224],"bbox":[15.457318963786525,47.08146739650224,15.457318963786525,47.08146739650224]}},{"type":"Feature","properties":{"nummer":8496,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2362},"geometry":{"type":"Point","coordinates":[15.457550605885489,47.081690765657335],"bbox":[15.457550605885489,47.081690765657335,15.457550605885489,47.081690765657335]}},{"type":"Feature","properties":{"nummer":8494,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":2650},"geometry":{"type":"Point","coordinates":[15.457393872468248,47.08153885158569],"bbox":[15.457393872468248,47.08153885158569,15.457393872468248,47.08153885158569]}},{"type":"Feature","properties":{"nummer":8495,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16292},"geometry":{"type":"Point","coordinates":[15.457468436005495,47.08161160825632],"bbox":[15.457468436005495,47.08161160825632,15.457468436005495,47.08161160825632]}},{"type":"Feature","properties":{"nummer":23898,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2003","entnahmejahr":null,"baumpatenschaft":null,"objectid":12576},"geometry":{"type":"Point","coordinates":[15.457455413004443,47.08144084573431],"bbox":[15.457455413004443,47.08144084573431,15.457455413004443,47.08144084573431]}},{"type":"Feature","properties":{"nummer":8492,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22453},"geometry":{"type":"Point","coordinates":[15.457245706233893,47.081395403541904],"bbox":[15.457245706233893,47.081395403541904,15.457245706233893,47.081395403541904]}},{"type":"Feature","properties":{"nummer":8497,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Globosum'","baumbezeichnung_deutsch":"Kugelesche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20555},"geometry":{"type":"Point","coordinates":[15.457625679328268,47.08176048670048],"bbox":[15.457625679328268,47.08176048670048,15.457625679328268,47.08176048670048]}},{"type":"Feature","properties":{"nummer":31408,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2013","entnahmejahr":null,"baumpatenschaft":null,"objectid":28240},"geometry":{"type":"Point","coordinates":[15.457560945099114,47.08154335278479],"bbox":[15.457560945099114,47.08154335278479,15.457560945099114,47.08154335278479]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8498,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457697408145368,
+          47.081827006778
+        ],
+        "bbox": [
+          15.457697408145368,
+          47.081827006778,
+          15.457697408145368,
+          47.081827006778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8469,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457666453880611,
+          47.08164241624354
+        ],
+        "bbox": [
+          15.457666453880611,
+          47.08164241624354,
+          15.457666453880611,
+          47.08164241624354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8493,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457318963786525,
+          47.08146739650224
+        ],
+        "bbox": [
+          15.457318963786525,
+          47.08146739650224,
+          15.457318963786525,
+          47.08146739650224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8496,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457550605885489,
+          47.081690765657335
+        ],
+        "bbox": [
+          15.457550605885489,
+          47.081690765657335,
+          15.457550605885489,
+          47.081690765657335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8494,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457393872468248,
+          47.08153885158569
+        ],
+        "bbox": [
+          15.457393872468248,
+          47.08153885158569,
+          15.457393872468248,
+          47.08153885158569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8495,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457468436005495,
+          47.08161160825632
+        ],
+        "bbox": [
+          15.457468436005495,
+          47.08161160825632,
+          15.457468436005495,
+          47.08161160825632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23898,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457455413004443,
+          47.08144084573431
+        ],
+        "bbox": [
+          15.457455413004443,
+          47.08144084573431,
+          15.457455413004443,
+          47.08144084573431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8492,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457245706233893,
+          47.081395403541904
+        ],
+        "bbox": [
+          15.457245706233893,
+          47.081395403541904,
+          15.457245706233893,
+          47.081395403541904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8497,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457625679328268,
+          47.08176048670048
+        ],
+        "bbox": [
+          15.457625679328268,
+          47.08176048670048,
+          15.457625679328268,
+          47.08176048670048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31408,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457560945099114,
+          47.08154335278479
+        ],
+        "bbox": [
+          15.457560945099114,
+          47.08154335278479,
+          15.457560945099114,
+          47.08154335278479
+        ]
+      }
+    }
+  ]
+}

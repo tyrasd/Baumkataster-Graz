@@ -1,1 +1,285 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":18371,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1692},"geometry":{"type":"Point","coordinates":[15.386205174991613,47.04392776162998],"bbox":[15.386205174991613,47.04392776162998,15.386205174991613,47.04392776162998]}},{"type":"Feature","properties":{"nummer":18364,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3298},"geometry":{"type":"Point","coordinates":[15.38631689821576,47.04444643080075],"bbox":[15.38631689821576,47.04444643080075,15.38631689821576,47.04444643080075]}},{"type":"Feature","properties":{"nummer":18365,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3299},"geometry":{"type":"Point","coordinates":[15.386311615180881,47.044385476375766],"bbox":[15.386311615180881,47.044385476375766,15.386311615180881,47.044385476375766]}},{"type":"Feature","properties":{"nummer":18362,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18359},"geometry":{"type":"Point","coordinates":[15.386331782070428,47.0446836724885],"bbox":[15.386331782070428,47.0446836724885,15.386331782070428,47.0446836724885]}},{"type":"Feature","properties":{"nummer":18367,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18408},"geometry":{"type":"Point","coordinates":[15.386276213023121,47.04422855480484],"bbox":[15.386276213023121,47.04422855480484,15.386276213023121,47.04422855480484]}},{"type":"Feature","properties":{"nummer":18369,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14597},"geometry":{"type":"Point","coordinates":[15.386237742872561,47.04406508179229],"bbox":[15.386237742872561,47.04406508179229,15.386237742872561,47.04406508179229]}},{"type":"Feature","properties":{"nummer":18363,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22473},"geometry":{"type":"Point","coordinates":[15.386325362673757,47.04450741251328],"bbox":[15.386325362673757,47.04450741251328,15.386325362673757,47.04450741251328]}},{"type":"Feature","properties":{"nummer":18366,"baumbezeichnung_botanisch":"Aesculus hippocastanum","baumbezeichnung_deutsch":"Gemeine Roßkastanie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23480},"geometry":{"type":"Point","coordinates":[15.386290808565368,47.04430263933139],"bbox":[15.386290808565368,47.04430263933139,15.386290808565368,47.04430263933139]}},{"type":"Feature","properties":{"nummer":18368,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21196},"geometry":{"type":"Point","coordinates":[15.386261653511426,47.04415229464941],"bbox":[15.386261653511426,47.04415229464941,15.386261653511426,47.04415229464941]}},{"type":"Feature","properties":{"nummer":18370,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":26376},"geometry":{"type":"Point","coordinates":[15.386219848908716,47.04399749586933],"bbox":[15.386219848908716,47.04399749586933,15.386219848908716,47.04399749586933]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18371,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386205174991613,
+          47.04392776162998
+        ],
+        "bbox": [
+          15.386205174991613,
+          47.04392776162998,
+          15.386205174991613,
+          47.04392776162998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18364,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38631689821576,
+          47.04444643080075
+        ],
+        "bbox": [
+          15.38631689821576,
+          47.04444643080075,
+          15.38631689821576,
+          47.04444643080075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18365,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386311615180881,
+          47.044385476375766
+        ],
+        "bbox": [
+          15.386311615180881,
+          47.044385476375766,
+          15.386311615180881,
+          47.044385476375766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18362,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386331782070428,
+          47.0446836724885
+        ],
+        "bbox": [
+          15.386331782070428,
+          47.0446836724885,
+          15.386331782070428,
+          47.0446836724885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18367,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18408
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386276213023121,
+          47.04422855480484
+        ],
+        "bbox": [
+          15.386276213023121,
+          47.04422855480484,
+          15.386276213023121,
+          47.04422855480484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18369,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386237742872561,
+          47.04406508179229
+        ],
+        "bbox": [
+          15.386237742872561,
+          47.04406508179229,
+          15.386237742872561,
+          47.04406508179229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18363,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386325362673757,
+          47.04450741251328
+        ],
+        "bbox": [
+          15.386325362673757,
+          47.04450741251328,
+          15.386325362673757,
+          47.04450741251328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18366,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23480
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386290808565368,
+          47.04430263933139
+        ],
+        "bbox": [
+          15.386290808565368,
+          47.04430263933139,
+          15.386290808565368,
+          47.04430263933139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18368,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386261653511426,
+          47.04415229464941
+        ],
+        "bbox": [
+          15.386261653511426,
+          47.04415229464941,
+          15.386261653511426,
+          47.04415229464941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18370,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.386219848908716,
+          47.04399749586933
+        ],
+        "bbox": [
+          15.386219848908716,
+          47.04399749586933,
+          15.386219848908716,
+          47.04399749586933
+        ]
+      }
+    }
+  ]
+}

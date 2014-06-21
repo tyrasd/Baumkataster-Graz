@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29464,"baumbezeichnung_botanisch":"Fraxinus excelsior 'Diversifolia'","baumbezeichnung_deutsch":"Einblättrige Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2009","entnahmejahr":null,"baumpatenschaft":null,"objectid":8122},"geometry":{"type":"Point","coordinates":[15.468289902965012,47.0790589938376],"bbox":[15.468289902965012,47.0790589938376,15.468289902965012,47.0790589938376]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29464,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Diversifolia'",
+        "baumbezeichnung_deutsch": "Einblättrige Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.468289902965012,
+          47.0790589938376
+        ],
+        "bbox": [
+          15.468289902965012,
+          47.0790589938376,
+          15.468289902965012,
+          47.0790589938376
+        ]
+      }
+    }
+  ]
+}

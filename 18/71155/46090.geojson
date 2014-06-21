@@ -1,1 +1,257 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":29538,"baumbezeichnung_botanisch":"Koelreuteria paniculata","baumbezeichnung_deutsch":"Blasenbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8834},"geometry":{"type":"Point","coordinates":[15.434969304729092,47.02070440094685],"bbox":[15.434969304729092,47.02070440094685,15.434969304729092,47.02070440094685]}},{"type":"Feature","properties":{"nummer":29539,"baumbezeichnung_botanisch":"Ginkgo biloba 'Fastigiata'","baumbezeichnung_deutsch":"Säulenförmiger Ginkgobaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8835},"geometry":{"type":"Point","coordinates":[15.434931375823677,47.02078747775403],"bbox":[15.434931375823677,47.02078747775403,15.434931375823677,47.02078747775403]}},{"type":"Feature","properties":{"nummer":29540,"baumbezeichnung_botanisch":"Ginkgo biloba 'Fastigiata'","baumbezeichnung_deutsch":"Säulenförmiger Ginkgobaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8836},"geometry":{"type":"Point","coordinates":[15.434870644472397,47.0207750298701],"bbox":[15.434870644472397,47.0207750298701,15.434870644472397,47.0207750298701]}},{"type":"Feature","properties":{"nummer":29541,"baumbezeichnung_botanisch":"Ginkgo biloba 'Fastigiata'","baumbezeichnung_deutsch":"Säulenförmiger Ginkgobaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8837},"geometry":{"type":"Point","coordinates":[15.434818517668422,47.02076049624257],"bbox":[15.434818517668422,47.02076049624257,15.434818517668422,47.02076049624257]}},{"type":"Feature","properties":{"nummer":29542,"baumbezeichnung_botanisch":"Ginkgo biloba 'Fastigiata'","baumbezeichnung_deutsch":"Säulenförmiger Ginkgobaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8838},"geometry":{"type":"Point","coordinates":[15.43475550304979,47.02074898021422],"bbox":[15.43475550304979,47.02074898021422,15.43475550304979,47.02074898021422]}},{"type":"Feature","properties":{"nummer":29536,"baumbezeichnung_botanisch":"Castanea sativa","baumbezeichnung_deutsch":"Eßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7522},"geometry":{"type":"Point","coordinates":[15.434130871713652,47.02024551568442],"bbox":[15.434130871713652,47.02024551568442,15.434130871713652,47.02024551568442]}},{"type":"Feature","properties":{"nummer":29537,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7523},"geometry":{"type":"Point","coordinates":[15.434804413209076,47.02068157493785],"bbox":[15.434804413209076,47.02068157493785,15.434804413209076,47.02068157493785]}},{"type":"Feature","properties":{"nummer":29543,"baumbezeichnung_botanisch":"Castanea sativa","baumbezeichnung_deutsch":"Eßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7524},"geometry":{"type":"Point","coordinates":[15.435196068553493,47.02046875432663],"bbox":[15.435196068553493,47.02046875432663,15.435196068553493,47.02046875432663]}},{"type":"Feature","properties":{"nummer":29544,"baumbezeichnung_botanisch":"Castanea sativa","baumbezeichnung_deutsch":"Eßkastanie","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":7525},"geometry":{"type":"Point","coordinates":[15.435265611877133,47.02036590381766],"bbox":[15.435265611877133,47.02036590381766,15.435265611877133,47.02036590381766]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29538,
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434969304729092,
+          47.02070440094685
+        ],
+        "bbox": [
+          15.434969304729092,
+          47.02070440094685,
+          15.434969304729092,
+          47.02070440094685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29539,
+        "baumbezeichnung_botanisch": "Ginkgo biloba 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Ginkgobaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434931375823677,
+          47.02078747775403
+        ],
+        "bbox": [
+          15.434931375823677,
+          47.02078747775403,
+          15.434931375823677,
+          47.02078747775403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29540,
+        "baumbezeichnung_botanisch": "Ginkgo biloba 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Ginkgobaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434870644472397,
+          47.0207750298701
+        ],
+        "bbox": [
+          15.434870644472397,
+          47.0207750298701,
+          15.434870644472397,
+          47.0207750298701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29541,
+        "baumbezeichnung_botanisch": "Ginkgo biloba 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Ginkgobaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8837
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434818517668422,
+          47.02076049624257
+        ],
+        "bbox": [
+          15.434818517668422,
+          47.02076049624257,
+          15.434818517668422,
+          47.02076049624257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29542,
+        "baumbezeichnung_botanisch": "Ginkgo biloba 'Fastigiata'",
+        "baumbezeichnung_deutsch": "Säulenförmiger Ginkgobaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43475550304979,
+          47.02074898021422
+        ],
+        "bbox": [
+          15.43475550304979,
+          47.02074898021422,
+          15.43475550304979,
+          47.02074898021422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29536,
+        "baumbezeichnung_botanisch": "Castanea sativa",
+        "baumbezeichnung_deutsch": "Eßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434130871713652,
+          47.02024551568442
+        ],
+        "bbox": [
+          15.434130871713652,
+          47.02024551568442,
+          15.434130871713652,
+          47.02024551568442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29537,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434804413209076,
+          47.02068157493785
+        ],
+        "bbox": [
+          15.434804413209076,
+          47.02068157493785,
+          15.434804413209076,
+          47.02068157493785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29543,
+        "baumbezeichnung_botanisch": "Castanea sativa",
+        "baumbezeichnung_deutsch": "Eßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435196068553493,
+          47.02046875432663
+        ],
+        "bbox": [
+          15.435196068553493,
+          47.02046875432663,
+          15.435196068553493,
+          47.02046875432663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29544,
+        "baumbezeichnung_botanisch": "Castanea sativa",
+        "baumbezeichnung_deutsch": "Eßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435265611877133,
+          47.02036590381766
+        ],
+        "bbox": [
+          15.435265611877133,
+          47.02036590381766,
+          15.435265611877133,
+          47.02036590381766
+        ]
+      }
+    }
+  ]
+}

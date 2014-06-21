@@ -1,1 +1,341 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":27584,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2007","entnahmejahr":null,"baumpatenschaft":null,"objectid":1085},"geometry":{"type":"Point","coordinates":[15.43016629743595,47.07009466084001],"bbox":[15.43016629743595,47.07009466084001,15.43016629743595,47.07009466084001]}},{"type":"Feature","properties":{"nummer":10795,"baumbezeichnung_botanisch":"Tilia platyphyllos","baumbezeichnung_deutsch":"Sommerlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11054},"geometry":{"type":"Point","coordinates":[15.42878773907182,47.069578269763845],"bbox":[15.42878773907182,47.069578269763845,15.42878773907182,47.069578269763845]}},{"type":"Feature","properties":{"nummer":10772,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":6403},"geometry":{"type":"Point","coordinates":[15.42952651887672,47.06957175269225],"bbox":[15.42952651887672,47.06957175269225,15.42952651887672,47.06957175269225]}},{"type":"Feature","properties":{"nummer":10777,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8378},"geometry":{"type":"Point","coordinates":[15.429346702527646,47.06962630545213],"bbox":[15.429346702527646,47.06962630545213,15.429346702527646,47.06962630545213]}},{"type":"Feature","properties":{"nummer":10776,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12750},"geometry":{"type":"Point","coordinates":[15.429342604318974,47.06957918367668],"bbox":[15.429342604318974,47.06957918367668,15.429342604318974,47.06957918367668]}},{"type":"Feature","properties":{"nummer":10770,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22303},"geometry":{"type":"Point","coordinates":[15.42941902147064,47.069683655121445],"bbox":[15.42941902147064,47.069683655121445,15.42941902147064,47.069683655121445]}},{"type":"Feature","properties":{"nummer":10771,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21402},"geometry":{"type":"Point","coordinates":[15.429534888921863,47.06961773891782],"bbox":[15.429534888921863,47.06961773891782,15.429534888921863,47.06961773891782]}},{"type":"Feature","properties":{"nummer":10794,"baumbezeichnung_botanisch":"Tilia cordata","baumbezeichnung_deutsch":"Winterlinde","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18701},"geometry":{"type":"Point","coordinates":[15.428781694873544,47.06951862037082],"bbox":[15.428781694873544,47.06951862037082,15.428781694873544,47.06951862037082]}},{"type":"Feature","properties":{"nummer":10774,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21110},"geometry":{"type":"Point","coordinates":[15.42951231625567,47.0694784330727],"bbox":[15.42951231625567,47.0694784330727,15.42951231625567,47.0694784330727]}},{"type":"Feature","properties":{"nummer":31787,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2014","entnahmejahr":null,"baumpatenschaft":null,"objectid":16751},"geometry":{"type":"Point","coordinates":[15.42933331826185,47.0694932969347],"bbox":[15.42933331826185,47.0694932969347,15.42933331826185,47.0694932969347]}},{"type":"Feature","properties":{"nummer":10773,"baumbezeichnung_botanisch":"Sophora japonica","baumbezeichnung_deutsch":"Schnurbaum","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25817},"geometry":{"type":"Point","coordinates":[15.42951683315748,47.069524163917706],"bbox":[15.42951683315748,47.069524163917706,15.42951683315748,47.069524163917706]}},{"type":"Feature","properties":{"nummer":10769,"baumbezeichnung_botanisch":"Quercus robur","baumbezeichnung_deutsch":"Stieleiche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25841},"geometry":{"type":"Point","coordinates":[15.429482720334159,47.06968027357594],"bbox":[15.429482720334159,47.06968027357594,15.429482720334159,47.06968027357594]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27584,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43016629743595,
+          47.07009466084001
+        ],
+        "bbox": [
+          15.43016629743595,
+          47.07009466084001,
+          15.43016629743595,
+          47.07009466084001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10795,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42878773907182,
+          47.069578269763845
+        ],
+        "bbox": [
+          15.42878773907182,
+          47.069578269763845,
+          15.42878773907182,
+          47.069578269763845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10772,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6403
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42952651887672,
+          47.06957175269225
+        ],
+        "bbox": [
+          15.42952651887672,
+          47.06957175269225,
+          15.42952651887672,
+          47.06957175269225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10777,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429346702527646,
+          47.06962630545213
+        ],
+        "bbox": [
+          15.429346702527646,
+          47.06962630545213,
+          15.429346702527646,
+          47.06962630545213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10776,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12750
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429342604318974,
+          47.06957918367668
+        ],
+        "bbox": [
+          15.429342604318974,
+          47.06957918367668,
+          15.429342604318974,
+          47.06957918367668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10770,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42941902147064,
+          47.069683655121445
+        ],
+        "bbox": [
+          15.42941902147064,
+          47.069683655121445,
+          15.42941902147064,
+          47.069683655121445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10771,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429534888921863,
+          47.06961773891782
+        ],
+        "bbox": [
+          15.429534888921863,
+          47.06961773891782,
+          15.429534888921863,
+          47.06961773891782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10794,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428781694873544,
+          47.06951862037082
+        ],
+        "bbox": [
+          15.428781694873544,
+          47.06951862037082,
+          15.428781694873544,
+          47.06951862037082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10774,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42951231625567,
+          47.0694784330727
+        ],
+        "bbox": [
+          15.42951231625567,
+          47.0694784330727,
+          15.42951231625567,
+          47.0694784330727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31787,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42933331826185,
+          47.0694932969347
+        ],
+        "bbox": [
+          15.42933331826185,
+          47.0694932969347,
+          15.42933331826185,
+          47.0694932969347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10773,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42951683315748,
+          47.069524163917706
+        ],
+        "bbox": [
+          15.42951683315748,
+          47.069524163917706,
+          15.42951683315748,
+          47.069524163917706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10769,
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429482720334159,
+          47.06968027357594
+        ],
+        "bbox": [
+          15.429482720334159,
+          47.06968027357594,
+          15.429482720334159,
+          47.06968027357594
+        ]
+      }
+    }
+  ]
+}

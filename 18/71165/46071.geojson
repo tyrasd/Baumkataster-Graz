@@ -1,1 +1,61 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":8777,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":1013},"geometry":{"type":"Point","coordinates":[15.462623577360606,47.056929544645634],"bbox":[15.462623577360606,47.056929544645634,15.462623577360606,47.056929544645634]}},{"type":"Feature","properties":{"nummer":8778,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1986","entnahmejahr":null,"baumpatenschaft":null,"objectid":20427},"geometry":{"type":"Point","coordinates":[15.462774630030877,47.056990955917975],"bbox":[15.462774630030877,47.056990955917975,15.462774630030877,47.056990955917975]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8777,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462623577360606,
+          47.056929544645634
+        ],
+        "bbox": [
+          15.462623577360606,
+          47.056929544645634,
+          15.462623577360606,
+          47.056929544645634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8778,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462774630030877,
+          47.056990955917975
+        ],
+        "bbox": [
+          15.462774630030877,
+          47.056990955917975,
+          15.462774630030877,
+          47.056990955917975
+        ]
+      }
+    }
+  ]
+}

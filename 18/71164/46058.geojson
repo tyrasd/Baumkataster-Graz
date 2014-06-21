@@ -1,1 +1,397 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":7695,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":976},"geometry":{"type":"Point","coordinates":[15.460020478497823,47.080513191785386],"bbox":[15.460020478497823,47.080513191785386,15.460020478497823,47.080513191785386]}},{"type":"Feature","properties":{"nummer":20077,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"1997","entnahmejahr":null,"baumpatenschaft":null,"objectid":1332},"geometry":{"type":"Point","coordinates":[15.460308043170548,47.08072790627427],"bbox":[15.460308043170548,47.08072790627427,15.460308043170548,47.08072790627427]}},{"type":"Feature","properties":{"nummer":7694,"baumbezeichnung_botanisch":"Crataegus monogyna","baumbezeichnung_deutsch":"Eingriffeliger Weißdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5250},"geometry":{"type":"Point","coordinates":[15.460017192966598,47.08051600909311],"bbox":[15.460017192966598,47.08051600909311,15.460017192966598,47.08051600909311]}},{"type":"Feature","properties":{"nummer":7809,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":5597},"geometry":{"type":"Point","coordinates":[15.460342811193025,47.08108173518352],"bbox":[15.460342811193025,47.08108173518352,15.460342811193025,47.08108173518352]}},{"type":"Feature","properties":{"nummer":24149,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2004","entnahmejahr":null,"baumpatenschaft":null,"objectid":10764},"geometry":{"type":"Point","coordinates":[15.46045542234214,47.08056443516466],"bbox":[15.46045542234214,47.08056443516466,15.46045542234214,47.08056443516466]}},{"type":"Feature","properties":{"nummer":7700,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10265},"geometry":{"type":"Point","coordinates":[15.460305940351235,47.08053860957243],"bbox":[15.460305940351235,47.08053860957243,15.460305940351235,47.08053860957243]}},{"type":"Feature","properties":{"nummer":7697,"baumbezeichnung_botanisch":"Crataegus monogyna","baumbezeichnung_deutsch":"Eingriffeliger Weißdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":11075},"geometry":{"type":"Point","coordinates":[15.460116990676134,47.080539485094555],"bbox":[15.460116990676134,47.080539485094555,15.460116990676134,47.080539485094555]}},{"type":"Feature","properties":{"nummer":7810,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22322},"geometry":{"type":"Point","coordinates":[15.460348166181614,47.081144356651336],"bbox":[15.460348166181614,47.081144356651336,15.460348166181614,47.081144356651336]}},{"type":"Feature","properties":{"nummer":7813,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22326},"geometry":{"type":"Point","coordinates":[15.460346118318538,47.08126930772645],"bbox":[15.460346118318538,47.08126930772645,15.460346118318538,47.08126930772645]}},{"type":"Feature","properties":{"nummer":7814,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":22327},"geometry":{"type":"Point","coordinates":[15.460335210842148,47.08129085386146],"bbox":[15.460335210842148,47.08129085386146,15.460335210842148,47.08129085386146]}},{"type":"Feature","properties":{"nummer":7811,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":23396},"geometry":{"type":"Point","coordinates":[15.460351564334351,47.08116471869733],"bbox":[15.460351564334351,47.08116471869733,15.460351564334351,47.08116471869733]}},{"type":"Feature","properties":{"nummer":7698,"baumbezeichnung_botanisch":"Acer negundo","baumbezeichnung_deutsch":"Eschenahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":21304},"geometry":{"type":"Point","coordinates":[15.460149215063284,47.08054979707583],"bbox":[15.460149215063284,47.08054979707583,15.460149215063284,47.08054979707583]}},{"type":"Feature","properties":{"nummer":7696,"baumbezeichnung_botanisch":"Crataegus monogyna","baumbezeichnung_deutsch":"Eingriffeliger Weißdorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25377},"geometry":{"type":"Point","coordinates":[15.460078129433448,47.080524363940086],"bbox":[15.460078129433448,47.080524363940086,15.460078129433448,47.080524363940086]}},{"type":"Feature","properties":{"nummer":23690,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":"2002","entnahmejahr":null,"baumpatenschaft":null,"objectid":25941},"geometry":{"type":"Point","coordinates":[15.46030571212903,47.080680280225344],"bbox":[15.46030571212903,47.080680280225344,15.46030571212903,47.080680280225344]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7695,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460020478497823,
+          47.080513191785386
+        ],
+        "bbox": [
+          15.460020478497823,
+          47.080513191785386,
+          15.460020478497823,
+          47.080513191785386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20077,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460308043170548,
+          47.08072790627427
+        ],
+        "bbox": [
+          15.460308043170548,
+          47.08072790627427,
+          15.460308043170548,
+          47.08072790627427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7694,
+        "baumbezeichnung_botanisch": "Crataegus monogyna",
+        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460017192966598,
+          47.08051600909311
+        ],
+        "bbox": [
+          15.460017192966598,
+          47.08051600909311,
+          15.460017192966598,
+          47.08051600909311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7809,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5597
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460342811193025,
+          47.08108173518352
+        ],
+        "bbox": [
+          15.460342811193025,
+          47.08108173518352,
+          15.460342811193025,
+          47.08108173518352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24149,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10764
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46045542234214,
+          47.08056443516466
+        ],
+        "bbox": [
+          15.46045542234214,
+          47.08056443516466,
+          15.46045542234214,
+          47.08056443516466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7700,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460305940351235,
+          47.08053860957243
+        ],
+        "bbox": [
+          15.460305940351235,
+          47.08053860957243,
+          15.460305940351235,
+          47.08053860957243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7697,
+        "baumbezeichnung_botanisch": "Crataegus monogyna",
+        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460116990676134,
+          47.080539485094555
+        ],
+        "bbox": [
+          15.460116990676134,
+          47.080539485094555,
+          15.460116990676134,
+          47.080539485094555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7810,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460348166181614,
+          47.081144356651336
+        ],
+        "bbox": [
+          15.460348166181614,
+          47.081144356651336,
+          15.460348166181614,
+          47.081144356651336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7813,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460346118318538,
+          47.08126930772645
+        ],
+        "bbox": [
+          15.460346118318538,
+          47.08126930772645,
+          15.460346118318538,
+          47.08126930772645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7814,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460335210842148,
+          47.08129085386146
+        ],
+        "bbox": [
+          15.460335210842148,
+          47.08129085386146,
+          15.460335210842148,
+          47.08129085386146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7811,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460351564334351,
+          47.08116471869733
+        ],
+        "bbox": [
+          15.460351564334351,
+          47.08116471869733,
+          15.460351564334351,
+          47.08116471869733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7698,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460149215063284,
+          47.08054979707583
+        ],
+        "bbox": [
+          15.460149215063284,
+          47.08054979707583,
+          15.460149215063284,
+          47.08054979707583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7696,
+        "baumbezeichnung_botanisch": "Crataegus monogyna",
+        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460078129433448,
+          47.080524363940086
+        ],
+        "bbox": [
+          15.460078129433448,
+          47.080524363940086,
+          15.460078129433448,
+          47.080524363940086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23690,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25941
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46030571212903,
+          47.080680280225344
+        ],
+        "bbox": [
+          15.46030571212903,
+          47.080680280225344,
+          15.46030571212903,
+          47.080680280225344
+        ]
+      }
+    }
+  ]
+}

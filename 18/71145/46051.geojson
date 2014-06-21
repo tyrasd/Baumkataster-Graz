@@ -1,1 +1,201 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":23458,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":19143},"geometry":{"type":"Point","coordinates":[15.40828866371762,47.09269985125588],"bbox":[15.40828866371762,47.09269985125588,15.40828866371762,47.09269985125588]}},{"type":"Feature","properties":{"nummer":30866,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28699},"geometry":{"type":"Point","coordinates":[15.406760174871259,47.09264052937814],"bbox":[15.406760174871259,47.09264052937814,15.406760174871259,47.09264052937814]}},{"type":"Feature","properties":{"nummer":30867,"baumbezeichnung_botanisch":"Acer pseudoplatanus","baumbezeichnung_deutsch":"Bergahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28700},"geometry":{"type":"Point","coordinates":[15.40651658875347,47.09292057551649],"bbox":[15.40651658875347,47.09292057551649,15.40651658875347,47.09292057551649]}},{"type":"Feature","properties":{"nummer":30869,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27497},"geometry":{"type":"Point","coordinates":[15.405795080088774,47.09380908488812],"bbox":[15.405795080088774,47.09380908488812,15.405795080088774,47.09380908488812]}},{"type":"Feature","properties":{"nummer":30870,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27498},"geometry":{"type":"Point","coordinates":[15.40571848537697,47.093904851030636],"bbox":[15.40571848537697,47.093904851030636,15.40571848537697,47.093904851030636]}},{"type":"Feature","properties":{"nummer":30871,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":27499},"geometry":{"type":"Point","coordinates":[15.405641974621087,47.093995857615866],"bbox":[15.405641974621087,47.093995857615866,15.405641974621087,47.093995857615866]}},{"type":"Feature","properties":{"nummer":14287,"baumbezeichnung_botanisch":"Juglans regia","baumbezeichnung_deutsch":"Walnuß","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":25563},"geometry":{"type":"Point","coordinates":[15.408313062599033,47.0926176865267],"bbox":[15.408313062599033,47.0926176865267,15.408313062599033,47.0926176865267]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23458,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40828866371762,
+          47.09269985125588
+        ],
+        "bbox": [
+          15.40828866371762,
+          47.09269985125588,
+          15.40828866371762,
+          47.09269985125588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30866,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406760174871259,
+          47.09264052937814
+        ],
+        "bbox": [
+          15.406760174871259,
+          47.09264052937814,
+          15.406760174871259,
+          47.09264052937814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30867,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28700
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40651658875347,
+          47.09292057551649
+        ],
+        "bbox": [
+          15.40651658875347,
+          47.09292057551649,
+          15.40651658875347,
+          47.09292057551649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30869,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.405795080088774,
+          47.09380908488812
+        ],
+        "bbox": [
+          15.405795080088774,
+          47.09380908488812,
+          15.405795080088774,
+          47.09380908488812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30870,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40571848537697,
+          47.093904851030636
+        ],
+        "bbox": [
+          15.40571848537697,
+          47.093904851030636,
+          15.40571848537697,
+          47.093904851030636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30871,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 27499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.405641974621087,
+          47.093995857615866
+        ],
+        "bbox": [
+          15.405641974621087,
+          47.093995857615866,
+          15.405641974621087,
+          47.093995857615866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14287,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.408313062599033,
+          47.0926176865267
+        ],
+        "bbox": [
+          15.408313062599033,
+          47.0926176865267,
+          15.408313062599033,
+          47.0926176865267
+        ]
+      }
+    }
+  ]
+}

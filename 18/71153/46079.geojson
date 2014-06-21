@@ -1,1 +1,341 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":30302,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28387},"geometry":{"type":"Point","coordinates":[15.429259371079668,47.04148948535173],"bbox":[15.429259371079668,47.04148948535173,15.429259371079668,47.04148948535173]}},{"type":"Feature","properties":{"nummer":30301,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28388},"geometry":{"type":"Point","coordinates":[15.42920187812548,47.04160538122346],"bbox":[15.42920187812548,47.04160538122346,15.42920187812548,47.04160538122346]}},{"type":"Feature","properties":{"nummer":30300,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28389},"geometry":{"type":"Point","coordinates":[15.429051783448978,47.041754408446536],"bbox":[15.429051783448978,47.041754408446536,15.429051783448978,47.041754408446536]}},{"type":"Feature","properties":{"nummer":30299,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28390},"geometry":{"type":"Point","coordinates":[15.429069421787649,47.04177121436067],"bbox":[15.429069421787649,47.04177121436067,15.429069421787649,47.04177121436067]}},{"type":"Feature","properties":{"nummer":30298,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28391},"geometry":{"type":"Point","coordinates":[15.429116275240258,47.041779914994976],"bbox":[15.429116275240258,47.041779914994976,15.429116275240258,47.041779914994976]}},{"type":"Feature","properties":{"nummer":30297,"baumbezeichnung_botanisch":"Platanus x acerifolia","baumbezeichnung_deutsch":"Platane","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28392},"geometry":{"type":"Point","coordinates":[15.429077679955975,47.04179745922692],"bbox":[15.429077679955975,47.04179745922692,15.429077679955975,47.04179745922692]}},{"type":"Feature","properties":{"nummer":30296,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28393},"geometry":{"type":"Point","coordinates":[15.429072176984512,47.04181407553115],"bbox":[15.429072176984512,47.04181407553115,15.429072176984512,47.04181407553115]}},{"type":"Feature","properties":{"nummer":30295,"baumbezeichnung_botanisch":"Acer platanoides","baumbezeichnung_deutsch":"Spitzahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28394},"geometry":{"type":"Point","coordinates":[15.429116560537627,47.041835900295936],"bbox":[15.429116560537627,47.041835900295936,15.429116560537627,47.041835900295936]}},{"type":"Feature","properties":{"nummer":30294,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28395},"geometry":{"type":"Point","coordinates":[15.429000820647774,47.04191584885223],"bbox":[15.429000820647774,47.04191584885223,15.429000820647774,47.04191584885223]}},{"type":"Feature","properties":{"nummer":30293,"baumbezeichnung_botanisch":"Pinus silvestris","baumbezeichnung_deutsch":"Rotföhre","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28396},"geometry":{"type":"Point","coordinates":[15.429007257472163,47.04194683952117],"bbox":[15.429007257472163,47.04194683952117,15.429007257472163,47.04194683952117]}},{"type":"Feature","properties":{"nummer":30292,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28397},"geometry":{"type":"Point","coordinates":[15.428967634618092,47.04202506397142],"bbox":[15.428967634618092,47.04202506397142,15.428967634618092,47.04202506397142]}},{"type":"Feature","properties":{"nummer":30291,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"jung","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":28398},"geometry":{"type":"Point","coordinates":[15.428888806427747,47.04205418906255],"bbox":[15.428888806427747,47.04205418906255,15.428888806427747,47.04205418906255]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30302,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429259371079668,
+          47.04148948535173
+        ],
+        "bbox": [
+          15.429259371079668,
+          47.04148948535173,
+          15.429259371079668,
+          47.04148948535173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30301,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28388
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42920187812548,
+          47.04160538122346
+        ],
+        "bbox": [
+          15.42920187812548,
+          47.04160538122346,
+          15.42920187812548,
+          47.04160538122346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30300,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429051783448978,
+          47.041754408446536
+        ],
+        "bbox": [
+          15.429051783448978,
+          47.041754408446536,
+          15.429051783448978,
+          47.041754408446536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30299,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429069421787649,
+          47.04177121436067
+        ],
+        "bbox": [
+          15.429069421787649,
+          47.04177121436067,
+          15.429069421787649,
+          47.04177121436067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30298,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429116275240258,
+          47.041779914994976
+        ],
+        "bbox": [
+          15.429116275240258,
+          47.041779914994976,
+          15.429116275240258,
+          47.041779914994976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30297,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28392
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429077679955975,
+          47.04179745922692
+        ],
+        "bbox": [
+          15.429077679955975,
+          47.04179745922692,
+          15.429077679955975,
+          47.04179745922692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30296,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429072176984512,
+          47.04181407553115
+        ],
+        "bbox": [
+          15.429072176984512,
+          47.04181407553115,
+          15.429072176984512,
+          47.04181407553115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30295,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28394
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429116560537627,
+          47.041835900295936
+        ],
+        "bbox": [
+          15.429116560537627,
+          47.041835900295936,
+          15.429116560537627,
+          47.041835900295936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30294,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429000820647774,
+          47.04191584885223
+        ],
+        "bbox": [
+          15.429000820647774,
+          47.04191584885223,
+          15.429000820647774,
+          47.04191584885223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30293,
+        "baumbezeichnung_botanisch": "Pinus silvestris",
+        "baumbezeichnung_deutsch": "Rotföhre",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429007257472163,
+          47.04194683952117
+        ],
+        "bbox": [
+          15.429007257472163,
+          47.04194683952117,
+          15.429007257472163,
+          47.04194683952117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30292,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428967634618092,
+          47.04202506397142
+        ],
+        "bbox": [
+          15.428967634618092,
+          47.04202506397142,
+          15.428967634618092,
+          47.04202506397142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30291,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428888806427747,
+          47.04205418906255
+        ],
+        "bbox": [
+          15.428888806427747,
+          47.04205418906255,
+          15.428888806427747,
+          47.04205418906255
+        ]
+      }
+    }
+  ]
+}

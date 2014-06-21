@@ -1,1 +1,33 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":28045,"baumbezeichnung_botanisch":"Picea abies","baumbezeichnung_deutsch":"Rotfichte","baumtyp":"Nadel","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":12137},"geometry":{"type":"Point","coordinates":[15.488844063575076,47.061185047060484],"bbox":[15.488844063575076,47.061185047060484,15.488844063575076,47.061185047060484]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28045,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 12137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.488844063575076,
+          47.061185047060484
+        ],
+        "bbox": [
+          15.488844063575076,
+          47.061185047060484,
+          15.488844063575076,
+          47.061185047060484
+        ]
+      }
+    }
+  ]
+}

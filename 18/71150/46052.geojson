@@ -1,1 +1,313 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"nummer":11623,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":1303},"geometry":{"type":"Point","coordinates":[15.420913962517568,47.09194522197412],"bbox":[15.420913962517568,47.09194522197412,15.420913962517568,47.09194522197412]}},{"type":"Feature","properties":{"nummer":16161,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3292},"geometry":{"type":"Point","coordinates":[15.420493735271625,47.091113071292575],"bbox":[15.420493735271625,47.091113071292575,15.420493735271625,47.091113071292575]}},{"type":"Feature","properties":{"nummer":11624,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":3776},"geometry":{"type":"Point","coordinates":[15.420856442485528,47.092007415592896],"bbox":[15.420856442485528,47.092007415592896,15.420856442485528,47.092007415592896]}},{"type":"Feature","properties":{"nummer":16169,"baumbezeichnung_botanisch":"Pinus sp.","baumbezeichnung_deutsch":"Föhre","baumtyp":"Nadel","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":10016},"geometry":{"type":"Point","coordinates":[15.419385814590939,47.09175391766396],"bbox":[15.419385814590939,47.09175391766396,15.419385814590939,47.09175391766396]}},{"type":"Feature","properties":{"nummer":16170,"baumbezeichnung_botanisch":"Pyrus communis","baumbezeichnung_deutsch":"Gemeine Birne","baumtyp":"Laub","altersklassifizierung":"alt","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":8334},"geometry":{"type":"Point","coordinates":[15.41944677003604,47.09177113820758],"bbox":[15.41944677003604,47.09177113820758,15.41944677003604,47.09177113820758]}},{"type":"Feature","properties":{"nummer":11618,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":16143},"geometry":{"type":"Point","coordinates":[15.421079548357733,47.091753767460744],"bbox":[15.421079548357733,47.091753767460744,15.421079548357733,47.091753767460744]}},{"type":"Feature","properties":{"nummer":11625,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":18566},"geometry":{"type":"Point","coordinates":[15.420799003594077,47.09206478937685],"bbox":[15.420799003594077,47.09206478937685,15.420799003594077,47.09206478937685]}},{"type":"Feature","properties":{"nummer":11626,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":17070},"geometry":{"type":"Point","coordinates":[15.42074173237656,47.09211252536306],"bbox":[15.42074173237656,47.09211252536306,15.42074173237656,47.09211252536306]}},{"type":"Feature","properties":{"nummer":16162,"baumbezeichnung_botanisch":"Acer campestre","baumbezeichnung_deutsch":"Feldahorn","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":14786},"geometry":{"type":"Point","coordinates":[15.420465919625547,47.09106822888132],"bbox":[15.420465919625547,47.09106822888132,15.420465919625547,47.09106822888132]}},{"type":"Feature","properties":{"nummer":11621,"baumbezeichnung_botanisch":"Fraxinus excelsior","baumbezeichnung_deutsch":"Esche","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":24863},"geometry":{"type":"Point","coordinates":[15.420978786063756,47.091868628924466],"bbox":[15.420978786063756,47.091868628924466,15.420978786063756,47.091868628924466]}},{"type":"Feature","properties":{"nummer":16163,"baumbezeichnung_botanisch":"Robinia pseudoacacia","baumbezeichnung_deutsch":"Scheinakazie","baumtyp":"Laub","altersklassifizierung":"mittel","bemerkung":null,"pflanzjahr":null,"entnahmejahr":null,"baumpatenschaft":null,"objectid":20118},"geometry":{"type":"Point","coordinates":[15.419772284369383,47.091751502994896],"bbox":[15.419772284369383,47.091751502994896,15.419772284369383,47.091751502994896]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11623,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420913962517568,
+          47.09194522197412
+        ],
+        "bbox": [
+          15.420913962517568,
+          47.09194522197412,
+          15.420913962517568,
+          47.09194522197412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16161,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420493735271625,
+          47.091113071292575
+        ],
+        "bbox": [
+          15.420493735271625,
+          47.091113071292575,
+          15.420493735271625,
+          47.091113071292575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11624,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420856442485528,
+          47.092007415592896
+        ],
+        "bbox": [
+          15.420856442485528,
+          47.092007415592896,
+          15.420856442485528,
+          47.092007415592896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16169,
+        "baumbezeichnung_botanisch": "Pinus sp.",
+        "baumbezeichnung_deutsch": "Föhre",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419385814590939,
+          47.09175391766396
+        ],
+        "bbox": [
+          15.419385814590939,
+          47.09175391766396,
+          15.419385814590939,
+          47.09175391766396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16170,
+        "baumbezeichnung_botanisch": "Pyrus communis",
+        "baumbezeichnung_deutsch": "Gemeine Birne",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41944677003604,
+          47.09177113820758
+        ],
+        "bbox": [
+          15.41944677003604,
+          47.09177113820758,
+          15.41944677003604,
+          47.09177113820758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11618,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 16143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421079548357733,
+          47.091753767460744
+        ],
+        "bbox": [
+          15.421079548357733,
+          47.091753767460744,
+          15.421079548357733,
+          47.091753767460744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11625,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18566
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420799003594077,
+          47.09206478937685
+        ],
+        "bbox": [
+          15.420799003594077,
+          47.09206478937685,
+          15.420799003594077,
+          47.09206478937685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11626,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17070
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42074173237656,
+          47.09211252536306
+        ],
+        "bbox": [
+          15.42074173237656,
+          47.09211252536306,
+          15.42074173237656,
+          47.09211252536306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16162,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420465919625547,
+          47.09106822888132
+        ],
+        "bbox": [
+          15.420465919625547,
+          47.09106822888132,
+          15.420465919625547,
+          47.09106822888132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11621,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420978786063756,
+          47.091868628924466
+        ],
+        "bbox": [
+          15.420978786063756,
+          47.091868628924466,
+          15.420978786063756,
+          47.091868628924466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16163,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419772284369383,
+          47.091751502994896
+        ],
+        "bbox": [
+          15.419772284369383,
+          47.091751502994896,
+          15.419772284369383,
+          47.091751502994896
+        ]
+      }
+    }
+  ]
+}
