@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 19961,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1996",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7348
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439872786791982,
-          47.063060196212945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 5933,
         "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumbezeichnung_deutsch": "Platane",
@@ -62,8 +40,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.439870942295679,
-          47.062990001978655
+          15.439850950204882,
+          47.06280971045745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19961,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439885447660762,
+          47.06303726603998
         ]
       }
     }

@@ -128,8 +128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.4376607498133,
-          47.062753887156276
+          15.437630630766563,
+          47.062704252424936
         ]
       }
     },
@@ -240,28 +240,6 @@
         "coordinates": [
           15.439159622719789,
           47.065833258554505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19961,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1996",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7348
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439872786791982,
-          47.063060196212945
         ]
       }
     },
@@ -444,28 +422,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 19962,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1996",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23817
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439870942295679,
-          47.062990001978655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 12326,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -592,6 +548,50 @@
         "coordinates": [
           15.437656294411546,
           47.06538526505177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19962,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439850950204882,
+          47.06280971045745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19961,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439885447660762,
+          47.06303726603998
         ]
       }
     },

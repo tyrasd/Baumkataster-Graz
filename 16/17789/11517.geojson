@@ -9136,6 +9136,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31174,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.437688239604265,
+          47.0620740144376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 23329,
         "baumbezeichnung_botanisch": "Carpinus betulus",
         "baumbezeichnung_deutsch": "Hain - oder Weißbuche",

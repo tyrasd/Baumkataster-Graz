@@ -810,8 +810,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.39210711379117,
-          47.04840412233146
+          15.39206642742828,
+          47.048357386398465
         ]
       }
     },
@@ -834,28 +834,6 @@
         "coordinates": [
           15.392599465667123,
           47.048472555753946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29468,
-        "baumbezeichnung_botanisch": "Prunus 'Hauszwetschke'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2009",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8660
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392370091879918,
-          47.04879301426187
         ]
       }
     },
@@ -1126,28 +1104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 17187,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14595
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392437939030474,
-          47.04856550539471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 14484,
         "baumbezeichnung_botanisch": "Robinia pseudoacacia",
         "baumbezeichnung_deutsch": "Scheinakazie",
@@ -1228,8 +1184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.39231585409173,
-          47.048249170258714
+          15.392238782124217,
+          47.04825884880513
         ]
       }
     },
@@ -1524,28 +1480,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 17173,
-        "baumbezeichnung_botanisch": "Cornus sanguinea",
-        "baumbezeichnung_deutsch": "Echter Hartriegel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18930
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39239432222798,
-          47.04824188417931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 17171,
         "baumbezeichnung_botanisch": "Prunus avium",
         "baumbezeichnung_deutsch": "Vogelkirsche",
@@ -1560,8 +1494,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.392478698057193,
-          47.04822869644908
+          15.392441272162747,
+          47.0482283880212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29468,
+        "baumbezeichnung_botanisch": "Prunus 'Hauszwetschke'",
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8660
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392260563021518,
+          47.04880047067242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17187,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392403706114226,
+          47.048581503562524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 17173,
+        "baumbezeichnung_botanisch": "Cornus sanguinea",
+        "baumbezeichnung_deutsch": "Echter Hartriegel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18930
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392319065037203,
+          47.04824761088192
         ]
       }
     },
@@ -1802,8 +1802,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.392109175405986,
-          47.04845173618314
+          15.392057784344354,
+          47.04845251424915
         ]
       }
     },
@@ -1868,8 +1868,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.392585756368792,
-          47.04824544427107
+          15.392642798051941,
+          47.04825265792895
         ]
       }
     },

@@ -1800,8 +1800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.4376607498133,
-          47.062753887156276
+          15.437630630766563,
+          47.062704252424936
         ]
       }
     },
@@ -4310,28 +4310,6 @@
         "coordinates": [
           15.44523006053901,
           47.069781827897366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19961,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1996",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7348
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439872786791982,
-          47.063060196212945
         ]
       }
     },
@@ -7638,28 +7616,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 19962,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1996",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23817
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439870942295679,
-          47.062990001978655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 21710,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -10844,6 +10800,50 @@
         "coordinates": [
           15.44330414256722,
           47.06813602713335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19962,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439850950204882,
+          47.06280971045745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19961,
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439885447660762,
+          47.06303726603998
         ]
       }
     },

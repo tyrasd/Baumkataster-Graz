@@ -3988,6 +3988,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31174,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2013",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.437688239604265,
+          47.0620740144376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 20853,
         "baumbezeichnung_botanisch": "Betula pendula",
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
