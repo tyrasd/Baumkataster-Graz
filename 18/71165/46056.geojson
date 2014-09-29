@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27781,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461370010274956,
-          47.08423727482191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 7670,
         "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
         "baumbezeichnung_deutsch": "Trauerweide",
@@ -130,6 +108,28 @@
         "coordinates": [
           15.461370993372958,
           47.08390535085194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27781,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461472013404455,
+          47.08436315821279
         ]
       }
     },

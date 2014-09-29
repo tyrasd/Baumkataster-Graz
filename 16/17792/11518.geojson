@@ -70,28 +70,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21764,
-        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1909
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.469552349511321,
-          47.05010713502209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 21765,
         "baumbezeichnung_botanisch": "Juglans regia",
         "baumbezeichnung_deutsch": "Walnuß",
@@ -194,8 +172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.469622456689262,
-          47.04997017966206
+          15.469567374314167,
+          47.049940543993024
         ]
       }
     },
@@ -216,8 +194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.469134498024587,
-          47.050037765323154
+          15.469094031621985,
+          47.05003453911603
         ]
       }
     },
@@ -480,8 +458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.471101811462352,
-          47.05078148199846
+          15.471111284736297,
+          47.050825663815075
         ]
       }
     },
@@ -546,8 +524,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.469715172256176,
-          47.049989785350725
+          15.469711728208038,
+          47.049949965787384
         ]
       }
     },
@@ -590,30 +568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.470111854020605,
-          47.050181829265085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8775,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14292
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.469525409097233,
-          47.049907576829405
+          15.470159171509046,
+          47.05016516744466
         ]
       }
     },
@@ -722,8 +678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.46949528599164,
-          47.05021497380965
+          15.469462224304168,
+          47.050197974678134
         ]
       }
     },
@@ -818,28 +774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 25668,
-        "baumbezeichnung_botanisch": "Castanea sativa",
-        "baumbezeichnung_deutsch": "Eßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28312
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.469456609140574,
-          47.05008105321097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25669,
         "baumbezeichnung_botanisch": "Prunus domestica",
         "baumbezeichnung_deutsch": "Pflaume",
@@ -854,8 +788,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.469387296126309,
-          47.05017505019601
+          15.46937924318794,
+          47.050161646783174
         ]
       }
     },
@@ -1008,8 +942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.471070739824276,
-          47.05095624007775
+          15.47105776959095,
+          47.05090498776499
         ]
       }
     },
@@ -1032,28 +966,6 @@
         "coordinates": [
           15.471041444748915,
           47.050641411851906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21767,
-        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29441
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.469612660724922,
-          47.05010931038929
         ]
       }
     },
@@ -1096,8 +1008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.469680045919771,
-          47.05024294263558
+          15.469600854959761,
+          47.05023829290322
         ]
       }
     },
@@ -1118,8 +1030,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.471124353035032,
-          47.05084008905563
+          15.471155277098271,
+          47.05090453429154
         ]
       }
     },
@@ -1340,6 +1252,94 @@
         "coordinates": [
           15.474836832674344,
           47.055001449484216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8775,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 14292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.469411916193415,
+          47.04986439853319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25668,
+        "baumbezeichnung_botanisch": "Castanea sativa",
+        "baumbezeichnung_deutsch": "Eßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.469460380969728,
+          47.050096811521534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21764,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.469550075190933,
+          47.050148659965494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21767,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29441
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.469592259636627,
+          47.05012398985887
         ]
       }
     },

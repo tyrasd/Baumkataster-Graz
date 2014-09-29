@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3705,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Kronenbereich wurde im Dez. 2012 entfernt (abgetrocknet), nurmehr ein 4 m hoher Baumstumpf vorhanden, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": "1990",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 1302
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446620212036082,
-          47.06835654081423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 2973,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -64,28 +42,6 @@
         "coordinates": [
           15.443903069036873,
           47.06909616303126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3710,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 1077
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446491929864802,
-          47.06852056829611
         ]
       }
     },
@@ -1016,28 +972,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3707,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 4306
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446723294077664,
-          47.068420819845045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 3641,
         "baumbezeichnung_botanisch": "Tilia platyphyllos",
         "baumbezeichnung_deutsch": "Sommerlinde",
@@ -1230,28 +1164,6 @@
         "coordinates": [
           15.445346743892998,
           47.07004660662231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3704,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Krone im Dezember 2012 entfernt (abgestorben), nurmehr 4 m Baumstumpf vorhanden, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": "1990",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 11879
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446545997906497,
-          47.06838581634495
         ]
       }
     },
@@ -1654,28 +1566,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3693,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "gesamter Baum zur Gänze abgetrocknet, im gesamten Stamm- und Starkastbereich Spaltblättlingsbefall, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9957
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446731564604958,
-          47.0682286715092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 3936,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -1890,28 +1780,6 @@
         "coordinates": [
           15.445339709925989,
           47.07001316572439
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3706,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "massive Wurzelansatzverletzungen, Kronenbereich abgetrocknet, Samtfußrüblingsbefall am Stammfuß, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 10217
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44670537873858,
-          47.068325485619674
         ]
       }
     },
@@ -2688,28 +2556,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 19668,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Kronenbereich wurde im Dez. 2012 entfernt (abgetrocknet), es stockt nurmehr ein 4 m hoher Baumstumpf, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": "1992",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 8449
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446638770535557,
-          47.068458154126304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 2987,
         "baumbezeichnung_botanisch": "Aesculus parviflora",
         "baumbezeichnung_deutsch": "Strauchroßkastanie",
@@ -3386,28 +3232,6 @@
         "coordinates": [
           15.443012410494754,
           47.068376107103084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3700,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Wurzelanlauf nordseitig massive Fäule sichtbar, nur mehr 8 cm Restwandstärke vorhanden, Ersatzpflanzung nach Platzneugestaltung",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 17431
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446223364131205,
-          47.068471392257855
         ]
       }
     },
@@ -5086,28 +4910,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3702,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "gesamten Stammfuß- + Stammbereich Schichtpilzbefall, westseitiger Stammbereich Verletzungsstelle, Kronenbereich größtenteils abgetrocknet, Ersatzpflanzung auf Grund der Gebäudenähe drzt nicht möglich",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20168
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446335292510318,
-          47.06847700241812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 2963,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -5586,28 +5388,6 @@
         "coordinates": [
           15.443995365894326,
           47.0688873863747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3729,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "im Zuge der Pflegemaßnahmen wurde festgestellt, dass der gesamte Baum abgetrocknet ist und im Stamm- und Starkastbereich Rindenabblattungen aufweist, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 28944
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446619606731888,
-          47.068859901560934
         ]
       }
     },
@@ -6422,28 +6202,6 @@
         "coordinates": [
           15.446765918616093,
           47.06879133497709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 26803,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "bis 2 m Stammhöhe keine Rinde mehr vorhanden, gesamter Kronenbereich abgetrocknet, Spaltblättlingsbefall im gesamten Stamm- und Kronenbereich, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 26790
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446649324001875,
-          47.06868095102451
         ]
       }
     },

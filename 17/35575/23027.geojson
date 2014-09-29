@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 16149,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1298
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422817384954968,
-          47.08799427916521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 16151,
         "baumbezeichnung_botanisch": "Betula pendula",
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
@@ -62,8 +40,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42270491659503,
-          47.08812445290707
+          15.422801902829992,
+          47.08813006667575
         ]
       }
     },
@@ -158,28 +136,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 16145,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3642
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423212388354255,
-          47.087339281963054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 31670,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -196,28 +152,6 @@
         "coordinates": [
           15.420536321727974,
           47.08572724151123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16144,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4711
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423241680126013,
-          47.08729768479177
         ]
       }
     },
@@ -348,8 +282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424389676812023,
-          47.0852457805942
+          15.424308089826742,
+          47.08534715582791
         ]
       }
     },
@@ -392,30 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424427226806067,
-          47.08519867010962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16139,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424518654147077,
-          47.08510458087245
+          15.424407852768477,
+          47.08521824206395
         ]
       }
     },
@@ -526,28 +438,6 @@
         "coordinates": [
           15.419580539578856,
           47.08561920203591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16150,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9148
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422779070135862,
-          47.08808600213931
         ]
       }
     },
@@ -1368,6 +1258,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 16150,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.422872805082095,
+          47.08805923375827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 31671,
         "baumbezeichnung_botanisch": "Acer negundo",
         "baumbezeichnung_deutsch": "Eschenahorn",
@@ -1448,8 +1360,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42327538874991,
-          47.08723660082088
+          15.423297384411104,
+          47.087274854974154
         ]
       }
     },

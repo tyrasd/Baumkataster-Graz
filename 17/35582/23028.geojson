@@ -444,28 +444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27781,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461370010274956,
-          47.08423727482191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 7877,
         "baumbezeichnung_botanisch": "Fraxinus excelsior",
         "baumbezeichnung_deutsch": "Esche",
@@ -2726,6 +2704,28 @@
         "coordinates": [
           15.460313738989516,
           47.083003327696105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27781,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461472013404455,
+          47.08436315821279
         ]
       }
     },

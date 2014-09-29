@@ -84,8 +84,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42820830275994,
-          47.06635756719697
+          15.428208323189482,
+          47.06631512307743
         ]
       }
     },
@@ -108,28 +108,6 @@
         "coordinates": [
           15.429560608988748,
           47.06518988393107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10885,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3377
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428316652555395,
-          47.06638113162113
         ]
       }
     },
@@ -480,8 +458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428265586127457,
-          47.06636421357647
+          15.428260097665799,
+          47.066342902948094
         ]
       }
     },
@@ -876,8 +854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428138762011992,
-          47.0663611445787
+          15.428102021256924,
+          47.06631904042879
         ]
       }
     },
@@ -898,8 +876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428066130291272,
-          47.066368825259474
+          15.42803178164639,
+          47.066352992256725
         ]
       }
     },

@@ -114,50 +114,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 16138,
-        "baumbezeichnung_botanisch": "Salix sp.",
-        "baumbezeichnung_deutsch": "Weide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11271
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424564559318013,
-          47.085046382061556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16136,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11272
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42467250660723,
-          47.08494126850562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 16137,
         "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
         "baumbezeichnung_deutsch": "Trauerweide",
@@ -172,15 +128,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424606143322286,
-          47.08500209299903
+          15.424704155878882,
+          47.08490406761079
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 16135,
+        "nummer": 16139,
         "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
         "baumbezeichnung_deutsch": "Trauerweide",
         "baumtyp": "Laub",
@@ -189,13 +145,13 @@
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
-        "objectid": 11277
+        "objectid": 11276
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424771677316516,
-          47.0848419596845
+          15.424533804176658,
+          47.085085968331605
         ]
       }
     },
@@ -394,6 +350,28 @@
         "coordinates": [
           15.424725273333957,
           47.08435272885525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16138,
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumbezeichnung_deutsch": "Weide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424624328104338,
+          47.08498792028204
         ]
       }
     },

@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42829520208625,
-          47.0665770511602
+          15.428262679077182,
+          47.06660114935703
         ]
       }
     },
@@ -48,6 +48,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 10885,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42828903408458,
+          47.06638240136222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 10866,
         "baumbezeichnung_botanisch": "Sophora japonica",
         "baumbezeichnung_deutsch": "Schnurbaum",
@@ -62,8 +84,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428147478007794,
-          47.06655936765357
+          15.428127157249648,
+          47.06658222499098
         ]
       }
     },
@@ -128,30 +150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42855721196849,
-          47.066624538848245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10863,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18366
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428361441886636,
-          47.06658996072136
+          15.428544089616558,
+          47.066643839077834
         ]
       }
     },
@@ -260,30 +260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42843077266982,
-          47.06659876689332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10867,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 14804
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428060024713723,
-          47.06655041760504
+          15.428399922262948,
+          47.066621276359506
         ]
       }
     },
@@ -304,8 +282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427767564117511,
-          47.066517136068455
+          15.427751918131381,
+          47.066526889478965
         ]
       }
     },
@@ -334,28 +312,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10861,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23900
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428487986255954,
-          47.06660954045931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 10873,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -378,28 +334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10869,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24229
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427906331806605,
-          47.0665285577048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 10884,
         "baumbezeichnung_botanisch": "Pinus sylvestris",
         "baumbezeichnung_deutsch": "Gemeine Kiefer",
@@ -414,30 +348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428352338307057,
-          47.06641444002473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10870,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22923
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427843041633084,
-          47.066519799126866
+          15.428293430050543,
+          47.06643122563688
         ]
       }
     },
@@ -480,8 +392,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42863855497338,
-          47.06663756794632
+          15.428613561832758,
+          47.066655099223645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10861,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23900
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428481522634396,
+          47.06663620287683
         ]
       }
     },
@@ -502,8 +436,96 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428222745323136,
-          47.06657441324889
+          15.428196649501588,
+          47.06659229549716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10867,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "objectid": 14804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428057646145827,
+          47.066573343445384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10869,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 24229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427909974761278,
+          47.066551943274646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10870,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22923
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42783702127573,
+          47.066540654189765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10863,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42832522579638,
+          47.06660997466936
         ]
       }
     },
@@ -524,8 +546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42797264155817,
-          47.066537340194415
+          15.427986432712345,
+          47.06656206915343
         ]
       }
     },

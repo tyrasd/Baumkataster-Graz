@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3693,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "gesamter Baum zur Gänze abgetrocknet, im gesamten Stamm- und Starkastbereich Spaltblättlingsbefall, Ersatzpflanzung im Zuge der Platzsanierung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9957
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446731564604958,
-          47.0682286715092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 29895,
         "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
         "baumbezeichnung_deutsch": "Säulenhainbuche",
