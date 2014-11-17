@@ -6318,28 +6318,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15362,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25529
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.402424131969871,
-          47.07225202066853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 15321,
         "baumbezeichnung_botanisch": "Acer pseudoplatanus",
         "baumbezeichnung_deutsch": "Bergahorn",

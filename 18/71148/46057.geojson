@@ -28,7 +28,7 @@
       "properties": {
         "nummer": 12080,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -138,7 +138,7 @@
       "properties": {
         "nummer": 12054,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -182,7 +182,7 @@
       "properties": {
         "nummer": 12061,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -204,7 +204,7 @@
       "properties": {
         "nummer": 12075,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -270,7 +270,7 @@
       "properties": {
         "nummer": 12059,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -292,7 +292,7 @@
       "properties": {
         "nummer": 12057,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -424,7 +424,7 @@
       "properties": {
         "nummer": 12056,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -446,7 +446,7 @@
       "properties": {
         "nummer": 12078,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -752,6 +752,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30555,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415558355268894,
+          47.08150761031103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 13077,
         "baumbezeichnung_botanisch": "Acer pseudoplatanus",
         "baumbezeichnung_deutsch": "Bergahorn",
@@ -798,7 +820,7 @@
       "properties": {
         "nummer": 12050,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -842,7 +864,7 @@
       "properties": {
         "nummer": 12052,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -864,7 +886,7 @@
       "properties": {
         "nummer": 12063,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -974,7 +996,7 @@
       "properties": {
         "nummer": 12065,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -1087,7 +1109,7 @@
         "baumbezeichnung_deutsch": "Spitzahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": "ges. Kronenber. bereits stark zurückgetrocknet, Zuwachs im verbliebenen Kronenber. gering, Baum in der Stagnationsphase, auf Grund der starken Überschirmung des Standortes kein Ersatz geplant",
+        "bemerkung": "\"ges. Kronenbereich bereits stark zurückgetrocknet",
         "pflanzjahr": null,
         "entnahmejahr": "2013",
         "baumpatenschaft": null,
@@ -1142,6 +1164,28 @@
         "coordinates": [
           15.415591125309282,
           47.08171357320576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 18560,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.415086846916136,
+          47.08313683329006
         ]
       }
     }

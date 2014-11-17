@@ -3106,6 +3106,50 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30101,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464030527612717,
+          47.05372481737444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30102,
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46415769824163,
+          47.053613927076945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 19708,
         "baumbezeichnung_botanisch": "Sophora japonica",
         "baumbezeichnung_deutsch": "Schnurbaum",
@@ -3166,6 +3210,28 @@
         "coordinates": [
           15.457843215334378,
           47.05134412076102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5564,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45788624813005,
+          47.051575661329856
         ]
       }
     },

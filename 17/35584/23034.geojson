@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27588,
-        "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1263
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47248506646138,
-          47.06164097624323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 27590,
         "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
         "baumbezeichnung_deutsch": "Spitzahorn",

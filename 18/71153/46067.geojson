@@ -150,8 +150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427614603184884,
-          47.06337951918871
+          15.427592860727728,
+          47.063388800544764
         ]
       }
     },
@@ -480,8 +480,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42791082601597,
-          47.06435354890242
+          15.427896412551302,
+          47.0643824617869
         ]
       }
     },
@@ -554,28 +554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20263,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17335
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427708454505954,
-          47.06427739048369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 20275,
         "baumbezeichnung_botanisch": "Thuja occidentalis",
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
@@ -612,8 +590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427790951891781,
-          47.06434514296866
+          15.427791977106518,
+          47.06437925333784
         ]
       }
     },
@@ -700,8 +678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427637716442376,
-          47.06437374885323
+          15.427685860952527,
+          47.06437246130375
         ]
       }
     },
@@ -766,30 +744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427888790299706,
-          47.0641520799013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20259,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23455
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427788834818282,
-          47.06425566177323
+          15.427881849927452,
+          47.064214558817724
         ]
       }
     },
@@ -856,28 +812,6 @@
         "coordinates": [
           15.427601680584313,
           47.0632864540502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20262,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21635
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427663762095715,
-          47.06433916421994
         ]
       }
     },
@@ -964,8 +898,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427908877556131,
-          47.064254129457126
+          15.427896146595183,
+          47.06429559036321
         ]
       }
     },
@@ -994,6 +928,72 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 20259,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427819450661389,
+          47.0642997422563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20263,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427661197227481,
+          47.06428658727993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20262,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427712586688758,
+          47.06433697444854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 20258,
         "baumbezeichnung_botanisch": "Malus 'Frucht'",
         "baumbezeichnung_deutsch": "Fruchtapfelbaum",
@@ -1008,8 +1008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427764857752054,
-          47.06416849342429
+          15.427721307992378,
+          47.064131176287965
         ]
       }
     },

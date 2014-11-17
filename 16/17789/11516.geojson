@@ -380,7 +380,7 @@
       "properties": {
         "nummer": 838,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -534,7 +534,7 @@
       "properties": {
         "nummer": 3692,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -759,7 +759,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "1995",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 2903
       },
@@ -1265,7 +1265,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "1999",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 4068
       },
@@ -2209,7 +2209,7 @@
         "baumbezeichnung_deutsch": "Schnurbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Stammfußverletzungen, Kronenbereich verlichtet, abblätternde Rindenbereiche, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -3003,7 +3003,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "nur mehr vereinzelter Laubaustrieb vorhanden, diese jedoch bereits im Frühjahr stark eingerollt, Ersatzpflanzung geplant",
         "pflanzjahr": "2010",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 7982
       },
@@ -3617,7 +3617,7 @@
         "baumbezeichnung_deutsch": "Rosablühende Scheinakazie",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "östlicher Stammfuß trockene Verletzungsstellemit ca 25 cm Höhe, nurmehr einseitige Krone Richtung Norden durch Teilstammbrüche südseitig, Verletzungsstellen am Kronenansatz - Bruchgefahr, Ersatzpflanzung geplant",
         "pflanzjahr": "2009",
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -3839,7 +3839,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "2010",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 8107
       },
@@ -4257,7 +4257,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "2010",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 9080
       },
@@ -4684,6 +4684,28 @@
         "coordinates": [
           15.443837422110944,
           47.06880462427454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31835,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446638770535557,
+          47.068458154126304
         ]
       }
     },
@@ -5379,7 +5401,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "1985",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": "Rektor Univ. Prof. Dr. Otto Kolleritsch",
         "objectid": 16960
       },
@@ -6479,7 +6501,7 @@
         "altersklassifizierung": "alt",
         "bemerkung": "Brandkrustenpilzbefall am Stammfuß, Baum größtenteils abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 12970
       },
@@ -6543,7 +6565,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "mehrmalige Beschädigung im Stammbereich durch Verkehrsunfall mit ausgebreiteter Fäule, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -6567,7 +6589,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "nur mehr vereinzelter Laubaustrieb vorhanden, Ersatzpflanzung geplant",
         "pflanzjahr": "2007",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 15569
       },
@@ -9332,6 +9354,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31833,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446335292510318,
+          47.06847700241812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 46,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",
@@ -9449,7 +9493,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2003",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 21660
       },
@@ -9537,7 +9581,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 18700
       },
@@ -9777,7 +9821,7 @@
         "baumbezeichnung_deutsch": "Schnurbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starke Rindennekrosen im gesamten Teilstammbereich, Schillerporlingsbefall im Starkastbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -9854,6 +9898,28 @@
         "coordinates": [
           15.44082934186153,
           47.06756232873057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30324,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4432851327313,
+          47.06868385109379
         ]
       }
     },
@@ -10300,6 +10366,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31823,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446619606731888,
+          47.068859901560934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 3553,
         "baumbezeichnung_botanisch": "Crataegus laevigata",
         "baumbezeichnung_deutsch": "Zweigriffeliger Weißdorn",
@@ -10316,6 +10404,182 @@
         "coordinates": [
           15.43648858513563,
           47.06776139422653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31837,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6010
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446341973921376,
+          47.068590500457866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31836,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446491929864802,
+          47.06852056829611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31834,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446723294077664,
+          47.068420819845045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31829,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446223364131205,
+          47.068471392257855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31832,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446545997906497,
+          47.06838581634495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31831,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446620212036082,
+          47.06835654081423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31830,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44670537873858,
+          47.068325485619674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31828,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9957
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446731564604958,
+          47.0682286715092
         ]
       }
     },
@@ -10426,6 +10690,50 @@
         "coordinates": [
           15.443855388072318,
           47.06897842354336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31807,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435800572016616,
+          47.06382987867109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31808,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435894600198353,
+          47.06383061789784
         ]
       }
     },
@@ -10586,6 +10894,138 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31809,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435919641841842,
+          47.06358448925136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31810,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435969158243427,
+          47.063539659211166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31811,
+        "baumbezeichnung_botanisch": "Ginkgo biloba",
+        "baumbezeichnung_deutsch": "Ginkgobaum, Fächerblattbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435977043735107,
+          47.063484982393454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31812,
+        "baumbezeichnung_botanisch": "Ginkgo biloba",
+        "baumbezeichnung_deutsch": "Ginkgobaum, Fächerblattbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435990214662072,
+          47.06342677696446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31813,
+        "baumbezeichnung_botanisch": "Salix matsudana 'Tortuosa'",
+        "baumbezeichnung_deutsch": "Korkenzieherweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.436017213549226,
+          47.063374629587564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31814,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43607843840325,
+          47.0633584509844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 19962,
         "baumbezeichnung_botanisch": "Corylus colurna",
         "baumbezeichnung_deutsch": "Baumhasel",
@@ -10712,6 +11152,28 @@
         "coordinates": [
           15.436497815981555,
           47.068554934081554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2931,
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445294692311236,
+          47.07002791559641
         ]
       }
     },
@@ -11012,7 +11474,7 @@
         "bemerkung": null,
         "pflanzjahr": "1984",
         "entnahmejahr": null,
-        "baumpatenschaft": "SR. Dipl.-Kfm. Ruth Feldgrill-Zankel",
+        "baumpatenschaft": "SR.Dipl.-Kfm. Ruth Feldgrill-Zankel",
         "objectid": 25456
       },
       "geometry": {
@@ -11204,7 +11666,7 @@
       "properties": {
         "nummer": 128,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -11226,7 +11688,7 @@
       "properties": {
         "nummer": 132,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -11515,9 +11977,9 @@
         "baumbezeichnung_deutsch": "Schnurbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "75 % des Stammfußes ost-, süd- und westseitig abgetrocknet, teilweise bis 1 m Höhe Rindenablösungen, erhebliche Dürre bis in den Grobastbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 26556
       },
@@ -12045,7 +12507,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "Baum nurmehr im unteren Teilstammbereich belaubt, sonstiger Kronenbereich abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "1985",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": "LAbg. Hermann Schützenhöfer",
         "objectid": 25188
       },
@@ -12199,7 +12661,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2012",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 26782
       },
@@ -12230,6 +12692,28 @@
         "coordinates": [
           15.446765918616093,
           47.06879133497709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31839,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26790
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446649324001875,
+          47.06868095102451
         ]
       }
     },

@@ -955,7 +955,7 @@
         "baumbezeichnung_deutsch": "Platane",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Kernfäule ausgehend von Teilstammentnahmestellen, Baum in der Stagnationsphase, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -5597,7 +5597,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Kernfäuleausbreitung ausgehend von Teilstammentnahmestellen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -5619,7 +5619,7 @@
         "baumbezeichnung_deutsch": "Stechfichte",
         "baumtyp": "Nadel",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "keine Benadelung mehr vorhanden, auf Grund des dichten Bestandes drzt keine Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -6279,7 +6279,7 @@
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Schrägstand, verlichteter Kronenbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -7990,6 +7990,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 21714,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449751301675064,
+          47.07277634898147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 924,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -8100,6 +8122,50 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 8279,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449551106756049,
+          47.07287475807036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24690,
+        "baumbezeichnung_botanisch": "Prunus spinosa",
+        "baumbezeichnung_deutsch": "Schlehdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44998539067596,
+          47.07322028531427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 20899,
         "baumbezeichnung_botanisch": "Larix decidua",
         "baumbezeichnung_deutsch": "Europäische Lärche",
@@ -8193,7 +8259,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "mehrere Stammverletzungen durch das Anfahren, Baum ragt in das Lichtraumprofil, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,

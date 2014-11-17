@@ -730,14 +730,14 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24645,
+        "nummer": 30081,
         "baumbezeichnung_botanisch": "Koelreuteria paniculata",
         "baumbezeichnung_deutsch": "Blasenbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": "2010",
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 8313
       },
@@ -1969,7 +1969,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "2012",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27288
       },

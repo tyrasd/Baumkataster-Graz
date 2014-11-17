@@ -1126,28 +1126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24594,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6560
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.459160542905597,
-          47.06899192239393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8001,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -1208,28 +1186,6 @@
         "coordinates": [
           15.45883056580752,
           47.06885106122933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6283,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "durch Brandkrustenpilzbefall am Stammfuß ausgedehnte Fäule, Resistographmessungen durchgeführt, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8379
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.458450708635855,
-          47.070078074435116
         ]
       }
     },
@@ -2250,28 +2206,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8004,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "durch Brandkrustenpilzbefall am Stammfuß ausgedehnte Fäule, Resistographmessungen durchgeführt, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19011
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.459740822670549,
-          47.06857702437636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 6766,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -2684,6 +2618,50 @@
         "coordinates": [
           15.462163034677653,
           47.067000885955565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24505,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.462034713075665,
+          47.06703662272279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24506,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461833678047995,
+          47.06665667434466
         ]
       }
     },

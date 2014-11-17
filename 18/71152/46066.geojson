@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 25521,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 194
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427461316876878,
-          47.06480997003541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 27449,
         "baumbezeichnung_botanisch": "Sophora japonica",
         "baumbezeichnung_deutsch": "Schnurbaum",
@@ -216,52 +194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427493226083548,
-          47.064851071791566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25525,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7947
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4273975288441,
-          47.064725910147146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25520,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15705
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42747727147412,
-          47.06483052091457
+          15.427474872916944,
+          47.06479798998198
         ]
       }
     },
@@ -282,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427445392524637,
-          47.06478756280461
+          15.427421884721092,
+          47.064739260558916
         ]
       }
     },
@@ -304,8 +238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427432124440035,
-          47.06476888982823
+          15.427406597780474,
+          47.06471653005924
         ]
       }
     },
@@ -326,30 +260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42741073512191,
-          47.06474829581584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25526,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427381574308294,
-          47.064705359256905
+          15.427389467048778,
+          47.06469973428711
         ]
       }
     },
@@ -370,8 +282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.4273683680531,
-          47.06468297358485
+          15.427339941583151,
+          47.064642222355914
         ]
       }
     },
@@ -460,6 +372,94 @@
         "coordinates": [
           15.427493587172748,
           47.06515051533048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25526,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427357050755608,
+          47.06466020711723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25525,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427372378092311,
+          47.06468055873952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25521,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427439014159287,
+          47.0647560563158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25520,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427459525285755,
+          47.06477882826499
         ]
       }
     }

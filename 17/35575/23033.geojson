@@ -136,28 +136,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13653,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 1635
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422072621547587,
-          47.066234157461594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 13654,
         "baumbezeichnung_botanisch": "Sophora japonica",
         "baumbezeichnung_deutsch": "Schnurbaum",
@@ -2220,6 +2198,50 @@
         "coordinates": [
           15.421928415604786,
           47.0649395941826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31891,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1900",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.422072621547587,
+          47.066234157461594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13113,
+        "baumbezeichnung_botanisch": "Sorbus aria",
+        "baumbezeichnung_deutsch": "Mehlbeere",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421212586617724,
+          47.06376604370336
         ]
       }
     },

@@ -1500,6 +1500,138 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31898,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419403491453467,
+          47.09858783397808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31899,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419650358546644,
+          47.09862193921683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31900,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35459
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419842061025863,
+          47.098621093057176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31901,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35460
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419965422651376,
+          47.098642309853766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31902,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42026093326529,
+          47.098685132317335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31903,
+        "baumbezeichnung_botanisch": "Prunus domestica",
+        "baumbezeichnung_deutsch": "Pflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420513069653897,
+          47.09871689774291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 31673,
         "baumbezeichnung_botanisch": "Juglans regia",
         "baumbezeichnung_deutsch": "Walnuß",

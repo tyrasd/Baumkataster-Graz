@@ -1874,6 +1874,204 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 5430,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456383621987856,
+          47.050789878458254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5456,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4572016496736,
+          47.05094183703409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5458,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33865
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457123605435411,
+          47.050923388062174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5478,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456723421000365,
+          47.05116961788615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5495,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457125465708618,
+          47.05132660764608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5523,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45757413830306,
+          47.051360811468136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5623,
+        "baumbezeichnung_botanisch": "Crataegus laevigata",
+        "baumbezeichnung_deutsch": "Zweigriffeliger Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33870
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457537043964958,
+          47.05114464941495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5642,
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33871
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457449266854098,
+          47.05103951198953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5647,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33872
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.457357392497626,
+          47.051015006781896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 5509,
         "baumbezeichnung_botanisch": "Fraxinus excelsior",
         "baumbezeichnung_deutsch": "Esche",

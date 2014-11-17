@@ -182,7 +182,7 @@
       "properties": {
         "nummer": 838,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -1412,6 +1412,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31835,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 8449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446638770535557,
+          47.068458154126304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 2987,
         "baumbezeichnung_botanisch": "Aesculus parviflora",
         "baumbezeichnung_deutsch": "Strauchroßkastanie",
@@ -1901,7 +1923,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "mehrmalige Beschädigung im Stammbereich durch Verkehrsunfall mit ausgebreiteter Fäule, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -2644,6 +2666,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31833,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446335292510318,
+          47.06847700241812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 834,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -2864,6 +2908,182 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31823,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446619606731888,
+          47.068859901560934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31837,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 6010
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446341973921376,
+          47.068590500457866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31836,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1077
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446491929864802,
+          47.06852056829611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31834,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 4306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446723294077664,
+          47.068420819845045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31829,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446223364131205,
+          47.068471392257855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31832,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 11879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446545997906497,
+          47.06838581634495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31831,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446620212036082,
+          47.06835654081423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31830,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44670537873858,
+          47.068325485619674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 3672,
         "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
         "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
@@ -2880,6 +3100,28 @@
         "coordinates": [
           15.445226298928198,
           47.06833198747794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2931,
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33858
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445294692311236,
+          47.07002791559641
         ]
       }
     },
@@ -3188,6 +3430,28 @@
         "coordinates": [
           15.446765918616093,
           47.06879133497709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31839,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 26790
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446649324001875,
+          47.06868095102451
         ]
       }
     },

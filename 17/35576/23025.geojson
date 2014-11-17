@@ -559,7 +559,7 @@
         "baumbezeichnung_deutsch": "Trauerweide",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "Befall Falscher Zunderschwamm im gesamten Starkastbereich - Bruchgefahr, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1384,6 +1384,28 @@
         "coordinates": [
           15.426505907453118,
           47.09289253615076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14605,
+        "baumbezeichnung_botanisch": "Crataegus sp.",
+        "baumbezeichnung_deutsch": "Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.425291416465157,
+          47.09262642698061
         ]
       }
     },

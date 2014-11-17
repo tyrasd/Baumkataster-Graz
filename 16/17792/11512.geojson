@@ -1192,6 +1192,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31822,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23073
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.475835001835188,
+          47.09896252719451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 27869,
         "baumbezeichnung_botanisch": "Fraxinus excelsior",
         "baumbezeichnung_deutsch": "Esche",

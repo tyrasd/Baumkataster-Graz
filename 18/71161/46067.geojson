@@ -9,7 +9,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -114,34 +114,12 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6064,
-        "baumbezeichnung_botanisch": "Malus floribunda",
-        "baumbezeichnung_deutsch": "Zierapfel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18510
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.451100443828071,
-          47.063704907164336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 6066,
         "baumbezeichnung_botanisch": "Malus floribunda",
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -185,9 +163,9 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Baum zur Gänze abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 18821
       },
@@ -207,7 +185,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -229,7 +207,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -251,7 +229,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,

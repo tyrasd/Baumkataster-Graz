@@ -202,28 +202,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21528,
-        "baumbezeichnung_botanisch": "Prunus cerasifera",
-        "baumbezeichnung_deutsch": "Kirschpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18580
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429529300909737,
-          47.11302809819381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 21537,
         "baumbezeichnung_botanisch": "Prunus cerasifera",
         "baumbezeichnung_deutsch": "Kirschpflaume",
@@ -372,6 +350,28 @@
         "coordinates": [
           15.4292593941516,
           47.11289626020882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21497,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42911684040173,
+          47.11312744954786
         ]
       }
     },

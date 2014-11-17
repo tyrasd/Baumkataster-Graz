@@ -5922,28 +5922,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20080,
-        "baumbezeichnung_botanisch": "Betula maximowicziana",
-        "baumbezeichnung_deutsch": "Bronzebirke, lindenblättrige Birke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13834
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44567117410108,
-          47.052078032357734
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 4084,
         "baumbezeichnung_botanisch": "Ailanthus altissima",
         "baumbezeichnung_deutsch": "Götterbaum",
@@ -5971,7 +5949,7 @@
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "oberer Kronenbereich stark zurückgetrocknet, Morschungen im Teilstammbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -6230,28 +6208,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 5974,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "nurmehr im unteren Kronenbereich ausgetrieben, Blatt- + Blütenentwicklung wesentlich verkleinert, mittlerer + oberer KB abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13258
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.444700868760032,
-          47.051295554245534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 4064,
         "baumbezeichnung_botanisch": "Ailanthus altissima",
         "baumbezeichnung_deutsch": "Götterbaum",
@@ -6369,7 +6325,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung drzt auf Grund des dichten Bestandes nicht geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 13291
       },
@@ -7643,7 +7599,7 @@
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "oberer Kronenbereich zurückgetrocknet, Birkenporlingsbefall und Morschungen im Teilstammbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -8320,6 +8276,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 23820,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44037889152207,
+          47.05250932467888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 31390,
         "baumbezeichnung_botanisch": "Corylus colurna",
         "baumbezeichnung_deutsch": "Baumhasel",
@@ -8606,6 +8584,72 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 4036,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33860
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.444906632774885,
+          47.05250678899964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4134,
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445401120089649,
+          47.05266295440825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 4154,
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445733204617719,
+          47.05268423251874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 4751,
         "baumbezeichnung_botanisch": "Acer saccharinum",
         "baumbezeichnung_deutsch": "Zuckerahorn",
@@ -8820,6 +8864,50 @@
         "coordinates": [
           15.44503857125683,
           47.05236163160882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25686,
+        "baumbezeichnung_botanisch": "Prunus subhirtella",
+        "baumbezeichnung_deutsch": "Zierkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34631
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445984852854533,
+          47.05195840379076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26588,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Crimson King'",
+        "baumbezeichnung_deutsch": "Blutahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 28844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445045334201964,
+          47.05244264390515
         ]
       }
     },

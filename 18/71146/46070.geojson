@@ -774,28 +774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31749,
-        "baumbezeichnung_botanisch": "Acer platanoides 'Fairview'",
-        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2014",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 30981
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.410463925060075,
-          47.057037569808365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 14381,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",

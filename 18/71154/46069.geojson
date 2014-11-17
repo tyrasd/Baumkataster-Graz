@@ -422,6 +422,380 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31857,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43230949077471,
+          47.05890085036063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31858,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32885
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432333817771223,
+          47.059006950804246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31859,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32886
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432350142637562,
+          47.059071338022605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31860,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432336869663978,
+          47.059135492539774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31861,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32888
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432311629417978,
+          47.05918646201604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31862,
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432312626587574,
+          47.059230499154715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31863,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32890
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432168346948675,
+          47.05931860889298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31864,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431864036960842,
+          47.05929359705918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31865,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32892
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431873647059897,
+          47.059240123252835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31866,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32893
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4318747334703,
+          47.05917587345822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31867,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32894
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431891247996537,
+          47.05912602432988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31868,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431895515024669,
+          47.05907964864816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31869,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431892857460578,
+          47.05903083907992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31870,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431840585559122,
+          47.05891952018482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31871,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43188266945276,
+          47.058902240079576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31872,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431925087397268,
+          47.0589063835547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31855,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": null,
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32883
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432354799507644,
+          47.05889882785626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 30459,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",

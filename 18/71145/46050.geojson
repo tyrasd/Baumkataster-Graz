@@ -158,28 +158,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31387,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "2013",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 29004
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.406497151769882,
-          47.09475831674773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 16975,
         "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
         "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
@@ -306,28 +284,6 @@
         "coordinates": [
           15.406614052863965,
           47.09460932964975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16972,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 26733
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.406437500664172,
-          47.09474164950566
         ]
       }
     },

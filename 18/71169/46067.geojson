@@ -735,9 +735,9 @@
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
         "baumtyp": "Nadel",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Druckzwiesel am Stammfuß, komplett schüttere Benadelung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 9556
       },
@@ -759,7 +759,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "komplett schräger Wuchs Richtung Straße, nurmehr ein 5 m hoher Stummel vorhanden, Ersatzpflanzung auf Grund des dichten Bestandes drzt nicht geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 9559
       },
@@ -781,7 +781,7 @@
         "altersklassifizierung": "alt",
         "bemerkung": "komplett schräger Wuchs Richtung Straße, im Kronenansatzbereich Teilstamm abgemorscht und Pilzbefall, Ersatzpflanzung auf Grund des dichten Bestgandes drzt nicht geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 9564
       },
@@ -911,9 +911,9 @@
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
         "baumtyp": "Nadel",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Druckzwiesel am Stammfuß, schüttere Benadelung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 11637
       },
@@ -955,9 +955,9 @@
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
         "baumtyp": "Nadel",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Druckzwiesel am Stammfuß, schüttere Benadelung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 8909
       },
@@ -966,28 +966,6 @@
         "coordinates": [
           15.472613682656617,
           47.06342941259481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17938,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7681
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472636344427222,
-          47.06318493931497
         ]
       }
     },
@@ -1131,9 +1109,9 @@
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
         "baumtyp": "Nadel",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Druckzwiesel am Stammfuß, schüttere Benadelung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 16307
       },
@@ -1172,7 +1150,7 @@
       "properties": {
         "nummer": 17939,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,

@@ -88,6 +88,28 @@
           47.059563112257145
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30114,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34610
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.384017715055748,
+          47.05960999537697
+        ]
+      }
     }
   ]
 }

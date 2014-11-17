@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42755044032416,
-          47.06484224190923
+          15.4275516517712,
+          47.0647890796681
         ]
       }
     },
@@ -348,8 +348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427603769604891,
-          47.064659267462645
+          15.42758746494949,
+          47.064628716665375
         ]
       }
     },
@@ -407,7 +407,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "am südl. Stammfuß alte Verletzungsstelle mit massiver Höhlung in den Wurzelbereich, Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 18623
       },
@@ -671,7 +671,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "1995",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 24305
       },
@@ -788,8 +788,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427751300572679,
-          47.06475238758289
+          15.427742845979962,
+          47.06470848737949
         ]
       }
     },
@@ -823,7 +823,7 @@
         "baumbezeichnung_deutsch": "Weißdorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "Krone größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,

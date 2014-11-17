@@ -598,6 +598,138 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31816,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418376276054643,
+          47.08196925229266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31817,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418313615763275,
+          47.082067517877256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31818,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32563
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418924128403196,
+          47.08222472645334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31819,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32564
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418866504997087,
+          47.082232594365806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31820,
+        "baumbezeichnung_botanisch": "Chamaecyparis lawsoniana",
+        "baumbezeichnung_deutsch": "Scheinzypresse",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418796749179533,
+          47.082236795819114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31821,
+        "baumbezeichnung_botanisch": "Picea pungens",
+        "baumbezeichnung_deutsch": "Stechfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32566
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41849385710242,
+          47.082324807481726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 21903,
         "baumbezeichnung_botanisch": "Alnus glutinosa",
         "baumbezeichnung_deutsch": "Schwarzerle",

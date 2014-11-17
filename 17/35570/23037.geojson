@@ -143,7 +143,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2005",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 5006
       },
@@ -269,8 +269,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 17189,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -513,8 +513,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 17173,
-        "baumbezeichnung_botanisch": "Cornus sanguinea",
-        "baumbezeichnung_deutsch": "Echter Hartriegel",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -572,28 +572,6 @@
         "coordinates": [
           15.392057784344354,
           47.04845251424915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17169,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25749
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392642798051941,
-          47.04825265792895
         ]
       }
     }

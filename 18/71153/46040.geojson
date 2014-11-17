@@ -40,30 +40,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42905625015038,
-          47.11321715204429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21499,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1068
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429089146931778,
-          47.113245456381996
+          15.429010975012162,
+          47.113202769307286
         ]
       }
     },
@@ -86,28 +64,6 @@
         "coordinates": [
           15.429582726659145,
           47.113510520575886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21497,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1301
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429169946246557,
-          47.113174234980086
         ]
       }
     },
@@ -174,28 +130,6 @@
         "coordinates": [
           15.429357565084093,
           47.113464919731406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21496,
-        "baumbezeichnung_botanisch": "Prunus cerasifera",
-        "baumbezeichnung_deutsch": "Kirschpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4171
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429054219861923,
-          47.113185586801954
         ]
       }
     },
@@ -480,8 +414,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.428990399745187,
-          47.11316404915188
+          15.428933638794087,
+          47.11313789806324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21499,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429081199332618,
+          47.11327591356985
         ]
       }
     }

@@ -163,7 +163,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Morschung durch Kronenkappung und Teilstammentnahmestelle, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -488,28 +488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24728,
-        "baumbezeichnung_botanisch": "Betula pendula 'Dalecarlica'",
-        "baumbezeichnung_deutsch": "Schlitzblättrige Birke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1849
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44164773400679,
-          47.076248552026776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 2625,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -603,7 +581,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kernfäule im Stammbereich ausgehend von Verletzungsstellen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -779,7 +757,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "stark ausgebreitete Kernfäule durch Astungswunden im Stammbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -889,7 +867,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Morschungen durch Kronenkappung und Teilstammentnahmestellen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -3221,7 +3199,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Morschung durch Kronenkappung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -3837,7 +3815,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Morschungen durch Kronenkappung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -4756,28 +4734,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12758,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2004",
-        "baumpatenschaft": null,
-        "objectid": 22296
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443588781916988,
-          47.075753766438375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 2549,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -5531,7 +5487,7 @@
         "baumbezeichnung_deutsch": "Trompetenbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Wuchsverdrängung, Baumstandorteinschränkung, Stammverletzung, Entfernung im Zuge der Umgestaltung, dann Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -5993,7 +5949,7 @@
         "baumbezeichnung_deutsch": "Tulpenbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Stammfußfäule durch Verletzung entstanden, Sturzgefahr, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -6208,13 +6164,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12759,
+        "nummer": 20044,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": "1990",
+        "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 19570
@@ -6560,14 +6516,14 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 2044,
+        "nummer": 24586,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2005",
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 21374
       },
@@ -6692,14 +6648,36 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30902,
+        "nummer": 24717,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443588781916988,
+          47.075753766438375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31711,
         "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
         "baumbezeichnung_deutsch": "Säulenstieleiche",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 28816
       },
@@ -6807,7 +6785,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Morschungen durch Kronenkappung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -7423,7 +7401,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Morschungen durch Kronenkappung, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,

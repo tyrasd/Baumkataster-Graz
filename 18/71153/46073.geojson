@@ -378,6 +378,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 19187,
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 5972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428447769383578,
+          47.051932928390016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 19200,
         "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumbezeichnung_deutsch": "Platane",

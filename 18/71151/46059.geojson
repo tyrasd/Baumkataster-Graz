@@ -576,28 +576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30489,
-        "baumbezeichnung_botanisch": "Corylus avellana",
-        "baumbezeichnung_deutsch": "Waldhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27708
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422206883647288,
-          47.07829313711134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 27548,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",

@@ -312,6 +312,116 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31847,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42343403421736,
+          47.086744363377825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31846,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423453583507596,
+          47.086721910069095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31845,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423474954869693,
+          47.08669471108652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31844,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423423344981398,
+          47.08665622004911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31843,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423474899758107,
+          47.08659594297755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 31671,
         "baumbezeichnung_botanisch": "Acer negundo",
         "baumbezeichnung_deutsch": "Eschenahorn",

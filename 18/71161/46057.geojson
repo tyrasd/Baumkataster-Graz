@@ -862,6 +862,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 7985,
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25533
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450927245036997,
+          47.081400098664716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Naturdenkmal": true,
         "Naturdenkmal_Eigentum": "öffentlich",
         "nummer": "Naturdenkmal-125",

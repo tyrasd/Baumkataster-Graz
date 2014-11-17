@@ -92,28 +92,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 28269,
-        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
-        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12367
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435837242635568,
-          47.09977986283977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 29328,
         "baumbezeichnung_botanisch": "Salix caprea",
         "baumbezeichnung_deutsch": "Salweide",

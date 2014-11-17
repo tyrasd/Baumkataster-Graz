@@ -114,6 +114,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31894,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426929646952583,
+          47.077718190136736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 13342,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",

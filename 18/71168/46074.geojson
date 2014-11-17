@@ -224,6 +224,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30441,
+        "baumbezeichnung_botanisch": "Prunus 'Schwarze Königin'",
+        "baumbezeichnung_deutsch": "Süßkirsche 'Schwarze Königin'",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 20804
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.469125071638784,
+          47.050251698611596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 21611,
         "baumbezeichnung_botanisch": "Juglans regia",
         "baumbezeichnung_deutsch": "Walnuß",

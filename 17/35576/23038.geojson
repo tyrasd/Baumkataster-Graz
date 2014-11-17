@@ -1170,28 +1170,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13221,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29180
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429207527317168,
-          47.04697408821031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 29458,
         "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
         "baumbezeichnung_deutsch": "dornenloser Christusdorn",
@@ -1384,28 +1362,6 @@
         "coordinates": [
           15.429567186945965,
           47.045000465602996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31067,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
-        "baumbezeichnung_deutsch": "Tulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 28898
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428870200223024,
-          47.047245493161135
         ]
       }
     },

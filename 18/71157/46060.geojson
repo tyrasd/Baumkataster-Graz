@@ -1698,6 +1698,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30488,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439092157477797,
+          47.07680097880353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 2325,
         "baumbezeichnung_botanisch": "Acer pseudoplatanus",
         "baumbezeichnung_deutsch": "Bergahorn",

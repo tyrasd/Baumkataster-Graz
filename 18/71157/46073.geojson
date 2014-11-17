@@ -1610,6 +1610,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 23820,
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44037889152207,
+          47.05250932467888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 22592,
         "baumbezeichnung_botanisch": "Tilia platyphyllos",
         "baumbezeichnung_deutsch": "Sommerlinde",

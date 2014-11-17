@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 25521,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 194
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427461316876878,
-          47.06480997003541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25528,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -40,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42755044032416,
-          47.06484224190923
+          15.4275516517712,
+          47.0647890796681
         ]
       }
     },
@@ -334,28 +312,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27455,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2123
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426550149184395,
-          47.063949566003906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 20237,
         "baumbezeichnung_botanisch": "Malus 'Frucht'",
         "baumbezeichnung_deutsch": "Fruchtapfelbaum",
@@ -370,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427535237489902,
-          47.06334161288433
+          15.427534184735784,
+          47.06335739543869
         ]
       }
     },
@@ -414,30 +370,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427614603184884,
-          47.06337951918871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20248,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2462
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427431181673883,
-          47.06347249804837
+          15.427592860727728,
+          47.063388800544764
         ]
       }
     },
@@ -598,28 +532,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27454,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3196
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426718939154725,
-          47.06416116443574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 27453,
         "baumbezeichnung_botanisch": "Sophora japonica",
         "baumbezeichnung_deutsch": "Schnurbaum",
@@ -744,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426290696571433,
-          47.06361945251712
+          15.426308355520485,
+          47.063654677327854
         ]
       }
     },
@@ -832,30 +744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426614870185158,
-          47.063829752547136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27116,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3915
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426486292453895,
-          47.06367067287597
+          15.426620262963322,
+          47.06384874176756
         ]
       }
     },
@@ -942,8 +832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427290208797492,
-          47.06342167774973
+          15.427278589567917,
+          47.063436285334035
         ]
       }
     },
@@ -1338,8 +1228,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426418914182738,
-          47.063588973903364
+          15.426430992425386,
+          47.06361162238104
         ]
       }
     },
@@ -1492,8 +1382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42740306208905,
-          47.06341511821126
+          15.427362168777313,
+          47.06343694863851
         ]
       }
     },
@@ -1602,30 +1492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427493226083548,
-          47.064851071791566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25525,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7947
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4273975288441,
-          47.064725910147146
+          15.427474872916944,
+          47.06479798998198
         ]
       }
     },
@@ -2196,8 +2064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427469150500546,
-          47.063378365122816
+          15.427453400846243,
+          47.06339721352466
         ]
       }
     },
@@ -2262,8 +2130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427603769604891,
-          47.064659267462645
+          15.42758746494949,
+          47.064628716665375
         ]
       }
     },
@@ -2409,7 +2277,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "am südl. Stammfuß alte Verletzungsstelle mit massiver Höhlung in den Wurzelbereich, Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 18623
       },
@@ -2504,8 +2372,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42791082601597,
-          47.06435354890242
+          15.427896412551302,
+          47.0643824617869
         ]
       }
     },
@@ -2556,28 +2424,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 25520,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15705
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42747727147412,
-          47.06483052091457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25522,
         "baumbezeichnung_botanisch": "Carpinus betulus",
         "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
@@ -2592,8 +2438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427445392524637,
-          47.06478756280461
+          15.427421884721092,
+          47.064739260558916
         ]
       }
     },
@@ -2614,8 +2460,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427432124440035,
-          47.06476888982823
+          15.427406597780474,
+          47.06471653005924
         ]
       }
     },
@@ -2636,30 +2482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42741073512191,
-          47.06474829581584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25526,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427381574308294,
-          47.064705359256905
+          15.427389467048778,
+          47.06469973428711
         ]
       }
     },
@@ -2680,8 +2504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.4273683680531,
-          47.06468297358485
+          15.427339941583151,
+          47.064642222355914
         ]
       }
     },
@@ -2776,28 +2600,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20263,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17335
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427708454505954,
-          47.06427739048369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 20275,
         "baumbezeichnung_botanisch": "Thuja occidentalis",
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
@@ -2856,8 +2658,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427790951891781,
-          47.06434514296866
+          15.427791977106518,
+          47.06437925333784
         ]
       }
     },
@@ -3208,8 +3010,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427637716442376,
-          47.06437374885323
+          15.427685860952527,
+          47.06437246130375
         ]
       }
     },
@@ -3296,8 +3098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427888790299706,
-          47.0641520799013
+          15.427881849927452,
+          47.064214558817724
         ]
       }
     },
@@ -3320,28 +3122,6 @@
         "coordinates": [
           15.426969951024061,
           47.06326403387281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20259,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23455
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427788834818282,
-          47.06425566177323
         ]
       }
     },
@@ -3377,7 +3157,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "1995",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 24305
       },
@@ -3590,28 +3370,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20262,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21635
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427663762095715,
-          47.06433916421994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 10823,
         "baumbezeichnung_botanisch": "Sophora japonica",
         "baumbezeichnung_deutsch": "Schnurbaum",
@@ -3692,8 +3450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427751300572679,
-          47.06475238758289
+          15.427742845979962,
+          47.06470848737949
         ]
       }
     },
@@ -3758,8 +3516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427908877556131,
-          47.064254129457126
+          15.427896146595183,
+          47.06429559036321
         ]
       }
     },
@@ -3771,7 +3529,7 @@
         "baumbezeichnung_deutsch": "Weißdorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "Krone größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -3876,6 +3634,204 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 20259,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 23455
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427819450661389,
+          47.0642997422563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20263,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 17335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427661197227481,
+          47.06428658727993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20262,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 21635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427712586688758,
+          47.06433697444854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25526,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15709
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427357050755608,
+          47.06466020711723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25525,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 7947
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427372378092311,
+          47.06468055873952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25521,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427439014159287,
+          47.0647560563158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25520,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427459525285755,
+          47.06477882826499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 20248,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427413232290931,
+          47.063506373302175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27116,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426495864251251,
+          47.06368829656008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 20247,
         "baumbezeichnung_botanisch": "Malus 'Frucht'",
         "baumbezeichnung_deutsch": "Fruchtapfelbaum",
@@ -3890,8 +3846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427544668401199,
-          47.063428666781626
+          15.427501628775236,
+          47.06342853577062
         ]
       }
     },
@@ -3934,22 +3890,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427764857752054,
-          47.06416849342429
+          15.427721307992378,
+          47.064131176287965
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24310,
+        "nummer": 27385,
         "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Pyramidalis'",
         "baumbezeichnung_deutsch": "Säulenscheinakazie",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2006",
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 25800
       },

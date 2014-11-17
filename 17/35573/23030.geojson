@@ -1148,6 +1148,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30564,
+        "baumbezeichnung_botanisch": "Acer sp.",
+        "baumbezeichnung_deutsch": "Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2012",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.411043824274842,
+          47.07397675091091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 21644,
         "baumbezeichnung_botanisch": "Betula pendula",
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",

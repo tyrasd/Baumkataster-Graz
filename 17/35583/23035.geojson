@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8763,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Erhebungen der umliegenden Gehsteigeinfassungen bzw. Asphaltflächen auf Grund des starken Wurzelwachstums, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3001
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.465114764913567,
-          47.057490916481456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8786,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -86,28 +64,6 @@
         "coordinates": [
           15.464326966529722,
           47.05759125272063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8761,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Erhebungen der umliegenden Gehsteigeinfassungen bzw. Asphaltflächen auf Grund des starken Wurzelwachstums, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5116
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.465358972346692,
-          47.05723534993717
         ]
       }
     },
@@ -284,50 +240,6 @@
         "coordinates": [
           15.465745742568732,
           47.05823258431014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8764,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Erhebungen der umliegenden Gehsteigeinfassungen bzw. Asphaltflächen auf Grund des starken Wurzelwachstums, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16505
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4649523620219,
-          47.05765366189499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8762,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Erhebungen der umliegenden Gehsteigeinfassungen bzw. Asphaltflächen auf Grund des starken Wurzelwachstums, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16506
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.465241024034514,
-          47.0573547823372
         ]
       }
     },

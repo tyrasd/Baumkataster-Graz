@@ -48,28 +48,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13043,
-        "baumbezeichnung_botanisch": "Tilia sp.",
-        "baumbezeichnung_deutsch": "Linde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5410
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419760590017171,
-          47.07471292004305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 27544,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",

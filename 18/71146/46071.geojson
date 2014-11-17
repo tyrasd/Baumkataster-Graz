@@ -246,6 +246,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31749,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Fairview'",
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 30981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.410318852264103,
+          47.05676746096007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 31750,
         "baumbezeichnung_botanisch": "Acer platanoides 'Fairview'",
         "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
@@ -260,8 +282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.41037868639754,
-          47.05693216227486
+          15.410184372669839,
+          47.056690214661025
         ]
       }
     },
@@ -282,8 +304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.410477171192568,
-          47.05687583941604
+          15.410328535456527,
+          47.05661046198797
         ]
       }
     },
@@ -304,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.410404955538374,
-          47.05682289595493
+          15.410208107405735,
+          47.05652618899181
         ]
       }
     },
@@ -326,8 +348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.410493035900029,
-          47.0567641088622
+          15.410351857803825,
+          47.05647023223894
         ]
       }
     }

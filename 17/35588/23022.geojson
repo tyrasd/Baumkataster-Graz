@@ -374,6 +374,138 @@
           47.104856354352826
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29905,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34598
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.492628716860423,
+          47.106889371582064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29906,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4928011161108,
+          47.10678830385399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29907,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.492967182461602,
+          47.106646730509915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29908,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.493128974637987,
+          47.106555103632466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29909,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.493287468540382,
+          47.10645155273104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29910,
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.493313254716355,
+          47.10636368477477
+        ]
+      }
     }
   ]
 }

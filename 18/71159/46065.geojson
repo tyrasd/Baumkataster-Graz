@@ -6,7 +6,7 @@
       "properties": {
         "nummer": 3692,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -130,6 +130,28 @@
         "coordinates": [
           15.445924418507943,
           47.0663852918564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31828,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 9957
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446731564604958,
+          47.0682286715092
         ]
       }
     },

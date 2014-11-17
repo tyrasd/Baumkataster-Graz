@@ -50,7 +50,7 @@
       "properties": {
         "nummer": 14131,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -3128,6 +3128,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 14112,
+        "baumbezeichnung_botanisch": "Tilia americana",
+        "baumbezeichnung_deutsch": "Amerikanische Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421577224728729,
+          47.07268800081521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 14108,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -3265,9 +3287,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27097
       },
@@ -3287,9 +3309,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27098
       },
@@ -3309,9 +3331,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27099
       },
@@ -3353,9 +3375,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27138
       },
@@ -3375,9 +3397,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27139
       },
@@ -3397,9 +3419,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27140
       },
@@ -3419,9 +3441,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27141
       },

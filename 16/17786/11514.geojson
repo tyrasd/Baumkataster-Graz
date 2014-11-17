@@ -182,7 +182,7 @@
       "properties": {
         "nummer": 19846,
         "baumbezeichnung_botanisch": "Tilia x euchlora auf 36",
-        "baumbezeichnung_deutsch": "Linde",
+        "baumbezeichnung_deutsch": "Linde (Versuchspflanze)",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
@@ -1852,31 +1852,9 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15060,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
-        "baumbezeichnung_deutsch": "Tulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": "2013",
-        "baumpatenschaft": null,
-        "objectid": 14162
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.410592791086978,
-          47.0783146931032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 19847,
         "baumbezeichnung_botanisch": "Tilia x euchlora auf 36",
-        "baumbezeichnung_deutsch": "Linde",
+        "baumbezeichnung_deutsch": "Linde (Versuchspflanze)",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
@@ -2616,28 +2594,6 @@
         "coordinates": [
           15.410152367686285,
           47.07813663708705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15079,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Stammverletzung nordwestseitig vom Wurzelansatz bis zum Kronenansatz, Kronenbereich großteils abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26440
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.408367030500557,
-          47.07777396041389
         ]
       }
     },

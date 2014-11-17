@@ -995,8 +995,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 9882,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -1428,28 +1428,6 @@
         "coordinates": [
           15.459629108586887,
           47.07654970093496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9939,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16576
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46106949675209,
-          47.07746674108617
         ]
       }
     },
@@ -2007,8 +1985,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 27513,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus ornus 'Meczek'",
+        "baumbezeichnung_deutsch": "Kugelförmige Blumenesche",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,

@@ -1346,6 +1346,72 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 21714,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449751301675064,
+          47.07277634898147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8279,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449551106756049,
+          47.07287475807036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24690,
+        "baumbezeichnung_botanisch": "Prunus spinosa",
+        "baumbezeichnung_deutsch": "Schlehdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34623
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44998539067596,
+          47.07322028531427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 8338,
         "baumbezeichnung_botanisch": "Ulmus sp.",
         "baumbezeichnung_deutsch": "Ulme",

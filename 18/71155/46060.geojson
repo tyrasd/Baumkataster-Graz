@@ -141,7 +141,7 @@
         "baumbezeichnung_deutsch": "Amerikanische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -493,7 +493,7 @@
         "baumbezeichnung_deutsch": "Amerikanische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -669,7 +669,7 @@
         "baumbezeichnung_deutsch": "Sommerlinde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -757,7 +757,7 @@
         "baumbezeichnung_deutsch": "Amerikanische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1219,7 +1219,7 @@
         "baumbezeichnung_deutsch": "Amerikanische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich größtenteils zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1412,6 +1412,72 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30056,
+        "baumbezeichnung_botanisch": "Alnus sp.",
+        "baumbezeichnung_deutsch": "Erle",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435237074302432,
+          47.07653890777712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30057,
+        "baumbezeichnung_botanisch": "Alnus sp.",
+        "baumbezeichnung_deutsch": "Erle",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435267383764932,
+          47.07649749717595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30058,
+        "baumbezeichnung_botanisch": "Alnus sp.",
+        "baumbezeichnung_deutsch": "Erle",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435234834241918,
+          47.07646511157922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 16664,
         "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
         "baumbezeichnung_deutsch": "Trauerweide",
@@ -1450,6 +1516,28 @@
         "coordinates": [
           15.435099774408295,
           47.07650541199833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30055,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435171629737972,
+          47.076597891797675
         ]
       }
     },

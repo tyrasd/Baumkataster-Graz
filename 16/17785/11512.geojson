@@ -273,7 +273,7 @@
         "baumbezeichnung_deutsch": "Pflaume",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "beim Gewittersturm im Mai 2014 stark beschädigt, Ersatzpflanzung geplant",
         "pflanzjahr": "1990",
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -781,7 +781,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "schräger Wuchs Richtung Süden durch Verdrängung, nördlicher Wurzelanlauf alte Verletzungsstelle ca 50 % des Stammumfanges mit tiefgreifender Höhlung, drzt kein Ersatz auf Grund starken Überhang geplant",
         "pflanzjahr": "2003",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 14799
       },
@@ -950,28 +950,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 18022,
-        "baumbezeichnung_botanisch": "Prunus domestica",
-        "baumbezeichnung_deutsch": "Pflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1990",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24449
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39898905403894,
-          47.09280907118766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 18021,
         "baumbezeichnung_botanisch": "Prunus domestica",
         "baumbezeichnung_deutsch": "Pflaume",
@@ -988,28 +966,6 @@
         "coordinates": [
           15.399006458806985,
           47.092775636830225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 18024,
-        "baumbezeichnung_botanisch": "Prunus domestica",
-        "baumbezeichnung_deutsch": "Pflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "durch Windeinwirkung umgestürzt, Ersatzpflanzung geplant",
-        "pflanzjahr": "1990",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 24454
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.398953683576568,
-          47.092852730734165
         ]
       }
     },

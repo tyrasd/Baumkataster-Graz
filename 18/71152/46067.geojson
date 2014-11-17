@@ -92,28 +92,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27455,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2123
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426550149184395,
-          47.063949566003906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 20237,
         "baumbezeichnung_botanisch": "Malus 'Frucht'",
         "baumbezeichnung_deutsch": "Fruchtapfelbaum",
@@ -128,8 +106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427535237489902,
-          47.06334161288433
+          15.427534184735784,
+          47.06335739543869
         ]
       }
     },
@@ -152,28 +130,6 @@
         "coordinates": [
           15.427097567596656,
           47.06341517799531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20248,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2462
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427431181673883,
-          47.06347249804837
         ]
       }
     },
@@ -240,28 +196,6 @@
         "coordinates": [
           15.426746024189082,
           47.06399939838805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27454,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3196
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426718939154725,
-          47.06416116443574
         ]
       }
     },
@@ -370,8 +304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426290696571433,
-          47.06361945251712
+          15.426308355520485,
+          47.063654677327854
         ]
       }
     },
@@ -414,30 +348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426614870185158,
-          47.063829752547136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27116,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3915
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426486292453895,
-          47.06367067287597
+          15.426620262963322,
+          47.06384874176756
         ]
       }
     },
@@ -480,8 +392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427290208797492,
-          47.06342167774973
+          15.427278589567917,
+          47.063436285334035
         ]
       }
     },
@@ -722,8 +634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426418914182738,
-          47.063588973903364
+          15.426430992425386,
+          47.06361162238104
         ]
       }
     },
@@ -766,8 +678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42740306208905,
-          47.06341511821126
+          15.427362168777313,
+          47.06343694863851
         ]
       }
     },
@@ -1228,8 +1140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427469150500546,
-          47.063378365122816
+          15.427453400846243,
+          47.06339721352466
         ]
       }
     },
@@ -1500,6 +1412,50 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 20248,
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427413232290931,
+          47.063506373302175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27116,
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 3915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426495864251251,
+          47.06368829656008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 20247,
         "baumbezeichnung_botanisch": "Malus 'Frucht'",
         "baumbezeichnung_deutsch": "Fruchtapfelbaum",
@@ -1514,8 +1470,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427544668401199,
-          47.063428666781626
+          15.427501628775236,
+          47.06342853577062
         ]
       }
     },
@@ -1544,14 +1500,14 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24310,
+        "nummer": 27385,
         "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Pyramidalis'",
         "baumbezeichnung_deutsch": "Säulenscheinakazie",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2006",
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 25800
       },

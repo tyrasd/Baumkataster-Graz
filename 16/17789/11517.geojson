@@ -643,8 +643,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 283,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -1392,7 +1392,7 @@
       "properties": {
         "nummer": 184,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -2712,7 +2712,7 @@
       "properties": {
         "nummer": 172,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -3089,7 +3089,7 @@
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Baum wurde bereits mehrmals von oben eingekürzt, bei der letzten Kontrolle wieder strak zurückgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -3130,7 +3130,7 @@
       "properties": {
         "nummer": 186,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
         "bemerkung": null,
@@ -4376,28 +4376,6 @@
         "coordinates": [
           15.444115175818457,
           47.05595026347362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29503,
-        "baumbezeichnung_botanisch": "Magnolia kobus",
-        "baumbezeichnung_deutsch": "Baummagnolie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2009",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8654
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435926012414772,
-          47.06224209105371
         ]
       }
     },
@@ -6128,7 +6106,7 @@
         "bemerkung": null,
         "pflanzjahr": "1985",
         "entnahmejahr": null,
-        "baumpatenschaft": "SR Dipl.-Ing. Traugott Hanke",
+        "baumpatenschaft": "SR.Dipl.-Ing. Traugott Hanke",
         "objectid": 15362
       },
       "geometry": {
@@ -8038,7 +8016,7 @@
       "properties": {
         "nummer": 183,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -8723,7 +8701,7 @@
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "ausgebreitete Kernfäule am Stammfuß durch Resistographmessung festgestellt, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -10420,7 +10398,7 @@
         "bemerkung": null,
         "pflanzjahr": "2006",
         "entnahmejahr": null,
-        "baumpatenschaft": null,
+        "baumpatenschaft": "Baumspende von Baumschule Egger/Grambach",
         "objectid": 27229
       },
       "geometry": {
@@ -10442,7 +10420,7 @@
         "bemerkung": null,
         "pflanzjahr": "2006",
         "entnahmejahr": null,
-        "baumpatenschaft": null,
+        "baumpatenschaft": "Baumspende von Baumschule Egger/Grambach",
         "objectid": 27230
       },
       "geometry": {
@@ -10508,7 +10486,7 @@
         "bemerkung": null,
         "pflanzjahr": "2006",
         "entnahmejahr": null,
-        "baumpatenschaft": null,
+        "baumpatenschaft": "Baumspende von Baumschule Egger/Grambach",
         "objectid": 27233
       },
       "geometry": {
@@ -10530,7 +10508,7 @@
         "bemerkung": null,
         "pflanzjahr": "2006",
         "entnahmejahr": null,
-        "baumpatenschaft": null,
+        "baumpatenschaft": "Baumspende von Baumschule Egger/Grambach",
         "objectid": 27234
       },
       "geometry": {
@@ -10758,28 +10736,6 @@
         "coordinates": [
           15.437474984206952,
           47.06181576380364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30587,
-        "baumbezeichnung_botanisch": "Betula pendula 'Purpurea'",
-        "baumbezeichnung_deutsch": "Rotlaubige Birke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27401
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.436773211184,
-          47.06164540021879
         ]
       }
     },

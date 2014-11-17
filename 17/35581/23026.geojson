@@ -48,22 +48,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8943,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31908,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2013",
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 518
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454566056540934,
-          47.09010081277867
+          15.45456847167148,
+          47.09018510967769
         ]
       }
     },
@@ -1390,28 +1390,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9352,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1669
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454191305921045,
-          47.09000417822674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9357,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -1956,28 +1934,6 @@
         "coordinates": [
           15.456061935588844,
           47.08996378517464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9258,
-        "baumbezeichnung_botanisch": "Buxus sempervirens",
-        "baumbezeichnung_deutsch": "Buchsbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1861
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455587738477973,
-          47.09018199698027
         ]
       }
     },
@@ -3106,35 +3062,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9347,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4702
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454171742440188,
-          47.089918034796895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8941,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31906,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
+        "pflanzjahr": "2014",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 4712
@@ -3142,21 +3076,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454538212923751,
-          47.08993458022862
+          15.454549006320068,
+          47.089992184022535
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8944,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31909,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
+        "pflanzjahr": "2014",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 4713
@@ -3164,8 +3098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454571424390034,
-          47.0901657219686
+          15.45466690954164,
+          47.09023822582177
         ]
       }
     },
@@ -3232,28 +3166,6 @@
         "coordinates": [
           15.45624652794285,
           47.0901521595641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9348,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5667
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454174885159158,
-          47.08993955719203
         ]
       }
     },
@@ -3480,28 +3392,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8947,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11236
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45490558225353,
-          47.09030462643606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8982,
         "baumbezeichnung_botanisch": "Betula pendula",
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
@@ -3634,13 +3524,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8940,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31905,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
+        "pflanzjahr": "2014",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 11337
@@ -3648,8 +3538,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454500906957826,
-          47.08985403282336
+          15.454527831458757,
+          47.08990277293765
         ]
       }
     },
@@ -3986,50 +3876,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9342,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10220
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454309702410049,
-          47.08982355074494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8948,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10228
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454997274862995,
-          47.09030863044054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9367,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -4338,28 +4184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9351,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8539
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454185700888774,
-          47.08999059929662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9406,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",
@@ -4486,28 +4310,6 @@
         "coordinates": [
           15.453705221646821,
           47.09021222792733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9404,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2013",
-        "baumpatenschaft": null,
-        "objectid": 18342
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454323015775946,
-          47.08993512453394
         ]
       }
     },
@@ -4860,28 +4662,6 @@
         "coordinates": [
           15.4554340423599,
           47.0895233941205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9345,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16440
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45420070076987,
-          47.089929404484494
         ]
       }
     },
@@ -5658,28 +5438,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9344,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12812
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454242611565382,
-          47.089932913278986
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9360,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -6274,28 +6032,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9350,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15526
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454224430898199,
-          47.08997497269872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9230,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -6846,13 +6582,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8945,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31910,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
+        "pflanzjahr": "2014",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 13443
@@ -6860,8 +6596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454649224479345,
-          47.09023118869179
+          15.454793475855656,
+          47.090276089550365
         ]
       }
     },
@@ -7242,28 +6978,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8939,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22430
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454465932582863,
-          47.089799958725166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9475,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -7280,28 +6994,6 @@
         "coordinates": [
           15.454571316239758,
           47.090430693985915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9343,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22472
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454274242487353,
-          47.089923601398674
         ]
       }
     },
@@ -7588,28 +7280,6 @@
         "coordinates": [
           15.454668852090458,
           47.090454535060104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9346,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24293
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454196445174997,
-          47.08990468926871
         ]
       }
     },
@@ -8518,28 +8188,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9257,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19322
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455604433053692,
-          47.09020654332758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9104,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -8622,28 +8270,6 @@
         "coordinates": [
           15.455996817154597,
           47.09007154747536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9340,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20156
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45434031236864,
-          47.089805473394684
         ]
       }
     },
@@ -8798,28 +8424,6 @@
         "coordinates": [
           15.455374386663447,
           47.089537429982464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9349,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21122
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454199179145009,
-          47.089950890959024
         ]
       }
     },
@@ -9156,6 +8760,138 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31915,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454146832273896,
+          47.08997361772312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31916,
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454201893191,
+          47.09001569068052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31917,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454306439576259,
+          47.090015305689384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9258,
+        "baumbezeichnung_botanisch": "Buxus sempervirens",
+        "baumbezeichnung_deutsch": "Buchsbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45549902637204,
+          47.09005568626183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9257,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455496519180548,
+          47.090102076090794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8994,
+        "baumbezeichnung_botanisch": "Picea pungens 'Glauca'",
+        "baumbezeichnung_deutsch": "Blaue Stechfichte",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455237368258697,
+          47.089842934969305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 9074,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -9282,6 +9018,94 @@
         "coordinates": [
           15.456130824004024,
           47.090240447559246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31904,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 22430
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454475141010652,
+          47.08982263869965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31912,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454180777822662,
+          47.089922710749704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31913,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35474
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454221940239348,
+          47.08996229657051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31914,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 35475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45430258777719,
+          47.089931978181085
         ]
       }
     },
@@ -9904,13 +9728,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8942,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31907,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
+        "pflanzjahr": "2014",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 26491
@@ -9918,8 +9742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454544972230666,
-          47.090012694086276
+          15.454540446945156,
+          47.090088505591595
         ]
       }
     },
@@ -9992,13 +9816,13 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8946,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "nummer": 31911,
+        "baumbezeichnung_botanisch": "Tilia x europaea 'Pallida'",
+        "baumbezeichnung_deutsch": "Kaiserlinde",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
+        "pflanzjahr": "2014",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 25058
@@ -10006,8 +9830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.454742055898986,
-          47.09026378706436
+          15.45491315193752,
+          47.090309139935414
         ]
       }
     },

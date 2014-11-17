@@ -1280,6 +1280,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31717,
+        "baumbezeichnung_botanisch": "Aesculus flava",
+        "baumbezeichnung_deutsch": "Gelbe Pavie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433700456075114,
+          47.065391326351744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 31062,
         "baumbezeichnung_botanisch": "Morus alba 'Fruitless'",
         "baumbezeichnung_deutsch": "Weiße fruchtlose männliche Maulbeere",

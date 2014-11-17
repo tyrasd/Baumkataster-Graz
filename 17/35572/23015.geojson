@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31815,
+        "baumbezeichnung_botanisch": "Pinus sylvestris",
+        "baumbezeichnung_deutsch": "Gemeine Kiefer",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.405456751139289,
+          47.13344757097358
+        ]
+      }
+    }
+  ]
+}

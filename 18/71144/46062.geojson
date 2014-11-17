@@ -466,6 +466,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 16545,
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.405472255604503,
+          47.0722807529654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 30359,
         "baumbezeichnung_botanisch": "Koelreuteria paniculata",
         "baumbezeichnung_deutsch": "Blasenbaum",

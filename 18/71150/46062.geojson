@@ -6,7 +6,7 @@
       "properties": {
         "nummer": 14131,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -2264,6 +2264,28 @@
         "coordinates": [
           15.419748190743682,
           47.07227749885734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14112,
+        "baumbezeichnung_botanisch": "Tilia americana",
+        "baumbezeichnung_deutsch": "Amerikanische Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421577224728729,
+          47.07268800081521
         ]
       }
     },

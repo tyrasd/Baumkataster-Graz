@@ -220,6 +220,28 @@
           47.05430287503344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6143,
+        "baumbezeichnung_botanisch": "Pseudotsuga menziesii",
+        "baumbezeichnung_deutsch": "Küsten - Douglasie, Grüne Douglasie",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43459021218943,
+          47.054285840297695
+        ]
+      }
     }
   ]
 }

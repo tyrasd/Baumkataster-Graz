@@ -3067,7 +3067,7 @@
         "baumbezeichnung_deutsch": "Platane",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "ausgebreitete Kernfäule im Stamm- und Teilstammbereich, Baum in der Resignationsphase, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -4035,7 +4035,7 @@
         "baumbezeichnung_deutsch": "Rotfichte",
         "baumtyp": "Nadel",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Stamm ab ca 1 m Höhe Druckzwieselbildung, Gefahr des Auseinanderbrechens gegeben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -4120,7 +4120,7 @@
       "properties": {
         "nummer": 1989,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -5201,7 +5201,7 @@
         "baumbezeichnung_deutsch": "Purpurbuche",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": "Baum beim Gewittersturm 29.07.2013 im Bereich des Stammfußes abgebrochen und gestürzt, Ersatzpflanzung geplant",
+        "bemerkung": "Baum beim Gewittersturm 29.07.2013 im Bereich des Stammfußes abgebrochen und gestürzt, auf Grund des dichten Bestandes Ersatz drzt nicht möglich",
         "pflanzjahr": null,
         "entnahmejahr": "2013",
         "baumpatenschaft": null,
@@ -5553,7 +5553,7 @@
         "baumbezeichnung_deutsch": "Christusdorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "Lackporlingsbefall im unteren Stammbereich, Schwefelporlingsbefall im oberen Stammbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -5718,6 +5718,50 @@
         "coordinates": [
           15.44576326422677,
           47.074743725680726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24708,
+        "baumbezeichnung_botanisch": "Parrotia persica",
+        "baumbezeichnung_deutsch": "Eisenholzbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445105932745392,
+          47.07556118743221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24709,
+        "baumbezeichnung_botanisch": "Celtis occidentalis",
+        "baumbezeichnung_deutsch": "Nesselbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445132335324248,
+          47.07554473306459
         ]
       }
     },
@@ -6202,6 +6246,28 @@
         "coordinates": [
           15.445970708518814,
           47.07424542752259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31707,
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
+        "baumbezeichnung_deutsch": "Christusdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445620642074452,
+          47.07497115212404
         ]
       }
     },

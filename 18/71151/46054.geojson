@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 16151,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -42,28 +42,6 @@
         "coordinates": [
           15.422732445268679,
           47.08818602513325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16148,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2952
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422942721356378,
-          47.08782795239749
         ]
       }
     },
@@ -202,6 +180,138 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31853,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423300505721034,
+          47.08711576157378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31852,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423300952964189,
+          47.087089585888336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31851,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423297957962635,
+          47.08706100266978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31850,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423299942708914,
+          47.08704673881691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31849,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423302111730425,
+          47.08702176690286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31848,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423300694894463,
+          47.08700271574556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 16150,
         "baumbezeichnung_botanisch": "Betula pendula",
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
@@ -240,28 +350,6 @@
         "coordinates": [
           15.422471698160251,
           47.0886301464079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16143,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26035
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423297384411104,
-          47.087274854974154
         ]
       }
     }

@@ -31,7 +31,7 @@
         "baumbezeichnung_deutsch": "Schnurbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Verletzungsstellen am Stammfuß mit ausgeprägter Kernfäule, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -160,7 +160,7 @@
       "properties": {
         "nummer": 10084,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -361,7 +361,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -952,6 +952,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31840,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447013976205522,
+          47.06861650760919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 10085,
         "baumbezeichnung_botanisch": "Gleditsia triacanthos",
         "baumbezeichnung_deutsch": "Christusdorn",
@@ -1001,7 +1023,7 @@
         "baumbezeichnung_deutsch": "Spitzahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "massive Rindenverletzungen im gesamten Stammbereich, Exudatausfluss nordseitiger Stammfuß, auf Grund des geringen Platzangebotes drzt keine Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1480,28 +1502,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6064,
-        "baumbezeichnung_botanisch": "Malus floribunda",
-        "baumbezeichnung_deutsch": "Zierapfel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18510
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.451100443828071,
-          47.063704907164336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 6836,
         "baumbezeichnung_botanisch": "Pinus mugo",
         "baumbezeichnung_deutsch": "Krummholzkiefer, Latsche",
@@ -1617,7 +1617,7 @@
         "baumbezeichnung_deutsch": "Spitzahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Verletzungsstelle am Stammfuß durch Teilstammentnahme, großflächige Verletzungsstellen am gesamten Stammbereich bis in den Kronenansatzbereich, auf Grund des geringen Platzangebotes drzt keine Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1727,7 +1727,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1782,6 +1782,28 @@
         "coordinates": [
           15.446835873911335,
           47.0681958984067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31841,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446867376604349,
+          47.068682553650746
         ]
       }
     },
@@ -2184,6 +2206,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31824,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 15013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446837768493385,
+          47.06875851217025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 5012,
         "baumbezeichnung_botanisch": "Ulmus sp.",
         "baumbezeichnung_deutsch": "Ulme",
@@ -2321,7 +2365,7 @@
         "baumbezeichnung_deutsch": "Schnurbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
-        "bemerkung": null,
+        "bemerkung": "massive Verletzungsstellen am Stammfuß, Befall Schillerporling im Starkastbereich, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -2376,6 +2420,28 @@
         "coordinates": [
           15.447347155543808,
           47.07008326116383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31826,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447056919980556,
+          47.068658515291425
         ]
       }
     },
@@ -2585,9 +2651,9 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Baum zur Gänze abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 18821
       },
@@ -2629,7 +2695,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -2717,7 +2783,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -2926,6 +2992,94 @@
         "coordinates": [
           15.446945447523957,
           47.06984114403882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31825,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446981868931182,
+          47.06869234781665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31827,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 2665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447127232697424,
+          47.06862381838402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31842,
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 18161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446798333621638,
+          47.068716090897105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31838,
+        "baumbezeichnung_botanisch": "Zelkova serrata",
+        "baumbezeichnung_deutsch": "Japanische Zelkova",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 10691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44688051411469,
+          47.06857657652808
         ]
       }
     },
@@ -3247,7 +3401,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "Kronenbereich zu 90 % bis in den Teilstammbereich abgestorben, Ersatzpflanzung auf Grund des dichten Bestandes in diesen Parkteil drzt nicht geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 26150
       },
@@ -3377,7 +3531,7 @@
         "baumbezeichnung_deutsch": "Zierapfel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "starker Mistelbefall im gesamten Kronenbereich, Krone beginnt zurückzutrocknen, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,

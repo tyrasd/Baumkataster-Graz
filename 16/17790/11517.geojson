@@ -647,7 +647,7 @@
         "baumbezeichnung_deutsch": "Winterlinde",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich stark zurückgetrocknet, Spaltblättlingsbefall im Stammbereich, Ersatzpflanzung geplant",
         "pflanzjahr": "1985",
         "entnahmejahr": null,
         "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
@@ -1419,7 +1419,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": null,
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 9024
       },
@@ -4750,6 +4750,28 @@
         "coordinates": [
           15.449056242015187,
           47.05927109343392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 16897,
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455946214978743,
+          47.05894187009429
         ]
       }
     },

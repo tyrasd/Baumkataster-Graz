@@ -295,7 +295,7 @@
         "baumbezeichnung_deutsch": "Winterlinde",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "Kronenbereich über 50 % zurückgetrocknet, starker Spaltblättlingsbefall im gesamten Stammbereich, Ersatzpflanzung geplant",
         "pflanzjahr": "1985",
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -493,7 +493,7 @@
         "baumbezeichnung_deutsch": "Winterlinde",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "extremer Schrägstand Richtung Osten, Stammverletzung westseitig mit Spaltblättlingsbefall, Ersatzpflanzung geplant",
         "pflanzjahr": "1985",
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -598,6 +598,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31892,
+        "baumbezeichnung_botanisch": "Abies alba",
+        "baumbezeichnung_deutsch": "Weißtanne",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33841
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461351727759997,
+          47.06046461481683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 25175,
         "baumbezeichnung_botanisch": "Acer saccharinum",
         "baumbezeichnung_deutsch": "Zuckerahorn",
@@ -620,14 +642,14 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 25171,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
+        "nummer": 31893,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
         "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
         "pflanzjahr": null,
-        "entnahmejahr": "2012",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 27492
       },

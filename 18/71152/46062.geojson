@@ -123,7 +123,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": null,
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 1227
       },
@@ -250,7 +250,7 @@
       "properties": {
         "nummer": 655,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
         "bemerkung": null,
@@ -382,7 +382,7 @@
       "properties": {
         "nummer": 668,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
@@ -404,7 +404,7 @@
       "properties": {
         "nummer": 657,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -426,7 +426,7 @@
       "properties": {
         "nummer": 696,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
@@ -2517,8 +2517,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 30129,
-        "baumbezeichnung_botanisch": "Ulmus parvifolia",
-        "baumbezeichnung_deutsch": "Chinesische Ulme",
+        "baumbezeichnung_botanisch": "Broussonetia papyrifera",
+        "baumbezeichnung_deutsch": "Papiermaulbeerbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,

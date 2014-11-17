@@ -180,14 +180,14 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15695,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
+        "nummer": 21753,
+        "baumbezeichnung_botanisch": "Ulmus x hollandica 'Wredei'",
+        "baumbezeichnung_deutsch": "Goldulme",
         "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
+        "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "1998",
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 14598
       },
@@ -341,7 +341,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2012",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27948
       },

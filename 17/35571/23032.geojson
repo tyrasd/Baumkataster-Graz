@@ -3370,6 +3370,94 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 28235,
+        "baumbezeichnung_botanisch": "Thuja occidentalis",
+        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.397461489134187,
+          47.06823589488292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28236,
+        "baumbezeichnung_botanisch": "Thuja occidentalis",
+        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
+        "baumtyp": "Nadel",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.397517527367956,
+          47.06821850432644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28237,
+        "baumbezeichnung_botanisch": "Picea pungens 'Glauca'",
+        "baumbezeichnung_deutsch": "Blaue Stechfichte",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34595
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.397602758186956,
+          47.06832392117483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 28238,
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.397679540450822,
+          47.06851375702458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 14806,
         "baumbezeichnung_botanisch": "Prunus avium",
         "baumbezeichnung_deutsch": "Vogelkirsche",

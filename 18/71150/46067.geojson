@@ -1104,6 +1104,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 13113,
+        "baumbezeichnung_botanisch": "Sorbus aria",
+        "baumbezeichnung_deutsch": "Mehlbeere",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421212586617724,
+          47.06376604370336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 13145,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",

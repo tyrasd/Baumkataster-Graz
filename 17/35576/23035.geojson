@@ -1302,28 +1302,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21162,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 8451
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428792451992972,
-          47.05833427314271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 21141,
         "baumbezeichnung_botanisch": "Acer ginnala",
         "baumbezeichnung_deutsch": "Feuerahorn",

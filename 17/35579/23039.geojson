@@ -1170,28 +1170,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6222,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14068
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.444045175653844,
-          47.043545796687376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 17751,
         "baumbezeichnung_botanisch": "Populus sp.",
         "baumbezeichnung_deutsch": "Pappel",

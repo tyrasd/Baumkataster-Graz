@@ -290,6 +290,94 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30119,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4641990709745,
+          47.06678755345152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24502,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34618
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464329913483807,
+          47.06672925486659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24503,
+        "baumbezeichnung_botanisch": "Mespilus germanica",
+        "baumbezeichnung_deutsch": "Mispel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464134390680114,
+          47.066864613049454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24504,
+        "baumbezeichnung_botanisch": "Mespilus germanica",
+        "baumbezeichnung_deutsch": "Mispel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34620
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.464024723318534,
+          47.06686139871552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 26892,
         "baumbezeichnung_botanisch": "Acer negundo",
         "baumbezeichnung_deutsch": "Eschenahorn",

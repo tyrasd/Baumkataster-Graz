@@ -75,7 +75,7 @@
         "baumbezeichnung_deutsch": "Rosablühende Scheinakazie",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "östlicher Stammfuß trockene Verletzungsstellemit ca 25 cm Höhe, nurmehr einseitige Krone Richtung Norden durch Teilstammbrüche südseitig, Verletzungsstellen am Kronenansatz - Bruchgefahr, Ersatzpflanzung geplant",
         "pflanzjahr": "2009",
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -187,7 +187,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2003",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 21660
       },
@@ -196,6 +196,182 @@
         "coordinates": [
           15.437687458286206,
           47.06441204172803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31807,
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435800572016616,
+          47.06382987867109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31808,
+        "baumbezeichnung_botanisch": "Acer platanoides 'Globosum'",
+        "baumbezeichnung_deutsch": "Kugelahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435894600198353,
+          47.06383061789784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31809,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435919641841842,
+          47.06358448925136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31810,
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435969158243427,
+          47.063539659211166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31811,
+        "baumbezeichnung_botanisch": "Ginkgo biloba",
+        "baumbezeichnung_deutsch": "Ginkgobaum, Fächerblattbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435977043735107,
+          47.063484982393454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31812,
+        "baumbezeichnung_botanisch": "Ginkgo biloba",
+        "baumbezeichnung_deutsch": "Ginkgobaum, Fächerblattbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435990214662072,
+          47.06342677696446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31813,
+        "baumbezeichnung_botanisch": "Salix matsudana 'Tortuosa'",
+        "baumbezeichnung_deutsch": "Korkenzieherweide",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.436017213549226,
+          47.063374629587564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31814,
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 32248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43607843840325,
+          47.0633584509844
         ]
       }
     },
@@ -226,7 +402,7 @@
       "properties": {
         "nummer": 128,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -248,7 +424,7 @@
       "properties": {
         "nummer": 132,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,

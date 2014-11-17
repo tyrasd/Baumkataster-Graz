@@ -576,28 +576,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3247,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15260
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423739902901344,
-          47.0917918543804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 16160,
         "baumbezeichnung_botanisch": "Fraxinus excelsior",
         "baumbezeichnung_deutsch": "Esche",
@@ -988,28 +966,6 @@
         "coordinates": [
           15.424762892329793,
           47.09078848705855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3248,
-        "baumbezeichnung_botanisch": "Ailanthus altissima",
-        "baumbezeichnung_deutsch": "Götterbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20547
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423689161411485,
-          47.09184471887532
         ]
       }
     }

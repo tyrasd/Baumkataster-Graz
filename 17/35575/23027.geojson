@@ -27,8 +27,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 16151,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumbezeichnung_deutsch": "Rotbuche",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -64,28 +64,6 @@
         "coordinates": [
           15.422732445268679,
           47.08818602513325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16148,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2952
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422942721356378,
-          47.08782795239749
         ]
       }
     },
@@ -504,28 +482,6 @@
         "coordinates": [
           15.419425655009388,
           47.08536285307788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12847,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Thuje stockt direkt nordwestlich der denkmalgeschützten Kapelle, Aufforderung zur Entfernung vom Bundesdenkmalamt zum Schutz der Kapelle, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 17554
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419597207429588,
-          47.086982393688594
         ]
       }
     },
@@ -1236,6 +1192,50 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31847,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42343403421736,
+          47.086744363377825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31846,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423453583507596,
+          47.086721910069095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 25325,
         "baumbezeichnung_botanisch": "Acer negundo",
         "baumbezeichnung_deutsch": "Eschenahorn",
@@ -1252,6 +1252,204 @@
         "coordinates": [
           15.421829830226638,
           47.08736549470179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31845,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423474954869693,
+          47.08669471108652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31844,
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423423344981398,
+          47.08665622004911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31843,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423474899758107,
+          47.08659594297755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31853,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423300505721034,
+          47.08711576157378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31852,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423300952964189,
+          47.087089585888336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31851,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423297957962635,
+          47.08706100266978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31850,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33529
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423299942708914,
+          47.08704673881691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31849,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33530
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423302111730425,
+          47.08702176690286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 31848,
+        "baumbezeichnung_botanisch": "Populus nigra",
+        "baumbezeichnung_deutsch": "Schwarzpappel",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423300694894463,
+          47.08700271574556
         ]
       }
     },
@@ -1340,28 +1538,6 @@
         "coordinates": [
           15.422471698160251,
           47.0886301464079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16143,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26035
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423297384411104,
-          47.087274854974154
         ]
       }
     },

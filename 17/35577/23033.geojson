@@ -1835,7 +1835,7 @@
         "baumbezeichnung_deutsch": "Spitzahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Brandkrustenpilzbefall am Stammfuß, eingeschränkte Standsicherheit durch Resistographmessung festgestellt, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -2321,7 +2321,7 @@
         "altersklassifizierung": "alt",
         "bemerkung": "Brandkrustenpilzbefall am Stammfuß, Baum größtenteils abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 12970
       },
@@ -3414,6 +3414,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31717,
+        "baumbezeichnung_botanisch": "Aesculus flava",
+        "baumbezeichnung_deutsch": "Gelbe Pavie",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 29583
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433700456075114,
+          47.065391326351744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 6,
         "baumbezeichnung_botanisch": "Acer pseudoplatanus",
         "baumbezeichnung_deutsch": "Bergahorn",
@@ -3751,7 +3773,7 @@
         "altersklassifizierung": "alt",
         "bemerkung": null,
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 25820
       },

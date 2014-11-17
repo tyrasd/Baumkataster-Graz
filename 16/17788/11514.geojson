@@ -1945,7 +1945,7 @@
         "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "kaum mehr Austrieb im Kronenbereich vorhanden, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -4741,7 +4741,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2003",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 16178
       },
@@ -5159,7 +5159,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 18473
       },
@@ -7865,7 +7865,7 @@
         "altersklassifizierung": "mittel",
         "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 20637
       },
@@ -8193,7 +8193,7 @@
         "baumbezeichnung_deutsch": "Rotfichte",
         "baumtyp": "Nadel",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "unfachgemäße Kroneneinkürzungen und Grabungen im Wurzelbereich bei Zaunaufstellung, drzt kein Ersatz auf Grund des dichten Bestandes geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -9794,6 +9794,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 31894,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34817
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426929646952583,
+          47.077718190136736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 24911,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -10019,9 +10041,9 @@
         "baumbezeichnung_deutsch": "Pflaume",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Baum brach im Stammbereich und stürzte Richtung Geh- und Radweg, Ersatzpflanzung geplant",
         "pflanzjahr": null,
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27636
       },

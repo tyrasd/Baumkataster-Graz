@@ -295,7 +295,7 @@
         "baumbezeichnung_deutsch": "Säulenpappel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "massive Kernfäule am Stammfuß, Sturzgefahr, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -757,7 +757,7 @@
         "baumbezeichnung_deutsch": "Säulenpappel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Kernfäule am Stammfuß, Sturzgefahr, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -999,7 +999,7 @@
         "baumbezeichnung_deutsch": "Säulenpappel",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
-        "bemerkung": null,
+        "bemerkung": "Terminaltriebbruch, Ersatzpflanzung geplant",
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
@@ -1208,6 +1208,116 @@
         "coordinates": [
           15.431352041540913,
           47.04889410722159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25027,
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34626
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431074745426058,
+          47.04878644171612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25028,
+        "baumbezeichnung_botanisch": "Crataegus sp.",
+        "baumbezeichnung_deutsch": "Weißdorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43108008942838,
+          47.048573476643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25029,
+        "baumbezeichnung_botanisch": "Acer sp.",
+        "baumbezeichnung_deutsch": "Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34628
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431040334073556,
+          47.048556502545594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25030,
+        "baumbezeichnung_botanisch": "Acer sp.",
+        "baumbezeichnung_deutsch": "Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.430949492468013,
+          47.04857482447783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 25031,
+        "baumbezeichnung_botanisch": "Acer sp.",
+        "baumbezeichnung_deutsch": "Ahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34630
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.430525603331407,
+          47.04862383174762
         ]
       }
     },

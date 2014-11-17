@@ -150,8 +150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.410526967302875,
-          47.088583933708556
+          15.410498619538162,
+          47.08860091485502
         ]
       }
     },
@@ -282,8 +282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.410484724803482,
-          47.088608154218925
+          15.410445067163229,
+          47.08863475321499
         ]
       }
     },
@@ -379,8 +379,8 @@
       "type": "Feature",
       "properties": {
         "nummer": 18014,
-        "baumbezeichnung_botanisch": "Ailanthus altissima",
-        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumbezeichnung_deutsch": "Esche",
         "baumtyp": "Laub",
         "altersklassifizierung": "alt",
         "bemerkung": null,

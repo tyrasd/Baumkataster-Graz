@@ -2424,6 +2424,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 20124,
+        "baumbezeichnung_botanisch": "Prunus 'Bigarreau Van'",
+        "baumbezeichnung_deutsch": "Zierkirsche",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.414199010723324,
+          47.08983151097168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 13482,
         "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
         "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
@@ -2624,7 +2646,7 @@
       "properties": {
         "nummer": 13484,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,

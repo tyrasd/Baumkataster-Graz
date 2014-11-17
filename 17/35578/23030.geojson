@@ -2954,14 +2954,14 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24645,
+        "nummer": 30081,
         "baumbezeichnung_botanisch": "Koelreuteria paniculata",
         "baumbezeichnung_deutsch": "Blasenbaum",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
         "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": "2010",
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
         "baumpatenschaft": null,
         "objectid": 8313
       },
@@ -6430,6 +6430,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 30488,
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "jung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.439092157477797,
+          47.07680097880353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 19466,
         "baumbezeichnung_botanisch": "Taxus baccata",
         "baumbezeichnung_deutsch": "Gemeine Eibe",
@@ -9649,7 +9671,7 @@
         "altersklassifizierung": "jung",
         "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
         "pflanzjahr": "2012",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27288
       },
@@ -10538,6 +10560,28 @@
         "coordinates": [
           15.438421958559024,
           47.07441682227058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19486,
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43632022671483,
+          47.07633020944121
         ]
       }
     },

@@ -2402,28 +2402,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22232,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10990
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437648847953444,
-          47.04550202253839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 14219,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -4134,28 +4112,6 @@
         "coordinates": [
           15.438589234977563,
           47.04527616079073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6222,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14068
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.444045175653844,
-          47.043545796687376
         ]
       }
     },

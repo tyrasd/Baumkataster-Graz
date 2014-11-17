@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12847,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Thuje stockt direkt nordwestlich der denkmalgeschützten Kapelle, Aufforderung zur Entfernung vom Bundesdenkmalamt zum Schutz der Kapelle, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 17554
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419597207429588,
-          47.086982393688594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25327,
         "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumbezeichnung_deutsch": "Platane",

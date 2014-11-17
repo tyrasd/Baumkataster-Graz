@@ -50,7 +50,7 @@
       "properties": {
         "nummer": 14131,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -204,7 +204,7 @@
       "properties": {
         "nummer": 12109,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -1016,28 +1016,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13043,
-        "baumbezeichnung_botanisch": "Tilia sp.",
-        "baumbezeichnung_deutsch": "Linde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5410
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419760590017171,
-          47.07471292004305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 14162,
         "baumbezeichnung_botanisch": "Pinus nigra",
         "baumbezeichnung_deutsch": "Schwarzkiefer",
@@ -1172,7 +1150,7 @@
       "properties": {
         "nummer": 12108,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -1348,7 +1326,7 @@
       "properties": {
         "nummer": 12111,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -3812,7 +3790,7 @@
       "properties": {
         "nummer": 12112,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -5044,7 +5022,7 @@
       "properties": {
         "nummer": 12113,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -5088,7 +5066,7 @@
       "properties": {
         "nummer": 12106,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -5154,7 +5132,7 @@
       "properties": {
         "nummer": 12105,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -5460,6 +5438,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 14112,
+        "baumbezeichnung_botanisch": "Tilia americana",
+        "baumbezeichnung_deutsch": "Amerikanische Linde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.421577224728729,
+          47.07268800081521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 25302,
         "baumbezeichnung_botanisch": "Prunus avium",
         "baumbezeichnung_deutsch": "Vogelkirsche",
@@ -5616,7 +5616,7 @@
       "properties": {
         "nummer": 12107,
         "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Zwischenlinde",
+        "baumbezeichnung_deutsch": "Holländische Linde",
         "baumtyp": "Laub",
         "altersklassifizierung": "mittel",
         "bemerkung": null,
@@ -5971,9 +5971,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27097
       },
@@ -5993,9 +5993,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27098
       },
@@ -6015,9 +6015,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27099
       },
@@ -6081,9 +6081,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27138
       },
@@ -6103,9 +6103,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27139
       },
@@ -6125,9 +6125,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27140
       },
@@ -6147,9 +6147,9 @@
         "baumbezeichnung_deutsch": "Felsenahorn",
         "baumtyp": "Laub",
         "altersklassifizierung": "jung",
-        "bemerkung": null,
+        "bemerkung": "zur Gänze abgestorben, Ersatzpflanzung geplant",
         "pflanzjahr": "2013",
-        "entnahmejahr": null,
+        "entnahmejahr": "2014",
         "baumpatenschaft": null,
         "objectid": 27141
       },

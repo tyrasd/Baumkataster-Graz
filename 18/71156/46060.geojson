@@ -2118,6 +2118,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 19486,
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 25199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43632022671483,
+          47.07633020944121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 19467,
         "baumbezeichnung_botanisch": "Taxus baccata",
         "baumbezeichnung_deutsch": "Gemeine Eibe",

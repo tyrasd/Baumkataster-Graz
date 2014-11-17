@@ -598,6 +598,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 5564,
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 33869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45788624813005,
+          47.051575661329856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 19547,
         "baumbezeichnung_botanisch": "Robinia pseudoacacia",
         "baumbezeichnung_deutsch": "Scheinakazie",

@@ -1456,28 +1456,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9258,
-        "baumbezeichnung_botanisch": "Buxus sempervirens",
-        "baumbezeichnung_deutsch": "Buchsbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1861
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455587738477973,
-          47.09018199698027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9318,
         "baumbezeichnung_botanisch": "Ulmus sp.",
         "baumbezeichnung_deutsch": "Ulme",
@@ -5416,28 +5394,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9257,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19322
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455604433053692,
-          47.09020654332758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9104,
         "baumbezeichnung_botanisch": "Picea abies",
         "baumbezeichnung_deutsch": "Rotfichte",
@@ -5762,6 +5718,72 @@
         "coordinates": [
           15.455968594390768,
           47.089625101865416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9258,
+        "baumbezeichnung_botanisch": "Buxus sempervirens",
+        "baumbezeichnung_deutsch": "Buchsbaum",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 1861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45549902637204,
+          47.09005568626183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9257,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 19322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455496519180548,
+          47.090102076090794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8994,
+        "baumbezeichnung_botanisch": "Picea pungens 'Glauca'",
+        "baumbezeichnung_deutsch": "Blaue Stechfichte",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455237368258697,
+          47.089842934969305
         ]
       }
     },
