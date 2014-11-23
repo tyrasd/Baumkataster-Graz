@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3562,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 700
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435510950223389,
-          47.06692514064505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 3434,
         "baumbezeichnung_botanisch": "Carpinus betulus 'Pendula'",
         "baumbezeichnung_deutsch": "Hängehainbuche",

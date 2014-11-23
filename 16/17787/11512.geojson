@@ -224,28 +224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20639,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Schillerporlingsbefall im Starkastbereich,  Bruch im Starkastbereich beim Gewittersturm Sommer 2013, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 1381
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421716412161423,
-          47.092806664782984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 13944,
         "baumbezeichnung_botanisch": "Prunus avium",
         "baumbezeichnung_deutsch": "Vogelkirsche",
@@ -1692,28 +1670,6 @@
         "coordinates": [
           15.422684050885705,
           47.09272753234092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20637,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Schillerporlingsbefall mit Morschungen im Starkastbereich, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9866
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421899909441702,
-          47.092902611199996
         ]
       }
     },

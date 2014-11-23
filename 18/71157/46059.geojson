@@ -1434,28 +1434,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27743,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum komplett abgestorben (Phytophtorabefall), Ersatzpflanzung geplant",
-        "pflanzjahr": "2008",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 24060
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440320558548924,
-          47.07813020436552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 3517,
         "baumbezeichnung_botanisch": "Tilia cordata",
         "baumbezeichnung_deutsch": "Winterlinde",

@@ -4140,28 +4140,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 11644,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2013",
-        "baumpatenschaft": null,
-        "objectid": 24937
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420396049219452,
-          47.08599880555242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25327,
         "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumbezeichnung_deutsch": "Platane",
@@ -5674,28 +5652,6 @@
         "coordinates": [
           15.415448408092177,
           47.08887658747844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31060,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 27948
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415339130880515,
-          47.08874719186725
         ]
       }
     },

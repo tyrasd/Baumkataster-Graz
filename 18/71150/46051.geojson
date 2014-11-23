@@ -4,50 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20639,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Schillerporlingsbefall im Starkastbereich,  Bruch im Starkastbereich beim Gewittersturm Sommer 2013, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 1381
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421716412161423,
-          47.092806664782984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20637,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Schillerporlingsbefall mit Morschungen im Starkastbereich, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9866
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421899909441702,
-          47.092902611199996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 29207,
         "baumbezeichnung_botanisch": "Robinia pseudoacacia",
         "baumbezeichnung_deutsch": "Scheinakazie",

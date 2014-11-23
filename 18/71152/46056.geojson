@@ -1038,28 +1038,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 11579,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20637
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427349385625924,
-          47.0835442368728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 11594,
         "baumbezeichnung_botanisch": "Juglans regia",
         "baumbezeichnung_deutsch": "Walnuß",

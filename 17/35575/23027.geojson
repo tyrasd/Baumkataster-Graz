@@ -818,28 +818,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 11644,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2013",
-        "baumpatenschaft": null,
-        "objectid": 24937
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420396049219452,
-          47.08599880555242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25327,
         "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumbezeichnung_deutsch": "Platane",

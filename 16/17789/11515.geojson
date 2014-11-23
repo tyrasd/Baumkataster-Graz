@@ -4096,28 +4096,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 2625,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "durch Brandkrustenpilzbefall am Stammfuß fast stammumfassende Ausbreitung von Fäule durch Resistographmessungen festgestellt, Ersatzpflanzung nach  Vorgabe des Parkplegewerkes geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2013",
-        "baumpatenschaft": null,
-        "objectid": 1850
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441393563602112,
-          47.07658154333998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 18816,
         "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
         "baumbezeichnung_deutsch": "Japanische Blütenkirsche",

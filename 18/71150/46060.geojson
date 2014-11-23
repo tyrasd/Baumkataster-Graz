@@ -26,28 +26,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24843,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "im Kronenansatzbereich durch Unfall Verletzungsstelle bis in den Holzkörper reichend, Bruchgefahr, Ersatzpflanzung geplant",
-        "pflanzjahr": "2005",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 5076
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4208537516288,
-          47.0771539428795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 29229,
         "baumbezeichnung_botanisch": "Castanea sativa",
         "baumbezeichnung_deutsch": "Eßkastanie",

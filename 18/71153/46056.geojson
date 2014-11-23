@@ -92,28 +92,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7972,
-        "baumbezeichnung_botanisch": "Prunus domestica",
-        "baumbezeichnung_deutsch": "Pflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum brach im Stammbereich und stürzte Richtung Geh- und Radweg, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 27636
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430114917171906,
-          47.084339023274424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 7971,
         "baumbezeichnung_botanisch": "Prunus avium",
         "baumbezeichnung_deutsch": "Vogelkirsche",

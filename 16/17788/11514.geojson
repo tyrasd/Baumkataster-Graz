@@ -7858,28 +7858,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 11579,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20637
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427349385625924,
-          47.0835442368728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 16076,
         "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
         "baumbezeichnung_deutsch": "Kugelesche",
@@ -10030,28 +10008,6 @@
         "coordinates": [
           15.430524958608725,
           47.08417107501302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7972,
-        "baumbezeichnung_botanisch": "Prunus domestica",
-        "baumbezeichnung_deutsch": "Pflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum brach im Stammbereich und stürzte Richtung Geh- und Radweg, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 27636
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430114917171906,
-          47.084339023274424
         ]
       }
     },

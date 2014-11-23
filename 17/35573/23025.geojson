@@ -378,28 +378,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21723,
-        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Kronenbereich größtenteils zurückgetrocknet, Spaltblättlingsbefall im westlichen Stammbereich, Ersatzpflanzung geplant",
-        "pflanzjahr": "1998",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 22226
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.412638549830932,
-          47.093850154507834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 16049,
         "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
         "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
