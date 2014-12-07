@@ -11,6 +11,7 @@ var zooms = [16,17,18];
 var tiles = {};
 
 zooms.forEach(function(zoom) {
+        console.log("start zoom ",zoom);
 	tiles[zoom] = {};
 
 	trees.features.forEach(function(tree) {
@@ -23,9 +24,11 @@ zooms.forEach(function(zoom) {
 			tiles[zoom][x][y] = [];
 		tiles[zoom][x][y].push(tree);
 	});
+        console.log("done zoom ",zoom);
 });
 
 for (var zoom in tiles) {
+        console.log("write zoom ",zoom);
 	try { fs.mkdirSync("./"+zoom); } catch (e) {}
 	for (x in tiles[zoom]) {
 		try { fs.mkdirSync("./"+zoom+"/"+x); } catch (e) {}
@@ -35,11 +38,16 @@ for (var zoom in tiles) {
 				type: "FeatureCollection",
 				features: features
 			};
-			fs.writeFile(
+			/*fs.writeFile(
 				"./"+zoom+"/"+x+"/"+y+".geojson",
 				JSON.stringify(geojson, null, 2),
 				function(err) { if (err) throw err; }
+			);*/
+			fs.writeFileSync(
+				"./"+zoom+"/"+x+"/"+y+".geojson",
+				JSON.stringify(geojson, null, 2)
 			);
 		}
 	}
+        console.log("written zoom ",zoom);
 }
