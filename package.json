@@ -1,0 +1,11 @@
+{
+  "name": "Baumkataster-Graz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tyrasd/Baumkataster-Graz"
+  },
+  "dependencies": {
+    "graceful-fs": "^3.0.5",
+    "sphericalmercator": "^1.0.2"
+  }
+}
