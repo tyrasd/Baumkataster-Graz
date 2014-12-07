@@ -32698,28 +32698,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 1099,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "gesamter Kronenbereich bereits stark verlichtet, ereheblicher Dürrholzbereich bereits vorhanden, noch vorhandene Laubmasse am absterben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44552461472608,
-          47.07129477263371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 2536,
         "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
         "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
@@ -33902,28 +33880,6 @@
         "coordinates": [
           15.442137801758854,
           47.07658744564454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21719,
-        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelsandkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20971
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440206113081967,
-          47.07253740770244
         ]
       }
     },
@@ -43978,28 +43934,6 @@
         "coordinates": [
           15.44395123786158,
           47.071906319711154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31017,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Amanogawa'",
-        "baumbezeichnung_deutsch": "Japanische Säulenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 27288
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440179120717223,
-          47.075026364664254
         ]
       }
     },

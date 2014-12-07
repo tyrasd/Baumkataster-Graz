@@ -862,50 +862,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31151,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulentulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "2013",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 29136
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.403274266078085,
-          47.05485408706015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31152,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulentulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29137
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.403273051604836,
-          47.05493881122209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 31153,
         "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
         "baumbezeichnung_deutsch": "Säulentulpenbaum",

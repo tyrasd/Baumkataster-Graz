@@ -2108,30 +2108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419218960300077,
-          47.09170401844037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16164,
-        "baumbezeichnung_botanisch": "Pinus sp.",
-        "baumbezeichnung_deutsch": "Föhre",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8876
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.418865619871509,
-          47.091603782276145
+          15.419324320600332,
+          47.09173738179829
         ]
       }
     },
@@ -2396,28 +2374,6 @@
         "coordinates": [
           15.424763284558155,
           47.08640471641149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16166,
-        "baumbezeichnung_botanisch": "Pinus sp.",
-        "baumbezeichnung_deutsch": "Föhre",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8333
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419071164120481,
-          47.09165705555769
         ]
       }
     },

@@ -4052,28 +4052,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 1099,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "gesamter Kronenbereich bereits stark verlichtet, ereheblicher Dürrholzbereich bereits vorhanden, noch vorhandene Laubmasse am absterben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44552461472608,
-          47.07129477263371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 23976,
         "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
         "baumbezeichnung_deutsch": "Japanische Blütenkirsche",

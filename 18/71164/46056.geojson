@@ -356,28 +356,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7683,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Kronenbereich fast zur Gänze abgetrocknet, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 5249
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460057614272136,
-          47.083240709445704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 29911,
         "baumbezeichnung_botanisch": "Acer campestre",
         "baumbezeichnung_deutsch": "Feldahorn",
@@ -642,28 +620,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8520,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Kanalanschlusserrichtung in die Schubertstraße, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 21446
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.459714221008545,
-          47.0835910934704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8517,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -768,28 +724,6 @@
         "coordinates": [
           15.46038237520969,
           47.084960486695344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7679,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Brandkrustenpilz am Stammfuß, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 21311
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460012213907364,
-          47.08353593108927
         ]
       }
     },
@@ -922,28 +856,6 @@
         "coordinates": [
           15.460384571163978,
           47.08359730014776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30982,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 26799
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460033383050583,
-          47.08338371657633
         ]
       }
     }

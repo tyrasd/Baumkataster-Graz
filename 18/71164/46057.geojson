@@ -290,28 +290,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31401,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": "2013",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 3383
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46007973661109,
-          47.083065681718196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8512,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -834,28 +812,6 @@
         "coordinates": [
           15.459845611688783,
           47.081725026452396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7689,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Brandkrustenpilz am Stammfuß, starke Vergreisung im gesamten Kronenbereich, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 18153
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460118493517406,
-          47.08282462249093
         ]
       }
     },
@@ -1846,28 +1802,6 @@
         "coordinates": [
           15.460393874127702,
           47.083168613246286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7687,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "beginnende Vergreisung, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 25085
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460100039636622,
-          47.0829469941741
         ]
       }
     },

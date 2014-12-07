@@ -752,28 +752,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 17954,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Druckzwiesel am Stammfuß, komplett schüttere Benadelung, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9556
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472633264912645,
-          47.063375793861496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 17955,
         "baumbezeichnung_botanisch": "Thuja occidentalis",
         "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
@@ -1274,28 +1252,6 @@
         "coordinates": [
           15.472172769369793,
           47.06316860229566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17953,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Druckzwiesel am Stammfuß, schüttere Benadelung, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 16307
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472639874457535,
-          47.063367317247845
         ]
       }
     },

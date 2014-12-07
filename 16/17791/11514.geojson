@@ -708,28 +708,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31401,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": "2013",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 3383
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46007973661109,
-          47.083065681718196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8519,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -922,28 +900,6 @@
         "coordinates": [
           15.460373527417042,
           47.08488806272259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7683,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Kronenbereich fast zur Gänze abgetrocknet, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 5249
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460057614272136,
-          47.083240709445704
         ]
       }
     },
@@ -2096,28 +2052,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7689,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Brandkrustenpilz am Stammfuß, starke Vergreisung im gesamten Kronenbereich, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 18153
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460118493517406,
-          47.08282462249093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 7671,
         "baumbezeichnung_botanisch": "Corylus avellana",
         "baumbezeichnung_deutsch": "Waldhasel",
@@ -3108,28 +3042,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8520,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Kanalanschlusserrichtung in die Schubertstraße, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 21446
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.459714221008545,
-          47.0835910934704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 8528,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -3498,28 +3410,6 @@
         "coordinates": [
           15.460149215063284,
           47.08054979707583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7679,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Brandkrustenpilz am Stammfuß, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 21311
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460012213907364,
-          47.08353593108927
         ]
       }
     },
@@ -3900,28 +3790,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7687,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "beginnende Vergreisung, Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 25085
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460100039636622,
-          47.0829469941741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 9914,
         "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumbezeichnung_deutsch": "Platane",
@@ -4004,28 +3872,6 @@
         "coordinates": [
           15.46030571212903,
           47.080680280225344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30982,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Gleis- und Kanalbauarbeiten, Ersatzpflanzung nach Baufertigstellung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 26799
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460033383050583,
-          47.08338371657633
         ]
       }
     },

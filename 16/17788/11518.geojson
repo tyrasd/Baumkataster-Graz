@@ -10982,28 +10982,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24378,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 25417
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430468827967601,
-          47.05161116389685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 13879,
         "baumbezeichnung_botanisch": "Gleditsia triacanthos",
         "baumbezeichnung_deutsch": "Christusdorn",

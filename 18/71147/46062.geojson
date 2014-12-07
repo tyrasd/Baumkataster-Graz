@@ -862,28 +862,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30557,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Vandalismusschaden, Baum im Stammbereich abgebrochen, Ersatzpfanzung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 27513
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411196594532564,
-          47.072995933077024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 30558,
         "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
         "baumbezeichnung_deutsch": "Säulenstieleiche",

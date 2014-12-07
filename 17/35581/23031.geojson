@@ -2072,28 +2072,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31639,
-        "baumbezeichnung_botanisch": "Picea orientalis",
-        "baumbezeichnung_deutsch": "Orientalische Fichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2014",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28288
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.457011726098662,
-          47.07108600127945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 24779,
         "baumbezeichnung_botanisch": "Liriodendron tulipifera",
         "baumbezeichnung_deutsch": "Tulpenbaum",

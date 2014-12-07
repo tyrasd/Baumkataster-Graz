@@ -2930,28 +2930,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27319,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22641
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431156778596101,
-          47.07490227550769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 11488,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",

@@ -2028,28 +2028,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 11148,
-        "baumbezeichnung_botanisch": "Ailanthus altissima",
-        "baumbezeichnung_deutsch": "Götterbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 14030
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434024344648368,
-          47.05968345348662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 198,
         "baumbezeichnung_botanisch": "Acer pseudoplatanus",
         "baumbezeichnung_deutsch": "Bergahorn",

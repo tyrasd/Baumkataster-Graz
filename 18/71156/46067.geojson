@@ -180,28 +180,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 23931,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": "2003",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 21660
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437687458286206,
-          47.06441204172803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 31807,
         "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
         "baumbezeichnung_deutsch": "Japanische Blütenkirsche",

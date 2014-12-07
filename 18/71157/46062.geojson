@@ -246,28 +246,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21719,
-        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelsandkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 20971
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440206113081967,
-          47.07253740770244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 25565,
         "baumbezeichnung_botanisch": "Acer campestre 'Elsrijk'",
         "baumbezeichnung_deutsch": "Schmalkroniger Feldahorn",

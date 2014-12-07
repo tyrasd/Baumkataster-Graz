@@ -9664,28 +9664,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31017,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Amanogawa'",
-        "baumbezeichnung_deutsch": "Japanische Säulenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "2012",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 27288
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440179120717223,
-          47.075026364664254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 18722,
         "baumbezeichnung_botanisch": "Carpinus betulus",
         "baumbezeichnung_deutsch": "Hain - oder Weißbuche",

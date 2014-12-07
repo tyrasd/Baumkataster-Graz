@@ -268,28 +268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29964,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "nur mehr vereinzelter Laubaustrieb vorhanden, diese jedoch bereits im Frühjahr stark eingerollt, Ersatzpflanzung geplant",
-        "pflanzjahr": "2010",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 7982
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441451042439883,
-          47.06704610165195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 3202,
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
@@ -378,28 +356,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29966,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum zur Gänze abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "2010",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 8107
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441674002752665,
-          47.06728596157325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 19775,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",
@@ -416,28 +372,6 @@
         "coordinates": [
           15.44274412123432,
           47.067648237009706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29963,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "2010",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9080
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44141292234665,
-          47.0669868049805
         ]
       }
     },
@@ -576,28 +510,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 3628,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "1985",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": "Rektor Univ. Prof. Dr. Otto Kolleritsch",
-        "objectid": 16960
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443257851821828,
-          47.067423596453544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 19767,
         "baumbezeichnung_botanisch": "Acer platanoides 'Deborah'",
         "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
@@ -702,28 +614,6 @@
         "coordinates": [
           15.443361731456035,
           47.06818380830346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27616,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "nur mehr vereinzelter Laubaustrieb vorhanden, Ersatzpflanzung geplant",
-        "pflanzjahr": "2007",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 15569
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441375005117878,
-          47.06692797762578
         ]
       }
     },
@@ -1494,28 +1384,6 @@
         "coordinates": [
           15.443475821388313,
           47.06731640111193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3625,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum nurmehr im unteren Teilstammbereich belaubt, sonstiger Kronenbereich abgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": "1985",
-        "entnahmejahr": "2014",
-        "baumpatenschaft": "LAbg. Hermann Schützenhöfer",
-        "objectid": 25188
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443552564476091,
-          47.06751714918822
         ]
       }
     },

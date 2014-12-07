@@ -224,28 +224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15251,
-        "baumbezeichnung_botanisch": "Fraxinus americana",
-        "baumbezeichnung_deutsch": "Weiß-Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "massiv ausgebreitete Stammfußfäule ausgehend von der westseitigen Stammfußverletzung, Restwandstärke von nurmehr 10 cm vorhanden, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 1546
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.400915235891402,
-          47.075618217565065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 15255,
         "baumbezeichnung_botanisch": "Fraxinus americana",
         "baumbezeichnung_deutsch": "Weiß-Esche",
@@ -6928,28 +6906,6 @@
         "coordinates": [
           15.400103087927473,
           47.07082896479597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15228,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "durch Schnittstellen im Stammbereich unter dem Kronenansatz hat sich an beiden Teilstämmen eine ausgebreitete Kernfäule mit geringen Restwandstärken gebildet, welche eine Bruchgefahr nicht mehr ausschließt, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 25998
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.40110906498946,
-          47.07520406338078
         ]
       }
     },

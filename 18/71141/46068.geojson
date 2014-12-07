@@ -422,28 +422,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 18103,
-        "baumbezeichnung_botanisch": "Sorbus aucuparia",
-        "baumbezeichnung_deutsch": "Eberesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum größtenteils abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 19610
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39642315410521,
-          47.06169995263995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 31139,
         "baumbezeichnung_botanisch": "Acer platanoides",
         "baumbezeichnung_deutsch": "Spitzahorn",

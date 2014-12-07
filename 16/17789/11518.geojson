@@ -2468,72 +2468,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27664,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9932
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440041279722186,
-          47.051131973321844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27663,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9939
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44007205029,
-          47.05113673235934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27665,
-        "baumbezeichnung_botanisch": "Ailanthus altissima",
-        "baumbezeichnung_deutsch": "Götterbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9940
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439787082655243,
-          47.050916122120896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 4796,
         "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
         "baumbezeichnung_deutsch": "Säulenpappel",
@@ -2572,28 +2506,6 @@
         "coordinates": [
           15.43891620569956,
           47.05290205040276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27667,
-        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9942
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.439834569973263,
-          47.05097523017261
         ]
       }
     },

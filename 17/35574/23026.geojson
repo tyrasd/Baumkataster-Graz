@@ -1038,50 +1038,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 16168,
-        "baumbezeichnung_botanisch": "Pinus sp.",
-        "baumbezeichnung_deutsch": "Föhre",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8875
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419218960300077,
-          47.09170401844037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16164,
-        "baumbezeichnung_botanisch": "Pinus sp.",
-        "baumbezeichnung_deutsch": "Föhre",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8876
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.418865619871509,
-          47.091603782276145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 15701,
         "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
         "baumbezeichnung_deutsch": "Säulenpappel",
@@ -1318,28 +1274,6 @@
         "coordinates": [
           15.414540544943739,
           47.08986729338511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16166,
-        "baumbezeichnung_botanisch": "Pinus sp.",
-        "baumbezeichnung_deutsch": "Föhre",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8333
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419071164120481,
-          47.09165705555769
         ]
       }
     },
