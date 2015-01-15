@@ -1742,6 +1742,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 2861,
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "alt",
+        "bemerkung": "Baum zur Gänze abgestorben, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": "2014",
+        "baumpatenschaft": null,
+        "objectid": 14899
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440930368188955,
+          47.07825469832619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 2809,
         "baumbezeichnung_botanisch": "Magnolia kobus",
         "baumbezeichnung_deutsch": "Baummagnolie",

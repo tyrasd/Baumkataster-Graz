@@ -400,28 +400,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 28269,
-        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
-        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12366
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435911472037425,
-          47.099833275153735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 31361,
         "baumbezeichnung_botanisch": "Fraxinus excelsior",
         "baumbezeichnung_deutsch": "Esche",
