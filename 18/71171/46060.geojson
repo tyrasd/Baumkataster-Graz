@@ -1324,6 +1324,28 @@
     {
       "type": "Feature",
       "properties": {
+        "nummer": 28141,
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumtyp": "Laub",
+        "altersklassifizierung": "mittel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "objectid": 34503
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.479308567051902,
+          47.07685028858177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "nummer": 28142,
         "baumbezeichnung_botanisch": "Robinia pseudoacacia",
         "baumbezeichnung_deutsch": "Scheinakazie",

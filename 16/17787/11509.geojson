@@ -48,28 +48,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10578,
-        "baumbezeichnung_botanisch": "Larix decidua",
-        "baumbezeichnung_deutsch": "Europäische Lärche",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum stockt im Nahbereich der zukünftigen Sportfläche bzw. im Sicherheitsbereich, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 10416
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421281059227995,
-          47.11548194539814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 10584,
         "baumbezeichnung_botanisch": "Acer pseudoplatanus",
         "baumbezeichnung_deutsch": "Bergahorn",
@@ -130,50 +108,6 @@
         "coordinates": [
           15.421258002867576,
           47.115675799230274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10581,
-        "baumbezeichnung_botanisch": "Larix decidua",
-        "baumbezeichnung_deutsch": "Europäische Lärche",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum stockt im Nahbereich der zukünftigen Sportfläche bzw. im Sicherheitsbereich, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 513
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421242470296317,
-          47.115495916753176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10580,
-        "baumbezeichnung_botanisch": "Larix decidua",
-        "baumbezeichnung_deutsch": "Europäische Lärche",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum stockt im Nahbereich der zukünftigen Sportfläche bzw. im Sicherheitsbereich, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 3135
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421244682440733,
-          47.11546856435818
         ]
       }
     },
