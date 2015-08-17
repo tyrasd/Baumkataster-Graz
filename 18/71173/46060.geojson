@@ -554,28 +554,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 28210,
-        "baumbezeichnung_botanisch": "Alnus sp.",
-        "baumbezeichnung_deutsch": "Erle",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34572
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.483684264577667,
-          47.076411713269636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 28211,
         "baumbezeichnung_botanisch": "Alnus sp.",
         "baumbezeichnung_deutsch": "Erle",

@@ -5680,28 +5680,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31706,
-        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
-        "baumbezeichnung_deutsch": "Christusdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2014",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 31921
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445683454138063,
-          47.07480050186948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "nummer": 1992,
         "baumbezeichnung_botanisch": "Gleditsia triacanthos",
         "baumbezeichnung_deutsch": "Christusdorn",
