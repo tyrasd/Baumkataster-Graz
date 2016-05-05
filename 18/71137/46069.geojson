@@ -4,110 +4,88 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30111,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1618
+        "NUMMER": 30111,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1618
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.38431123366428,
-          47.05942711622198
+          15.38430565787112,
+          47.059427189397674
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30110,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1619
+        "NUMMER": 30110,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1619
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.384372748312932,
-          47.05938870023416
+          15.384367172168002,
+          47.05938877355195
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30112,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1620
+        "NUMMER": 30112,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1620
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.384171004425909,
-          47.05952241781365
+          15.38416542944604,
+          47.05952249062839
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30113,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1621
+        "NUMMER": 30113,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1621
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.384103875736482,
-          47.059563112257145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30114,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34610
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.384017715055748,
-          47.05960999537697
+          15.384098301138678,
+          47.05956318492272
         ]
       }
     }

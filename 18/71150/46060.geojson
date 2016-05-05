@@ -4,176 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12509,
-        "baumbezeichnung_botanisch": "Tilia tomentosa",
-        "baumbezeichnung_deutsch": "Silberlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 416
+        "NUMMER": 12509,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia tomentosa",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Silberlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1983",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 416
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420632422464926,
-          47.07741919281145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29229,
-        "baumbezeichnung_botanisch": "Castanea sativa",
-        "baumbezeichnung_deutsch": "Eßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9439
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42174899449124,
-          47.075866711542716
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29230,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9440
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421796649294537,
-          47.075827857267775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29231,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9441
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42172611412923,
-          47.07583086063032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29232,
-        "baumbezeichnung_botanisch": "Picea pungens",
-        "baumbezeichnung_deutsch": "Stechfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9442
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421784300361518,
-          47.07578674017362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12506,
-        "baumbezeichnung_botanisch": "Tilia tomentosa",
-        "baumbezeichnung_deutsch": "Silberlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22420
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421021993656279,
-          47.07696375506371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12765,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23663
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421450017059179,
-          47.07675694143808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12508,
-        "baumbezeichnung_botanisch": "Tilia tomentosa",
-        "baumbezeichnung_deutsch": "Silberlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20939
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420742877759691,
-          47.077285734181885
+          15.420626698835022,
+          47.07741915468323
         ]
       }
     }

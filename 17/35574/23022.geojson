@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21889,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25558
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415781146221311,
-          47.103794623076226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Naturdenkmal": true,
         "Naturdenkmal_Eigentum": "privat",
         "nummer": "Naturdenkmal-54",

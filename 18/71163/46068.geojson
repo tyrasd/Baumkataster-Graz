@@ -4,66 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6177,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1133
+        "NUMMER": 6177,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1985",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1133
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.457693128964936,
-          47.06091785146892
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19904,
-        "baumbezeichnung_botanisch": "Tilia cordata 'Erecta'",
-        "baumbezeichnung_deutsch": "Winterlinde Erecta",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1996",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2943
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.457350687014594,
-          47.060809352601154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6178,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15624
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.457480370427044,
-          47.06084935498932
+          15.457687203254302,
+          47.06091786711992
         ]
       }
     }

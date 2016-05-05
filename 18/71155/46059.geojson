@@ -4,814 +4,88 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7280,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 138
+        "NUMMER": 7280,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 138
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.43407188080428,
-          47.07800404932509
+          15.434066093527795,
+          47.07800399917396
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24790,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 139
+        "NUMMER": 24790,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2005",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 139
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.434140001515944,
-          47.07824166924892
+          15.434134214261528,
+          47.07824161791082
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7278,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 594
+        "NUMMER": 7278,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 594
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.434143074530734,
-          47.07784871903148
+          15.434137286684376,
+          47.07784866957691
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7284,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 671
+        "NUMMER": 7284,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 671
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.43389984246543,
-          47.07835536420959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11496,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1921
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433438079753827,
-          47.07773272875812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31402,
-        "baumbezeichnung_botanisch": "Quercus rubra",
-        "baumbezeichnung_deutsch": "Roteiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3384
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433597112325137,
-          47.07947081537572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7289,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5928
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434265812352796,
-          47.07804219572953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7287,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5929
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434342616744297,
-          47.07778398507457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7303,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11550
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433633067825292,
-          47.07899787658757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7276,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11604
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434193004537528,
-          47.077670332334925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7295,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11761
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433899927838365,
-          47.078632647244255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11499,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6619
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43329966152351,
-          47.078013489488505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7282,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17472
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433999689977677,
-          47.078150325362735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7301,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17569
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433394382778262,
-          47.07917371111162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7288,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18571
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434325829028978,
-          47.07794625008235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7294,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14875
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433958405056169,
-          47.07853281278955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11498,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12479
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433345967900758,
-          47.077917823052296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7277,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14079
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434191232008091,
-          47.07777145907638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7285,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12643
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43385095391604,
-          47.078458944178735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7298,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24522
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433563888727239,
-          47.07892747558904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7300,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23931
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433446995342683,
-          47.07908907735593
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7293,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22563
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434024960951856,
-          47.07843411235714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7308,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22718
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43337366725823,
-          47.07940693415051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11497,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23570
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433394183584184,
-          47.07782214466155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7283,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19038
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433949531069878,
-          47.07825430014843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7305,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20178
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433529242585895,
-          47.07916381810536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7306,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19523
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43347888186651,
-          47.07924454779225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7279,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21144
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434112290909107,
-          47.07792842215284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7290,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20505
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434205867774756,
-          47.07813853769531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7304,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21329
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43358199423572,
-          47.07908029177881
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7302,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21331
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433685492124402,
-          47.0789142217004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7296,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21332
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433634991505047,
-          47.07875375627314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7292,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21333
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434084411594714,
-          47.07833586863747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31409,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28241
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433426821359749,
-          47.079327674738686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7286,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29079
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433801926166815,
-          47.07856139864351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7281,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29177
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434035340063003,
-          47.078077440201845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11495,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25506
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433483782548098,
-          47.077637687160106
+          15.433894056530718,
+          47.07835531249053
         ]
       }
     }

@@ -4,22 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 8035,
-        "baumbezeichnung_botanisch": "Prunus domestica",
-        "baumbezeichnung_deutsch": "Pflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 272
+        "NUMMER": 8035,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus domestica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Pflaume",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 272
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472116809977898,
-          47.03845561779099
+          15.472110782146563,
+          47.03845573133983
         ]
       }
     }

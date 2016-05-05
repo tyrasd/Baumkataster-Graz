@@ -4,66 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 17376,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 640
+        "NUMMER": 17376,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 640
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.410409337135107,
-          47.048552083269456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17374,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7029
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.410290671897087,
-          47.048552904924115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17375,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18946
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.410413734276391,
-          47.04864036195202
+          15.410403620116464,
+          47.04855219069898
         ]
       }
     }

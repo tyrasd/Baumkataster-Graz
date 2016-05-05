@@ -4,1518 +4,220 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14629,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 590
+        "NUMMER": 14629,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Malus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Apfelbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 590
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426035295852254,
-          47.09313656617448
+          15.426029569388229,
+          47.093136448915004
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14532,
-        "baumbezeichnung_botanisch": "Juniperus communis 'Pyramidalis'",
-        "baumbezeichnung_deutsch": "Säulenwacholder",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 774
+        "NUMMER": 14532,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Juniperus communis 'Pyramidalis'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenwacholder",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 774
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42489299345392,
-          47.09270595448777
+          15.424887271841296,
+          47.092705840077734
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14631,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 778
+        "NUMMER": 14631,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Kirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 778
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.425755151903699,
-          47.093263049886886
+          15.425749426970558,
+          47.09326293221245
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14551,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1189
+        "NUMMER": 14551,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Kirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1189
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424994313766343,
-          47.093395363060836
+          15.424988592680526,
+          47.093395245273
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14573,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1225
+        "NUMMER": 14573,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1225
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426253321394029,
-          47.092784343866505
+          15.426247593365602,
+          47.09278422814781
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27706,
-        "baumbezeichnung_botanisch": "Prunus subhirtella 'Accolade'",
-        "baumbezeichnung_deutsch": "Bergkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1385
+        "NUMMER": 27706,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus subhirtella 'Accolade'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2008",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1385
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42497894428012,
-          47.09263906565501
+          15.424973222156535,
+          47.09263895150705
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14542,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1083
+        "NUMMER": 14542,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Kirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1083
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.425215631332199,
-          47.09312683107994
+          15.425209908789148,
+          47.09312671442901
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14550,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1589
+        "NUMMER": 14550,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Kirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1589
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424952901312604,
-          47.09333711439096
+          15.42494718034001,
+          47.093336996911034
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14575,
-        "baumbezeichnung_botanisch": "Acer saccharinum",
-        "baumbezeichnung_deutsch": "Zuckerahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1590
+        "NUMMER": 14575,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer saccharinum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Zuckerahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1590
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426162006561293,
-          47.092613076492825
+          15.426156278719578,
+          47.0926129616586
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14574,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1650
+        "NUMMER": 14574,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1650
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426272987412633,
-          47.092736233515915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14608,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4639
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42523161436886,
-          47.09357101101685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14544,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5654
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425130283601005,
-          47.09315833022172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14597,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5664
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425337850190399,
-          47.09286716407897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14599,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5665
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425316489998426,
-          47.092738283881914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14600,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11880
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425273213645916,
-          47.09278942382026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14628,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11181
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426158824464832,
-          47.09307641014557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14566,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10631
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425120414729628,
-          47.0934607222915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27709,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9958
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424832490927738,
-          47.09349060867847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14563,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11623
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42499080128884,
-          47.093601272502916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14588,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17674
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425676193193459,
-          47.093024665674605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14540,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17675
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42485395714691,
-          47.09301336669174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14594,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17676
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425566559509582,
-          47.092914316961235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14584,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17677
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42597326278949,
-          47.092769993137786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14587,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17678
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425694265222438,
-          47.092986730557534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14590,
-        "baumbezeichnung_botanisch": "Acer saccharinum",
-        "baumbezeichnung_deutsch": "Zuckerahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17679
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425756379259651,
-          47.09281824763247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14583,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Befall Falscher Zunderschwamm im gesamten Starkastbereich - Bruchgefahr, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17680
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425853986310921,
-          47.09261196799816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14585,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17681
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425900536278103,
-          47.09274323500687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14589,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17682
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425617486052243,
-          47.09299325953162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14591,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17683
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425786075210784,
-          47.09291606210277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14593,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17684
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425673683370295,
-          47.092967527090366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14586,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17685
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425742478002572,
-          47.09302043333081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14602,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18679
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425175818247528,
-          47.092698551921394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14569,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17915
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425116855072828,
-          47.0933931203898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14627,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16452
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426234803588034,
-          47.09304161827065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14601,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17262
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425217724261937,
-          47.09272784484577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14564,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15720
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425024765578016,
-          47.093543622629404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27274,
-        "baumbezeichnung_botanisch": "Celtis sp.",
-        "baumbezeichnung_deutsch": "Zürgelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18045
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429302121062879,
-          47.09379048846344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14596,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12699
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425276004067225,
-          47.092902067767234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14545,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13624
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425072105034522,
-          47.09325440059539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14552,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13625
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425021811028195,
-          47.093440630880195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14555,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14451
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424814689695976,
-          47.09342932940677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14557,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14154
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424859494090681,
-          47.093564832197984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14630,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12614
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425845045645927,
-          47.09324123991214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14549,
-        "baumbezeichnung_botanisch": "Pyrus sp.",
-        "baumbezeichnung_deutsch": "Birne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12648
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424842471210413,
-          47.093181782453975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14622,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12649
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425981610342072,
-          47.09324554374501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14595,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13446
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425400897385618,
-          47.09303820731371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14543,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14220
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42513160055689,
-          47.09308111451013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14632,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14221
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425697248533268,
-          47.09334303419957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14567,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22227
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425318773181898,
-          47.093433339529255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27707,
-        "baumbezeichnung_botanisch": "Acer monspessulanum",
-        "baumbezeichnung_deutsch": "Felsenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22401
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42483497964208,
-          47.09279237256032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14525,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23901
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42507692225402,
-          47.09257343729664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27704,
-        "baumbezeichnung_botanisch": "Prunus subhirtella 'Accolade'",
-        "baumbezeichnung_deutsch": "Bergkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23300
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425016961364683,
-          47.09262006111651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14598,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21963
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425413939244132,
-          47.09282593855531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23060,
-        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23716
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425367199609273,
-          47.093356498474336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14554,
-        "baumbezeichnung_botanisch": "Pyrus sp.",
-        "baumbezeichnung_deutsch": "Birne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20015
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424926382607797,
-          47.093510662761496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22897,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20800
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425411895644155,
-          47.09349843525334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14558,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21845
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424806738935867,
-          47.09361911496225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14633,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20846
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425578594045412,
-          47.09339357498462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14572,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20155
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426337900669749,
-          47.09279788684306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27705,
-        "baumbezeichnung_botanisch": "Prunus subhirtella 'Accolade'",
-        "baumbezeichnung_deutsch": "Bergkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21880
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425021178088112,
-          47.09264905516101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14541,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20198
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425254581395949,
-          47.0930531322265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14562,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28586
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424887102425119,
-          47.09360366496736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14626,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28587
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426505907453118,
-          47.09289253615076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14605,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34182
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425291416465157,
-          47.09262642698061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27273,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429434107032701,
-          47.093814155160864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14570,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25514
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425622200993805,
-          47.09332313056852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14533,
-        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
-        "baumbezeichnung_deutsch": "Scheinzypresse",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26489
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424835638325712,
-          47.09275376470534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22899,
-        "baumbezeichnung_botanisch": "Sambucus nigra",
-        "baumbezeichnung_deutsch": "Schwarzer Hollunder",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26695
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42488870389237,
-          47.09323363445366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14531,
-        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
-        "baumbezeichnung_deutsch": "Scheinzypresse",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25189
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424931010601254,
-          47.09268695087794
+          15.426267259219085,
+          47.09273611801461
         ]
       }
     }

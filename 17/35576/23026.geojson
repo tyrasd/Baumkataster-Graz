@@ -4,1144 +4,132 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10644,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 214
+        "NUMMER": 10644,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer rubrum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 214
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.429973369614402,
-          47.091334753238115
+          15.429967621595996,
+          47.09133464192593
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 23732,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 747
+        "NUMMER": 23732,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 747
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42749005825828,
-          47.09029531047949
+          15.427484320634534,
+          47.090295205857416
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14581,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1191
+        "NUMMER": 14581,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Crataegus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Weißdorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1191
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.425527180255317,
-          47.092263729328074
+          15.425521454947992,
+          47.09226361660546
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14582,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1192
+        "NUMMER": 14582,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1192
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.425578013761086,
-          47.09232205270678
+          15.425572288295424,
+          47.092321939669446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14576,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Baum komplett abgestorben, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 1563
+        "NUMMER": 14576,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": "Baum komplett abgestorben, Ersatzpflanzung geplant",
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": "2014",
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1563
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42591972100057,
-          47.09245348028051
+          15.425913994087523,
+          47.092453366378244
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14578,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1591
+        "NUMMER": 14578,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1591
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.425798496514105,
-          47.09237850808014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3228,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2559
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42510720877113,
-          47.09044651777145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10647,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2586
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42968787658113,
-          47.09135285874688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5752,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4033
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427917685342079,
-          47.08968703188625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29962,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2010",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4064
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427651239046327,
-          47.09006860300983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29960,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2010",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4234
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428648919251327,
-          47.0889050443616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29961,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2010",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4246
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427379827861262,
-          47.09044736991265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29244,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10079
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425523408082062,
-          47.08884698641143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10646,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11820
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42975280200236,
-          47.09135555841085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29248,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7930
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425935283798418,
-          47.08884760081218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29864,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Diversifolia'",
-        "baumbezeichnung_deutsch": "Einblättrige Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2010",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9071
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424858919967361,
-          47.090700424951336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3221,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8433
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42547420193762,
-          47.0900696829851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10643,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6054
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43008722234821,
-          47.09130961333402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3230,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6055
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424978311777922,
-          47.09058688573574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3231,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6056
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424941370681193,
-          47.09061918093871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5755,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6061
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428341792689032,
-          47.08907805810843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10642,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6083
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430056347409232,
-          47.09128259975943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14515,
-        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
-        "baumbezeichnung_deutsch": "Echte Blutpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18256
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42527233889822,
-          47.09241683964937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3216,
-        "baumbezeichnung_botanisch": "Sorbus aria",
-        "baumbezeichnung_deutsch": "Mehlbeere",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17002
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42590018582074,
-          47.089298288591024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5745,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17739
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427544936966207,
-          47.09022120738738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27699,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17740
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428494286439667,
-          47.08886332134752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23733,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18677
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427431016369702,
-          47.090373662161426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3226,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18470
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425220063977935,
-          47.09032156553513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5738,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18032
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428597310016146,
-          47.08897672275008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24030,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15093
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425916670283812,
-          47.089264938176214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14577,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15200
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425802494334906,
-          47.092420370489705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5750,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12981
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42781078696645,
-          47.089840095035804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3227,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12619
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425164881859356,
-          47.09038476668223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3225,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22248
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425293695774648,
-          47.09023917171103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3223,
-        "baumbezeichnung_botanisch": "Ailanthus altissima",
-        "baumbezeichnung_deutsch": "Götterbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23076
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42538358525817,
-          47.09011859715072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24028,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24654
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425518335301307,
-          47.089972374499055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5756,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24823
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428395608086518,
-          47.08900275342149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10645,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23261
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42988327964026,
-          47.09135118495617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14523,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24053
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425115708222247,
-          47.09254595110247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3224,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24282
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425367129971779,
-          47.09016294688141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3229,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23562
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425037972418194,
-          47.09051518399391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5754,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23563
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4282893063071,
-          47.089155360314635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5751,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23564
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427868081544972,
-          47.089755609952014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12324,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1990",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23618
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42854346115985,
-          47.089054015176146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14579,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20845
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425700444223926,
-          47.09232624449841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5746,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21780
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427597449314948,
-          47.09014211752139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21789,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1999",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28440
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428182545055755,
-          47.08930637133647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3219,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28441
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425546701084528,
-          47.089906117519796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31164,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29147
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425725183993716,
-          47.089607937896744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14580,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28185
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425597680194551,
-          47.09227394337067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 5748,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26642
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427703527656085,
-          47.08999149922784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24029,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26105
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425876892329175,
-          47.08934338730897
+          15.425792770072867,
+          47.09237839462076
         ]
       }
     }

@@ -4,154 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24509,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 196
+        "NUMMER": 24509,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus avium",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Vogelkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 196
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.415904558630055,
-          47.04433925570819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13928,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4632
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415312863536696,
-          47.044296670963206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30103,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9754
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416097431746476,
-          47.044344498944405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13925,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21203
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416559540277422,
-          47.04423457174057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13927,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19725
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415387045633278,
-          47.04433681549388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31091,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28985
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41548969112351,
-          47.044305071215845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13924,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Stammverletzung ostseitig, oberer + mittlerer Kronenbereich stark zurückgetrocknet, nurmehr vereinzelt Austriebe vorhanden, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26625
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416547532526788,
-          47.04433916250837
+          15.415898809054903,
+          47.04433937958096
         ]
       }
     }

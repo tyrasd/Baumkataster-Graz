@@ -4,112 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6799,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5856
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461017206105735,
-          47.066363738124565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6274,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10788,
         "Naturdenkmal": true,
-        "Naturdenkmal_Eigentum": "öffentlich"
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-88",
+        "objectid": "Naturdenkmal-94",
+        "baumbezeichnung_deutsch": "Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.462287545767314,
-          47.06587493071454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6756,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14493
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460835653821475,
-          47.06634040254694
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6800,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22704
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461016529852031,
-          47.06630049744042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6755,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25754
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460831713561975,
-          47.06627551779575
+          15.462289627523992,
+          47.065854122054915
         ]
       }
     }

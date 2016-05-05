@@ -4,44 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12845,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 92
+        "NUMMER": 12845,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 92
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.421852297202319,
-          47.08491214244852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 26813,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22426
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421438748961965,
-          47.084511221895944
+          15.421846578731476,
+          47.08491206752506
         ]
       }
     }

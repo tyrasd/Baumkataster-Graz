@@ -4,46 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27460,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14385,
         "Naturdenkmal": true,
-        "Naturdenkmal_Eigentum": "privat"
+        "Naturdenkmal_Eigentum": "privat",
+        "nummer": "Naturdenkmal-112",
+        "objectid": "Naturdenkmal-78",
+        "baumbezeichnung_deutsch": "Eiche",
+        "baumbezeichnung_botanisch": null
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.469273630932197,
-          47.041200205865714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23335,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24051
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.469521512155945,
-          47.04146062200955
+          15.469297854008754,
+          47.041209314209
         ]
       }
     }

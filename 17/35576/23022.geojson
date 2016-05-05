@@ -4,88 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27052,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1030
+        "NUMMER": 27052,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1030
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.425901087980384,
-          47.106378560284206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10598,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4589
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424827821490066,
-          47.10752379188111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10597,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21730
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424846592516802,
-          47.10751856220903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10596,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28444
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424844768616671,
-          47.1075042365912
+          15.425895381622638,
+          47.1063783795713
         ]
       }
     }

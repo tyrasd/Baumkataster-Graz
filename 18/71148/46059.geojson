@@ -4,396 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12013,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 422
+        "NUMMER": 12013,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 422
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.416346649420536,
-          47.07868234665019
+          15.416340948218854,
+          47.078682305400484
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27327,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1101
+        "NUMMER": 27327,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2007",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1101
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.416512462903087,
-          47.07826919922241
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12018,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10880
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416176437414121,
-          47.07914463189796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12010,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17899
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416435011018597,
-          47.078475359827316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12009,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12883
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416460952837904,
-          47.07840639596598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12024,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14497
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41600909418921,
-          47.07945878910153
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23077,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13901
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416413818895869,
-          47.078563132768835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12017,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13909
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416229827807886,
-          47.07895917648884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12016,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14722
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416262532707666,
-          47.07888747852776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12014,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14827
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416319805832202,
-          47.07875013387882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12015,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14141
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416290514922744,
-          47.07882239898477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12020,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23089
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41610872519457,
-          47.07922454804855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12006,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24621
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416547722808184,
-          47.07820002592126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12019,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24890
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416144654033209,
-          47.07919506296389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12008,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21581
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416490708001666,
-          47.07833773257367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12021,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21324
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416109403898519,
-          47.079269259063196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31442,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28272
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416375088311932,
-          47.07861367271883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12023,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28172
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41603925042054,
-          47.07938219629663
+          15.41650676029803,
+          47.07826915984168
         ]
       }
     }

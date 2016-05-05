@@ -4,704 +4,110 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22242,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1060
+        "NUMMER": 22242,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1060
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.437927070561726,
-          47.045417336571255
+          15.437921216929997,
+          47.04541744015118
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22237,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1324
+        "NUMMER": 22237,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1324
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.437781877343149,
-          47.045459036897476
+          15.437776024469118,
+          47.0454591403769
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22248,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1325
+        "NUMMER": 22248,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1325
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.438117681772423,
-          47.045366472705034
+          15.43811182715168,
+          47.04536657639828
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22255,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1336
+        "NUMMER": 22255,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1336
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.438357129767583,
-          47.04531004024471
+          15.43835127391538,
+          47.045310144044485
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22257,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1337
+        "NUMMER": 22257,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1337
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.438440860580029,
-          47.045299987079765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22246,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1835
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438054758732578,
-          47.045381448152064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22252,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3026
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438241846924981,
-          47.04533293656019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22239,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11872
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437837818851152,
-          47.04544519598852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 26637,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2006",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12179
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437960303506665,
-          47.045408077697935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22234,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18552
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43769092337128,
-          47.045484502733856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22238,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18553
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437815110338615,
-          47.04544977806671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22251,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18450
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438205153840775,
-          47.045340978326564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22254,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17423
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438309972180875,
-          47.04531919095549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22247,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14323
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438086249557378,
-          47.04537217557895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22245,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14447
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438021505831363,
-          47.045391897851644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22233,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12923
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437669895649055,
-          47.04549266813826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22249,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22927
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438145691072858,
-          47.04535717191278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27681,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20692
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438384336317272,
-          47.04579035245827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27685,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19927
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437752866421995,
-          47.04565800017136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27686,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19928
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437653868951301,
-          47.04563386668758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27687,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19931
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437548625457858,
-          47.04561180785425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22244,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20382
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437991774403898,
-          47.04539999415082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22236,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1322
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437753906570869,
-          47.045465957791315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22240,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18544
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437864107440408,
-          47.04543469261027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22241,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19681
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437892078182418,
-          47.04542777168925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22256,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5663
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438397244429037,
-          47.04530559542197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22258,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11873
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438475812843693,
-          47.04529193159123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22259,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20652
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438503743507994,
-          47.0452873903183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22260,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26267
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438533413609614,
-          47.0452828626735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27682,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25425
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438279056586156,
-          47.04577041686422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27683,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26620
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43817074033327,
-          47.04574621076023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27684,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26621
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437845723498059,
-          47.045677838798895
+          15.438435004311408,
+          47.045300090870334
         ]
       }
     },

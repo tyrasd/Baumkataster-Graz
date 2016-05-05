@@ -4,682 +4,88 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 26592,
-        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenhainbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2006",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1289
+        "NUMMER": 26592,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenhainbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2006",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1289
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.467038922387768,
-          47.06159793691188
+          15.46703295283336,
+          47.06159794290033
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22656,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1290
+        "NUMMER": 22656,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Pinus sylvestris",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Kiefer",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1290
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.467321126546965,
-          47.06125623877945
+          15.467315155137653,
+          47.06125624621419
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22667,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1291
+        "NUMMER": 22667,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1291
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.466999027293067,
-          47.061539270311314
+          15.466993057844071,
+          47.061539276608556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22641,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1331
+        "NUMMER": 22641,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1331
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.467337733008893,
-          47.061376899129435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22644,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3602
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467408712614745,
-          47.06135079322533
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22657,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 4319
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467304149823969,
-          47.06127260429445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22663,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10762
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467219639766244,
-          47.06133159520366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22647,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11592
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46745227740456,
-          47.06129783492744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22655,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11593
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467289916555792,
-          47.061234432632936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22666,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8389
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46706497461922,
-          47.06148013779268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 26594,
-        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenhainbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2006",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8428
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467431278665112,
-          47.061333200886885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22659,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8540
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467270362579626,
-          47.06129518560582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22665,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 16007
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467196969265943,
-          47.06135553005339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22664,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14782
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46721015065938,
-          47.06134421169162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22658,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 13331
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46728725687075,
-          47.06128389450671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22669,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24165
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.466899293529572,
-          47.06162098399866
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22651,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23478
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467307573468126,
-          47.061176202781155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22661,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22920
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46725348890184,
-          47.06130520765001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22660,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20691
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467224362769981,
-          47.06126946139715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22643,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20813
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467369623269713,
-          47.06135684002561
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22652,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20410
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467340762894787,
-          47.06119041138618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31427,
-        "baumbezeichnung_botanisch": "Liquidambar styraciflua 'Moraine'",
-        "baumbezeichnung_deutsch": "Amberbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28257
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.464601891669753,
-          47.060321093199605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31428,
-        "baumbezeichnung_botanisch": "Liquidambar styraciflua 'Moraine'",
-        "baumbezeichnung_deutsch": "Amberbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2013",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28258
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.464583862631622,
-          47.06020452336458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22649,
-        "baumbezeichnung_botanisch": "Populus sp.",
-        "baumbezeichnung_deutsch": "Pappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29256
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46742847013798,
-          47.061279771166795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31120,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28604
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.464287516087328,
-          47.06052708071104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31122,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28606
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.464450676766287,
-          47.0604477176905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31121,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28609
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.464387346486507,
-          47.06048259535214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31119,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28611
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.464061058969586,
-          47.06025328867088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31051,
-        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenhainbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28883
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467286494843606,
-          47.06144502427211
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22653,
-        "baumbezeichnung_botanisch": "Prunus cerasifera",
-        "baumbezeichnung_deutsch": "Kirschpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26052
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467321724288071,
-          47.06121944885164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22662,
-        "baumbezeichnung_botanisch": "Pinus sylvestris",
-        "baumbezeichnung_deutsch": "Gemeine Kiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": "2012",
-        "baumpatenschaft": null,
-        "objectid": 26053
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.467234697569802,
-          47.06131902186807
+          15.46733176169678,
+          47.06137690597388
         ]
       }
     }

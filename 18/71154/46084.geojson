@@ -4,220 +4,198 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29589,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 236
+        "NUMMER": 29589,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 236
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431629011360755,
-          47.0313105405783
+          15.431623167219746,
+          47.031310716177714
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29590,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 237
+        "NUMMER": 29590,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 237
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431629779498707,
-          47.031359757333355
+          15.431623935426305,
+          47.03135993269603
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29591,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 255
+        "NUMMER": 29591,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 255
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431628874179658,
-          47.031413335212115
+          15.431623030190291,
+          47.0314135103183
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29592,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 256
+        "NUMMER": 29592,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 256
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.43163127881698,
-          47.0314603781716
+          15.43162543488518,
+          47.03146055305039
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29594,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 257
+        "NUMMER": 29594,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 257
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431640791775491,
-          47.03155996849888
+          15.431634947944337,
+          47.03156014289317
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29595,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 258
+        "NUMMER": 29595,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 258
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431641541444659,
-          47.0316102789165
+          15.431635697683811,
+          47.03161045306884
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29596,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 259
+        "NUMMER": 29596,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 259
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431637455487918,
-          47.031662737857935
+          15.431631611823715,
+          47.031662911761345
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29597,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 260
+        "NUMMER": 29597,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 260
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431633333877707,
-          47.0317173841384
+          15.431627490313543,
+          47.031717557782386
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29614,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 261
+        "NUMMER": 29614,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 261
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431328443194873,
-          47.03083027495346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31095,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28989
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431635226274134,
-          47.03151071385024
+          15.431322599789889,
+          47.03083045306402
         ]
       }
     }

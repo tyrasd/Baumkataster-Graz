@@ -4,1804 +4,528 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30198,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 125
+        "NUMMER": 30198,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 125
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42373138135726,
-          47.05094316832901
+          15.423725603942017,
+          47.050943255133426
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13534,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 478
+        "NUMMER": 13534,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 478
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42395120919456,
-          47.05104253476857
+          15.423945430870734,
+          47.0510426209452
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13507,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 560
+        "NUMMER": 13507,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 560
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.423692297609534,
-          47.05080175038073
+          15.423686520173977,
+          47.05080183789065
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 13539,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 561
+        "NUMMER": 13539,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 561
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42343433490818,
-          47.050743834865024
+          15.42342855862508,
+          47.05074392282998
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20049,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 563
+        "NUMMER": 20049,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1986",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 563
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420450232928669,
-          47.050571492822435
+          15.420444470708443,
+          47.050571583663356
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29623,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 328
+        "NUMMER": 29623,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 328
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420163498889186,
-          47.04923124097224
+          15.420157736074541,
+          47.04923133844211
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29624,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 329
+        "NUMMER": 29624,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 329
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420147766390162,
-          47.04929514694667
+          15.420142003744932,
+          47.04929524412066
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29625,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 330
+        "NUMMER": 29625,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 330
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420139386894606,
-          47.04935711212007
+          15.420133624380659,
+          47.04935720900243
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29626,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 331
+        "NUMMER": 29626,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 331
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420210862736795,
-          47.04937169106469
+          15.420205099901375,
+          47.049371787828
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29627,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 332
+        "NUMMER": 29627,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 332
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420313144288578,
-          47.049382514412244
+          15.420307380978388,
+          47.04938261105339
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29628,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 333
+        "NUMMER": 29628,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 333
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420380316136711,
-          47.04939205573844
+          15.420374552518291,
+          47.04939215228767
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29629,
-        "baumbezeichnung_botanisch": "Quercus rubra",
-        "baumbezeichnung_deutsch": "Roteiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 334
+        "NUMMER": 29629,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus rubra",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Roteiche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 334
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420297849687099,
-          47.049335367358424
+          15.420292086380979,
+          47.049335464236336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29622,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 335
+        "NUMMER": 29622,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 335
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420105280618724,
-          47.04921176496255
+          15.420099518054743,
+          47.04921186256586
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29621,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 336
+        "NUMMER": 29621,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 336
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.420041276658607,
-          47.04918824160401
+          15.420035514367108,
+          47.049188339364164
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29620,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 337
+        "NUMMER": 29620,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 337
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419981559663638,
-          47.049170754957274
+          15.419975797632922,
+          47.049170852842366
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29619,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 338
+        "NUMMER": 29619,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 338
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419917521550136,
-          47.0491492317726
+          15.41991175979499,
+          47.049149329804955
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29618,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 339
+        "NUMMER": 29618,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 339
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.41985496384732,
-          47.04912672013957
+          15.419849202359202,
+          47.04912681832294
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29617,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 340
+        "NUMMER": 29617,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 340
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419799586575405,
-          47.04911226979727
+          15.419793825331714,
+          47.04911236808801
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29616,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 341
+        "NUMMER": 29616,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 341
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419750116288371,
-          47.04909486502547
+          15.41974435525642,
+          47.0490949634337
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29637,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 345
+        "NUMMER": 29637,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 345
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419348208727106,
-          47.04787892911561
+          15.4193424478359,
+          47.04787903363537
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29636,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 346
+        "NUMMER": 29636,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 346
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419341612741821,
-          47.04792209790872
+          15.41933585194571,
+          47.04792220222582
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29635,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 347
+        "NUMMER": 29635,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 347
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419330280172229,
-          47.047968431044886
+          15.41932451949859,
+          47.047968535147405
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29634,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 348
+        "NUMMER": 29634,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 348
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419324925117817,
-          47.04800760873772
+          15.41931916452746,
+          47.04800771265591
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29633,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 349
+        "NUMMER": 29633,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 349
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.41931944532691,
-          47.048053987832226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24048,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3594
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423354622196594,
-          47.05068819429916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13547,
-        "baumbezeichnung_botanisch": "Tilia tomentosa",
-        "baumbezeichnung_deutsch": "Silberlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3700
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422793096643579,
-          47.05029799692704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13884,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3721
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424650313741717,
-          47.04882331004785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24049,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4186
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423272138984336,
-          47.05063450152356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24047,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5446
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424425947673676,
-          47.0511636569176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13510,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5464
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423444680298303,
-          47.050628069100895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13880,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5466
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424695865395943,
-          47.04869253264966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21785,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1999",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5301
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422713737931895,
-          47.05024019990256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13887,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5309
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424603817206268,
-          47.04895391799144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13503,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11230
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423979402294718,
-          47.05095516482298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13502,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12210
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424047481746403,
-          47.05097993996863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20054,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Ernst + Helene Mattl, Norbert Hahn, Manfred + Roswitha Rössl",
-        "objectid": 10772
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420453189346532,
-          47.05020118710637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23530,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11585
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421860729226285,
-          47.050806623982545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23531,
-        "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11635
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421841259211085,
-          47.05103939640137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13531,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10941
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424652280519375,
-          47.051202698521216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20045,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11011
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420449060104579,
-          47.050862970500965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23532,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8426
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421835442746112,
-          47.05115316617839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20046,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Siegfried und Elisabeth Fuchshofer",
-        "objectid": 7877
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420453202255379,
-          47.05080628036045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20048,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Maria + Josef Stangl, Emil Herker, Dr. Hans + Waltraud Schöggl",
-        "objectid": 7878
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420450496910313,
-          47.05064986946735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13870,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7879
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424798588652878,
-          47.048453369193744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13549,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15902
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422626047502296,
-          47.05017630962149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13878,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17463
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42471942031975,
-          47.048626983733925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13514,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16770
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422887662806605,
-          47.05023822294882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13885,
-        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
-        "baumbezeichnung_deutsch": "Christusdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18363
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424735891780957,
-          47.048892012364185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13537,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18644
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42360867001209,
-          47.05086371704628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13874,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18010
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42476759762292,
-          47.048497333602185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20047,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15219
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42044873495917,
-          47.05072742934463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13511,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12797
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423353466531104,
-          47.05056387245154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13876,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424743860169166,
-          47.04856124396302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13535,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15277
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423897958012432,
-          47.05101953279775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13505,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13864
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423838205134876,
-          47.05088928409894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13889,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13866
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424734193794459,
-          47.04903207997647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23533,
-        "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14637
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421835831043374,
-          47.05135698081856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20052,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15005
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420453047348007,
-          47.05035018124865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20053,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23108
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420453426057136,
-          47.050272700256535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13499,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23111
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424353158690064,
-          47.05105843707951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13881,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23987
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424672660367909,
-          47.04875685201237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13495,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24996
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424791839718095,
-          47.05113926028618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20050,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23684
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420451747678005,
-          47.05049760997299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23529,
-        "baumbezeichnung_botanisch": "Acer platanoides 'Olmstedt'",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24424
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.421852324071425,
-          47.050618627109195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24723,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23714
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424527242530278,
-          47.05118011487667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13888,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19858
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424646604362428,
-          47.04901398622996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20055,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20660
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420455926219802,
-          47.05012817755709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13551,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20663
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422087322171677,
-          47.049967371530705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13512,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20785
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423049225672456,
-          47.0503513747251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13504,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21378
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423913955842995,
-          47.05092494157586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20051,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Wilhelm + Gerda Pflanzl, Elfriede Rohrer, Alfred + Grete Kargl",
-        "objectid": 21381
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420453627636515,
-          47.05042391894066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31063,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28894
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422650310895346,
-          47.050074084670456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31064,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28895
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42258126070058,
-          47.05002611150737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31065,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28896
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422496830674907,
-          47.0500903647247
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30437,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27601
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424242729718928,
-          47.051038937836545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30436,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27609
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422966539370119,
-          47.0502942079873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31398,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27187
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419898180259866,
-          47.05010999593055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31399,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27189
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419841333942626,
-          47.0501761796685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27770,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27221
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.422945658600344,
-          47.05041679525784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13886,
-        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
-        "baumbezeichnung_deutsch": "Christusdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25184
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424705428487375,
-          47.048933795137074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23735,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27362
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424766435341088,
-          47.04957660655724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30836,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 27391
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42352072253773,
-          47.050807057491795
+          15.419313684831009,
+          47.04805409153154
         ]
       }
     }

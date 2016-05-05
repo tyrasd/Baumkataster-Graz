@@ -4,132 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 18526,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 512
+        "NUMMER": 18526,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Salix alba 'Tristis'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Trauerweide",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 512
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.461112266359681,
-          47.08475710959462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7670,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17256
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461400853441273,
-          47.08394446820761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7673,
-        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
-        "baumbezeichnung_deutsch": "Trauerweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17257
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461272490859596,
-          47.08382889681386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7672,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17988
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46133912306291,
-          47.083864829294065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7671,
-        "baumbezeichnung_botanisch": "Corylus avellana",
-        "baumbezeichnung_deutsch": "Waldhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15104
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461370993372958,
-          47.08390535085194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27781,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Brandkrustenpilzbefall im unteren Stamm- und Wurzelbereich, stark fortgeschrittene Holzzersetzung in den letzten Jahren, Standsicherheit nichtmehr gegeben",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 2276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461472013404455,
-          47.08436315821279
+          15.461106359204765,
+          47.08475700852075
         ]
       }
     },

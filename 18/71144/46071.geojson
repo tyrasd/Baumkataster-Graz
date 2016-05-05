@@ -4,154 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 16743,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "trotz regelmäßig durchgeführter Baumpflege Kronenbereich bis in den Grobastbereich zurückgetrocknet, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 197
+        "NUMMER": 16743,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": "trotz regelmäßig durchgeführter Baumpflege Kronenbereich bis in den Grobastbereich zurückgetrocknet, Ersatzpflanzung geplant",
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 197
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.403251213232972,
-          47.055179702595915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16744,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4375
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.403278734300313,
-          47.05520160504103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16752,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6842
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.404196639179956,
-          47.0551563675544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16746,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7842
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.40413350805504,
-          47.0553048129728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16749,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22531
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.404174859017223,
-          47.05523552727371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 16748,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24374
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.404171893174654,
-          47.055262218648224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24550,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19115
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.403304571260518,
-          47.05522196458966
+          15.403245540306573,
+          47.0551797831354
         ]
       }
     }

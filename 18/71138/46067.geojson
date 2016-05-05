@@ -4,132 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15000,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 442
+        "NUMMER": 15000,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1987",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 442
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.38832381535638,
-          47.06362525988437
+          15.38831822649108,
+          47.063625310149774
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14999,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1206
+        "NUMMER": 14999,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1987",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1206
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.38863537337456,
-          47.06359808233762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15002,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6206
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.387879767258914,
-          47.0636635072389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14998,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6210
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.388799276059832,
-          47.06358179895175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14997,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22377
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.38901501279848,
-          47.063562840737376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15001,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1987",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24112
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.38810684553829,
-          47.06364394573022
+          15.388629782974084,
+          47.06359813251922
         ]
       }
     }

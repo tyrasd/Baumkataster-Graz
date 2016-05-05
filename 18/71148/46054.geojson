@@ -4,352 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15724,
-        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
-        "baumbezeichnung_deutsch": "Scheinzypresse",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1368
+        "NUMMER": 15724,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Chamaecyparis sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinzypresse",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1368
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.415139583021897,
-          47.08868927723489
+          15.4151339023296,
+          47.0886891887892
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21757,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1664
+        "NUMMER": 21757,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1998",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1664
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.415342219119262,
-          47.08860377953526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15727,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3601
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415272788048755,
-          47.088646785284425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15693,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4673
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41548211735644,
-          47.08874229674995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15699,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4706
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415760992523701,
-          47.08878810142554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21756,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10852
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415542025391328,
-          47.088682460108956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15719,
-        "baumbezeichnung_botanisch": "Corylus avellana 'Fuscorubra'",
-        "baumbezeichnung_deutsch": "Rote Haselnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7544
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415019823671596,
-          47.08880559985803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15700,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7709
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415824189305816,
-          47.08882211952534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21753,
-        "baumbezeichnung_botanisch": "Ulmus x hollandica 'Wredei'",
-        "baumbezeichnung_deutsch": "Goldulme",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14598
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415643428112833,
-          47.08877710365378
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21754,
-        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenhainbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14817
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415614975853906,
-          47.08871990739321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15726,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23118
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415189103436063,
-          47.0886628674679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15725,
-        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
-        "baumbezeichnung_deutsch": "Scheinzypresse",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24225
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41522765568604,
-          47.08870338903924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15723,
-        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
-        "baumbezeichnung_deutsch": "Scheinzypresse",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23591
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415158282165367,
-          47.088743043618706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21755,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24445
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415555759378236,
-          47.08873953807722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21751,
-        "baumbezeichnung_botanisch": "Fagus sylvatica 'Purpurea'",
-        "baumbezeichnung_deutsch": "Purpurbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19104
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415691907928485,
-          47.08881100353574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15728,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28191
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415293450946065,
-          47.08858663229958
+          15.41533653732842,
+          47.0886036913609
         ]
       }
     }

@@ -4,352 +4,110 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22186,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 270
+        "NUMMER": 22186,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 270
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496431700077231,
-          47.10472868055064
+          15.496425652625385,
+          47.10472845952717
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22179,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 273
+        "NUMMER": 22179,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 273
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.49628343050207,
-          47.10474082325485
+          15.496277383779901,
+          47.10474060227429
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22197,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 278
+        "NUMMER": 22197,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 278
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.49639477874217,
-          47.10469399216175
+          15.49638873141683,
+          47.10469377132988
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22180,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 289
+        "NUMMER": 22180,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 289
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496298872115556,
-          47.10474029874167
+          15.49629282531848,
+          47.104740077753114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22189,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1564
+        "NUMMER": 22189,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1564
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496441204501295,
-          47.10471096166484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22174,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3198
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496244357890625,
-          47.104803202395125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22173,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3004
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496226077423387,
-          47.1048149381751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22191,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4250
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496492781796096,
-          47.10470704198048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22184,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11621
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.49642392030695,
-          47.10473357167607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22178,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17446
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496306689312817,
-          47.104800786471856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22190,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14194
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496426284221798,
-          47.10470572960263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22187,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23095
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496469718500894,
-          47.1047285428196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22182,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24033
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496413161756562,
-          47.10474408354256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22183,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29311
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496440134122636,
-          47.1047435886836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22188,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28179
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496455231437125,
-          47.104718297409356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22177,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25518
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.49628388896941,
-          47.104797020364906
+          15.496435156977885,
+          47.104710740719874
         ]
       }
     }

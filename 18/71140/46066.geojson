@@ -4,154 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 14829,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
-        "objectid": 525
+        "NUMMER": 14829,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1986",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 525
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.392135269341365,
-          47.06619154696082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14834,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Familie Dr. Dipl. Ing. Schatzmayr",
-        "objectid": 7353
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392154464339281,
-          47.06555846758835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14830,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16418
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39213872522158,
-          47.066059194452215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14838,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Johannes Thümmel",
-        "objectid": 15535
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39218358072836,
-          47.06459006927696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14833,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Stadtrat Werner Stoiser",
-        "objectid": 19393
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39215096553197,
-          47.06568580048446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14831,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
-        "objectid": 18965
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.3921433193766,
-          47.06593469505781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14832,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
-        "objectid": 26335
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392146585183882,
-          47.06581086833871
+          15.392129665963822,
+          47.06619158228812
         ]
       }
     }

@@ -4,198 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10634,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 567
+        "NUMMER": 10634,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Crataegus laevigata 'Paul Scarlet'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotblühender Zweigriffeliger Weißdorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 567
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.447477890969296,
-          47.077888303869905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10632,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4354
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447315656004902,
-          47.077828882645804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10629,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6108
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447072965066361,
-          47.07773960259602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10633,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8575
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447398046323237,
-          47.07785806345991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10636,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17649
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447641385720754,
-          47.07794800448958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10628,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23753
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446991437764149,
-          47.077709222906954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10630,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23638
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447154336717238,
-          47.077768262958315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10631,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25550
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447234290154883,
-          47.07779827950647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10635,
-        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
-        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25831
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.447559347450687,
-          47.07791743234561
+          15.447472039178908,
+          47.07788824508815
         ]
       }
     }

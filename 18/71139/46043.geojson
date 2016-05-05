@@ -4,44 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 19806,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "größtenteils abgestorben, Rindenabblattungen am Stammfuß, Hallimaschbefall am Stammfuß, Ersatzpflanzung geplant",
-        "pflanzjahr": "1995",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1565
+        "NUMMER": 19806,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": "größtenteils abgestorben, Rindenabblattungen am Stammfuß, Hallimaschbefall am Stammfuß, Ersatzpflanzung geplant",
+        "PFLANZJAHR": "1995",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1565
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.391364030036359,
-          47.10891296927795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 20201,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11862
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.391401517226257,
-          47.10899798122466
+          15.391358493271676,
+          47.108912800088476
         ]
       }
     }

@@ -4,88 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 26796,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1388
+        "NUMMER": 26796,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1388
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.408714263859528,
-          47.09243286560133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14292,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9829
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.408473283453178,
-          47.09248563443679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 14294,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19869
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.408544469809485,
-          47.09235482283627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 18068,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28690
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.408413946688006,
-          47.09082256708293
+          15.408708619521477,
+          47.092432763597934
         ]
       }
     }

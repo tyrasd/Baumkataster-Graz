@@ -4,154 +4,66 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30136,
-        "baumbezeichnung_botanisch": "Parrotia persica",
-        "baumbezeichnung_deutsch": "Eisenholzbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 121
+        "NUMMER": 30136,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Parrotia persica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Eisenholzbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 121
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.435884359868531,
-          47.070336609051445
+          15.435878552631584,
+          47.07033659445149
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30137,
-        "baumbezeichnung_botanisch": "Parrotia persica",
-        "baumbezeichnung_deutsch": "Eisenholzbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 122
+        "NUMMER": 30137,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Parrotia persica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Eisenholzbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 122
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.435846862419687,
-          47.070334848966034
+          15.435841055360108,
+          47.07033483440024
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30138,
-        "baumbezeichnung_botanisch": "Parrotia persica",
-        "baumbezeichnung_deutsch": "Eisenholzbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2011",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 123
+        "NUMMER": 30138,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Parrotia persica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Eisenholzbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2011",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 123
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.435882461869214,
-          47.07038567585565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3455,
-        "baumbezeichnung_botanisch": "Crataegus laevigata",
-        "baumbezeichnung_deutsch": "Zweigriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11192
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435832586360043,
-          47.07053625919521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22578,
-        "baumbezeichnung_botanisch": "Crataegus prunifolia",
-        "baumbezeichnung_deutsch": "Pflaumendorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2000",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7194
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435865705978838,
-          47.070445093445244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3452,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Stammfußbeschädigung, gesamter Kronenbereich stark vergreist, Ersatzpflanzung geplant",
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6793
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4363233629843,
-          47.070885104383265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 3453,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": "Stammfußbeschädigung, Druchzwiesel am Kronenansatz, gesamter Kronenbereich stark vergreist",
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20269
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.436389659506549,
-          47.070895465916614
+          15.435876654713441,
+          47.07038566102154
         ]
       }
     }

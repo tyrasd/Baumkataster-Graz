@@ -4,110 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21983,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 86
+        "NUMMER": 21983,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Stieleiche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 86
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.460928705527694,
-          47.02499945961759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21984,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2299
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46088540312681,
-          47.02505205344094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21988,
-        "baumbezeichnung_botanisch": "Ulmus sp.",
-        "baumbezeichnung_deutsch": "Ulme",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18495
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460707297850286,
-          47.025103616699965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21982,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17644
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460996720606648,
-          47.02496242108628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21989,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20278
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46069173333926,
-          47.02513934970394
+          15.46092271162396,
+          47.024999645398026
         ]
       }
     }

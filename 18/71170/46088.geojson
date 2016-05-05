@@ -4,154 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27012,
-        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenhainbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1257
+        "NUMMER": 27012,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenhainbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1257
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.474329128120013,
-          47.023364159197186
+          15.474323067567694,
+          47.023364343639784
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27014,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1532
+        "NUMMER": 27014,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1532
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.474531430745133,
-          47.02334432264403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27013,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1745
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4744289520297,
-          47.02337203014604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27011,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1749
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474249529938334,
-          47.02339346268021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27015,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7814
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474658180299926,
-          47.02390327838026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27016,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7815
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474602171644143,
-          47.023865982228976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27017,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7816
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47438851812616,
-          47.02378967508875
+          15.474525369193781,
+          47.02334450704322
         ]
       }
     }

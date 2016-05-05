@@ -4,88 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27793,
-        "baumbezeichnung_botanisch": "Picea sp.",
-        "baumbezeichnung_deutsch": "Fichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1649
+        "NUMMER": 27793,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Fichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2008",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1649
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.424749290402158,
-          47.02341502216401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21198,
-        "baumbezeichnung_botanisch": "Populus sp.",
-        "baumbezeichnung_deutsch": "Pappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9955
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42478024831187,
-          47.02327004159481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21197,
-        "baumbezeichnung_botanisch": "Populus sp.",
-        "baumbezeichnung_deutsch": "Pappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12464
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424766546471542,
-          47.02331420855008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21199,
-        "baumbezeichnung_botanisch": "Populus sp.",
-        "baumbezeichnung_deutsch": "Pappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24216
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42478630039873,
-          47.02321872825836
+          15.424743467653387,
+          47.023415240380125
         ]
       }
     }

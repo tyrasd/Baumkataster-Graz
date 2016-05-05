@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27176,
-        "baumbezeichnung_botanisch": "Flächenkartierung",
-        "baumbezeichnung_deutsch": "Flächenkartierung",
-        "baumtyp": "Flächenkartierung",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9902
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.49262956608416,
-          47.10913988543828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Naturdenkmal": true,
         "Naturdenkmal_Eigentum": "privat",
         "nummer": "Naturdenkmal-108",

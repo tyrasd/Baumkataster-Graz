@@ -4,88 +4,88 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29553,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulentulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 250
+        "NUMMER": 29553,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 250
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.43220074008567,
-          47.02689089531418
+          15.432194886711587,
+          47.02689109173078
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29554,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulentulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 252
+        "NUMMER": 29554,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 252
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.432167853655587,
-          47.026944220761855
+          15.432162000517527,
+          47.02694441694511
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29555,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulentulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 253
+        "NUMMER": 29555,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 253
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.432139562336124,
-          47.027009611705715
+          15.432133709429769,
+          47.0270098075946
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29556,
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulentulpenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 254
+        "NUMMER": 29556,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 254
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.432109874602553,
-          47.027062963288714
+          15.432104021916912,
+          47.02706315894193
         ]
       }
     }

@@ -4,308 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27008,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1538
+        "NUMMER": 27008,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1538
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.473972433259778,
-          47.02340276805435
+          15.473966374474243,
+          47.023402952556076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27009,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1556
+        "NUMMER": 27009,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1556
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.474074293351459,
-          47.02341350341077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27010,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1470
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474141445363959,
-          47.02338125758697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29417,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7514
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473813842277584,
-          47.02347912557684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27021,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7808
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473952240498067,
-          47.02365560664185
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27023,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7809
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473728035866378,
-          47.02356554077848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27005,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7810
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47366961276367,
-          47.023470611991804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27007,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7811
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473891056976134,
-          47.02347459420611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27004,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7812
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473597937146188,
-          47.02348739586647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27019,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7813
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474083144963567,
-          47.023706720467196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27018,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7817
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474180020634144,
-          47.023704603699976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27020,
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7818
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.474025430918536,
-          47.02366263783844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27022,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7819
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473894692418389,
-          47.02363112474698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27006,
-        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenhainbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7820
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.473716008074208,
-          47.023456169804746
+          15.47406823409327,
+          47.02341368779119
         ]
       }
     }

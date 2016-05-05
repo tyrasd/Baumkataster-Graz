@@ -4,220 +4,132 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22156,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 277
+        "NUMMER": 22156,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Stieleiche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 277
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496000638766763,
-          47.10503600609032
+          15.495994593834451,
+          47.1050357838867
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22164,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 283
+        "NUMMER": 22164,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 283
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496118790642559,
-          47.104939205617306
+          15.496112745001259,
+          47.104938983797446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22163,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 284
+        "NUMMER": 22163,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 284
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.49607947944097,
-          47.10498633277718
+          15.496073434057406,
+          47.10498611075806
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22153,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 286
+        "NUMMER": 22153,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotbuche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 286
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.495899225991643,
-          47.10510598643732
+          15.495893181648691,
+          47.1051057639672
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22170,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 288
+        "NUMMER": 22170,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Stieleiche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 288
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496084529393592,
-          47.10484564168553
+          15.496078483779847,
+          47.104845420337874
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22162,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 291
+        "NUMMER": 22162,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 291
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.496037897668685,
-          47.10500871503346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22155,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12007
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.495993082419218,
-          47.10503967010426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22168,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8502
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496093431012946,
-          47.104866245327976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22172,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8503
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496175968379069,
-          47.10483120159246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22169,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28855
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.496089746396294,
-          47.104856354352826
+          15.496031852517532,
+          47.10500849293533
         ]
       }
     }

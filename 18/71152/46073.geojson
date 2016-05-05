@@ -4,484 +4,66 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 21780,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1999",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 564
+        "NUMMER": 21780,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1999",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 564
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.426049150889353,
-          47.05145074037637
+          15.426043363100506,
+          47.05145082315384
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12897,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1560
+        "NUMMER": 12883,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1557
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42749684335525,
-          47.053233695785714
+          15.427544441264475,
+          47.05282657166062
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 12886,
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3022
+        "NUMMER": 12897,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1560
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.427153415396308,
-          47.05293186982863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13373,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5182
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426408168771404,
-          47.05322509254916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13381,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5465
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426694670405936,
-          47.051855396285795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12893,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11860
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427291744244867,
-          47.053224127265565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12885,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7429
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427499039811181,
-          47.052876381128705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12651,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6790
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42748967286209,
-          47.05248923412319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13377,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15893
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426572793520151,
-          47.05206163093839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13382,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16079
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426720405632812,
-          47.051809401718366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25040,
-        "baumbezeichnung_botanisch": "Celtis occidentalis",
-        "baumbezeichnung_deutsch": "Nesselbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2006",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18011
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426915360572467,
-          47.052486060768175
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13376,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15499
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42640888327696,
-          47.05302367047649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12653,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15322
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427113265907657,
-          47.05248600384998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13375,
-        "baumbezeichnung_botanisch": "Tilia americana",
-        "baumbezeichnung_deutsch": "Amerikanische Linde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22544
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426406336498609,
-          47.053085194863755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12890,
-        "baumbezeichnung_botanisch": "Populus x canadensis",
-        "baumbezeichnung_deutsch": "Karnadische Pappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24423
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427206283330028,
-          47.053239329841524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13383,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20789
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42675332920948,
-          47.05175938944006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13384,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19248
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426783390166351,
-          47.051711315356286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23831,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2003",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20231
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426405916538215,
-          47.05315167446827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13380,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26251
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426666813574423,
-          47.05189999774312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 12652,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26395
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427301789387018,
-          47.05248660073464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13378,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25946
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426611662506666,
-          47.05199945055009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13379,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25947
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426640238551887,
-          47.051949709608785
+          15.427491051240734,
+          47.053233769013154
         ]
       }
     }

@@ -4,2178 +4,286 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 17904,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 515
+        "NUMMER": 17904,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 515
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.471962896865014,
-          47.06312167172738
+          15.47195690591871,
+          47.06312166703492
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 22065,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1216
+        "NUMMER": 22065,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus avium",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Vogelkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1216
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472076433632495,
-          47.06399399685981
+          15.472070443419838,
+          47.06399398790432
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27839,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1228
+        "NUMMER": 27839,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1228
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472188227737739,
-          47.06352201666503
+          15.472182236296991,
+          47.063522009897554
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27845,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1255
+        "NUMMER": 27845,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1255
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472068547500225,
-          47.063465868499634
+          15.472062556551425,
+          47.06346586208342
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27849,
-        "baumbezeichnung_botanisch": "Salix caprea",
-        "baumbezeichnung_deutsch": "Salweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1258
+        "NUMMER": 27849,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Salix caprea",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Salweide",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1258
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472215842719587,
-          47.063305551094956
+          15.472209850829106,
+          47.063305545347156
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27834,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1536
+        "NUMMER": 27834,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1536
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472260332252848,
-          47.063554397873595
+          15.472254340513592,
+          47.06355439090142
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27832,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1539
+        "NUMMER": 27832,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1539
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.47232287446859,
-          47.06358483232822
+          15.472316882473852,
+          47.063584825167226
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27833,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1540
+        "NUMMER": 27833,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1540
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472306569588401,
-          47.06357628272896
+          15.47230057765937,
+          47.06357627562015
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27842,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1541
+        "NUMMER": 27842,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1541
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472279377503758,
-          47.063562968151736
+          15.472273385685686,
+          47.063562961125406
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27840,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1542
+        "NUMMER": 27840,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1542
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472245381155222,
-          47.06354679396827
+          15.472239389476556,
+          47.063546787042796
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27843,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1543
+        "NUMMER": 27843,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1543
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472226334613874,
-          47.06353822277521
+          15.472220343014035,
+          47.0635382159039
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27829,
-        "baumbezeichnung_botanisch": "Malus sylvestris",
-        "baumbezeichnung_deutsch": "Holzapfel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1571
+        "NUMMER": 27829,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Malus sylvestris",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Holzapfel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1571
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472392616861185,
-          47.06359378679444
+          15.472386624544937,
+          47.06359377954276
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 27830,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1572
+        "NUMMER": 27830,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1572
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.472373207297586,
-          47.063607685338724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27831,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1731
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47234189077682,
-          47.06359527695579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27838,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1732
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47220730450806,
-          47.063528716212836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27844,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1733
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472171953155021,
-          47.063511594495836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27841,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1734
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47215289150941,
-          47.063503959566134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27837,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1735
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47213521517436,
-          47.06349539959511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27836,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1736
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472113444733854,
-          47.063485871442055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27835,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1737
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472090302794784,
-          47.06347633293658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27846,
-        "baumbezeichnung_botanisch": "Prunus padus",
-        "baumbezeichnung_deutsch": "Traubenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1738
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472097247670927,
-          47.06343668367619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27847,
-        "baumbezeichnung_botanisch": "Prunus padus",
-        "baumbezeichnung_deutsch": "Traubenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1742
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472127390515539,
-          47.06343691110554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27850,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1752
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472241906503967,
-          47.0633038749418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27851,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1753
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472325212945288,
-          47.06332135838257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17934,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2077
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472000044833027,
-          47.06296553539558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17935,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2085
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472075712831714,
-          47.06292527761426
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22046,
-        "baumbezeichnung_botanisch": "Pinus silvestris",
-        "baumbezeichnung_deutsch": "Rotföhre",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2495
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471876447503616,
-          47.064825683660274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17903,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3484
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471891281997781,
-          47.06308958456537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17936,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3487
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472255524285009,
-          47.06304698593196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17940,
-        "baumbezeichnung_botanisch": "Abies alba",
-        "baumbezeichnung_deutsch": "Weißtanne",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3488
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472350430507397,
-          47.06324486449487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17901,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3371
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471770844173484,
-          47.06304332857168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17905,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3924
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472049256149818,
-          47.06313415284651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17931,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4009
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472549851891102,
-          47.06268839812693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17909,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4629
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472124361566852,
-          47.063128805261215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17955,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "komplett schräger Wuchs Richtung Straße, nurmehr ein 5 m hoher Stummel vorhanden, Ersatzpflanzung auf Grund des dichten Bestandes drzt nicht geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9559
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472623294175298,
-          47.06340891598281
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17944,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "komplett schräger Wuchs Richtung Straße, im Kronenansatzbereich Teilstamm abgemorscht und Pilzbefall, Ersatzpflanzung auf Grund des dichten Bestgandes drzt nicht geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 9564
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472585720609757,
-          47.06338854030093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22064,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11237
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471988088515435,
-          47.06411147002763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22067,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12019
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472132732451069,
-          47.063888717562456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17918,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12311
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471917849173481,
-          47.06269545974856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17960,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9796
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472455360845654,
-          47.06335803888277
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17924,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12337
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472131974822965,
-          47.06265764279166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17956,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Druckzwiesel am Stammfuß, schüttere Benadelung, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 11637
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47262173574311,
-          47.06341844263246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22066,
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10951
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472267402191978,
-          47.06400165593618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23107,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10200
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471051354454522,
-          47.063145202594264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23639,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10202
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.470988550480024,
-          47.063247283945074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23095,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10207
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47045073908626,
-          47.063860536033054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23100,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10208
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.470790146016205,
-          47.06350242848183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23641,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10209
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471209161755436,
-          47.06288071899248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23110,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10210
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471183352251256,
-          47.062926173276054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23099,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10211
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.470662684056476,
-          47.06363850464106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17957,
-        "baumbezeichnung_botanisch": "Thuja occidentalis",
-        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Druckzwiesel am Stammfuß, schüttere Benadelung, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 8909
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472613682656617,
-          47.06342941259481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17929,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8541
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472303163303174,
-          47.06277723240022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29033,
-        "baumbezeichnung_botanisch": "Prunus 'Große Schwarze Knorpelkirsche'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17518
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472184080309738,
-          47.063808273225774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17907,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16023
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472152033130978,
-          47.06320196338169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29034,
-        "baumbezeichnung_botanisch": "Prunus 'Hauszwetschke'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16874
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472230879132198,
-          47.06372779364774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17911,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18620
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471957923096491,
-          47.06307234375555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17908,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16225
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472172769369793,
-          47.06316860229566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22055,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18091
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472094937563293,
-          47.06453820126383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17959,
-        "baumbezeichnung_botanisch": "Prunus padus",
-        "baumbezeichnung_deutsch": "Traubenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15833
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472489790376473,
-          47.0633701288992
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17939,
-        "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumbezeichnung_deutsch": "Holländische Linde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12719
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472250092440836,
-          47.0632046748942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17967,
-        "baumbezeichnung_botanisch": "Prunus padus",
-        "baumbezeichnung_deutsch": "Traubenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "beim Eisregen Anfang Februar 2014 entwurzelt, Ersatzpflanzung auf Grund der dichten Überschirmung des Standortes drzt nicht geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14363
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472237691865871,
-          47.06325781523267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22147,
-        "baumbezeichnung_botanisch": "Salix fragilis",
-        "baumbezeichnung_deutsch": "Knackweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12814
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472400863403319,
-          47.06852123693942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17916,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 12817
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471762555477822,
-          47.06284215990005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17917,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14562
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471815281842483,
-          47.06279326743244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17941,
-        "baumbezeichnung_botanisch": "Cryptomeria japonica",
-        "baumbezeichnung_deutsch": "Sicheltanne",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14563
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472329947811039,
-          47.06326245462151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22043,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14748
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471947880002507,
-          47.06491016407352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22047,
-        "baumbezeichnung_botanisch": "Salix caprea",
-        "baumbezeichnung_deutsch": "Salweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14802
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471762126154138,
-          47.06485749819232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22051,
-        "baumbezeichnung_botanisch": "Populus tremula",
-        "baumbezeichnung_deutsch": "Zitterpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14806
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471834198167599,
-          47.06478009157918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22057,
-        "baumbezeichnung_botanisch": "Salix alba",
-        "baumbezeichnung_deutsch": "Silberweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14807
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47205567236266,
-          47.06443828970601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22061,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14808
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472137946588282,
-          47.064266480786706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22146,
-        "baumbezeichnung_botanisch": "Salix fragilis",
-        "baumbezeichnung_deutsch": "Knackweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14116
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472397935433165,
-          47.06849084653382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22144,
-        "baumbezeichnung_botanisch": "Salix fragilis",
-        "baumbezeichnung_deutsch": "Knackweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14155
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472398652416977,
-          47.06844646927041
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22059,
-        "baumbezeichnung_botanisch": "Salix caprea",
-        "baumbezeichnung_deutsch": "Salweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14958
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472247564011063,
-          47.06438378167629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22060,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14961
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472204034744282,
-          47.06426236490605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22062,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14962
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47207418682601,
-          47.06426752078431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22063,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14966
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472117858605758,
-          47.06423672456472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17914,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22237
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471757981336944,
-          47.06294662142989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17927,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "durch Gewicht des Eisregens im Kronenansatz auseinandergebrochen, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": "2014",
-        "baumpatenschaft": null,
-        "objectid": 22238
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47221984760531,
-          47.062754915804746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22048,
-        "baumbezeichnung_botanisch": "Salix alba",
-        "baumbezeichnung_deutsch": "Silberweide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23035
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471798506423383,
-          47.06486240256328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17910,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24019
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472032743041424,
-          47.06308473780619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17930,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24056
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472463174796056,
-          47.06269563044358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22058,
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24124
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472211081799601,
-          47.06438984799667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17958,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24208
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47252700825558,
-          47.06338815420989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17912,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22842
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47188063359708,
-          47.06303429948638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17913,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18993
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471748752293843,
-          47.06298204102738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17926,
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21552
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472293119666721,
-          47.06268449003256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 22054,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19232
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471704728732584,
-          47.06475288194483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17902,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20108
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47181976147467,
-          47.063051584693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17906,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25690
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.472097568313906,
-          47.063179865266896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 17915,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25882
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471700854912545,
-          47.06291070095606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23109,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26751
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471158057389047,
-          47.06296625776915
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23097,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26754
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.470583834302149,
-          47.06372173580048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23638,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26755
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4708767349723,
-          47.06340792003242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23098,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26758
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47061985567313,
-          47.06368345507209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23101,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26759
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.470836700941991,
-          47.06345885181119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23640,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26761
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471009302177565,
-          47.06321073532336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23096,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26763
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.470548724681272,
-          47.06376069534273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23108,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2001",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26765
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.47112048224057,
-          47.06303220575039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23642,
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26767
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.471243571080128,
-          47.0628280202376
+          15.472367215094838,
+          47.06360767803362
         ]
       }
     }

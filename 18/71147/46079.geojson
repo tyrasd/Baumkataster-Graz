@@ -4,242 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 23967,
-        "baumbezeichnung_botanisch": "Tilia tomentosa",
-        "baumbezeichnung_deutsch": "Silberlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 160
+        "NUMMER": 23967,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia tomentosa",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Silberlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 160
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.41137048798996,
-          47.040490385669095
+          15.411364754504723,
+          47.04049053112935
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 31369,
-        "baumbezeichnung_botanisch": "Flächenkartierung",
-        "baumbezeichnung_deutsch": "Flächenkartierung",
-        "baumtyp": "Flächenkartierung",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1114
+        "NUMMER": 31369,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Flächenkartierung",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Flächenkartierung",
+        "BAUMTYP": "Flächenkartierung",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1114
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.411486474378366,
-          47.04051143995808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23966,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2287
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41137933730019,
-          47.04041658002353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 18306,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14946
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411557904297705,
-          47.04035947619289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30539,
-        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29190
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411837395028448,
-          47.04021569911416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30536,
-        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29191
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411703125107486,
-          47.04033004359519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30535,
-        "baumbezeichnung_botanisch": "Prunus padus",
-        "baumbezeichnung_deutsch": "Traubenkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29192
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411664611679392,
-          47.0403715223024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30538,
-        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29196
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411793204948776,
-          47.04025461160414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30537,
-        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29197
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411747376978193,
-          47.04028756146668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31368,
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26925
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41161421456487,
-          47.04037205270588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 18309,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25172
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.411624651286383,
-          47.0404439703867
+          15.41148074036774,
+          47.040511585237574
         ]
       }
     }

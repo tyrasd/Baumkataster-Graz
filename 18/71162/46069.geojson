@@ -4,330 +4,44 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6197,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Grazer Wechselseitige Versicherung",
-        "objectid": 887
+        "NUMMER": 6197,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1985",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": "Grazer Wechselseitige Versicherung",
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 887
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.453995307036624,
-          47.059756832157426
+          15.453989397364962,
+          47.05975685591236
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 6193,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Siegfied Erne",
-        "objectid": 1141
+        "NUMMER": 6193,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1985",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": "Siegfied Erne",
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1141
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.45498146822955,
-          47.060065580794884
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6195,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Dir. Ferdinand Ackerl, Wiener Allianz Versicherungs-AG",
-        "objectid": 5126
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45431679338199,
-          47.059856140544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6196,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Grazer Wechselseitige Versicherung",
-        "objectid": 4940
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454189442012273,
-          47.05981701155438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24936,
-        "baumbezeichnung_botanisch": "Pinus nigra",
-        "baumbezeichnung_deutsch": "Schwarzkiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4941
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45456880362762,
-          47.05969053803746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6199,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9002
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45372276590784,
-          47.059760965961864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29003,
-        "baumbezeichnung_botanisch": "Pyrus 'Vereins Dechantbirne'",
-        "baumbezeichnung_deutsch": "Fruchtbirne",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2008",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17016
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.453839932194217,
-          47.060724464666755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6200,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16333
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.453524115234202,
-          47.05969928476552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6194,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Konsul Kurt Brühl",
-        "objectid": 14274
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454836962585865,
-          47.06002017687192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24939,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14673
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45393826993633,
-          47.06072879963918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6201,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14039
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.453365674100745,
-          47.05964898617585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24934,
-        "baumbezeichnung_botanisch": "Pinus nigra",
-        "baumbezeichnung_deutsch": "Schwarzkiefer",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20420
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454595215903202,
-          47.0596733178446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 6198,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21347
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.453946246760635,
-          47.059831158574376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24937,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28787
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4539520720548,
-          47.06068248942837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24938,
-        "baumbezeichnung_botanisch": "Malus sp.",
-        "baumbezeichnung_deutsch": "Apfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28789
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.453871979076016,
-          47.06068187238739
+          15.454975554279264,
+          47.060065602392754
         ]
       }
     }

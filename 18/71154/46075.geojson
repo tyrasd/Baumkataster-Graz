@@ -4,1364 +4,286 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10501,
-        "baumbezeichnung_botanisch": "Populus nigra",
-        "baumbezeichnung_deutsch": "Schwarzpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 297
+        "NUMMER": 10501,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 297
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431405816598769,
-          47.04912237146536
+          15.431399999691218,
+          47.04912246174012
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10499,
-        "baumbezeichnung_botanisch": "Populus nigra",
-        "baumbezeichnung_deutsch": "Schwarzpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 298
+        "NUMMER": 10499,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 298
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431540446786121,
-          47.049102447651514
+          15.43153462920345,
+          47.049102537929485
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10500,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 299
+        "NUMMER": 10500,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 299
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431472310714843,
-          47.049111929948616
+          15.431466493472966,
+          47.04911202022785
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10494,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 300
+        "NUMMER": 10494,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 300
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431700574059818,
-          47.04903198175786
+          15.431694755605466,
+          47.04903207226409
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10502,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 301
+        "NUMMER": 10502,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 301
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431320302683268,
-          47.049121791148245
+          15.431314486185093,
+          47.04912188148446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10505,
-        "baumbezeichnung_botanisch": "Populus nigra",
-        "baumbezeichnung_deutsch": "Schwarzpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 302
+        "NUMMER": 10505,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzpappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 302
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431424346566702,
-          47.04906142656538
+          15.431418529480736,
+          47.04906151711987
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10468,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1316
+        "NUMMER": 10468,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1316
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.430383739635584,
-          47.0485165996004
+          15.430377926741317,
+          47.04851669348361
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10471,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1317
+        "NUMMER": 10471,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1317
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.430337178554495,
-          47.04866904052749
+          15.430331366107536,
+          47.04866913371113
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24858,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1318
+        "NUMMER": 24858,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "2005",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1318
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.430329002421134,
-          47.04871907691244
+          15.430323190086899,
+          47.04871916986157
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10521,
-        "baumbezeichnung_botanisch": "Populus sp.",
-        "baumbezeichnung_deutsch": "Pappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1387
+        "NUMMER": 10521,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Populus sp.",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Pappel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1387
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431702200245182,
-          47.048572112442415
+          15.431696381107534,
+          47.0485722051544
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10486,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1390
+        "NUMMER": 10486,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1390
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431194125139333,
-          47.04870838190077
+          15.4311883086392,
+          47.04870847430749
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10487,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1391
+        "NUMMER": 10487,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1391
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431198933739005,
-          47.0486407828418
+          15.431193117116504,
+          47.04864087556964
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10543,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1093
+        "NUMMER": 10543,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 1093
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.432098246457064,
-          47.04877564497634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10515,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "massive Kernfäule am Stammfuß, Sturzgefahr, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1442
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43148991270616,
-          47.04855540468066
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10518,
-        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
-        "baumbezeichnung_deutsch": "Echte Blutpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2017
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431588134956804,
-          47.04859876713842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 21745,
-        "baumbezeichnung_botanisch": "Castanea sativa",
-        "baumbezeichnung_deutsch": "Eßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1998",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2018
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43182970496229,
-          47.048757510550054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11793,
-        "baumbezeichnung_botanisch": "Prunus cerasifera 'Pissardii'",
-        "baumbezeichnung_deutsch": "Rotblättrige Kirschpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3016
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431885807278697,
-          47.0485510170887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10480,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3750
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430970778547778,
-          47.04891203205698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10509,
-        "baumbezeichnung_botanisch": "Populus nigra",
-        "baumbezeichnung_deutsch": "Schwarzpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9611
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43138515086296,
-          47.04877251813698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10488,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10579
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430506717842945,
-          47.04886524922868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24165,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9130
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432181244552142,
-          47.04917797038127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10512,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9131
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431460260320351,
-          47.048814620468654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10513,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9132
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431415494892713,
-          47.048675296580264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10514,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9133
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431436215700305,
-          47.04859506184206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10508,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9134
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43140865926641,
-          47.04879709326289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10503,
-        "baumbezeichnung_botanisch": "Populus nigra",
-        "baumbezeichnung_deutsch": "Schwarzpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 8505
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431330250463606,
-          47.04906203956672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10492,
-        "baumbezeichnung_botanisch": "Populus alba",
-        "baumbezeichnung_deutsch": "Weißpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6930
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431750670592804,
-          47.04917371064928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10484,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6931
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431173471613349,
-          47.04884599704073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10529,
-        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
-        "baumbezeichnung_deutsch": "Echte Blutpflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17756
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432071976966665,
-          47.04859507269055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10467,
-        "baumbezeichnung_botanisch": "Acer saccharinum",
-        "baumbezeichnung_deutsch": "Zuckerahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17784
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430321995038183,
-          47.04848354613581
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10478,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18086
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431076923576567,
-          47.0489203864771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10473,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17409
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430313409541787,
-          47.04877406491299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10496,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14426
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431745458464123,
-          47.049048415947205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10525,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15403
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431940139008468,
-          47.04858902146105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10517,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Kernfäule am Stammfuß, Sturzgefahr, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15404
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431537636210109,
-          47.04855077140709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10485,
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13143
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431181944877695,
-          47.048778427844944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10497,
-        "baumbezeichnung_botanisch": "Fagus sylvatica 'Purpurea'",
-        "baumbezeichnung_deutsch": "Purpurbuche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14148
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431656577651651,
-          47.049102825282304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10477,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22224
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431131848314562,
-          47.04892332481792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10535,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23137
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432158571029857,
-          47.048675918196544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10470,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23898
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430352727651705,
-          47.04861655731946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10483,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24837
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430754910030704,
-          47.04889028524199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 11797,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23222
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432198378805547,
-          47.04909123700602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23001,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2000",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24123
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430911681529079,
-          47.049093759392605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24164,
-        "baumbezeichnung_botanisch": "Malus 'Frucht'",
-        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 24169
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43224891463473,
-          47.048751782947086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10469,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20841
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430368191915063,
-          47.04856908282436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10519,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Terminaltriebbruch, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20918
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43163282909592,
-          47.0485565336507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10506,
-        "baumbezeichnung_botanisch": "Populus nigra",
-        "baumbezeichnung_deutsch": "Schwarzpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19379
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431406646731597,
-          47.048928001433644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10481,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21882
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430919559561898,
-          47.04890661689096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10537,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21145
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432179923977985,
-          47.048713663004506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10540,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19732
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432158003245847,
-          47.04892642080024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24185,
-        "baumbezeichnung_botanisch": "Ailanthus altissima",
-        "baumbezeichnung_deutsch": "Götterbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17251
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431478190586065,
-          47.04854172763238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10490,
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28566
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432146731145515,
-          47.049159847995654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24166,
-        "baumbezeichnung_botanisch": "Prunus domestica",
-        "baumbezeichnung_deutsch": "Pflaume",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19138
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432254985057588,
-          47.04883226708689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31561,
-        "baumbezeichnung_botanisch": "Prunus 'Katinka Frühzwetschke'",
-        "baumbezeichnung_deutsch": "früh- und selbstfruchtende Zwetschke",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28475
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43145013693033,
-          47.048553405652285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10507,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 29307
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431352041540913,
-          47.04889410722159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25027,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34626
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431074745426058,
-          47.04878644171612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25028,
-        "baumbezeichnung_botanisch": "Crataegus sp.",
-        "baumbezeichnung_deutsch": "Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34627
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43108008942838,
-          47.048573476643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25029,
-        "baumbezeichnung_botanisch": "Acer sp.",
-        "baumbezeichnung_deutsch": "Ahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34628
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431040334073556,
-          47.048556502545594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25030,
-        "baumbezeichnung_botanisch": "Acer sp.",
-        "baumbezeichnung_deutsch": "Ahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34629
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430949492468013,
-          47.04857482447783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 25031,
-        "baumbezeichnung_botanisch": "Acer sp.",
-        "baumbezeichnung_deutsch": "Ahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 34630
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430525603331407,
-          47.04862383174762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31068,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28899
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4308390671143,
-          47.04889846513232
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31069,
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28900
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432185188726267,
-          47.049150632046164
+          15.432092425718462,
+          47.0487757364398
         ]
       }
     }

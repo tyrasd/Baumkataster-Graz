@@ -4,286 +4,132 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 24509,
-        "baumbezeichnung_botanisch": "Prunus avium",
-        "baumbezeichnung_deutsch": "Vogelkirsche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 196
+        "NUMMER": 24509,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus avium",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Vogelkirsche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 196
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.415904558630055,
-          47.04433925570819
+          15.415898809054903,
+          47.04433937958096
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29638,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 350
+        "NUMMER": 29638,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 350
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419299635097563,
-          47.04763841789916
+          15.419293874085835,
+          47.047638523606516
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29639,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 351
+        "NUMMER": 29639,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 351
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.41927147966513,
-          47.047641393832784
+          15.419265718792845,
+          47.04764149954519
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29640,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 352
+        "NUMMER": 29640,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 352
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419248020939246,
-          47.04764360679981
+          15.419242260182754,
+          47.04764371251771
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29641,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 353
+        "NUMMER": 29641,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 353
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.419223419872884,
-          47.04764421038121
+          15.419217659235292,
+          47.0476443161131
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 29642,
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata 'Fastigiata'",
-        "baumbezeichnung_deutsch": "Säulenblasenbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 354
+        "NUMMER": 29642,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata 'Fastigiata'",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenblasenbaum",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 354
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.41919759286772,
-          47.04764800550769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13928,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4632
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415312863536696,
-          47.044296670963206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30103,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9754
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416097431746476,
-          47.044344498944405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13923,
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 18364
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416638249711264,
-          47.044407355420454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13925,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21203
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416559540277422,
-          47.04423457174057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13927,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 19725
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.415387045633278,
-          47.04433681549388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 31091,
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2012",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 28985
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41548969112351,
-          47.044305071215845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 13924,
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": "Stammverletzung ostseitig, oberer + mittlerer Kronenbereich stark zurückgetrocknet, nurmehr vereinzelt Austriebe vorhanden, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26625
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.416547532526788,
-          47.04433916250837
+          15.419191832359607,
+          47.047648111239106
         ]
       }
     }

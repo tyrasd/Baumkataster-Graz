@@ -4,66 +4,66 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30212,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1622
+        "NUMMER": 30212,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1622
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.488084655244473,
-          47.07567840571978
+          15.488078605331747,
+          47.07567832975931
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30213,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1623
+        "NUMMER": 30213,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
+        "BAUMTYP": "Nadel",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1623
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.488080045715035,
-          47.075692583804305
+          15.488073995845182,
+          47.075692507778975
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 30214,
-        "baumbezeichnung_botanisch": "Alnus glutinosa",
-        "baumbezeichnung_deutsch": "Schwarzerle",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1624
+        "NUMMER": 30214,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus glutinosa",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzerle",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 1624
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.48805486414141,
-          47.075728096079885
+          15.48804881444441,
+          47.07572801990139
         ]
       }
     }

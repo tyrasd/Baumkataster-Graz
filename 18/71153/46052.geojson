@@ -4,132 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 10644,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 214
+        "NUMMER": 10644,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Acer rubrum",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Rotahorn",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 214
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.429973369614402,
-          47.091334753238115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10647,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2586
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42968787658113,
-          47.09135285874688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10646,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11820
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42975280200236,
-          47.09135555841085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10643,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6054
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43008722234821,
-          47.09130961333402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10642,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6083
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430056347409232,
-          47.09128259975943
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 10645,
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23261
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42988327964026,
-          47.09135118495617
+          15.429967621595996,
+          47.09133464192593
         ]
       }
     }

@@ -4,948 +4,110 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7705,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 48
+        "NUMMER": 7705,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 48
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.46075287631108,
-          47.080624691500326
+          15.460746964820597,
+          47.08062461049995
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 7695,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 976
+        "NUMMER": 7695,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 976
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.460020478497823,
-          47.080513191785386
+          15.460014570359068,
+          47.08051311182123
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 9915,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 689
+        "NUMMER": 9915,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": null,
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "alt",
+        "OBJECTID": 689
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.461915233773086,
-          47.07786270524272
+          15.461909312653251,
+          47.07786263669907
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 19674,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 690
+        "NUMMER": 19674,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Corylus colurna",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Baumhasel",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1994",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 690
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.460531574012702,
-          47.078329904191285
+          15.460525660218835,
+          47.07832983435296
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "nummer": 20077,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 1332
+        "NUMMER": 20077,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1997",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "jung",
+        "OBJECTID": 1332
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.460308043170548,
-          47.08072790627427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19555,
-        "baumbezeichnung_botanisch": "Salix sp.",
-        "baumbezeichnung_deutsch": "Weide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 2344
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460583096989556,
-          47.078286113403564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 30050,
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 4254
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460692631995238,
-          47.08097998610188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7694,
-        "baumbezeichnung_botanisch": "Crataegus monogyna",
-        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5250
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460017192966598,
-          47.08051600909311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7809,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 5597
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460342811193025,
-          47.08108173518352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29778,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9917
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46068609239915,
-          47.07807950222069
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29779,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 9918
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460629046072166,
-          47.07818967677231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24149,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10764
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46045542234214,
-          47.08056443516466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29780,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10055
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460619223494849,
-          47.07820781940652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29781,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10056
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46058609866642,
-          47.0782531118289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 29782,
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumtyp": "Nadel",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10057
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460576254740916,
-          47.07827255588359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9945,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11689
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.463140325336477,
-          47.07805507722413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9944,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11691
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.462696783841704,
-          47.07792874779641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7700,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10265
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460305940351235,
-          47.08053860957243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7697,
-        "baumbezeichnung_botanisch": "Crataegus monogyna",
-        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11075
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460116990676134,
-          47.080539485094555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9917,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 6294
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46260268240969,
-          47.078065001676165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7706,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7394
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46084847545561,
-          47.08064968192225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19673,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17577
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460470069854757,
-          47.07843140120674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9942,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16958
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461769175057064,
-          47.07766709411192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 8026,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 16581,
-        "Naturdenkmal": true,
-        "Naturdenkmal_Eigentum": "öffentlich"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460376427707336,
-          47.078766543288864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19676,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 17434
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460652596418386,
-          47.07812929386174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9918,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 13934
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.462841971972834,
-          47.078125186734795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9943,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 14105
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461999206555879,
-          47.07772591136294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9916,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 15003
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.462147109104285,
-          47.07793009418505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7810,
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22322
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460348166181614,
-          47.081144356651336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7813,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22326
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460346118318538,
-          47.08126930772645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7814,
-        "baumbezeichnung_botanisch": "Acer campestre",
-        "baumbezeichnung_deutsch": "Feldahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22327
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460335210842148,
-          47.08129085386146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7816,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22331
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46083791975692,
-          47.08065990150166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24150,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22334
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46054895319451,
-          47.08058199178535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19677,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22593
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46070977765582,
-          47.078030731173804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7811,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 23396
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460351564334351,
-          47.08116471869733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24151,
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22714
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460659014655194,
-          47.08060457162032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19675,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 20605
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460590597950839,
-          47.07823093198674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7698,
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 21304
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460149215063284,
-          47.08054979707583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19553,
-        "baumbezeichnung_botanisch": "Salix sp.",
-        "baumbezeichnung_deutsch": "Weide",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": "Fäulnis an den Kappungsstellen, auf Grund des geringen Platzangebotes drzt keine Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 10718
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46050374069547,
-          47.07839892648014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 7696,
-        "baumbezeichnung_botanisch": "Crataegus monogyna",
-        "baumbezeichnung_deutsch": "Eingriffeliger Weißdorn",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25377
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460078129433448,
-          47.080524363940086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 9914,
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumbezeichnung_deutsch": "Platane",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "alt",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26670
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461452224308395,
-          47.07773343209614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 19672,
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 26688
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460426909529563,
-          47.07852556535136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 23690,
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumbezeichnung_deutsch": "Esche",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25941
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.46030571212903,
-          47.080680280225344
+          15.460302133966493,
+          47.08072782508311
         ]
       }
     },
@@ -964,6 +126,24 @@
         "coordinates": [
           15.461506144542746,
           47.080541822977985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Naturdenkmal": true,
+        "Naturdenkmal_Eigentum": "öffentlich",
+        "nummer": "Naturdenkmal-18",
+        "objectid": "Naturdenkmal-4",
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x hispanica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460334771987364,
+          47.0787572998163
         ]
       }
     }

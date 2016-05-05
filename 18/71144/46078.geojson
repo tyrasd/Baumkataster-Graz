@@ -4,154 +4,22 @@
     {
       "type": "Feature",
       "properties": {
-        "nummer": 15954,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1984",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 537
+        "NUMMER": 15954,
+        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
+        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
+        "BAUMTYP": "Laub",
+        "BEMERKUNG": null,
+        "PFLANZJAHR": "1984",
+        "ENTNAHMEJAHR": null,
+        "BAUMPATENSCHAFT": null,
+        "ALTERSKLASSIZIERUNG": "mittel",
+        "OBJECTID": 537
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.404125664979794,
-          47.04323969666386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15953,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1984",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 3874
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.404286254323564,
-          47.04325793248213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15952,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1984",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 11405
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.40475673524876,
-          47.04329737197721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 27551,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 7220
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.403758125067249,
-          47.0432026309826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15955,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1984",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 22355
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.403919278205553,
-          47.04321945966958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 24404,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "jung",
-        "bemerkung": null,
-        "pflanzjahr": "2004",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25667
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.404972416616943,
-          47.04331058587803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "nummer": 15950,
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumtyp": "Laub",
-        "altersklassifizierung": "mittel",
-        "bemerkung": null,
-        "pflanzjahr": "1984",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "objectid": 25251
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.40523028793665,
-          47.043325932400464
+          15.404119970290958,
+          47.043239833908714
         ]
       }
     }
