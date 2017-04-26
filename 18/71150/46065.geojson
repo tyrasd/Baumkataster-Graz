@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1605,
       "properties": {
-        "NUMMER": 13643,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1605
+        "nummer": 13643,
+        "objectid": 1605,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1606,
       "properties": {
-        "NUMMER": 13642,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1606
+        "nummer": 13642,
+        "objectid": 1606,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1607,
       "properties": {
-        "NUMMER": 24402,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1607
+        "nummer": 24402,
+        "objectid": 1607,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1608,
       "properties": {
-        "NUMMER": 13639,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1608
+        "nummer": 13639,
+        "objectid": 1608,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1610,
       "properties": {
-        "NUMMER": 13640,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1610
+        "nummer": 13640,
+        "objectid": 1610,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

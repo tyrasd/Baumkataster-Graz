@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 368,
       "properties": {
-        "NUMMER": 24464,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 368
+        "nummer": 24464,
+        "objectid": 368,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

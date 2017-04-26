@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 213,
       "properties": {
-        "NUMMER": 24793,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Tulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 213
+        "nummer": 24793,
+        "objectid": 213,
+        "baumbezeichnung_deutsch": "Tulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

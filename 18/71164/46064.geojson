@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 95,
       "properties": {
-        "NUMMER": 27652,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Amanogawa'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Säulenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 95
+        "nummer": 27652,
+        "objectid": 95,
+        "baumbezeichnung_deutsch": "Japanische Säulenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Amanogawa'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1074,
       "properties": {
-        "NUMMER": 6279,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1074
+        "nummer": 6279,
+        "objectid": 1074,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1272,
       "properties": {
-        "NUMMER": 22518,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1272
+        "nummer": 22518,
+        "objectid": 1272,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

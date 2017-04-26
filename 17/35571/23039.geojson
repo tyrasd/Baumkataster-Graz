@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 626,
       "properties": {
-        "NUMMER": 18318,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 626
+        "nummer": 18318,
+        "objectid": 626,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 644,
       "properties": {
-        "NUMMER": 18344,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1984",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Grazer Wechselseitige Versicherung",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 644
+        "nummer": 18344,
+        "objectid": 644,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Grazer Wechselseitige Versicherung",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

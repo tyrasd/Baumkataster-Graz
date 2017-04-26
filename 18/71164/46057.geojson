@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 511,
       "properties": {
-        "NUMMER": 7863,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 511
+        "nummer": 7863,
+        "objectid": 511,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,41 @@
     },
     {
       "type": "Feature",
+      "id": 736,
       "properties": {
-        "NUMMER": 8507,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 803
+        "nummer": 7878,
+        "objectid": 736,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459717061651082,
+          47.08190377878649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 803,
+      "properties": {
+        "nummer": 8507,
+        "objectid": 803,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,45 +72,24 @@
     },
     {
       "type": "Feature",
+      "id": 975,
       "properties": {
-        "NUMMER": 7852,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 975
+        "nummer": 7852,
+        "objectid": 975,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.459993389743943,
           47.082538396296016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 7878,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 736
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.459717061651082,
-          47.08190377878649
         ]
       }
     }

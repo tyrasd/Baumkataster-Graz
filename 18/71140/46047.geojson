@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1018,
       "properties": {
-        "NUMMER": 16632,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea pungens",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Stechfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1018
+        "nummer": 16632,
+        "objectid": 1018,
+        "baumbezeichnung_deutsch": "Stechfichte",
+        "baumbezeichnung_botanisch": "Picea pungens",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

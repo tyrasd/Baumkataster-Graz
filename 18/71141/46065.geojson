@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 119,
       "properties": {
-        "NUMMER": 30159,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Shirofugen'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 119
+        "nummer": 30159,
+        "objectid": 119,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 380,
       "properties": {
-        "NUMMER": 14655,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 380
+        "nummer": 14655,
+        "objectid": 380,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 402,
       "properties": {
-        "NUMMER": 24818,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Shirofugen'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 402
+        "nummer": 24818,
+        "objectid": 402,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,39 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 752,
       "properties": {
-        "NUMMER": 24338,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Shirofugen'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 781
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39705561913876,
-          47.06691925768773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 26662,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2006",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 752
+        "nummer": 26662,
+        "objectid": 752,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 753,
       "properties": {
-        "NUMMER": 15136,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 753
+        "nummer": 15136,
+        "objectid": 753,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +118,41 @@
     },
     {
       "type": "Feature",
+      "id": 781,
       "properties": {
-        "NUMMER": 14668,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1126
+        "nummer": 24338,
+        "objectid": 781,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39705561913876,
+          47.06691925768773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1126,
+      "properties": {
+        "nummer": 14668,
+        "objectid": 1126,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1128,
       "properties": {
-        "NUMMER": 14663,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1128
+        "nummer": 14663,
+        "objectid": 1128,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 582,
       "properties": {
-        "NUMMER": 24386,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 582
+        "nummer": 24386,
+        "objectid": 582,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 663,
       "properties": {
-        "NUMMER": 19785,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1984",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Baudirektor i.R. OSR DI Wilhelm Mariacher",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 663
+        "nummer": 19785,
+        "objectid": 663,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Baudirektor i.R. OSR DI Wilhelm Mariacher",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 377,
       "properties": {
-        "NUMMER": 419,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 377
+        "nummer": 419,
+        "objectid": 377,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 998,
       "properties": {
-        "NUMMER": 11228,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 998
+        "nummer": 11228,
+        "objectid": 998,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,39 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1125,
       "properties": {
-        "NUMMER": 203,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1197
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435689849584069,
-          47.06143974384461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 205,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1125
+        "nummer": 205,
+        "objectid": 1125,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,23 +72,47 @@
     },
     {
       "type": "Feature",
+      "id": 1136,
       "properties": {
-        "NUMMER": 11225,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1136
+        "nummer": 11225,
+        "objectid": 1136,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.4327138462704,
           47.05894583861781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1197,
+      "properties": {
+        "nummer": 203,
+        "objectid": 1197,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435689849584069,
+          47.06143974384461
         ]
       }
     }

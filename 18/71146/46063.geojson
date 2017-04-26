@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1202,
       "properties": {
-        "NUMMER": 13017,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1202
+        "nummer": 13017,
+        "objectid": 1202,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

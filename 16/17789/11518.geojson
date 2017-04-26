@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 274,
       "properties": {
-        "NUMMER": 4051,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 274
+        "nummer": 4051,
+        "objectid": 274,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 285,
       "properties": {
-        "NUMMER": 24101,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 285
+        "nummer": 24101,
+        "objectid": 285,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 414,
       "properties": {
-        "NUMMER": 6037,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 414
+        "nummer": 6037,
+        "objectid": 414,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 492,
       "properties": {
-        "NUMMER": 4729,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 492
+        "nummer": 4729,
+        "objectid": 492,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 801,
       "properties": {
-        "NUMMER": 3967,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 801
+        "nummer": 3967,
+        "objectid": 801,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 811,
       "properties": {
-        "NUMMER": 4230,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 811
+        "nummer": 4230,
+        "objectid": 811,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 812,
       "properties": {
-        "NUMMER": 4244,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ailanthus altissima",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Götterbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 812
+        "nummer": 4244,
+        "objectid": 812,
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 813,
       "properties": {
-        "NUMMER": 4735,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ailanthus altissima",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Götterbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 813
+        "nummer": 4735,
+        "objectid": 813,
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 1000,
       "properties": {
-        "NUMMER": 5943,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1985",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1000
+        "nummer": 5943,
+        "objectid": 1000,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 1043,
       "properties": {
-        "NUMMER": 19886,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata 'Greenspire'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Amerikanische Stadtlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1996",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1043
+        "nummer": 19886,
+        "objectid": 1043,
+        "baumbezeichnung_deutsch": "Amerikanische Stadtlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata 'Greenspire'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +233,41 @@
     },
     {
       "type": "Feature",
+      "id": 1137,
       "properties": {
-        "NUMMER": 23390,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "Teilstammbruch am Kronenansatzbereich durch Windeinwirkung, auf Grund des dichten Bestandes derzeit keine Ersatzpflanzung geplant",
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": "2013",
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1180
+        "nummer": 5903,
+        "objectid": 1137,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446112958030586,
+          47.054339756043724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1180,
+      "properties": {
+        "nummer": 23390,
+        "objectid": 1180,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": "Teilstammbruch am Kronenansatzbereich durch Windeinwirkung, auf Grund des dichten Bestandes derzeit keine Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 1181,
       "properties": {
-        "NUMMER": 23393,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Linde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1181
+        "nummer": 23393,
+        "objectid": 1181,
+        "baumbezeichnung_deutsch": "Linde",
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +302,18 @@
     },
     {
       "type": "Feature",
+      "id": 1284,
       "properties": {
-        "NUMMER": 4818,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1284
+        "nummer": 4818,
+        "objectid": 1284,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -289,17 +325,18 @@
     },
     {
       "type": "Feature",
+      "id": 1285,
       "properties": {
-        "NUMMER": 22455,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1285
+        "nummer": 22455,
+        "objectid": 1285,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -311,45 +348,24 @@
     },
     {
       "type": "Feature",
+      "id": 1329,
       "properties": {
-        "NUMMER": 4795,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1329
+        "nummer": 4795,
+        "objectid": 1329,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.439631269956749,
           47.0527030036865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 5903,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1985",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1137
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446112958030586,
-          47.054339756043724
         ]
       }
     }

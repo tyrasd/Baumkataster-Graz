@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1313,
       "properties": {
-        "NUMMER": 10456,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Abies sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Tanne",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1313
+        "nummer": 10456,
+        "objectid": 1313,
+        "baumbezeichnung_deutsch": "Tanne",
+        "baumbezeichnung_botanisch": "Abies sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1314,
       "properties": {
-        "NUMMER": 10459,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Abies sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Tanne",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1314
+        "nummer": 10459,
+        "objectid": 1314,
+        "baumbezeichnung_deutsch": "Tanne",
+        "baumbezeichnung_botanisch": "Abies sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1315,
       "properties": {
-        "NUMMER": 10466,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ailanthus altissima",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Götterbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1315
+        "nummer": 10466,
+        "objectid": 1315,
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1392,
       "properties": {
-        "NUMMER": 20068,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus floribunda",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zierapfel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1392
+        "nummer": 20068,
+        "objectid": 1392,
+        "baumbezeichnung_deutsch": "Zierapfel",
+        "baumbezeichnung_botanisch": "Malus floribunda",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 879,
       "properties": {
-        "NUMMER": 5836,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 879
+        "nummer": 5836,
+        "objectid": 879,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

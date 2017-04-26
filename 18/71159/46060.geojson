@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 59,
       "properties": {
-        "NUMMER": 2393,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 59
+        "nummer": 2393,
+        "objectid": 59,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,45 +26,47 @@
     },
     {
       "type": "Feature",
+      "id": 1123,
       "properties": {
-        "NUMMER": 10623,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1989",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1393
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445728944590918,
-          47.07733378035664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 2288,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Chamaecyparis pisifera 'Squarrosa'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Silber Sawarascheinzypresse",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1123
+        "nummer": 2288,
+        "objectid": 1123,
+        "baumbezeichnung_deutsch": "Silber Sawarascheinzypresse",
+        "baumbezeichnung_botanisch": "Chamaecyparis pisifera 'Squarrosa'",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.444857520580058,
           47.07573925465556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1393,
+      "properties": {
+        "nummer": 10623,
+        "objectid": 1393,
+        "baumbezeichnung_deutsch": "Kugelahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1989",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445728944590918,
+          47.07733378035664
         ]
       }
     }

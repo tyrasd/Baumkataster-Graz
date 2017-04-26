@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 31,
       "properties": {
-        "NUMMER": 24342,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 31
+        "nummer": 24342,
+        "objectid": 31,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1202,
       "properties": {
-        "NUMMER": 13017,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1202
+        "nummer": 13017,
+        "objectid": 1202,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1203,
       "properties": {
-        "NUMMER": 21653,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea pungens",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Stechfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1203
+        "nummer": 21653,
+        "objectid": 1203,
+        "baumbezeichnung_deutsch": "Stechfichte",
+        "baumbezeichnung_botanisch": "Picea pungens",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 263,
       "properties": {
-        "NUMMER": 8171,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 263
+        "nummer": 8171,
+        "objectid": 263,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 264,
       "properties": {
-        "NUMMER": 8168,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 264
+        "nummer": 8168,
+        "objectid": 264,
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 265,
       "properties": {
-        "NUMMER": 8375,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 265
+        "nummer": 8375,
+        "objectid": 265,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 266,
       "properties": {
-        "NUMMER": 8371,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 266
+        "nummer": 8371,
+        "objectid": 266,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 267,
       "properties": {
-        "NUMMER": 8357,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 267
+        "nummer": 8357,
+        "objectid": 267,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 268,
       "properties": {
-        "NUMMER": 8358,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 268
+        "nummer": 8358,
+        "objectid": 268,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 269,
       "properties": {
-        "NUMMER": 8370,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 269
+        "nummer": 8370,
+        "objectid": 269,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 648,
       "properties": {
-        "NUMMER": 8197,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ailanthus altissima",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Götterbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 648
+        "nummer": 8197,
+        "objectid": 648,
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 802,
       "properties": {
-        "NUMMER": 19881,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula papyrifera",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Papierbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1996",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 802
+        "nummer": 19881,
+        "objectid": 802,
+        "baumbezeichnung_deutsch": "Papierbirke",
+        "baumbezeichnung_botanisch": "Betula papyrifera",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 805,
       "properties": {
-        "NUMMER": 1176,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 805
+        "nummer": 1176,
+        "objectid": 805,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 806,
       "properties": {
-        "NUMMER": 1170,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 806
+        "nummer": 1170,
+        "objectid": 806,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 888,
       "properties": {
-        "NUMMER": 8198,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 888
+        "nummer": 8198,
+        "objectid": 888,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 908,
       "properties": {
-        "NUMMER": 1053,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 908
+        "nummer": 1053,
+        "objectid": 908,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -289,39 +302,18 @@
     },
     {
       "type": "Feature",
+      "id": 1090,
       "properties": {
-        "NUMMER": 8243,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1355
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.448768630657176,
-          47.072621861828374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 8229,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1090
+        "nummer": 8229,
+        "objectid": 1090,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -333,17 +325,18 @@
     },
     {
       "type": "Feature",
+      "id": 1091,
       "properties": {
-        "NUMMER": 8323,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1091
+        "nummer": 8323,
+        "objectid": 1091,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -355,23 +348,47 @@
     },
     {
       "type": "Feature",
+      "id": 1094,
       "properties": {
-        "NUMMER": 8214,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1094
+        "nummer": 8214,
+        "objectid": 1094,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.448888647997586,
           47.07257302118108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1355,
+      "properties": {
+        "nummer": 8243,
+        "objectid": 1355,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448768630657176,
+          47.072621861828374
         ]
       }
     }

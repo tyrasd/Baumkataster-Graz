@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 135,
       "properties": {
-        "NUMMER": 27225,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 135
+        "nummer": 27225,
+        "objectid": 135,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

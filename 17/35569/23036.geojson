@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 148,
       "properties": {
-        "NUMMER": 17123,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 148
+        "nummer": 17123,
+        "objectid": 148,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 149,
       "properties": {
-        "NUMMER": 17115,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 149
+        "nummer": 17115,
+        "objectid": 149,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 589,
       "properties": {
-        "NUMMER": 17127,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 589
+        "nummer": 17127,
+        "objectid": 589,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

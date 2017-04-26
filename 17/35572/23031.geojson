@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 437,
       "properties": {
-        "NUMMER": 18246,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia 'Umbraculifera'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 437
+        "nummer": 18246,
+        "objectid": 437,
+        "baumbezeichnung_deutsch": "Kugelakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Umbraculifera'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1204,
       "properties": {
-        "NUMMER": 11264,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1204
+        "nummer": 11264,
+        "objectid": 1204,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1352,
       "properties": {
-        "NUMMER": 14755,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1352
+        "nummer": 14755,
+        "objectid": 1352,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1353,
       "properties": {
-        "NUMMER": 14757,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1353
+        "nummer": 14757,
+        "objectid": 1353,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1354,
       "properties": {
-        "NUMMER": 14758,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus alba",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weißpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1354
+        "nummer": 14758,
+        "objectid": 1354,
+        "baumbezeichnung_deutsch": "Weißpappel",
+        "baumbezeichnung_botanisch": "Populus alba",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

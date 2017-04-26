@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 133,
       "properties": {
-        "NUMMER": 25276,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 133
+        "nummer": 25276,
+        "objectid": 133,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

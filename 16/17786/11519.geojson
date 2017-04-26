@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 160,
       "properties": {
-        "NUMMER": 23967,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia tomentosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Silberlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 160
+        "nummer": 23967,
+        "objectid": 160,
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 537,
       "properties": {
-        "NUMMER": 15954,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1984",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 537
+        "nummer": 15954,
+        "objectid": 537,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1114,
       "properties": {
-        "NUMMER": 31369,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Flächenkartierung",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Flächenkartierung",
-        "BAUMTYP": "Flächenkartierung",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1114
+        "nummer": 31369,
+        "objectid": 1114,
+        "baumbezeichnung_deutsch": "Flächenkartierung",
+        "baumbezeichnung_botanisch": "Flächenkartierung",
+        "baumtyp": "Flächenkartierung",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1,
       "properties": {
-        "NUMMER": 7261,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1
+        "nummer": 7261,
+        "objectid": 1,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 133,
       "properties": {
-        "NUMMER": 25276,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 133
+        "nummer": 25276,
+        "objectid": 133,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 436,
       "properties": {
-        "NUMMER": 8435,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Prof. Dr. Franz Wolkinger",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 436
+        "nummer": 8435,
+        "objectid": 436,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Prof. Dr. Franz Wolkinger",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 517,
       "properties": {
-        "NUMMER": 7267,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 517
+        "nummer": 7267,
+        "objectid": 517,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 566,
       "properties": {
-        "NUMMER": 8429,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 566
+        "nummer": 8429,
+        "objectid": 566,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 567,
       "properties": {
-        "NUMMER": 10634,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Crataegus laevigata 'Paul Scarlet'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotblühender Zweigriffeliger Weißdorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 567
+        "nummer": 10634,
+        "objectid": 567,
+        "baumbezeichnung_deutsch": "Rotblühender Zweigriffeliger Weißdorn",
+        "baumbezeichnung_botanisch": "Crataegus laevigata 'Paul Scarlet'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 569,
       "properties": {
-        "NUMMER": 8448,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 569
+        "nummer": 8448,
+        "objectid": 569,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 571,
       "properties": {
-        "NUMMER": 20001,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 571
+        "nummer": 20001,
+        "objectid": 571,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 572,
       "properties": {
-        "NUMMER": 20010,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sambucus nigra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzer Hollunder",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 572
+        "nummer": 20010,
+        "objectid": 572,
+        "baumbezeichnung_deutsch": "Schwarzer Hollunder",
+        "baumbezeichnung_botanisch": "Sambucus nigra",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 573,
       "properties": {
-        "NUMMER": 20009,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata 'Erecta'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde Erecta",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1996",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 573
+        "nummer": 20009,
+        "objectid": 573,
+        "baumbezeichnung_deutsch": "Winterlinde Erecta",
+        "baumbezeichnung_botanisch": "Tilia cordata 'Erecta'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -223,83 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 672,
       "properties": {
-        "NUMMER": 8487,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 804
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.456855810482525,
-          47.08103373391755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 27527,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 969
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.450608785089612,
-          47.08107780296547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 6933,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1019
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.449159130283443,
-          47.08370161526997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 8437,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "NRAbg. Dr. Hans Hafner",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 672
+        "nummer": 8437,
+        "objectid": 672,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "NRAbg. Dr. Hans Hafner",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -311,61 +256,87 @@
     },
     {
       "type": "Feature",
+      "id": 804,
       "properties": {
-        "NUMMER": 8455,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1217
+        "nummer": 8487,
+        "objectid": 804,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.455954740885502,
-          47.08001849585025
+          15.456855810482525,
+          47.08103373391755
         ]
       }
     },
     {
       "type": "Feature",
+      "id": 969,
       "properties": {
-        "NUMMER": 3852,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1327
+        "nummer": 27527,
+        "objectid": 969,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.450568302756707,
-          47.08468171037076
+          15.450608785089612,
+          47.08107780296547
         ]
       }
     },
     {
       "type": "Feature",
+      "id": 1019,
       "properties": {
-        "NUMMER": 27378,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1078
+        "nummer": 6933,
+        "objectid": 1019,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449159130283443,
+          47.08370161526997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078,
+      "properties": {
+        "nummer": 27378,
+        "objectid": 1078,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -377,17 +348,18 @@
     },
     {
       "type": "Feature",
+      "id": 1087,
       "properties": {
-        "NUMMER": 27379,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1087
+        "nummer": 27379,
+        "objectid": 1087,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -399,17 +371,18 @@
     },
     {
       "type": "Feature",
+      "id": 1095,
       "properties": {
-        "NUMMER": 7226,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1095
+        "nummer": 7226,
+        "objectid": 1095,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -421,17 +394,18 @@
     },
     {
       "type": "Feature",
+      "id": 1098,
       "properties": {
-        "NUMMER": 7234,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1098
+        "nummer": 7234,
+        "objectid": 1098,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -443,23 +417,70 @@
     },
     {
       "type": "Feature",
+      "id": 1099,
       "properties": {
-        "NUMMER": 7232,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1099
+        "nummer": 7232,
+        "objectid": 1099,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.45022082239682,
           47.08425508486789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1217,
+      "properties": {
+        "nummer": 8455,
+        "objectid": 1217,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455954740885502,
+          47.08001849585025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327,
+      "properties": {
+        "nummer": 3852,
+        "objectid": 1327,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450568302756707,
+          47.08468171037076
         ]
       }
     },

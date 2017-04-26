@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 31,
       "properties": {
-        "NUMMER": 24342,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 31
+        "nummer": 24342,
+        "objectid": 31,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 437,
       "properties": {
-        "NUMMER": 18246,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia 'Umbraculifera'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 437
+        "nummer": 18246,
+        "objectid": 437,
+        "baumbezeichnung_deutsch": "Kugelakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Umbraculifera'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 446,
       "properties": {
-        "NUMMER": 18226,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 446
+        "nummer": 18226,
+        "objectid": 446,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1202,
       "properties": {
-        "NUMMER": 13017,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1202
+        "nummer": 13017,
+        "objectid": 1202,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1203,
       "properties": {
-        "NUMMER": 21653,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea pungens",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Stechfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1203
+        "nummer": 21653,
+        "objectid": 1203,
+        "baumbezeichnung_deutsch": "Stechfichte",
+        "baumbezeichnung_botanisch": "Picea pungens",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1204,
       "properties": {
-        "NUMMER": 11264,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1204
+        "nummer": 11264,
+        "objectid": 1204,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1205,
       "properties": {
-        "NUMMER": 14202,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1205
+        "nummer": 14202,
+        "objectid": 1205,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1352,
       "properties": {
-        "NUMMER": 14755,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1352
+        "nummer": 14755,
+        "objectid": 1352,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 1353,
       "properties": {
-        "NUMMER": 14757,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1353
+        "nummer": 14757,
+        "objectid": 1353,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 1354,
       "properties": {
-        "NUMMER": 14758,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus alba",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weißpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1354
+        "nummer": 14758,
+        "objectid": 1354,
+        "baumbezeichnung_deutsch": "Weißpappel",
+        "baumbezeichnung_botanisch": "Populus alba",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 1414,
       "properties": {
-        "NUMMER": 18218,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1414
+        "nummer": 18218,
+        "objectid": 1414,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

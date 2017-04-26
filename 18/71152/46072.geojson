@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 128,
       "properties": {
-        "NUMMER": 29373,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenhainbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 128
+        "nummer": 29373,
+        "objectid": 128,
+        "baumbezeichnung_deutsch": "Säulenhainbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 129,
       "properties": {
-        "NUMMER": 29374,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Magnolia kobus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Baummagnolie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 129
+        "nummer": 29374,
+        "objectid": 129,
+        "baumbezeichnung_deutsch": "Baummagnolie",
+        "baumbezeichnung_botanisch": "Magnolia kobus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 130,
       "properties": {
-        "NUMMER": 29375,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 130
+        "nummer": 29375,
+        "objectid": 130,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 131,
       "properties": {
-        "NUMMER": 25243,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 131
+        "nummer": 25243,
+        "objectid": 131,
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 314,
       "properties": {
-        "NUMMER": 29368,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea omorica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Omoriafichte, Serbische Fichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 314
+        "nummer": 29368,
+        "objectid": 314,
+        "baumbezeichnung_deutsch": "Omoriafichte, Serbische Fichte",
+        "baumbezeichnung_botanisch": "Picea omorica",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 315,
       "properties": {
-        "NUMMER": 29371,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 315
+        "nummer": 29371,
+        "objectid": 315,
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

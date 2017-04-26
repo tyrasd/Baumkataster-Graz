@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 181,
       "properties": {
-        "NUMMER": 29924,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus x canescens",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Graupappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2010",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 181
+        "nummer": 29924,
+        "objectid": 181,
+        "baumbezeichnung_deutsch": "Graupappel",
+        "baumbezeichnung_botanisch": "Populus x canescens",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 825,
       "properties": {
-        "NUMMER": 8090,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix alba",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Silberweide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 825
+        "nummer": 8090,
+        "objectid": 825,
+        "baumbezeichnung_deutsch": "Silberweide",
+        "baumbezeichnung_botanisch": "Salix alba",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

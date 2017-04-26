@@ -3,45 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "id": 720,
       "properties": {
-        "NUMMER": 5009,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Abies concolor",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Coloradotanne",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 996
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45472959299201,
-          47.06967619411105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 6817,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "massive Verletzungsstellen am Stammfuß mit ausgeprägter Kernfäule, Ersatzpflanzung geplant",
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 720
+        "nummer": 6817,
+        "objectid": 720,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": "massive Verletzungsstellen am Stammfuß mit ausgeprägter Kernfäule, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.45365285945289,
           47.066729489554156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 996,
+      "properties": {
+        "nummer": 5009,
+        "objectid": 996,
+        "baumbezeichnung_deutsch": "Coloradotanne",
+        "baumbezeichnung_botanisch": "Abies concolor",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45472959299201,
+          47.06967619411105
         ]
       }
     },

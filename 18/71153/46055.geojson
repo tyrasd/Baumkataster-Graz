@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 374,
       "properties": {
-        "NUMMER": 7374,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia x europaea",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Holländische Linde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 374
+        "nummer": 7374,
+        "objectid": 374,
+        "baumbezeichnung_deutsch": "Holländische Linde",
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 817,
       "properties": {
-        "NUMMER": 7392,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia americana",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Amerikanische Linde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 817
+        "nummer": 7392,
+        "objectid": 817,
+        "baumbezeichnung_deutsch": "Amerikanische Linde",
+        "baumbezeichnung_botanisch": "Tilia americana",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1024,
       "properties": {
-        "NUMMER": 5804,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1024
+        "nummer": 5804,
+        "objectid": 1024,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

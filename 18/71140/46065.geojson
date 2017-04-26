@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 15,
       "properties": {
-        "NUMMER": 24183,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Kirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Fa. Kastner & Öhler",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 15
+        "nummer": 24183,
+        "objectid": 15,
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Fa. Kastner & Öhler",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 441,
       "properties": {
-        "NUMMER": 15145,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 441
+        "nummer": 15145,
+        "objectid": 441,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 750,
       "properties": {
-        "NUMMER": 23926,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sorbus aria 'Lutescens'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gelblaubige Mehlbeere",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2003",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Fa. Kastner & Öhler",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 750
+        "nummer": 23926,
+        "objectid": 750,
+        "baumbezeichnung_deutsch": "Gelblaubige Mehlbeere",
+        "baumbezeichnung_botanisch": "Sorbus aria 'Lutescens'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Fa. Kastner & Öhler",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

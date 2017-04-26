@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1389,
       "properties": {
-        "NUMMER": 23457,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Castanea sativa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Eßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1389
+        "nummer": 23457,
+        "objectid": 1389,
+        "baumbezeichnung_deutsch": "Eßkastanie",
+        "baumbezeichnung_botanisch": "Castanea sativa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1396,
       "properties": {
-        "NUMMER": 23460,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1396
+        "nummer": 23460,
+        "objectid": 1396,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 823,
       "properties": {
-        "NUMMER": 24212,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 823
+        "nummer": 24212,
+        "objectid": 823,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1025,
       "properties": {
-        "NUMMER": 24219,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1025
+        "nummer": 24219,
+        "objectid": 1025,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

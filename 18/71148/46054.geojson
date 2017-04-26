@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1368,
       "properties": {
-        "NUMMER": 15724,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Chamaecyparis sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinzypresse",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1368
+        "nummer": 15724,
+        "objectid": 1368,
+        "baumbezeichnung_deutsch": "Scheinzypresse",
+        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1664,
       "properties": {
-        "NUMMER": 21757,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1998",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1664
+        "nummer": 21757,
+        "objectid": 1664,
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1019,
       "properties": {
-        "NUMMER": 6933,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1019
+        "nummer": 6933,
+        "objectid": 1019,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

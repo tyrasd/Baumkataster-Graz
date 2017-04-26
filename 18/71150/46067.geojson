@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 124,
       "properties": {
-        "NUMMER": 13140,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 124
+        "nummer": 13140,
+        "objectid": 124,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1026,
       "properties": {
-        "NUMMER": 13134,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pinus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Föhre",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1026
+        "nummer": 13134,
+        "objectid": 1026,
+        "baumbezeichnung_deutsch": "Föhre",
+        "baumbezeichnung_botanisch": "Pinus sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1042,
       "properties": {
-        "NUMMER": 13114,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Larix decidua",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Europäische Lärche",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1042
+        "nummer": 13114,
+        "objectid": 1042,
+        "baumbezeichnung_deutsch": "Europäische Lärche",
+        "baumbezeichnung_botanisch": "Larix decidua",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

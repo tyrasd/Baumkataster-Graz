@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1075,
       "properties": {
-        "NUMMER": 10119,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1075
+        "nummer": 10119,
+        "objectid": 1075,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1375,
       "properties": {
-        "NUMMER": 20028,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja plicata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Riesenlebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1996",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1375
+        "nummer": 20028,
+        "objectid": 1375,
+        "baumbezeichnung_deutsch": "Riesenlebensbaum",
+        "baumbezeichnung_botanisch": "Thuja plicata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1376,
       "properties": {
-        "NUMMER": 20029,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja plicata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Riesenlebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1996",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1376
+        "nummer": 20029,
+        "objectid": 1376,
+        "baumbezeichnung_deutsch": "Riesenlebensbaum",
+        "baumbezeichnung_botanisch": "Thuja plicata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

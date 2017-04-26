@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 181,
       "properties": {
-        "NUMMER": 29924,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus x canescens",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Graupappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2010",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 181
+        "nummer": 29924,
+        "objectid": 181,
+        "baumbezeichnung_deutsch": "Graupappel",
+        "baumbezeichnung_botanisch": "Populus x canescens",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2010",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

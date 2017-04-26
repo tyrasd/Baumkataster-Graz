@@ -3,39 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 400,
       "properties": {
-        "NUMMER": 14876,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Hokusai'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Kirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 618
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392693600620051,
-          47.05498758626108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 17113,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 400
+        "nummer": 17113,
+        "objectid": 400,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +26,41 @@
     },
     {
       "type": "Feature",
+      "id": 618,
       "properties": {
-        "NUMMER": 14466,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Juglans regia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Walnuß",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1305
+        "nummer": 14876,
+        "objectid": 618,
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392693600620051,
+          47.05498758626108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1305,
+      "properties": {
+        "nummer": 14466,
+        "objectid": 1305,
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1306,
       "properties": {
-        "NUMMER": 14473,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1306
+        "nummer": 14473,
+        "objectid": 1306,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1307,
       "properties": {
-        "NUMMER": 23520,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2002",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1307
+        "nummer": 23520,
+        "objectid": 1307,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1418,
       "properties": {
-        "NUMMER": 17183,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1418
+        "nummer": 17183,
+        "objectid": 1418,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

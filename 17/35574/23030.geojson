@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 39,
       "properties": {
-        "NUMMER": 13046,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Linde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1987",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 39
+        "nummer": 13046,
+        "objectid": 39,
+        "baumbezeichnung_deutsch": "Linde",
+        "baumbezeichnung_botanisch": "Tilia sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1987",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 41,
       "properties": {
-        "NUMMER": 13059,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 41
+        "nummer": 13059,
+        "objectid": 41,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 43,
       "properties": {
-        "NUMMER": 15024,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1986",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 43
+        "nummer": 15024,
+        "objectid": 43,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 425,
       "properties": {
-        "NUMMER": 12109,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia x europaea",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Holländische Linde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 425
+        "nummer": 12109,
+        "objectid": 425,
+        "baumbezeichnung_deutsch": "Holländische Linde",
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 472,
       "properties": {
-        "NUMMER": 23011,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2000",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 472
+        "nummer": 23011,
+        "objectid": 472,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1061,
       "properties": {
-        "NUMMER": 27323,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1061
+        "nummer": 27323,
+        "objectid": 1061,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1096,
       "properties": {
-        "NUMMER": 27322,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1096
+        "nummer": 27322,
+        "objectid": 1096,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

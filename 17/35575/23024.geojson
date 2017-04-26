@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 303,
       "properties": {
-        "NUMMER": 10692,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea omorica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Omoriafichte, Serbische Fichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 303
+        "nummer": 10692,
+        "objectid": 303,
+        "baumbezeichnung_deutsch": "Omoriafichte, Serbische Fichte",
+        "baumbezeichnung_botanisch": "Picea omorica",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 304,
       "properties": {
-        "NUMMER": 24292,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus tremula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zitterpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 304
+        "nummer": 24292,
+        "objectid": 304,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 305,
       "properties": {
-        "NUMMER": 10669,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 305
+        "nummer": 10669,
+        "objectid": 305,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 306,
       "properties": {
-        "NUMMER": 10720,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix x smithiana",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Küblerweide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 306
+        "nummer": 10720,
+        "objectid": 306,
+        "baumbezeichnung_deutsch": "Küblerweide",
+        "baumbezeichnung_botanisch": "Salix x smithiana",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 581,
       "properties": {
-        "NUMMER": 10670,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea pungens 'Glauca'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Blaue Stechfichte",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 581
+        "nummer": 10670,
+        "objectid": 581,
+        "baumbezeichnung_deutsch": "Blaue Stechfichte",
+        "baumbezeichnung_botanisch": "Picea pungens 'Glauca'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1644,
       "properties": {
-        "NUMMER": 17192,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1644
+        "nummer": 17192,
+        "objectid": 1644,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1645,
       "properties": {
-        "NUMMER": 17196,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pinus nigra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzkiefer",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1645
+        "nummer": 17196,
+        "objectid": 1645,
+        "baumbezeichnung_deutsch": "Schwarzkiefer",
+        "baumbezeichnung_botanisch": "Pinus nigra",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1646,
       "properties": {
-        "NUMMER": 17202,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1646
+        "nummer": 17202,
+        "objectid": 1646,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 1647,
       "properties": {
-        "NUMMER": 17204,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Betula pendula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sandbirke, Weißbirke",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1647
+        "nummer": 17204,
+        "objectid": 1647,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 1656,
       "properties": {
-        "NUMMER": 17206,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus padus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Traubenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1656
+        "nummer": 17206,
+        "objectid": 1656,
+        "baumbezeichnung_deutsch": "Traubenkirsche",
+        "baumbezeichnung_botanisch": "Prunus padus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 1657,
       "properties": {
-        "NUMMER": 17216,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pinus nigra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzkiefer",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1657
+        "nummer": 17216,
+        "objectid": 1657,
+        "baumbezeichnung_deutsch": "Schwarzkiefer",
+        "baumbezeichnung_botanisch": "Pinus nigra",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 1658,
       "properties": {
-        "NUMMER": 17220,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus glutinosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzerle",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1658
+        "nummer": 17220,
+        "objectid": 1658,
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 1659,
       "properties": {
-        "NUMMER": 10676,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1659
+        "nummer": 10676,
+        "objectid": 1659,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

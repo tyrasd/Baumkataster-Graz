@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 108,
       "properties": {
-        "NUMMER": 30141,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus fruticosa 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelsandkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 108
+        "nummer": 30141,
+        "objectid": 108,
+        "baumbezeichnung_deutsch": "Kugelsandkirsche",
+        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 111,
       "properties": {
-        "NUMMER": 30140,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Cercis siliquastrum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeiner Judasbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 111
+        "nummer": 30140,
+        "objectid": 111,
+        "baumbezeichnung_deutsch": "Gemeiner Judasbaum",
+        "baumbezeichnung_botanisch": "Cercis siliquastrum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 165,
       "properties": {
-        "NUMMER": 10864,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 165
+        "nummer": 10864,
+        "objectid": 165,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 195,
       "properties": {
-        "NUMMER": 25528,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 195
+        "nummer": 25528,
+        "objectid": 195,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 519,
       "properties": {
-        "NUMMER": 20249,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Frucht'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fruchtapfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 519
+        "nummer": 20249,
+        "objectid": 519,
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 520,
       "properties": {
-        "NUMMER": 20292,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus 'Frucht'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fruchtkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 520
+        "nummer": 20292,
+        "objectid": 520,
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 535,
       "properties": {
-        "NUMMER": 6387,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 535
+        "nummer": 6387,
+        "objectid": 535,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 719,
       "properties": {
-        "NUMMER": 11066,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 719
+        "nummer": 11066,
+        "objectid": 719,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 727,
       "properties": {
-        "NUMMER": 3434,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus 'Pendula'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hängehainbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 727
+        "nummer": 3434,
+        "objectid": 727,
+        "baumbezeichnung_deutsch": "Hängehainbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus 'Pendula'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 730,
       "properties": {
-        "NUMMER": 10793,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1983",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 730
+        "nummer": 10793,
+        "objectid": 730,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -223,171 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 1085,
       "properties": {
-        "NUMMER": 40,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1198
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435534286089776,
-          47.063130401880784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 20707,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1343
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429686060982899,
-          47.06514635314259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 20713,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1344
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429602982544472,
-          47.06520018762926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 21819,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1345
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434565606096701,
-          47.06843891296712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 21823,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1346
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4345451313186,
-          47.068219957913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 21824,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1347
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.434537912966086,
-          47.06811050414842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 15446,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1349
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430807141863147,
-          47.070097344087415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 27584,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Juglans regia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Walnuß",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1085
+        "nummer": 27584,
+        "objectid": 1085,
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -399,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 1086,
       "properties": {
-        "NUMMER": 10887,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides 'Schwedleri'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hellroter Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1086
+        "nummer": 10887,
+        "objectid": 1086,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -421,17 +279,179 @@
     },
     {
       "type": "Feature",
+      "id": 1198,
       "properties": {
-        "NUMMER": 27825,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1554
+        "nummer": 40,
+        "objectid": 1198,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435534286089776,
+          47.063130401880784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1343,
+      "properties": {
+        "nummer": 20707,
+        "objectid": 1343,
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429686060982899,
+          47.06514635314259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1344,
+      "properties": {
+        "nummer": 20713,
+        "objectid": 1344,
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429602982544472,
+          47.06520018762926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1345,
+      "properties": {
+        "nummer": 21819,
+        "objectid": 1345,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434565606096701,
+          47.06843891296712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346,
+      "properties": {
+        "nummer": 21823,
+        "objectid": 1346,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4345451313186,
+          47.068219957913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1347,
+      "properties": {
+        "nummer": 21824,
+        "objectid": 1347,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.434537912966086,
+          47.06811050414842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1349,
+      "properties": {
+        "nummer": 15446,
+        "objectid": 1349,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.430807141863147,
+          47.070097344087415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1554,
+      "properties": {
+        "nummer": 27825,
+        "objectid": 1554,
+        "baumbezeichnung_deutsch": "Weide",
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -443,17 +463,18 @@
     },
     {
       "type": "Feature",
+      "id": 1561,
       "properties": {
-        "NUMMER": 27826,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1561
+        "nummer": 27826,
+        "objectid": 1561,
+        "baumbezeichnung_deutsch": "Weide",
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -465,17 +486,18 @@
     },
     {
       "type": "Feature",
+      "id": 1570,
       "properties": {
-        "NUMMER": 27828,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1570
+        "nummer": 27828,
+        "objectid": 1570,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -487,17 +509,18 @@
     },
     {
       "type": "Feature",
+      "id": 1585,
       "properties": {
-        "NUMMER": 21833,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1585
+        "nummer": 21833,
+        "objectid": 1585,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

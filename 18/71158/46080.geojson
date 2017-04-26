@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 931,
       "properties": {
-        "NUMMER": 17769,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer ginnala",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feuerahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 931
+        "nummer": 17769,
+        "objectid": 931,
+        "baumbezeichnung_deutsch": "Feuerahorn",
+        "baumbezeichnung_botanisch": "Acer ginnala",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

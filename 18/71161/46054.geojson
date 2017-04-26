@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1295,
       "properties": {
-        "NUMMER": 19700,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1994",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1295
+        "nummer": 19700,
+        "objectid": 1295,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 110,
       "properties": {
-        "NUMMER": 30139,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Cercis siliquastrum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeiner Judasbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 110
+        "nummer": 30139,
+        "objectid": 110,
+        "baumbezeichnung_deutsch": "Gemeiner Judasbaum",
+        "baumbezeichnung_botanisch": "Cercis siliquastrum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

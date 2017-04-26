@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 108,
       "properties": {
-        "NUMMER": 30141,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus fruticosa 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelsandkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 108
+        "nummer": 30141,
+        "objectid": 108,
+        "baumbezeichnung_deutsch": "Kugelsandkirsche",
+        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 727,
       "properties": {
-        "NUMMER": 3434,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus 'Pendula'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hängehainbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 727
+        "nummer": 3434,
+        "objectid": 727,
+        "baumbezeichnung_deutsch": "Hängehainbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus 'Pendula'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1345,
       "properties": {
-        "NUMMER": 21819,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1345
+        "nummer": 21819,
+        "objectid": 1345,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1346,
       "properties": {
-        "NUMMER": 21823,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1346
+        "nummer": 21823,
+        "objectid": 1346,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1347,
       "properties": {
-        "NUMMER": 21824,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1347
+        "nummer": 21824,
+        "objectid": 1347,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1349,
       "properties": {
-        "NUMMER": 15446,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1349
+        "nummer": 15446,
+        "objectid": 1349,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1585,
       "properties": {
-        "NUMMER": 21833,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1999",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1585
+        "nummer": 21833,
+        "objectid": 1585,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1999",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

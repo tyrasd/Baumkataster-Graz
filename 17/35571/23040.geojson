@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 212,
       "properties": {
-        "NUMMER": 16501,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Kulturapfel'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Apfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 212
+        "nummer": 16501,
+        "objectid": 212,
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

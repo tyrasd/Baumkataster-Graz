@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 292,
       "properties": {
-        "NUMMER": 27354,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 292
+        "nummer": 27354,
+        "objectid": 292,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 466,
       "properties": {
-        "NUMMER": 2489,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Magnolia kobus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Baummagnolie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 466
+        "nummer": 2489,
+        "objectid": 466,
+        "baumbezeichnung_deutsch": "Baummagnolie",
+        "baumbezeichnung_botanisch": "Magnolia kobus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,83 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 697,
       "properties": {
-        "NUMMER": 23921,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ginkgo biloba",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Ginkgobaum, Fächerblattbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2003",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 822
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441575687436425,
-          47.07757043487996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 27726,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2008",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 837
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441314488222407,
-          47.07703011875969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 27724,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2008",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 974
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441357255222888,
-          47.07693179350817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 2500,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Tulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 697
+        "nummer": 2500,
+        "objectid": 697,
+        "baumbezeichnung_deutsch": "Tulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -135,83 +72,87 @@
     },
     {
       "type": "Feature",
+      "id": 822,
       "properties": {
-        "NUMMER": 2540,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides 'Schwedleri'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hellroter Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1168
+        "nummer": 23921,
+        "objectid": 822,
+        "baumbezeichnung_deutsch": "Ginkgobaum, Fächerblattbaum",
+        "baumbezeichnung_botanisch": "Ginkgo biloba",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.44379936502281,
-          47.076947159692274
+          15.441575687436425,
+          47.07757043487996
         ]
       }
     },
     {
       "type": "Feature",
+      "id": 837,
       "properties": {
-        "NUMMER": 2897,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "massive Morschung durch Kronenkappung und Teilstammentnahmestelle, Ersatzpflanzung geplant",
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1169
+        "nummer": 27726,
+        "objectid": 837,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.44211679177811,
-          47.07702281982731
+          15.441314488222407,
+          47.07703011875969
         ]
       }
     },
     {
       "type": "Feature",
+      "id": 974,
       "properties": {
-        "NUMMER": 2542,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ailanthus altissima",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Götterbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1194
+        "nummer": 27724,
+        "objectid": 974,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.44339174845186,
-          47.07741784080114
+          15.441357255222888,
+          47.07693179350817
         ]
       }
     },
     {
       "type": "Feature",
+      "id": 1145,
       "properties": {
-        "NUMMER": 2554,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1145
+        "nummer": 2554,
+        "objectid": 1145,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1146,
       "properties": {
-        "NUMMER": 2566,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1146
+        "nummer": 2566,
+        "objectid": 1146,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -245,23 +187,93 @@
     },
     {
       "type": "Feature",
+      "id": 1151,
       "properties": {
-        "NUMMER": 2027,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1151
+        "nummer": 2027,
+        "objectid": 1151,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.442380213075156,
           47.07599231905781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1168,
+      "properties": {
+        "nummer": 2540,
+        "objectid": 1168,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44379936502281,
+          47.076947159692274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1169,
+      "properties": {
+        "nummer": 2897,
+        "objectid": 1169,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": "massive Morschung durch Kronenkappung und Teilstammentnahmestelle, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44211679177811,
+          47.07702281982731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1194,
+      "properties": {
+        "nummer": 2542,
+        "objectid": 1194,
+        "baumbezeichnung_deutsch": "Götterbaum",
+        "baumbezeichnung_botanisch": "Ailanthus altissima",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44339174845186,
+          47.07741784080114
         ]
       }
     }

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 146,
       "properties": {
-        "NUMMER": 19508,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 146
+        "nummer": 19508,
+        "objectid": 146,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 523,
       "properties": {
-        "NUMMER": 19506,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus x carnea",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotblühende Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 523
+        "nummer": 19506,
+        "objectid": 523,
+        "baumbezeichnung_deutsch": "Rotblühende Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus x carnea",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1209,
       "properties": {
-        "NUMMER": 31797,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Weißer Klarapfel'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Apfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2014",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1209
+        "nummer": 31797,
+        "objectid": 1209,
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Weißer Klarapfel'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

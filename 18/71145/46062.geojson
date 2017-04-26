@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 437,
       "properties": {
-        "NUMMER": 18246,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia 'Umbraculifera'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 437
+        "nummer": 18246,
+        "objectid": 437,
+        "baumbezeichnung_deutsch": "Kugelakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia 'Umbraculifera'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

@@ -3,39 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 190,
       "properties": {
-        "NUMMER": 24660,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 207
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44109629726825,
-          47.07392222650246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 24642,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 190
+        "nummer": 24642,
+        "objectid": 190,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 191,
       "properties": {
-        "NUMMER": 24644,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 191
+        "nummer": 24644,
+        "objectid": 191,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +49,41 @@
     },
     {
       "type": "Feature",
+      "id": 207,
       "properties": {
-        "NUMMER": 19462,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Chamaecyparis sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinzypresse",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 514
+        "nummer": 24660,
+        "objectid": 207,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44109629726825,
+          47.07392222650246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 514,
+      "properties": {
+        "nummer": 19462,
+        "objectid": 514,
+        "baumbezeichnung_deutsch": "Scheinzypresse",
+        "baumbezeichnung_botanisch": "Chamaecyparis sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 600,
       "properties": {
-        "NUMMER": 19026,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": "2012",
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 600
+        "nummer": 19026,
+        "objectid": 600,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 611,
       "properties": {
-        "NUMMER": 18768,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Stieleiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 611
+        "nummer": 18768,
+        "objectid": 611,
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 612,
       "properties": {
-        "NUMMER": 18769,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 612
+        "nummer": 18769,
+        "objectid": 612,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 613,
       "properties": {
-        "NUMMER": 18778,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 613
+        "nummer": 18778,
+        "objectid": 613,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 614,
       "properties": {
-        "NUMMER": 23554,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2002",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 614
+        "nummer": 23554,
+        "objectid": 614,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 615,
       "properties": {
-        "NUMMER": 18819,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 615
+        "nummer": 18819,
+        "objectid": 615,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 741,
       "properties": {
-        "NUMMER": 18763,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 741
+        "nummer": 18763,
+        "objectid": 741,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 1057,
       "properties": {
-        "NUMMER": 20129,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1057
+        "nummer": 20129,
+        "objectid": 1057,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 1183,
       "properties": {
-        "NUMMER": 18725,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1183
+        "nummer": 18725,
+        "objectid": 1183,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -289,17 +302,18 @@
     },
     {
       "type": "Feature",
+      "id": 1230,
       "properties": {
-        "NUMMER": 18792,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1230
+        "nummer": 18792,
+        "objectid": 1230,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -311,17 +325,18 @@
     },
     {
       "type": "Feature",
+      "id": 1232,
       "properties": {
-        "NUMMER": 18806,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus cerasifera 'Nigra'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Echte Blutpflaume",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1232
+        "nummer": 18806,
+        "objectid": 1232,
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -333,17 +348,18 @@
     },
     {
       "type": "Feature",
+      "id": 1233,
       "properties": {
-        "NUMMER": 18807,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1233
+        "nummer": 18807,
+        "objectid": 1233,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -355,17 +371,18 @@
     },
     {
       "type": "Feature",
+      "id": 1234,
       "properties": {
-        "NUMMER": 18814,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1234
+        "nummer": 18814,
+        "objectid": 1234,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -377,17 +394,18 @@
     },
     {
       "type": "Feature",
+      "id": 1235,
       "properties": {
-        "NUMMER": 18815,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1235
+        "nummer": 18815,
+        "objectid": 1235,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -399,17 +417,18 @@
     },
     {
       "type": "Feature",
+      "id": 1242,
       "properties": {
-        "NUMMER": 18842,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1242
+        "nummer": 18842,
+        "objectid": 1242,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -421,17 +440,18 @@
     },
     {
       "type": "Feature",
+      "id": 1243,
       "properties": {
-        "NUMMER": 18858,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1243
+        "nummer": 18858,
+        "objectid": 1243,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -443,17 +463,18 @@
     },
     {
       "type": "Feature",
+      "id": 1244,
       "properties": {
-        "NUMMER": 18860,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1244
+        "nummer": 18860,
+        "objectid": 1244,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -465,17 +486,18 @@
     },
     {
       "type": "Feature",
+      "id": 1245,
       "properties": {
-        "NUMMER": 18865,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1245
+        "nummer": 18865,
+        "objectid": 1245,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -487,17 +509,18 @@
     },
     {
       "type": "Feature",
+      "id": 1249,
       "properties": {
-        "NUMMER": 18881,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1249
+        "nummer": 18881,
+        "objectid": 1249,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -509,17 +532,18 @@
     },
     {
       "type": "Feature",
+      "id": 1250,
       "properties": {
-        "NUMMER": 18882,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1250
+        "nummer": 18882,
+        "objectid": 1250,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -531,17 +555,18 @@
     },
     {
       "type": "Feature",
+      "id": 1251,
       "properties": {
-        "NUMMER": 18887,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1251
+        "nummer": 18887,
+        "objectid": 1251,
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -553,17 +578,18 @@
     },
     {
       "type": "Feature",
+      "id": 1252,
       "properties": {
-        "NUMMER": 18892,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1252
+        "nummer": 18892,
+        "objectid": 1252,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -575,17 +601,18 @@
     },
     {
       "type": "Feature",
+      "id": 1308,
       "properties": {
-        "NUMMER": 19484,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1308
+        "nummer": 19484,
+        "objectid": 1308,
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -597,17 +624,18 @@
     },
     {
       "type": "Feature",
+      "id": 1309,
       "properties": {
-        "NUMMER": 19342,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1309
+        "nummer": 19342,
+        "objectid": 1309,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -619,17 +647,18 @@
     },
     {
       "type": "Feature",
+      "id": 1310,
       "properties": {
-        "NUMMER": 19344,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1310
+        "nummer": 19344,
+        "objectid": 1310,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -641,17 +670,18 @@
     },
     {
       "type": "Feature",
+      "id": 1311,
       "properties": {
-        "NUMMER": 18743,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1311
+        "nummer": 18743,
+        "objectid": 1311,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -663,17 +693,18 @@
     },
     {
       "type": "Feature",
+      "id": 1312,
       "properties": {
-        "NUMMER": 18751,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1312
+        "nummer": 18751,
+        "objectid": 1312,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -685,17 +716,18 @@
     },
     {
       "type": "Feature",
+      "id": 1637,
       "properties": {
-        "NUMMER": 19389,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus cerasifera 'Pissardii'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotblättrige Kirschpflaume",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1637
+        "nummer": 19389,
+        "objectid": 1637,
+        "baumbezeichnung_deutsch": "Rotblättrige Kirschpflaume",
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Pissardii'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -707,17 +739,18 @@
     },
     {
       "type": "Feature",
+      "id": 1638,
       "properties": {
-        "NUMMER": 19428,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1638
+        "nummer": 19428,
+        "objectid": 1638,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -729,17 +762,18 @@
     },
     {
       "type": "Feature",
+      "id": 1639,
       "properties": {
-        "NUMMER": 23436,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2001",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1639
+        "nummer": 23436,
+        "objectid": 1639,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2001",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -751,17 +785,18 @@
     },
     {
       "type": "Feature",
+      "id": 1640,
       "properties": {
-        "NUMMER": 19456,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1640
+        "nummer": 19456,
+        "objectid": 1640,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -773,17 +808,18 @@
     },
     {
       "type": "Feature",
+      "id": 1641,
       "properties": {
-        "NUMMER": 19686,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pinus nigra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzkiefer",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1994",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Zur Erinnerung Rudolf Harter 1908",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1641
+        "nummer": 19686,
+        "objectid": 1641,
+        "baumbezeichnung_deutsch": "Schwarzkiefer",
+        "baumbezeichnung_botanisch": "Pinus nigra",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Zur Erinnerung Rudolf Harter 1908",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

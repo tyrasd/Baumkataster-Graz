@@ -3,61 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 403,
       "properties": {
-        "NUMMER": 14829,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1986",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 525
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392129665963822,
-          47.06619158228812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 12942,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 623
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.394963234639546,
-          47.06267902412128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 15911,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 403
+        "nummer": 15911,
+        "objectid": 403,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 404,
       "properties": {
-        "NUMMER": 14839,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1986",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 404
+        "nummer": 14839,
+        "objectid": 404,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,23 +49,70 @@
     },
     {
       "type": "Feature",
+      "id": 408,
       "properties": {
-        "NUMMER": 15915,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer negundo",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Eschenahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 408
+        "nummer": 15915,
+        "objectid": 408,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.396269308146493,
           47.06629086181793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 525,
+      "properties": {
+        "nummer": 14829,
+        "objectid": 525,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392129665963822,
+          47.06619158228812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 623,
+      "properties": {
+        "nummer": 12942,
+        "objectid": 623,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.394963234639546,
+          47.06267902412128
         ]
       }
     }

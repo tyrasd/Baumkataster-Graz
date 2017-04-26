@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 24,
       "properties": {
-        "NUMMER": 2266,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 24
+        "nummer": 2266,
+        "objectid": 24,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 60,
       "properties": {
-        "NUMMER": 1929,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 60
+        "nummer": 1929,
+        "objectid": 60,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 87,
       "properties": {
-        "NUMMER": 1973,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 87
+        "nummer": 1973,
+        "objectid": 87,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 88,
       "properties": {
-        "NUMMER": 1832,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer campestre",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Feldahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 88
+        "nummer": 1832,
+        "objectid": 88,
+        "baumbezeichnung_deutsch": "Feldahorn",
+        "baumbezeichnung_botanisch": "Acer campestre",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 89,
       "properties": {
-        "NUMMER": 2004,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 89
+        "nummer": 2004,
+        "objectid": 89,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,39 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1105,
       "properties": {
-        "NUMMER": 12763,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus glabra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1167
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445412830997284,
-          47.075360234058856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 2250,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1105
+        "nummer": 2250,
+        "objectid": 1105,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1142,
       "properties": {
-        "NUMMER": 1819,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1142
+        "nummer": 1819,
+        "objectid": 1142,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1148,
       "properties": {
-        "NUMMER": 24745,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer rubrum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Dr. Otto Seka",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1148
+        "nummer": 24745,
+        "objectid": 1148,
+        "baumbezeichnung_deutsch": "Rotahorn",
+        "baumbezeichnung_botanisch": "Acer rubrum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Dr. Otto Seka",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 1153,
       "properties": {
-        "NUMMER": 1809,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1153
+        "nummer": 1809,
+        "objectid": 1153,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 1155,
       "properties": {
-        "NUMMER": 1965,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1155
+        "nummer": 1965,
+        "objectid": 1155,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 1157,
       "properties": {
-        "NUMMER": 1800,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1157
+        "nummer": 1800,
+        "objectid": 1157,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 1159,
       "properties": {
-        "NUMMER": 2142,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1159
+        "nummer": 2142,
+        "objectid": 1159,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -289,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 1161,
       "properties": {
-        "NUMMER": 1958,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1161
+        "nummer": 1958,
+        "objectid": 1161,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -311,23 +302,47 @@
     },
     {
       "type": "Feature",
+      "id": 1162,
       "properties": {
-        "NUMMER": 1953,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Taxus baccata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Eibe",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1162
+        "nummer": 1953,
+        "objectid": 1162,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.445537082897978,
           47.07452263493594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1167,
+      "properties": {
+        "nummer": 12763,
+        "objectid": 1167,
+        "baumbezeichnung_deutsch": "Bergulme",
+        "baumbezeichnung_botanisch": "Ulmus glabra",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445412830997284,
+          47.075360234058856
         ]
       }
     }

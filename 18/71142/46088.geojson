@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 25,
       "properties": {
-        "NUMMER": 16861,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Gleditsia triacanthos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Christusdorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1989",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 25
+        "nummer": 16861,
+        "objectid": 25,
+        "baumbezeichnung_deutsch": "Christusdorn",
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1989",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 211,
       "properties": {
-        "NUMMER": 22670,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 211
+        "nummer": 22670,
+        "objectid": 211,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

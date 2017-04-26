@@ -3,39 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 744,
       "properties": {
-        "NUMMER": 16864,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Stieleiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1989",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 793
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39747695825983,
-          47.02541990647156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 20134,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 744
+        "nummer": 20134,
+        "objectid": 744,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +26,41 @@
     },
     {
       "type": "Feature",
+      "id": 793,
       "properties": {
-        "NUMMER": 16825,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1989",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1218
+        "nummer": 16864,
+        "objectid": 793,
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1989",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39747695825983,
+          47.02541990647156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1218,
+      "properties": {
+        "nummer": 16825,
+        "objectid": 1218,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1989",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

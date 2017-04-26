@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 520,
       "properties": {
-        "NUMMER": 20292,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus 'Frucht'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fruchtkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 520
+        "nummer": 20292,
+        "objectid": 520,
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1554,
       "properties": {
-        "NUMMER": 27825,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1554
+        "nummer": 27825,
+        "objectid": 1554,
+        "baumbezeichnung_deutsch": "Weide",
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1561,
       "properties": {
-        "NUMMER": 27826,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1561
+        "nummer": 27826,
+        "objectid": 1561,
+        "baumbezeichnung_deutsch": "Weide",
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1570,
       "properties": {
-        "NUMMER": 27828,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1570
+        "nummer": 27828,
+        "objectid": 1570,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 519,
       "properties": {
-        "NUMMER": 20249,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Frucht'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fruchtapfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 519
+        "nummer": 20249,
+        "objectid": 519,
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

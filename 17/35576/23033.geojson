@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 195,
       "properties": {
-        "NUMMER": 25528,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 195
+        "nummer": 25528,
+        "objectid": 195,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 519,
       "properties": {
-        "NUMMER": 20249,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Frucht'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fruchtapfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 519
+        "nummer": 20249,
+        "objectid": 519,
+        "baumbezeichnung_deutsch": "Fruchtapfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Frucht'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 520,
       "properties": {
-        "NUMMER": 20292,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus 'Frucht'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fruchtkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1997",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 520
+        "nummer": 20292,
+        "objectid": 520,
+        "baumbezeichnung_deutsch": "Fruchtkirsche",
+        "baumbezeichnung_botanisch": "Prunus 'Frucht'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,61 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1086,
       "properties": {
-        "NUMMER": 20707,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1343
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429686060982899,
-          47.06514635314259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 20713,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1344
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429602982544472,
-          47.06520018762926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 10887,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides 'Schwedleri'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hellroter Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1086
+        "nummer": 10887,
+        "objectid": 1086,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +95,64 @@
     },
     {
       "type": "Feature",
+      "id": 1343,
       "properties": {
-        "NUMMER": 27825,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1554
+        "nummer": 20707,
+        "objectid": 1343,
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429686060982899,
+          47.06514635314259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1344,
+      "properties": {
+        "nummer": 20713,
+        "objectid": 1344,
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429602982544472,
+          47.06520018762926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1554,
+      "properties": {
+        "nummer": 27825,
+        "objectid": 1554,
+        "baumbezeichnung_deutsch": "Weide",
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1561,
       "properties": {
-        "NUMMER": 27826,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Weide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1561
+        "nummer": 27826,
+        "objectid": 1561,
+        "baumbezeichnung_deutsch": "Weide",
+        "baumbezeichnung_botanisch": "Salix sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 1570,
       "properties": {
-        "NUMMER": 27828,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1570
+        "nummer": 27828,
+        "objectid": 1570,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

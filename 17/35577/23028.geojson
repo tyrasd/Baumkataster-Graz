@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 176,
       "properties": {
-        "NUMMER": 9527,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pyrus calleryana 'Chanticleer'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Chinesische Wildbirne",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1990",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 176
+        "nummer": 9527,
+        "objectid": 176,
+        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
+        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1990",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,39 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 370,
       "properties": {
-        "NUMMER": 5656,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Eva Fiala",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 662
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433614661308633,
-          47.081771854170206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 5665,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 370
+        "nummer": 5665,
+        "objectid": 370,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 372,
       "properties": {
-        "NUMMER": 7349,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pyrus calleryana 'Chanticleer'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Chinesische Wildbirne",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 372
+        "nummer": 7349,
+        "objectid": 372,
+        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
+        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,61 +72,41 @@
     },
     {
       "type": "Feature",
+      "id": 662,
       "properties": {
-        "NUMMER": 5836,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelesche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 879
+        "nummer": 5656,
+        "objectid": 662,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Eva Fiala",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.431832082327334,
-          47.08405336125353
+          15.433614661308633,
+          47.081771854170206
         ]
       }
     },
     {
       "type": "Feature",
+      "id": 711,
       "properties": {
-        "NUMMER": 5664,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 883
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433238772935157,
-          47.08231581644484
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 6677,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 711
+        "nummer": 6677,
+        "objectid": 711,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,23 +118,70 @@
     },
     {
       "type": "Feature",
+      "id": 714,
       "properties": {
-        "NUMMER": 7341,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 714
+        "nummer": 7341,
+        "objectid": 714,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.431392046269497,
           47.08196488280346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 879,
+      "properties": {
+        "nummer": 5836,
+        "objectid": 879,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431832082327334,
+          47.08405336125353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 883,
+      "properties": {
+        "nummer": 5664,
+        "objectid": 883,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433238772935157,
+          47.08231581644484
         ]
       }
     }

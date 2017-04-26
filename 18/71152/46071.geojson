@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 310,
       "properties": {
-        "NUMMER": 29364,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus cerasifera 'Nigra'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Echte Blutpflaume",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 310
+        "nummer": 29364,
+        "objectid": 310,
+        "baumbezeichnung_deutsch": "Echte Blutpflaume",
+        "baumbezeichnung_botanisch": "Prunus cerasifera 'Nigra'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

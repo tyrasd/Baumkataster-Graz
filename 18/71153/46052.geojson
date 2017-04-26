@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 214,
       "properties": {
-        "NUMMER": 10644,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer rubrum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 214
+        "nummer": 10644,
+        "objectid": 214,
+        "baumbezeichnung_deutsch": "Rotahorn",
+        "baumbezeichnung_botanisch": "Acer rubrum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

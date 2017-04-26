@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1530,
       "properties": {
-        "NUMMER": 26973,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Erle",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1530
+        "nummer": 26973,
+        "objectid": 1530,
+        "baumbezeichnung_deutsch": "Erle",
+        "baumbezeichnung_botanisch": "Alnus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

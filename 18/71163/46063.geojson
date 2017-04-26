@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 98,
       "properties": {
-        "NUMMER": 30162,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Gleditsia triacanthos 'Inermis'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "dornenloser Christusdorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 98
+        "nummer": 30162,
+        "objectid": 98,
+        "baumbezeichnung_deutsch": "dornenloser Christusdorn",
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos 'Inermis'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 649,
       "properties": {
-        "NUMMER": 8539,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica 'Purpurea'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Purpurbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 649
+        "nummer": 8539,
+        "objectid": 649,
+        "baumbezeichnung_deutsch": "Purpurbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica 'Purpurea'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,41 @@
     },
     {
       "type": "Feature",
+      "id": 1097,
       "properties": {
-        "NUMMER": 8558,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1275
+        "nummer": 8543,
+        "objectid": 1097,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456937890307932,
+          47.07133950320728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1275,
+      "properties": {
+        "nummer": 8558,
+        "objectid": 1275,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1277,
       "properties": {
-        "NUMMER": 8573,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea abies",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotfichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1277
+        "nummer": 8573,
+        "objectid": 1277,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1278,
       "properties": {
-        "NUMMER": 31638,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Cedrus deodara 'Golden Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Himalayazeder",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2014",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1278
+        "nummer": 31638,
+        "objectid": 1278,
+        "baumbezeichnung_deutsch": "Himalayazeder",
+        "baumbezeichnung_botanisch": "Cedrus deodara 'Golden Horizon'",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1279,
       "properties": {
-        "NUMMER": 24777,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica 'Asplenifolia'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Farnbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2005",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1279
+        "nummer": 24777,
+        "objectid": 1279,
+        "baumbezeichnung_deutsch": "Farnbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica 'Asplenifolia'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 1280,
       "properties": {
-        "NUMMER": 8616,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1280
+        "nummer": 8616,
+        "objectid": 1280,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 1282,
       "properties": {
-        "NUMMER": 8622,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja occidentalis",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Abendländischer Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1282
+        "nummer": 8622,
+        "objectid": 1282,
+        "baumbezeichnung_deutsch": "Abendländischer Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja occidentalis",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -179,45 +210,24 @@
     },
     {
       "type": "Feature",
+      "id": 1328,
       "properties": {
-        "NUMMER": 8585,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1328
+        "nummer": 8585,
+        "objectid": 1328,
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.456925850978084,
           47.0711602178016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 8543,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1097
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.456937890307932,
-          47.07133950320728
         ]
       }
     }

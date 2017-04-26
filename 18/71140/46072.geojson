@@ -3,45 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "id": 400,
       "properties": {
-        "NUMMER": 14876,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Hokusai'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Kirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 618
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.392693600620051,
-          47.05498758626108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 17113,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 400
+        "nummer": 17113,
+        "objectid": 400,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.391902307822805,
           47.05433948156717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 618,
+      "properties": {
+        "nummer": 14876,
+        "objectid": 618,
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.392693600620051,
+          47.05498758626108
         ]
       }
     }

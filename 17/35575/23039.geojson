@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 279,
       "properties": {
-        "NUMMER": 29607,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 279
+        "nummer": 29607,
+        "objectid": 279,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 280,
       "properties": {
-        "NUMMER": 29608,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 280
+        "nummer": 29608,
+        "objectid": 280,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 281,
       "properties": {
-        "NUMMER": 29613,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 281
+        "nummer": 29613,
+        "objectid": 281,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 282,
       "properties": {
-        "NUMMER": 29612,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 282
+        "nummer": 29612,
+        "objectid": 282,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 316,
       "properties": {
-        "NUMMER": 29599,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 316
+        "nummer": 29599,
+        "objectid": 316,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 317,
       "properties": {
-        "NUMMER": 29600,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 317
+        "nummer": 29600,
+        "objectid": 317,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 318,
       "properties": {
-        "NUMMER": 29601,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 318
+        "nummer": 29601,
+        "objectid": 318,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 319,
       "properties": {
-        "NUMMER": 29602,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 319
+        "nummer": 29602,
+        "objectid": 319,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 320,
       "properties": {
-        "NUMMER": 29603,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 320
+        "nummer": 29603,
+        "objectid": 320,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 321,
       "properties": {
-        "NUMMER": 29604,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 321
+        "nummer": 29604,
+        "objectid": 321,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 322,
       "properties": {
-        "NUMMER": 29605,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 322
+        "nummer": 29605,
+        "objectid": 322,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 323,
       "properties": {
-        "NUMMER": 29606,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2007",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 323
+        "nummer": 29606,
+        "objectid": 323,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 324,
       "properties": {
-        "NUMMER": 29611,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 324
+        "nummer": 29611,
+        "objectid": 324,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -289,17 +302,18 @@
     },
     {
       "type": "Feature",
+      "id": 325,
       "properties": {
-        "NUMMER": 29610,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 325
+        "nummer": 29610,
+        "objectid": 325,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -311,17 +325,18 @@
     },
     {
       "type": "Feature",
+      "id": 326,
       "properties": {
-        "NUMMER": 29609,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus resista 'New Horizon'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Resista-Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 326
+        "nummer": 29609,
+        "objectid": 326,
+        "baumbezeichnung_deutsch": "Resista-Ulme",
+        "baumbezeichnung_botanisch": "Ulmus resista 'New Horizon'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -333,17 +348,18 @@
     },
     {
       "type": "Feature",
+      "id": 798,
       "properties": {
-        "NUMMER": 12607,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 798
+        "nummer": 12607,
+        "objectid": 798,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -355,17 +371,18 @@
     },
     {
       "type": "Feature",
+      "id": 1084,
       "properties": {
-        "NUMMER": 23571,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus rubra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Roteiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2002",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1084
+        "nummer": 23571,
+        "objectid": 1084,
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -377,17 +394,18 @@
     },
     {
       "type": "Feature",
+      "id": 1102,
       "properties": {
-        "NUMMER": 12597,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1102
+        "nummer": 12597,
+        "objectid": 1102,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -399,17 +417,18 @@
     },
     {
       "type": "Feature",
+      "id": 1103,
       "properties": {
-        "NUMMER": 12599,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1103
+        "nummer": 12599,
+        "objectid": 1103,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

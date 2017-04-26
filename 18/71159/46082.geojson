@@ -3,45 +3,47 @@
   "features": [
     {
       "type": "Feature",
+      "id": 192,
       "properties": {
-        "NUMMER": 23705,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus glutinosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzerle",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2002",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 206
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445921561404747,
-          47.0354132544608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 23703,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus glutinosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzerle",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2002",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 192
+        "nummer": 23703,
+        "objectid": 192,
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.445438353785564,
           47.035600466770894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "properties": {
+        "nummer": 23705,
+        "objectid": 206,
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445921561404747,
+          47.0354132544608
         ]
       }
     }

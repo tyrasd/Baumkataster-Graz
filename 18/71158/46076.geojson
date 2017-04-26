@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 825,
       "properties": {
-        "NUMMER": 8090,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix alba",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Silberweide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 825
+        "nummer": 8090,
+        "objectid": 825,
+        "baumbezeichnung_deutsch": "Silberweide",
+        "baumbezeichnung_botanisch": "Salix alba",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

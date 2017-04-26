@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1029,
       "properties": {
-        "NUMMER": 16884,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus avium",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Vogelkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1029
+        "nummer": 16884,
+        "objectid": 1029,
+        "baumbezeichnung_deutsch": "Vogelkirsche",
+        "baumbezeichnung_botanisch": "Prunus avium",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

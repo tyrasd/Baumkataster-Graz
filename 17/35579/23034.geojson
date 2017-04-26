@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 458,
       "properties": {
-        "NUMMER": 20350,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1998",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 458
+        "nummer": 20350,
+        "objectid": 458,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1998",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1140,
       "properties": {
-        "NUMMER": 5052,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1985",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Daniela u. Michael Zekoll",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1140
+        "nummer": 5052,
+        "objectid": 1140,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Daniela u. Michael Zekoll",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

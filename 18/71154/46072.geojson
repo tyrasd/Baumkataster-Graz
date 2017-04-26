@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 979,
       "properties": {
-        "NUMMER": 10957,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Platanus x acerifolia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Platane",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1984",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Grazer Wechselseitige Versicherung",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 979
+        "nummer": 10957,
+        "objectid": 979,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Grazer Wechselseitige Versicherung",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

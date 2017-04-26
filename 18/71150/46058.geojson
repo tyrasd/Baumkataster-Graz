@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 6,
       "properties": {
-        "NUMMER": 12481,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia henryana",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Linde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1983",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 6
+        "nummer": 12481,
+        "objectid": 6,
+        "baumbezeichnung_deutsch": "Linde",
+        "baumbezeichnung_botanisch": "Tilia henryana",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

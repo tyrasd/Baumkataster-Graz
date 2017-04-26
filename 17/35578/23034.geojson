@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 93,
       "properties": {
-        "NUMMER": 30199,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 93
+        "nummer": 30199,
+        "objectid": 93,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 94,
       "properties": {
-        "NUMMER": 30200,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus tremula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zitterpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "Baum wurde beim Gewittersturm 29.07.2013 entwurzelt, drzt kein Ersatz wegen dichten Bestandes",
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": "2013",
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 94
+        "nummer": 30200,
+        "objectid": 94,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": "Baum wurde beim Gewittersturm 29.07.2013 entwurzelt, drzt kein Ersatz wegen dichten Bestandes",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 97,
       "properties": {
-        "NUMMER": 30201,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus tremula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zitterpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 97
+        "nummer": 30201,
+        "objectid": 97,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 99,
       "properties": {
-        "NUMMER": 30203,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus tremula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zitterpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 99
+        "nummer": 30203,
+        "objectid": 99,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 100,
       "properties": {
-        "NUMMER": 30204,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus tremula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zitterpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 100
+        "nummer": 30204,
+        "objectid": 100,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 102,
       "properties": {
-        "NUMMER": 30205,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 102
+        "nummer": 30205,
+        "objectid": 102,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 126,
       "properties": {
-        "NUMMER": 30202,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 126
+        "nummer": 30202,
+        "objectid": 126,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -157,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 127,
       "properties": {
-        "NUMMER": 30206,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 127
+        "nummer": 30206,
+        "objectid": 127,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 467,
       "properties": {
-        "NUMMER": 224,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 467
+        "nummer": 224,
+        "objectid": 467,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -201,39 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 754,
       "properties": {
-        "NUMMER": 406,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer pseudoplatanus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Bergahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 827
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.436430365885807,
-          47.06017592838244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 6096,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior 'Pendula'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Traueresche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 754
+        "nummer": 6096,
+        "objectid": 754,
+        "baumbezeichnung_deutsch": "Traueresche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Pendula'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +233,64 @@
     },
     {
       "type": "Feature",
+      "id": 827,
       "properties": {
-        "NUMMER": 318,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": "2012",
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1196
+        "nummer": 406,
+        "objectid": 827,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.436430365885807,
+          47.06017592838244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122,
+      "properties": {
+        "nummer": 30211,
+        "objectid": 1122,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.436103044851073,
+          47.0614455716098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1196,
+      "properties": {
+        "nummer": 318,
+        "objectid": 1196,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": "2012",
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -267,45 +302,24 @@
     },
     {
       "type": "Feature",
+      "id": 1330,
       "properties": {
-        "NUMMER": 12335,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1990",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1330
+        "nummer": 12335,
+        "objectid": 1330,
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1990",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.438436917238736,
           47.05966203944042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 30211,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus tremula",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zitterpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1122
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.436103044851073,
-          47.0614455716098
         ]
       }
     },

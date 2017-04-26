@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 737,
       "properties": {
-        "NUMMER": 10764,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Ulmus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Ulme",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 737
+        "nummer": 10764,
+        "objectid": 737,
+        "baumbezeichnung_deutsch": "Ulme",
+        "baumbezeichnung_botanisch": "Ulmus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

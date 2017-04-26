@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 312,
       "properties": {
-        "NUMMER": 29366,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Corylus colurna",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Baumhasel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 312
+        "nummer": 29366,
+        "objectid": 312,
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

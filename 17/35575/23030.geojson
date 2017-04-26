@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 416,
       "properties": {
-        "NUMMER": 12509,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia tomentosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Silberlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1983",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 416
+        "nummer": 12509,
+        "objectid": 416,
+        "baumbezeichnung_deutsch": "Silberlinde",
+        "baumbezeichnung_botanisch": "Tilia tomentosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

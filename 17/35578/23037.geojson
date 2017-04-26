@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1180,
       "properties": {
-        "NUMMER": 23390,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Robinia pseudoacacia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Scheinakazie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "Teilstammbruch am Kronenansatzbereich durch Windeinwirkung, auf Grund des dichten Bestandes derzeit keine Ersatzpflanzung geplant",
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": "2013",
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1180
+        "nummer": 23390,
+        "objectid": 1180,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": "Teilstammbruch am Kronenansatzbereich durch Windeinwirkung, auf Grund des dichten Bestandes derzeit keine Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

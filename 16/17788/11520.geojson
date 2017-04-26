@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 101,
       "properties": {
-        "NUMMER": 30104,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Stieleiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 101
+        "nummer": 30104,
+        "objectid": 101,
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

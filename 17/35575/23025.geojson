@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1190,
       "properties": {
-        "NUMMER": 14561,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Carpinus betulus",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hain - oder Weißbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1190
+        "nummer": 14561,
+        "objectid": 1190,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1224,
       "properties": {
-        "NUMMER": 10650,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Hokusai'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Kirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1224
+        "nummer": 10650,
+        "objectid": 1224,
+        "baumbezeichnung_deutsch": "Japanische Kirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Hokusai'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1334,
       "properties": {
-        "NUMMER": 10651,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Gleditsia triacanthos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Christusdorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "\"Entfernung nach Sturz beim Gewittersturm vom 29.07.2013",
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": "2013",
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1334
+        "nummer": 10651,
+        "objectid": 1334,
+        "baumbezeichnung_deutsch": "Christusdorn",
+        "baumbezeichnung_botanisch": "Gleditsia triacanthos",
+        "baumtyp": "Laub",
+        "bemerkung": "\"Entfernung nach Sturz beim Gewittersturm vom 29.07.2013",
+        "pflanzjahr": null,
+        "entnahmejahr": "2013",
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1370,
       "properties": {
-        "NUMMER": 14537,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Juglans regia",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Walnuß",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1370
+        "nummer": 14537,
+        "objectid": 1370,
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",

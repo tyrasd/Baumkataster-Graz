@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1649,
       "properties": {
-        "NUMMER": 27793,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Picea sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Fichte",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2008",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1649
+        "nummer": 27793,
+        "objectid": 1649,
+        "baumbezeichnung_deutsch": "Fichte",
+        "baumbezeichnung_botanisch": "Picea sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "2008",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1182,
       "properties": {
-        "NUMMER": 16008,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Pappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1182
+        "nummer": 16008,
+        "objectid": 1182,
+        "baumbezeichnung_deutsch": "Pappel",
+        "baumbezeichnung_botanisch": "Populus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

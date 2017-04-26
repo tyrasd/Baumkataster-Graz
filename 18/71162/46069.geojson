@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 887,
       "properties": {
-        "NUMMER": 6197,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1985",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Grazer Wechselseitige Versicherung",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 887
+        "nummer": 6197,
+        "objectid": 887,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Grazer Wechselseitige Versicherung",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 1141,
       "properties": {
-        "NUMMER": 6193,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1985",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Siegfied Erne",
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1141
+        "nummer": 6193,
+        "objectid": 1141,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Siegfied Erne",
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

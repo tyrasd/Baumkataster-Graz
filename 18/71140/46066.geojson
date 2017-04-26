@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 525,
       "properties": {
-        "NUMMER": 14829,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1986",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 525
+        "nummer": 14829,
+        "objectid": 525,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Generaldirektor Dr. Rudolf Pieber, Steiermärkische Sparkasse",
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

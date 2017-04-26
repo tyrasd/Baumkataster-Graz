@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 19,
       "properties": {
-        "NUMMER": 31775,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Roter Grafensteiner'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerapfel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2014",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 19
+        "nummer": 31775,
+        "objectid": 19,
+        "baumbezeichnung_deutsch": "Sommerapfel",
+        "baumbezeichnung_botanisch": "Malus 'Roter Grafensteiner'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 602,
       "properties": {
-        "NUMMER": 15861,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus glutinosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzerle",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 602
+        "nummer": 15861,
+        "objectid": 602,
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 1174,
       "properties": {
-        "NUMMER": 15882,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Kulturapfel'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Apfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1174
+        "nummer": 15882,
+        "objectid": 1174,
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 1323,
       "properties": {
-        "NUMMER": 15830,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1323
+        "nummer": 15830,
+        "objectid": 1323,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 1359,
       "properties": {
-        "NUMMER": 15836,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Alnus glutinosa",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzerle",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1359
+        "nummer": 15836,
+        "objectid": 1359,
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 1360,
       "properties": {
-        "NUMMER": 15845,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Malus 'Kulturapfel'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Apfelbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1360
+        "nummer": 15845,
+        "objectid": 1360,
+        "baumbezeichnung_deutsch": "Apfelbaum",
+        "baumbezeichnung_botanisch": "Malus 'Kulturapfel'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 1394,
       "properties": {
-        "NUMMER": 24449,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fagus sylvatica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Rotbuche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2004",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1394
+        "nummer": 24449,
+        "objectid": 1394,
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2004",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

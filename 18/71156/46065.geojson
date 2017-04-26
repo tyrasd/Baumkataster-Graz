@@ -3,39 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 729,
       "properties": {
-        "NUMMER": 3557,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Crataegus laevigata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Zweigriffeliger Weißdorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1984",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 995
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435810291412642,
-          47.06757355778218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 11418,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 729
+        "nummer": 11418,
+        "objectid": 729,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +26,41 @@
     },
     {
       "type": "Feature",
+      "id": 995,
       "properties": {
-        "NUMMER": 3404,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1073
+        "nummer": 3557,
+        "objectid": 995,
+        "baumbezeichnung_deutsch": "Zweigriffeliger Weißdorn",
+        "baumbezeichnung_botanisch": "Crataegus laevigata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1984",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435810291412642,
+          47.06757355778218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1073,
+      "properties": {
+        "nummer": 3404,
+        "objectid": 1073,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

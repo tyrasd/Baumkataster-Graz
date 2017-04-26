@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 231,
       "properties": {
-        "NUMMER": 29557,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 231
+        "nummer": 29557,
+        "objectid": 231,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 232,
       "properties": {
-        "NUMMER": 29558,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 232
+        "nummer": 29558,
+        "objectid": 232,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 233,
       "properties": {
-        "NUMMER": 29559,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 233
+        "nummer": 29559,
+        "objectid": 233,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 234,
       "properties": {
-        "NUMMER": 29560,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 234
+        "nummer": 29560,
+        "objectid": 234,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -91,17 +95,18 @@
     },
     {
       "type": "Feature",
+      "id": 235,
       "properties": {
-        "NUMMER": 29561,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 235
+        "nummer": 29561,
+        "objectid": 235,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -113,17 +118,18 @@
     },
     {
       "type": "Feature",
+      "id": 251,
       "properties": {
-        "NUMMER": 29562,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 251
+        "nummer": 29562,
+        "objectid": 251,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -135,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 607,
       "properties": {
-        "NUMMER": 17344,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus hippocastanum",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gemeine Roßkastanie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 607
+        "nummer": 17344,
+        "objectid": 607,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

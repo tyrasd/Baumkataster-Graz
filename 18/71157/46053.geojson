@@ -6,16 +6,16 @@
       "properties": {
         "Naturdenkmal": true,
         "Naturdenkmal_Eigentum": "öffentlich",
-        "nummer": "Naturdenkmal-98",
-        "objectid": "Naturdenkmal-45",
-        "baumbezeichnung_deutsch": "Eibe",
-        "baumbezeichnung_botanisch": "Taxus baccata"
+        "nummer": "Naturdenkmal-99",
+        "objectid": "Naturdenkmal-46",
+        "baumbezeichnung_deutsch": "Mammutbaum",
+        "baumbezeichnung_botanisch": "Sequoiadendron giganteum"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.441690810580752,
-          47.08968140395518
+          15.441286043852514,
+          47.089322762462494
         ]
       }
     }

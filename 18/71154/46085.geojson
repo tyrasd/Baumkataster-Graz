@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 262,
       "properties": {
-        "NUMMER": 29615,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus palustris",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sumpf - Eiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 262
+        "nummer": 29615,
+        "objectid": 262,
+        "baumbezeichnung_deutsch": "Sumpf - Eiche",
+        "baumbezeichnung_botanisch": "Quercus palustris",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

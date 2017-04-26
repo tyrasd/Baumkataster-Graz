@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 176,
       "properties": {
-        "NUMMER": 9527,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pyrus calleryana 'Chanticleer'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Chinesische Wildbirne",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1990",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 176
+        "nummer": 9527,
+        "objectid": 176,
+        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
+        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1990",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 372,
       "properties": {
-        "NUMMER": 7349,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Pyrus calleryana 'Chanticleer'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Chinesische Wildbirne",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 372
+        "nummer": 7349,
+        "objectid": 372,
+        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
+        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 714,
       "properties": {
-        "NUMMER": 7341,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 714
+        "nummer": 7341,
+        "objectid": 714,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

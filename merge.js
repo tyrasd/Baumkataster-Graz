@@ -13,6 +13,21 @@ function dist(p1, p2) {
 	return d;
 }
 
+trees.features.forEach(function(feature) {
+	feature.properties = {
+		nummer: feature.properties.NUMMER,
+		objectid: feature.properties.OBJECTID,
+		baumbezeichnung_deutsch: feature.properties.BAUMBEZEICHNUNG_DEUTSCH,
+		baumbezeichnung_botanisch: feature.properties.BAUMBEZEICHNUNG_BOTANISCH,
+		baumtyp: feature.properties.BAUMTYP,
+		bemerkung: feature.properties.BEMERKUNG,
+		pflanzjahr: feature.properties.PFLANZJAHR,
+		entnahmejahr: feature.properties.ENTNAHMEJAHR,
+		baumpatenschaft: feature.properties.BAUMPATENSCHAFT,
+		altersklassifizierung: feature.properties.ALTERSKLASSIZIERUNG
+	};
+});
+
 natur.features.forEach(function(naturdenkmal) {
 	var minDist = Infinity,
 		best;

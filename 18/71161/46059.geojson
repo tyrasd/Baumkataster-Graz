@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 571,
       "properties": {
-        "NUMMER": 20001,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Fraxinus excelsior",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Esche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 571
+        "nummer": 20001,
+        "objectid": 571,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 572,
       "properties": {
-        "NUMMER": 20010,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sambucus nigra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schwarzer Hollunder",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 572
+        "nummer": 20010,
+        "objectid": 572,
+        "baumbezeichnung_deutsch": "Schwarzer Hollunder",
+        "baumbezeichnung_botanisch": "Sambucus nigra",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 573,
       "properties": {
-        "NUMMER": 20009,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia cordata 'Erecta'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Winterlinde Erecta",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1996",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 573
+        "nummer": 20009,
+        "objectid": 573,
+        "baumbezeichnung_deutsch": "Winterlinde Erecta",
+        "baumbezeichnung_botanisch": "Tilia cordata 'Erecta'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

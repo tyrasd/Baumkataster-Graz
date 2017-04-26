@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 210,
       "properties": {
-        "NUMMER": 24497,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix caprea",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Salweide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 210
+        "nummer": 24497,
+        "objectid": 210,
+        "baumbezeichnung_deutsch": "Salweide",
+        "baumbezeichnung_botanisch": "Salix caprea",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",

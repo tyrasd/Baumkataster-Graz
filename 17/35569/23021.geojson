@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1565,
       "properties": {
-        "NUMMER": 19806,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Tilia platyphyllos",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Sommerlinde",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": "größtenteils abgestorben, Rindenabblattungen am Stammfuß, Hallimaschbefall am Stammfuß, Ersatzpflanzung geplant",
-        "PFLANZJAHR": "1995",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1565
+        "nummer": 19806,
+        "objectid": 1565,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": "größtenteils abgestorben, Rindenabblattungen am Stammfuß, Hallimaschbefall am Stammfuß, Ersatzpflanzung geplant",
+        "pflanzjahr": "1995",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

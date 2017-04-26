@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 250,
       "properties": {
-        "NUMMER": 29553,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 250
+        "nummer": 29553,
+        "objectid": 250,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 252,
       "properties": {
-        "NUMMER": 29554,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 252
+        "nummer": 29554,
+        "objectid": 252,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 253,
       "properties": {
-        "NUMMER": 29555,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 253
+        "nummer": 29555,
+        "objectid": 253,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,17 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 254,
       "properties": {
-        "NUMMER": 29556,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Liriodendron tulipifera 'Fastigiata'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulentulpenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 254
+        "nummer": 29556,
+        "objectid": 254,
+        "baumbezeichnung_deutsch": "Säulentulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

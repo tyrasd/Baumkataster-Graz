@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 103,
       "properties": {
-        "NUMMER": 29649,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 103
+        "nummer": 29649,
+        "objectid": 103,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,17 +26,18 @@
     },
     {
       "type": "Feature",
+      "id": 104,
       "properties": {
-        "NUMMER": 29650,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 104
+        "nummer": 29650,
+        "objectid": 104,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -47,17 +49,18 @@
     },
     {
       "type": "Feature",
+      "id": 125,
       "properties": {
-        "NUMMER": 30198,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2011",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 125
+        "nummer": 30198,
+        "objectid": 125,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2011",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -69,105 +72,18 @@
     },
     {
       "type": "Feature",
+      "id": 312,
       "properties": {
-        "NUMMER": 13534,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 478
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423945430870734,
-          47.0510426209452
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 13507,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 560
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.423686520173977,
-          47.05080183789065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 13539,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Populus nigra 'Italica'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenpappel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 561
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42342855862508,
-          47.05074392282998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 20049,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus serrulata 'Kanzan'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Japanische Blütenkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "1986",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 563
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.420444470708443,
-          47.050571583663356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 29366,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Corylus colurna",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Baumhasel",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2009",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 312
+        "nummer": 29366,
+        "objectid": 312,
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -179,17 +95,41 @@
     },
     {
       "type": "Feature",
+      "id": 327,
       "properties": {
-        "NUMMER": 29623,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 328
+        "nummer": 29643,
+        "objectid": 327,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.418963038069453,
+          47.047674293394564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 328,
+      "properties": {
+        "nummer": 29623,
+        "objectid": 328,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -201,17 +141,18 @@
     },
     {
       "type": "Feature",
+      "id": 329,
       "properties": {
-        "NUMMER": 29624,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 329
+        "nummer": 29624,
+        "objectid": 329,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -223,17 +164,18 @@
     },
     {
       "type": "Feature",
+      "id": 330,
       "properties": {
-        "NUMMER": 29625,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 330
+        "nummer": 29625,
+        "objectid": 330,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -245,17 +187,18 @@
     },
     {
       "type": "Feature",
+      "id": 331,
       "properties": {
-        "NUMMER": 29626,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 331
+        "nummer": 29626,
+        "objectid": 331,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -267,17 +210,18 @@
     },
     {
       "type": "Feature",
+      "id": 332,
       "properties": {
-        "NUMMER": 29627,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 332
+        "nummer": 29627,
+        "objectid": 332,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -289,17 +233,18 @@
     },
     {
       "type": "Feature",
+      "id": 333,
       "properties": {
-        "NUMMER": 29628,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 333
+        "nummer": 29628,
+        "objectid": 333,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -311,17 +256,18 @@
     },
     {
       "type": "Feature",
+      "id": 334,
       "properties": {
-        "NUMMER": 29629,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus rubra",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Roteiche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 334
+        "nummer": 29629,
+        "objectid": 334,
+        "baumbezeichnung_deutsch": "Roteiche",
+        "baumbezeichnung_botanisch": "Quercus rubra",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -333,17 +279,18 @@
     },
     {
       "type": "Feature",
+      "id": 335,
       "properties": {
-        "NUMMER": 29622,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 335
+        "nummer": 29622,
+        "objectid": 335,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -355,17 +302,18 @@
     },
     {
       "type": "Feature",
+      "id": 336,
       "properties": {
-        "NUMMER": 29621,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 336
+        "nummer": 29621,
+        "objectid": 336,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -377,17 +325,18 @@
     },
     {
       "type": "Feature",
+      "id": 337,
       "properties": {
-        "NUMMER": 29620,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 337
+        "nummer": 29620,
+        "objectid": 337,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -399,17 +348,18 @@
     },
     {
       "type": "Feature",
+      "id": 338,
       "properties": {
-        "NUMMER": 29619,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 338
+        "nummer": 29619,
+        "objectid": 338,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -421,17 +371,18 @@
     },
     {
       "type": "Feature",
+      "id": 339,
       "properties": {
-        "NUMMER": 29618,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 339
+        "nummer": 29618,
+        "objectid": 339,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -443,17 +394,18 @@
     },
     {
       "type": "Feature",
+      "id": 340,
       "properties": {
-        "NUMMER": 29617,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 340
+        "nummer": 29617,
+        "objectid": 340,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -465,17 +417,18 @@
     },
     {
       "type": "Feature",
+      "id": 341,
       "properties": {
-        "NUMMER": 29616,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 341
+        "nummer": 29616,
+        "objectid": 341,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -487,17 +440,18 @@
     },
     {
       "type": "Feature",
+      "id": 342,
       "properties": {
-        "NUMMER": 29630,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 342
+        "nummer": 29630,
+        "objectid": 342,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -509,17 +463,18 @@
     },
     {
       "type": "Feature",
+      "id": 343,
       "properties": {
-        "NUMMER": 29631,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 343
+        "nummer": 29631,
+        "objectid": 343,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -531,17 +486,18 @@
     },
     {
       "type": "Feature",
+      "id": 344,
       "properties": {
-        "NUMMER": 29632,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 344
+        "nummer": 29632,
+        "objectid": 344,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -553,17 +509,18 @@
     },
     {
       "type": "Feature",
+      "id": 345,
       "properties": {
-        "NUMMER": 29637,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 345
+        "nummer": 29637,
+        "objectid": 345,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -575,17 +532,18 @@
     },
     {
       "type": "Feature",
+      "id": 346,
       "properties": {
-        "NUMMER": 29636,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 346
+        "nummer": 29636,
+        "objectid": 346,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -597,17 +555,18 @@
     },
     {
       "type": "Feature",
+      "id": 347,
       "properties": {
-        "NUMMER": 29635,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 347
+        "nummer": 29635,
+        "objectid": 347,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -619,17 +578,18 @@
     },
     {
       "type": "Feature",
+      "id": 348,
       "properties": {
-        "NUMMER": 29634,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 348
+        "nummer": 29634,
+        "objectid": 348,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -641,17 +601,18 @@
     },
     {
       "type": "Feature",
+      "id": 349,
       "properties": {
-        "NUMMER": 29633,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 349
+        "nummer": 29633,
+        "objectid": 349,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -663,17 +624,18 @@
     },
     {
       "type": "Feature",
+      "id": 355,
       "properties": {
-        "NUMMER": 29644,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Koelreuteria paniculata",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Blasenbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 355
+        "nummer": 29644,
+        "objectid": 355,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -685,17 +647,18 @@
     },
     {
       "type": "Feature",
+      "id": 356,
       "properties": {
-        "NUMMER": 29645,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 356
+        "nummer": 29645,
+        "objectid": 356,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -707,17 +670,18 @@
     },
     {
       "type": "Feature",
+      "id": 357,
       "properties": {
-        "NUMMER": 29646,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Sophora japonica",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Schnurbaum",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 357
+        "nummer": 29646,
+        "objectid": 357,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -729,23 +693,116 @@
     },
     {
       "type": "Feature",
+      "id": 358,
       "properties": {
-        "NUMMER": 29647,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Quercus robur 'Fastigiata Koster'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Säulenstieleiche Koster",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 358
+        "nummer": 29647,
+        "objectid": 358,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.41925792979054,
           47.049075978982046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 478,
+      "properties": {
+        "nummer": 13534,
+        "objectid": 478,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423945430870734,
+          47.0510426209452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 560,
+      "properties": {
+        "nummer": 13507,
+        "objectid": 560,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.423686520173977,
+          47.05080183789065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 561,
+      "properties": {
+        "nummer": 13539,
+        "objectid": 561,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42342855862508,
+          47.05074392282998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 563,
+      "properties": {
+        "nummer": 20049,
+        "objectid": 563,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.420444470708443,
+          47.050571583663356
         ]
       }
     }

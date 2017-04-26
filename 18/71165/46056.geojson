@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 512,
       "properties": {
-        "NUMMER": 18526,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Salix alba 'Tristis'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Trauerweide",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 512
+        "nummer": 18526,
+        "objectid": 512,
+        "baumbezeichnung_deutsch": "Trauerweide",
+        "baumbezeichnung_botanisch": "Salix alba 'Tristis'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

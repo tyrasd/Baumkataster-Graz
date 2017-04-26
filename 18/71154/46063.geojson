@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 721,
       "properties": {
-        "NUMMER": 22587,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Prunus fruticosa 'Globosum'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Kugelsandkirsche",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2000",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 721
+        "nummer": 22587,
+        "objectid": 721,
+        "baumbezeichnung_deutsch": "Kugelsandkirsche",
+        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

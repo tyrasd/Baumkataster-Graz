@@ -3,17 +3,18 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1120,
       "properties": {
-        "NUMMER": 31800,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Aesculus flava",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Gelbe Pavie",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": "2014",
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1120
+        "nummer": 31800,
+        "objectid": 1120,
+        "baumbezeichnung_deutsch": "Gelbe Pavie",
+        "baumbezeichnung_botanisch": "Aesculus flava",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2014",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",

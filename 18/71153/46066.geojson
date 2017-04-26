@@ -3,17 +3,41 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1086,
       "properties": {
-        "NUMMER": 20707,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "jung",
-        "OBJECTID": 1343
+        "nummer": 10887,
+        "objectid": 1086,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428202546881536,
+          47.066315133039886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1343,
+      "properties": {
+        "nummer": 20707,
+        "objectid": 1343,
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
       },
       "geometry": {
         "type": "Point",
@@ -25,45 +49,24 @@
     },
     {
       "type": "Feature",
+      "id": 1344,
       "properties": {
-        "NUMMER": 20713,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Thuja sp.",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Lebensbaum",
-        "BAUMTYP": "Nadel",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "mittel",
-        "OBJECTID": 1344
+        "nummer": 20713,
+        "objectid": 1344,
+        "baumbezeichnung_deutsch": "Lebensbaum",
+        "baumbezeichnung_botanisch": "Thuja sp.",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           15.429602982544472,
           47.06520018762926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "NUMMER": 10887,
-        "BAUMBEZEICHNUNG_BOTANISCH": "Acer platanoides 'Schwedleri'",
-        "BAUMBEZEICHNUNG_DEUTSCH": "Hellroter Spitzahorn",
-        "BAUMTYP": "Laub",
-        "BEMERKUNG": null,
-        "PFLANZJAHR": null,
-        "ENTNAHMEJAHR": null,
-        "BAUMPATENSCHAFT": null,
-        "ALTERSKLASSIZIERUNG": "alt",
-        "OBJECTID": 1086
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428202546881536,
-          47.066315133039886
         ]
       }
     }
