@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 185,
       "properties": {
         "nummer": 29012,
         "objectid": 185,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 807,
       "properties": {
         "nummer": 2034,
         "objectid": 807,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 909,
       "properties": {
         "nummer": 2038,
         "objectid": 909,
@@ -72,7 +69,28 @@
     },
     {
       "type": "Feature",
-      "id": 1104,
+      "properties": {
+        "nummer": 1695,
+        "objectid": 1193,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443736177138588,
+          47.07419391517065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 2097,
         "objectid": 1104,
@@ -95,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1110,
       "properties": {
         "nummer": 23709,
         "objectid": 1110,
@@ -118,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1111,
       "properties": {
         "nummer": 2906,
         "objectid": 1111,
@@ -141,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1112,
       "properties": {
         "nummer": 2907,
         "objectid": 1112,
@@ -164,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1115,
       "properties": {
         "nummer": 2922,
         "objectid": 1115,
@@ -187,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1118,
       "properties": {
         "nummer": 2914,
         "objectid": 1118,
@@ -210,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1119,
       "properties": {
         "nummer": 2911,
         "objectid": 1119,
@@ -233,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1149,
       "properties": {
         "nummer": 2064,
         "objectid": 1149,
@@ -256,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1150,
       "properties": {
         "nummer": 1864,
         "objectid": 1150,
@@ -274,29 +284,6 @@
         "coordinates": [
           15.442809655847592,
           47.07480042287822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1193,
-      "properties": {
-        "nummer": 1695,
-        "objectid": 1193,
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443736177138588,
-          47.07419391517065
         ]
       }
     }

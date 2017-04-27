@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 72,
       "properties": {
         "nummer": 3476,
         "objectid": 72,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 110,
       "properties": {
         "nummer": 30139,
         "objectid": 110,
@@ -49,76 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 692,
-      "properties": {
-        "nummer": 22615,
-        "objectid": 692,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2000",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441795070261197,
-          47.06285007398856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 728,
-      "properties": {
-        "nummer": 3366,
-        "objectid": 728,
-        "baumbezeichnung_deutsch": "Amerikanische Linde",
-        "baumbezeichnung_botanisch": "Tilia americana",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440871888856964,
-          47.06828155898781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 729,
-      "properties": {
-        "nummer": 11418,
-        "objectid": 729,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.437810182777351,
-          47.06739504799212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 826,
       "properties": {
         "nummer": 844,
         "objectid": 826,
@@ -141,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 995,
       "properties": {
         "nummer": 3557,
         "objectid": 995,
@@ -164,7 +91,72 @@
     },
     {
       "type": "Feature",
-      "id": 1073,
+      "properties": {
+        "nummer": 22615,
+        "objectid": 692,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.441795070261197,
+          47.06285007398856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 3366,
+        "objectid": 728,
+        "baumbezeichnung_deutsch": "Amerikanische Linde",
+        "baumbezeichnung_botanisch": "Tilia americana",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440871888856964,
+          47.06828155898781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 11418,
+        "objectid": 729,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.437810182777351,
+          47.06739504799212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 3404,
         "objectid": 1073,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1076,
       "properties": {
         "nummer": 2973,
         "objectid": 1076,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1154,
       "properties": {
         "nummer": 818,
         "objectid": 1154,

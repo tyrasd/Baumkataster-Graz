@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1,
       "properties": {
         "nummer": 7261,
         "objectid": 1,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 133,
       "properties": {
         "nummer": 25276,
         "objectid": 133,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 436,
       "properties": {
         "nummer": 8435,
         "objectid": 436,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 517,
       "properties": {
         "nummer": 7267,
         "objectid": 517,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 566,
       "properties": {
         "nummer": 8429,
         "objectid": 566,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 567,
       "properties": {
         "nummer": 10634,
         "objectid": 567,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 569,
       "properties": {
         "nummer": 8448,
         "objectid": 569,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 571,
       "properties": {
         "nummer": 20001,
         "objectid": 571,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 572,
       "properties": {
         "nummer": 20010,
         "objectid": 572,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 573,
       "properties": {
         "nummer": 20009,
         "objectid": 573,
@@ -233,30 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 672,
-      "properties": {
-        "nummer": 8437,
-        "objectid": 672,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": "NRAbg. Dr. Hans Hafner",
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454554294162728,
-          47.078837381962316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 804,
       "properties": {
         "nummer": 8487,
         "objectid": 804,
@@ -279,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 969,
       "properties": {
         "nummer": 27527,
         "objectid": 969,
@@ -302,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1019,
       "properties": {
         "nummer": 6933,
         "objectid": 1019,
@@ -325,122 +289,28 @@
     },
     {
       "type": "Feature",
-      "id": 1078,
       "properties": {
-        "nummer": 27378,
-        "objectid": 1078,
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.449955407505112,
-          47.084218995279855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1087,
-      "properties": {
-        "nummer": 27379,
-        "objectid": 1087,
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.449935976092906,
-          47.08419656515015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1095,
-      "properties": {
-        "nummer": 7226,
-        "objectid": 1095,
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumbezeichnung_botanisch": "Tilia cordata",
+        "nummer": 8437,
+        "objectid": 672,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
         "entnahmejahr": null,
-        "baumpatenschaft": null,
+        "baumpatenschaft": "NRAbg. Dr. Hans Hafner",
         "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.45028726743225,
-          47.08429949273214
+          15.454554294162728,
+          47.078837381962316
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1098,
-      "properties": {
-        "nummer": 7234,
-        "objectid": 1098,
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.450259516371553,
-          47.08421149023482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1099,
-      "properties": {
-        "nummer": 7232,
-        "objectid": 1099,
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45022082239682,
-          47.08425508486789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1217,
       "properties": {
         "nummer": 8455,
         "objectid": 1217,
@@ -463,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 1327,
       "properties": {
         "nummer": 3852,
         "objectid": 1327,
@@ -481,6 +350,116 @@
         "coordinates": [
           15.450568302756707,
           47.08468171037076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27378,
+        "objectid": 1078,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449955407505112,
+          47.084218995279855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27379,
+        "objectid": 1087,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.449935976092906,
+          47.08419656515015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7226,
+        "objectid": 1095,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45028726743225,
+          47.08429949273214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7234,
+        "objectid": 1098,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450259516371553,
+          47.08421149023482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7232,
+        "objectid": 1099,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45022082239682,
+          47.08425508486789
         ]
       }
     },

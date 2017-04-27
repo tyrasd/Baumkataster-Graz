@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1125,
-      "properties": {
-        "nummer": 205,
-        "objectid": 1125,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.435736766708374,
-          47.061304224292925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1197,
       "properties": {
         "nummer": 203,
         "objectid": 1197,
@@ -44,6 +20,28 @@
         "coordinates": [
           15.435689849584069,
           47.06143974384461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 205,
+        "objectid": 1125,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.435736766708374,
+          47.061304224292925
         ]
       }
     }

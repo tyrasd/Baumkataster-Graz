@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1013,
       "properties": {
         "nummer": 8777,
         "objectid": 1013,
@@ -26,30 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 1138,
-      "properties": {
-        "nummer": 6163,
-        "objectid": 1138,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45987455084774,
-          47.061119055051144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1289,
       "properties": {
         "nummer": 26592,
         "objectid": 1289,
@@ -72,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 1290,
       "properties": {
         "nummer": 22656,
         "objectid": 1290,
@@ -95,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 1291,
       "properties": {
         "nummer": 22667,
         "objectid": 1291,
@@ -118,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1331,
       "properties": {
         "nummer": 22641,
         "objectid": 1331,
@@ -136,6 +108,28 @@
         "coordinates": [
           15.46733176169678,
           47.06137690597388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6163,
+        "objectid": 1138,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45987455084774,
+          47.061119055051144
         ]
       }
     }

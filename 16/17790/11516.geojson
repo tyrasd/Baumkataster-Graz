@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 720,
-      "properties": {
-        "nummer": 6817,
-        "objectid": 720,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": "massive Verletzungsstellen am Stammfuß mit ausgeprägter Kernfäule, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.45365285945289,
-          47.066729489554156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 996,
       "properties": {
         "nummer": 5009,
         "objectid": 996,
@@ -49,7 +25,28 @@
     },
     {
       "type": "Feature",
-      "id": 1075,
+      "properties": {
+        "nummer": 6817,
+        "objectid": 720,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": "massive Verletzungsstellen am Stammfuß mit ausgeprägter Kernfäule, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.45365285945289,
+          47.066729489554156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 10119,
         "objectid": 1075,
@@ -72,7 +69,28 @@
     },
     {
       "type": "Feature",
-      "id": 1376,
+      "properties": {
+        "nummer": 20028,
+        "objectid": 1375,
+        "baumbezeichnung_deutsch": "Riesenlebensbaum",
+        "baumbezeichnung_botanisch": "Thuja plicata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "1996",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.447198282957654,
+          47.070115261464466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 20029,
         "objectid": 1376,

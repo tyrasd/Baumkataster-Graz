@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 292,
       "properties": {
         "nummer": 27354,
         "objectid": 292,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 466,
       "properties": {
         "nummer": 2489,
         "objectid": 466,
@@ -49,30 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 697,
-      "properties": {
-        "nummer": 2500,
-        "objectid": 697,
-        "baumbezeichnung_deutsch": "Tulpenbaum",
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443648840619161,
-          47.07676716634969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 822,
       "properties": {
         "nummer": 23921,
         "objectid": 822,
@@ -95,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 837,
       "properties": {
         "nummer": 27726,
         "objectid": 837,
@@ -118,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 974,
       "properties": {
         "nummer": 27724,
         "objectid": 974,
@@ -141,35 +113,11 @@
     },
     {
       "type": "Feature",
-      "id": 1145,
       "properties": {
-        "nummer": 2554,
-        "objectid": 1145,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44377618222203,
-          47.07733412549673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1146,
-      "properties": {
-        "nummer": 2566,
-        "objectid": 1146,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "nummer": 2500,
+        "objectid": 697,
+        "baumbezeichnung_deutsch": "Tulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -180,37 +128,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.44354278467191,
-          47.077378092384286
+          15.443648840619161,
+          47.07676716634969
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1151,
-      "properties": {
-        "nummer": 2027,
-        "objectid": 1151,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.442380213075156,
-          47.07599231905781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1168,
       "properties": {
         "nummer": 2540,
         "objectid": 1168,
@@ -233,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1169,
       "properties": {
         "nummer": 2897,
         "objectid": 1169,
@@ -256,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1194,
       "properties": {
         "nummer": 2542,
         "objectid": 1194,
@@ -274,6 +196,72 @@
         "coordinates": [
           15.44339174845186,
           47.07741784080114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2554,
+        "objectid": 1145,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44377618222203,
+          47.07733412549673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2566,
+        "objectid": 1146,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44354278467191,
+          47.077378092384286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2027,
+        "objectid": 1151,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442380213075156,
+          47.07599231905781
         ]
       }
     }

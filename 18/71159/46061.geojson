@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 24,
       "properties": {
         "nummer": 2266,
         "objectid": 24,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 60,
       "properties": {
         "nummer": 1929,
         "objectid": 60,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 87,
       "properties": {
         "nummer": 1973,
         "objectid": 87,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 88,
       "properties": {
         "nummer": 1832,
         "objectid": 88,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 89,
       "properties": {
         "nummer": 2004,
         "objectid": 89,
@@ -118,7 +113,28 @@
     },
     {
       "type": "Feature",
-      "id": 1105,
+      "properties": {
+        "nummer": 12763,
+        "objectid": 1167,
+        "baumbezeichnung_deutsch": "Bergulme",
+        "baumbezeichnung_botanisch": "Ulmus glabra",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445412830997284,
+          47.075360234058856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 2250,
         "objectid": 1105,
@@ -141,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1142,
       "properties": {
         "nummer": 1819,
         "objectid": 1142,
@@ -164,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1148,
       "properties": {
         "nummer": 24745,
         "objectid": 1148,
@@ -187,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1153,
       "properties": {
         "nummer": 1809,
         "objectid": 1153,
@@ -210,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1155,
       "properties": {
         "nummer": 1965,
         "objectid": 1155,
@@ -233,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1157,
       "properties": {
         "nummer": 1800,
         "objectid": 1157,
@@ -256,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1159,
       "properties": {
         "nummer": 2142,
         "objectid": 1159,
@@ -279,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 1161,
       "properties": {
         "nummer": 1958,
         "objectid": 1161,
@@ -302,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 1162,
       "properties": {
         "nummer": 1953,
         "objectid": 1162,
@@ -320,29 +328,6 @@
         "coordinates": [
           15.445537082897978,
           47.07452263493594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1167,
-      "properties": {
-        "nummer": 12763,
-        "objectid": 1167,
-        "baumbezeichnung_deutsch": "Bergulme",
-        "baumbezeichnung_botanisch": "Ulmus glabra",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445412830997284,
-          47.075360234058856
         ]
       }
     }

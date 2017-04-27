@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 93,
       "properties": {
         "nummer": 30199,
         "objectid": 93,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 94,
       "properties": {
         "nummer": 30200,
         "objectid": 94,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 97,
       "properties": {
         "nummer": 30201,
         "objectid": 97,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 99,
       "properties": {
         "nummer": 30203,
         "objectid": 99,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 100,
       "properties": {
         "nummer": 30204,
         "objectid": 100,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 102,
       "properties": {
         "nummer": 30205,
         "objectid": 102,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 126,
       "properties": {
         "nummer": 30202,
         "objectid": 126,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 127,
       "properties": {
         "nummer": 30206,
         "objectid": 127,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 754,
       "properties": {
         "nummer": 6096,
         "objectid": 754,
@@ -210,30 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1122,
-      "properties": {
-        "nummer": 30211,
-        "objectid": 1122,
-        "baumbezeichnung_deutsch": "Zitterpappel",
-        "baumbezeichnung_botanisch": "Populus tremula",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.436103044851073,
-          47.0614455716098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1196,
       "properties": {
         "nummer": 318,
         "objectid": 1196,
@@ -251,6 +218,28 @@
         "coordinates": [
           15.436972351078898,
           47.06170036875035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30211,
+        "objectid": 1122,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.436103044851073,
+          47.0614455716098
         ]
       }
     },

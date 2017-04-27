@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 19,
-      "properties": {
-        "nummer": 31775,
-        "objectid": 19,
-        "baumbezeichnung_deutsch": "Sommerapfel",
-        "baumbezeichnung_botanisch": "Malus 'Roter Grafensteiner'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2014",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445320141679328,
-          47.10378272546189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 602,
       "properties": {
         "nummer": 15861,
         "objectid": 602,

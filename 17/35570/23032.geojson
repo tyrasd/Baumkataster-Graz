@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 15,
       "properties": {
         "nummer": 24183,
         "objectid": 15,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 119,
       "properties": {
         "nummer": 30159,
         "objectid": 119,
@@ -49,53 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 380,
-      "properties": {
-        "nummer": 14655,
-        "objectid": 380,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.397048163652576,
-          47.06756035554929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 402,
-      "properties": {
-        "nummer": 24818,
-        "objectid": 402,
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.395748855783747,
-          47.06706221574381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 441,
       "properties": {
         "nummer": 15145,
         "objectid": 441,
@@ -118,58 +69,11 @@
     },
     {
       "type": "Feature",
-      "id": 750,
       "properties": {
-        "nummer": 23926,
-        "objectid": 750,
-        "baumbezeichnung_deutsch": "Gelblaubige Mehlbeere",
-        "baumbezeichnung_botanisch": "Sorbus aria 'Lutescens'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2003",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Fa. Kastner & Öhler",
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.393787411554447,
-          47.06749228428635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 752,
-      "properties": {
-        "nummer": 26662,
-        "objectid": 752,
+        "nummer": 14655,
+        "objectid": 380,
         "baumbezeichnung_deutsch": "Kugelesche",
         "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2006",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39520770806649,
-          47.067790823566824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 753,
-      "properties": {
-        "nummer": 15136,
-        "objectid": 753,
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumbezeichnung_botanisch": "Acer negundo",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -180,14 +84,35 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.39554994252578,
-          47.06708361861782
+          15.397048163652576,
+          47.06756035554929
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 781,
+      "properties": {
+        "nummer": 24818,
+        "objectid": 402,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.395748855783747,
+          47.06706221574381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 24338,
         "objectid": 781,
@@ -210,7 +135,72 @@
     },
     {
       "type": "Feature",
-      "id": 1126,
+      "properties": {
+        "nummer": 23926,
+        "objectid": 750,
+        "baumbezeichnung_deutsch": "Gelblaubige Mehlbeere",
+        "baumbezeichnung_botanisch": "Sorbus aria 'Lutescens'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Fa. Kastner & Öhler",
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.393787411554447,
+          47.06749228428635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26662,
+        "objectid": 752,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39520770806649,
+          47.067790823566824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15136,
+        "objectid": 753,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39554994252578,
+          47.06708361861782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 14668,
         "objectid": 1126,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1127,
       "properties": {
         "nummer": 14915,
         "objectid": 1127,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1128,
       "properties": {
         "nummer": 14663,
         "objectid": 1128,

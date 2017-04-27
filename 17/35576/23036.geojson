@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 128,
       "properties": {
         "nummer": 29373,
         "objectid": 128,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 129,
       "properties": {
         "nummer": 29374,
         "objectid": 129,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 130,
       "properties": {
         "nummer": 29375,
         "objectid": 130,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 131,
       "properties": {
         "nummer": 25243,
         "objectid": 131,
@@ -95,76 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 314,
-      "properties": {
-        "nummer": 29368,
-        "objectid": 314,
-        "baumbezeichnung_deutsch": "Omoriafichte, Serbische Fichte",
-        "baumbezeichnung_botanisch": "Picea omorica",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": "2009",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424861534451994,
-          47.05497660598957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 315,
-      "properties": {
-        "nummer": 29371,
-        "objectid": 315,
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2009",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424864262081718,
-          47.05489236452572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 383,
-      "properties": {
-        "nummer": 10348,
-        "objectid": 383,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429927135395506,
-          47.05156301774478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 564,
       "properties": {
         "nummer": 21780,
         "objectid": 564,
@@ -187,7 +113,72 @@
     },
     {
       "type": "Feature",
-      "id": 922,
+      "properties": {
+        "nummer": 29368,
+        "objectid": 314,
+        "baumbezeichnung_deutsch": "Omoriafichte, Serbische Fichte",
+        "baumbezeichnung_botanisch": "Picea omorica",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424861534451994,
+          47.05497660598957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29371,
+        "objectid": 315,
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424864262081718,
+          47.05489236452572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10348,
+        "objectid": 383,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429927135395506,
+          47.05156301774478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 19193,
         "objectid": 922,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1557,
       "properties": {
         "nummer": 12883,
         "objectid": 1557,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1560,
       "properties": {
         "nummer": 12897,
         "objectid": 1560,

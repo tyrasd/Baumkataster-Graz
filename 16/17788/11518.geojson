@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 115,
       "properties": {
         "nummer": 30179,
         "objectid": 115,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 128,
       "properties": {
         "nummer": 29373,
         "objectid": 128,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 129,
       "properties": {
         "nummer": 29374,
         "objectid": 129,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 130,
       "properties": {
         "nummer": 29375,
         "objectid": 130,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 131,
       "properties": {
         "nummer": 25243,
         "objectid": 131,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 297,
       "properties": {
         "nummer": 10501,
         "objectid": 297,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 298,
       "properties": {
         "nummer": 10499,
         "objectid": 298,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 299,
       "properties": {
         "nummer": 10500,
         "objectid": 299,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 300,
       "properties": {
         "nummer": 10494,
         "objectid": 300,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 301,
       "properties": {
         "nummer": 10502,
         "objectid": 301,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 302,
       "properties": {
         "nummer": 10505,
         "objectid": 302,
@@ -256,76 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 314,
-      "properties": {
-        "nummer": 29368,
-        "objectid": 314,
-        "baumbezeichnung_deutsch": "Omoriafichte, Serbische Fichte",
-        "baumbezeichnung_botanisch": "Picea omorica",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": "2009",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424861534451994,
-          47.05497660598957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 315,
-      "properties": {
-        "nummer": 29371,
-        "objectid": 315,
-        "baumbezeichnung_deutsch": "Säulenstieleiche",
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2009",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.424864262081718,
-          47.05489236452572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 383,
-      "properties": {
-        "nummer": 10348,
-        "objectid": 383,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429927135395506,
-          47.05156301774478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 504,
       "properties": {
         "nummer": 19243,
         "objectid": 504,
@@ -348,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 564,
       "properties": {
         "nummer": 21780,
         "objectid": 564,
@@ -371,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 565,
       "properties": {
         "nummer": 13859,
         "objectid": 565,
@@ -394,7 +311,72 @@
     },
     {
       "type": "Feature",
-      "id": 922,
+      "properties": {
+        "nummer": 29368,
+        "objectid": 314,
+        "baumbezeichnung_deutsch": "Omoriafichte, Serbische Fichte",
+        "baumbezeichnung_botanisch": "Picea omorica",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424861534451994,
+          47.05497660598957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29371,
+        "objectid": 315,
+        "baumbezeichnung_deutsch": "Säulenstieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2009",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.424864262081718,
+          47.05489236452572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10348,
+        "objectid": 383,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429927135395506,
+          47.05156301774478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 19193,
         "objectid": 922,
@@ -417,7 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 979,
       "properties": {
         "nummer": 10957,
         "objectid": 979,
@@ -440,7 +421,6 @@
     },
     {
       "type": "Feature",
-      "id": 990,
       "properties": {
         "nummer": 19237,
         "objectid": 990,
@@ -463,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 1004,
       "properties": {
         "nummer": 13494,
         "objectid": 1004,
@@ -486,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 1059,
       "properties": {
         "nummer": 10316,
         "objectid": 1059,
@@ -509,53 +487,6 @@
     },
     {
       "type": "Feature",
-      "id": 1082,
-      "properties": {
-        "nummer": 13831,
-        "objectid": 1082,
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426447737841633,
-          47.04854049359264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1093,
-      "properties": {
-        "nummer": 10543,
-        "objectid": 1093,
-        "baumbezeichnung_deutsch": "Esche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432092425718462,
-          47.0487757364398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1253,
       "properties": {
         "nummer": 12904,
         "objectid": 1253,
@@ -578,7 +509,6 @@
     },
     {
       "type": "Feature",
-      "id": 1254,
       "properties": {
         "nummer": 12906,
         "objectid": 1254,
@@ -601,7 +531,6 @@
     },
     {
       "type": "Feature",
-      "id": 1313,
       "properties": {
         "nummer": 10456,
         "objectid": 1313,
@@ -624,7 +553,6 @@
     },
     {
       "type": "Feature",
-      "id": 1314,
       "properties": {
         "nummer": 10459,
         "objectid": 1314,
@@ -647,7 +575,6 @@
     },
     {
       "type": "Feature",
-      "id": 1315,
       "properties": {
         "nummer": 10466,
         "objectid": 1315,
@@ -670,7 +597,6 @@
     },
     {
       "type": "Feature",
-      "id": 1316,
       "properties": {
         "nummer": 10468,
         "objectid": 1316,
@@ -693,7 +619,6 @@
     },
     {
       "type": "Feature",
-      "id": 1317,
       "properties": {
         "nummer": 10471,
         "objectid": 1317,
@@ -716,7 +641,6 @@
     },
     {
       "type": "Feature",
-      "id": 1318,
       "properties": {
         "nummer": 24858,
         "objectid": 1318,
@@ -739,7 +663,6 @@
     },
     {
       "type": "Feature",
-      "id": 1319,
       "properties": {
         "nummer": 10303,
         "objectid": 1319,
@@ -762,7 +685,6 @@
     },
     {
       "type": "Feature",
-      "id": 1320,
       "properties": {
         "nummer": 10289,
         "objectid": 1320,
@@ -785,7 +707,6 @@
     },
     {
       "type": "Feature",
-      "id": 1321,
       "properties": {
         "nummer": 10304,
         "objectid": 1321,
@@ -808,7 +729,6 @@
     },
     {
       "type": "Feature",
-      "id": 1348,
       "properties": {
         "nummer": 13788,
         "objectid": 1348,
@@ -831,7 +751,6 @@
     },
     {
       "type": "Feature",
-      "id": 1387,
       "properties": {
         "nummer": 10521,
         "objectid": 1387,
@@ -854,7 +773,6 @@
     },
     {
       "type": "Feature",
-      "id": 1390,
       "properties": {
         "nummer": 10486,
         "objectid": 1390,
@@ -877,7 +795,6 @@
     },
     {
       "type": "Feature",
-      "id": 1391,
       "properties": {
         "nummer": 10487,
         "objectid": 1391,
@@ -900,7 +817,6 @@
     },
     {
       "type": "Feature",
-      "id": 1392,
       "properties": {
         "nummer": 20068,
         "objectid": 1392,
@@ -923,7 +839,50 @@
     },
     {
       "type": "Feature",
-      "id": 1557,
+      "properties": {
+        "nummer": 13831,
+        "objectid": 1082,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426447737841633,
+          47.04854049359264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10543,
+        "objectid": 1093,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432092425718462,
+          47.0487757364398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 12883,
         "objectid": 1557,
@@ -946,7 +905,6 @@
     },
     {
       "type": "Feature",
-      "id": 1560,
       "properties": {
         "nummer": 12897,
         "objectid": 1560,

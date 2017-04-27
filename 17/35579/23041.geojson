@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 192,
-      "properties": {
-        "nummer": 23703,
-        "objectid": 192,
-        "baumbezeichnung_deutsch": "Schwarzerle",
-        "baumbezeichnung_botanisch": "Alnus glutinosa",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2002",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445438353785564,
-          47.035600466770894
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 206,
       "properties": {
         "nummer": 23705,
         "objectid": 206,
@@ -44,6 +20,28 @@
         "coordinates": [
           15.445921561404747,
           47.0354132544608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23703,
+        "objectid": 192,
+        "baumbezeichnung_deutsch": "Schwarzerle",
+        "baumbezeichnung_botanisch": "Alnus glutinosa",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445438353785564,
+          47.035600466770894
         ]
       }
     }

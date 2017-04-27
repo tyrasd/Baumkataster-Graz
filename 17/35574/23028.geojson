@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 362,
-      "properties": {
-        "nummer": 12062,
-        "objectid": 362,
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41563202417544,
-          47.0820910272647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 608,
       "properties": {
         "nummer": 11671,
         "objectid": 608,
@@ -49,7 +25,28 @@
     },
     {
       "type": "Feature",
-      "id": 874,
+      "properties": {
+        "nummer": 12062,
+        "objectid": 362,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41563202417544,
+          47.0820910272647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 24472,
         "objectid": 874,

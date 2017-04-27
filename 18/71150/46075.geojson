@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 328,
       "properties": {
         "nummer": 29623,
         "objectid": 328,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 329,
       "properties": {
         "nummer": 29624,
         "objectid": 329,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 330,
       "properties": {
         "nummer": 29625,
         "objectid": 330,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 331,
       "properties": {
         "nummer": 29626,
         "objectid": 331,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 332,
       "properties": {
         "nummer": 29627,
         "objectid": 332,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 333,
       "properties": {
         "nummer": 29628,
         "objectid": 333,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 334,
       "properties": {
         "nummer": 29629,
         "objectid": 334,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 335,
       "properties": {
         "nummer": 29622,
         "objectid": 335,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 336,
       "properties": {
         "nummer": 29621,
         "objectid": 336,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 337,
       "properties": {
         "nummer": 29620,
         "objectid": 337,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 338,
       "properties": {
         "nummer": 29619,
         "objectid": 338,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 339,
       "properties": {
         "nummer": 29618,
         "objectid": 339,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 340,
       "properties": {
         "nummer": 29617,
         "objectid": 340,
@@ -302,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 341,
       "properties": {
         "nummer": 29616,
         "objectid": 341,
@@ -325,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 345,
       "properties": {
         "nummer": 29637,
         "objectid": 345,
@@ -348,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 346,
       "properties": {
         "nummer": 29636,
         "objectid": 346,
@@ -371,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 347,
       "properties": {
         "nummer": 29635,
         "objectid": 347,
@@ -394,7 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 348,
       "properties": {
         "nummer": 29634,
         "objectid": 348,
@@ -412,6 +394,28 @@
         "coordinates": [
           15.41931916452746,
           47.04800771265591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 29633,
+        "objectid": 349,
+        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
+        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419313684831009,
+          47.04805409153154
         ]
       }
     }

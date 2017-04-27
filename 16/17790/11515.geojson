@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 98,
       "properties": {
         "nummer": 30162,
         "objectid": 98,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 263,
       "properties": {
         "nummer": 8171,
         "objectid": 263,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 264,
       "properties": {
         "nummer": 8168,
         "objectid": 264,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 265,
       "properties": {
         "nummer": 8375,
         "objectid": 265,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 266,
       "properties": {
         "nummer": 8371,
         "objectid": 266,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 267,
       "properties": {
         "nummer": 8357,
         "objectid": 267,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 268,
       "properties": {
         "nummer": 8358,
         "objectid": 268,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 269,
       "properties": {
         "nummer": 8370,
         "objectid": 269,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 570,
       "properties": {
         "nummer": 23881,
         "objectid": 570,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 576,
       "properties": {
         "nummer": 10125,
         "objectid": 576,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 577,
       "properties": {
         "nummer": 10144,
         "objectid": 577,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 648,
       "properties": {
         "nummer": 8197,
         "objectid": 648,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 649,
       "properties": {
         "nummer": 8539,
         "objectid": 649,
@@ -302,30 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 723,
-      "properties": {
-        "nummer": 9896,
-        "objectid": 723,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455669067282855,
-          47.076112154714984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 802,
       "properties": {
         "nummer": 19881,
         "objectid": 802,
@@ -348,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 805,
       "properties": {
         "nummer": 1176,
         "objectid": 805,
@@ -371,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 806,
       "properties": {
         "nummer": 1170,
         "objectid": 806,
@@ -394,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 888,
       "properties": {
         "nummer": 8198,
         "objectid": 888,
@@ -417,7 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 908,
       "properties": {
         "nummer": 1053,
         "objectid": 908,
@@ -440,12 +399,11 @@
     },
     {
       "type": "Feature",
-      "id": 1090,
       "properties": {
-        "nummer": 8229,
-        "objectid": 1090,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
+        "nummer": 9896,
+        "objectid": 723,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -456,83 +414,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.449378657847818,
-          47.072576816212205
+          15.455669067282855,
+          47.076112154714984
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1091,
-      "properties": {
-        "nummer": 8323,
-        "objectid": 1091,
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.450054714596138,
-          47.073209455668085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1094,
-      "properties": {
-        "nummer": 8214,
-        "objectid": 1094,
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.448888647997586,
-          47.07257302118108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1097,
-      "properties": {
-        "nummer": 8543,
-        "objectid": 1097,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.456937890307932,
-          47.07133950320728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1275,
       "properties": {
         "nummer": 8558,
         "objectid": 1275,
@@ -555,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 1277,
       "properties": {
         "nummer": 8573,
         "objectid": 1277,
@@ -578,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 1278,
       "properties": {
         "nummer": 31638,
         "objectid": 1278,
@@ -601,7 +487,6 @@
     },
     {
       "type": "Feature",
-      "id": 1279,
       "properties": {
         "nummer": 24777,
         "objectid": 1279,
@@ -624,7 +509,6 @@
     },
     {
       "type": "Feature",
-      "id": 1280,
       "properties": {
         "nummer": 8616,
         "objectid": 1280,
@@ -647,7 +531,6 @@
     },
     {
       "type": "Feature",
-      "id": 1282,
       "properties": {
         "nummer": 8622,
         "objectid": 1282,
@@ -670,7 +553,6 @@
     },
     {
       "type": "Feature",
-      "id": 1328,
       "properties": {
         "nummer": 8585,
         "objectid": 1328,
@@ -693,7 +575,6 @@
     },
     {
       "type": "Feature",
-      "id": 1355,
       "properties": {
         "nummer": 8243,
         "objectid": 1355,
@@ -716,24 +597,89 @@
     },
     {
       "type": "Feature",
-      "id": 1375,
       "properties": {
-        "nummer": 20028,
-        "objectid": 1375,
-        "baumbezeichnung_deutsch": "Riesenlebensbaum",
-        "baumbezeichnung_botanisch": "Thuja plicata",
-        "baumtyp": "Nadel",
+        "nummer": 8229,
+        "objectid": 1090,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
         "bemerkung": null,
-        "pflanzjahr": "1996",
+        "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.447198282957654,
-          47.070115261464466
+          15.449378657847818,
+          47.072576816212205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8323,
+        "objectid": 1091,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450054714596138,
+          47.073209455668085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8214,
+        "objectid": 1094,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448888647997586,
+          47.07257302118108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 8543,
+        "objectid": 1097,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.456937890307932,
+          47.07133950320728
         ]
       }
     },

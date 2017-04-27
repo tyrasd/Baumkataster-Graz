@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 58,
       "properties": {
         "nummer": 31694,
         "objectid": 58,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 61,
       "properties": {
         "nummer": 1523,
         "objectid": 61,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 378,
       "properties": {
         "nummer": 27363,
         "objectid": 378,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 411,
       "properties": {
         "nummer": 3174,
         "objectid": 411,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 683,
       "properties": {
         "nummer": 3137,
         "objectid": 683,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 684,
       "properties": {
         "nummer": 3173,
         "objectid": 684,
@@ -141,7 +135,28 @@
     },
     {
       "type": "Feature",
-      "id": 1152,
+      "properties": {
+        "nummer": 24578,
+        "objectid": 1166,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445537723642719,
+          47.072298199885836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 1321,
         "objectid": 1152,
@@ -164,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1156,
       "properties": {
         "nummer": 1366,
         "objectid": 1156,
@@ -187,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1160,
       "properties": {
         "nummer": 1553,
         "objectid": 1160,
@@ -205,29 +218,6 @@
         "coordinates": [
           15.445628697179124,
           47.073199492016826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1166,
-      "properties": {
-        "nummer": 24578,
-        "objectid": 1166,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445537723642719,
-          47.072298199885836
         ]
       }
     }

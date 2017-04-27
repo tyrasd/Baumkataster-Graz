@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 135,
       "properties": {
         "nummer": 27225,
         "objectid": 135,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 590,
       "properties": {
         "nummer": 14629,
         "objectid": 590,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 774,
       "properties": {
         "nummer": 14532,
         "objectid": 774,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 778,
       "properties": {
         "nummer": 14631,
         "objectid": 778,
@@ -95,30 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1083,
-      "properties": {
-        "nummer": 14542,
-        "objectid": 1083,
-        "baumbezeichnung_deutsch": "Kirsche",
-        "baumbezeichnung_botanisch": "Prunus sp.",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425209908789148,
-          47.09312671442901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1189,
       "properties": {
         "nummer": 14551,
         "objectid": 1189,
@@ -141,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1225,
       "properties": {
         "nummer": 14573,
         "objectid": 1225,
@@ -164,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1385,
       "properties": {
         "nummer": 27706,
         "objectid": 1385,
@@ -187,7 +157,28 @@
     },
     {
       "type": "Feature",
-      "id": 1589,
+      "properties": {
+        "nummer": 14542,
+        "objectid": 1083,
+        "baumbezeichnung_deutsch": "Kirsche",
+        "baumbezeichnung_botanisch": "Prunus sp.",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.425209908789148,
+          47.09312671442901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 14550,
         "objectid": 1589,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1590,
       "properties": {
         "nummer": 14575,
         "objectid": 1590,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1650,
       "properties": {
         "nummer": 14574,
         "objectid": 1650,

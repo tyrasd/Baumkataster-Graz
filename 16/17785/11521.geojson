@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 744,
-      "properties": {
-        "nummer": 20134,
-        "objectid": 744,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1997",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.396673083848459,
-          47.02687174786018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 793,
       "properties": {
         "nummer": 16864,
         "objectid": 793,
@@ -49,7 +25,28 @@
     },
     {
       "type": "Feature",
-      "id": 1218,
+      "properties": {
+        "nummer": 20134,
+        "objectid": 744,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1997",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396673083848459,
+          47.02687174786018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 16825,
         "objectid": 1218,

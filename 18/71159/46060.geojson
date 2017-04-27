@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 59,
       "properties": {
         "nummer": 2393,
         "objectid": 59,
@@ -26,30 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 1123,
-      "properties": {
-        "nummer": 2288,
-        "objectid": 1123,
-        "baumbezeichnung_deutsch": "Silber Sawarascheinzypresse",
-        "baumbezeichnung_botanisch": "Chamaecyparis pisifera 'Squarrosa'",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.444857520580058,
-          47.07573925465556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1393,
       "properties": {
         "nummer": 10623,
         "objectid": 1393,
@@ -67,6 +42,28 @@
         "coordinates": [
           15.445728944590918,
           47.07733378035664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2288,
+        "objectid": 1123,
+        "baumbezeichnung_deutsch": "Silber Sawarascheinzypresse",
+        "baumbezeichnung_botanisch": "Chamaecyparis pisifera 'Squarrosa'",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.444857520580058,
+          47.07573925465556
         ]
       }
     }

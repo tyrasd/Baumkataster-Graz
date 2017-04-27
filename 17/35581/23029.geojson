@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 436,
       "properties": {
         "nummer": 8435,
         "objectid": 436,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 566,
       "properties": {
         "nummer": 8429,
         "objectid": 566,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 569,
       "properties": {
         "nummer": 8448,
         "objectid": 569,
@@ -72,30 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 672,
-      "properties": {
-        "nummer": 8437,
-        "objectid": 672,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": "NRAbg. Dr. Hans Hafner",
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454554294162728,
-          47.078837381962316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 804,
       "properties": {
         "nummer": 8487,
         "objectid": 804,
@@ -118,7 +91,28 @@
     },
     {
       "type": "Feature",
-      "id": 1217,
+      "properties": {
+        "nummer": 8437,
+        "objectid": 672,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "NRAbg. Dr. Hans Hafner",
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454554294162728,
+          47.078837381962316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 8455,
         "objectid": 1217,

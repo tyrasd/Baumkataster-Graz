@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 263,
       "properties": {
         "nummer": 8171,
         "objectid": 263,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 264,
       "properties": {
         "nummer": 8168,
         "objectid": 264,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 648,
       "properties": {
         "nummer": 8197,
         "objectid": 648,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 888,
       "properties": {
         "nummer": 8198,
         "objectid": 888,
@@ -95,7 +91,28 @@
     },
     {
       "type": "Feature",
-      "id": 1090,
+      "properties": {
+        "nummer": 8243,
+        "objectid": 1355,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448768630657176,
+          47.072621861828374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 8229,
         "objectid": 1090,
@@ -118,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1094,
       "properties": {
         "nummer": 8214,
         "objectid": 1094,
@@ -136,29 +152,6 @@
         "coordinates": [
           15.448888647997586,
           47.07257302118108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1355,
-      "properties": {
-        "nummer": 8243,
-        "objectid": 1355,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.448768630657176,
-          47.072621861828374
         ]
       }
     }

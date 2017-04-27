@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 263,
       "properties": {
         "nummer": 8171,
         "objectid": 263,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 264,
       "properties": {
         "nummer": 8168,
         "objectid": 264,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 265,
       "properties": {
         "nummer": 8375,
         "objectid": 265,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 266,
       "properties": {
         "nummer": 8371,
         "objectid": 266,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 267,
       "properties": {
         "nummer": 8357,
         "objectid": 267,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 268,
       "properties": {
         "nummer": 8358,
         "objectid": 268,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 269,
       "properties": {
         "nummer": 8370,
         "objectid": 269,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 648,
       "properties": {
         "nummer": 8197,
         "objectid": 648,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 802,
       "properties": {
         "nummer": 19881,
         "objectid": 802,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 805,
       "properties": {
         "nummer": 1176,
         "objectid": 805,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 806,
       "properties": {
         "nummer": 1170,
         "objectid": 806,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 888,
       "properties": {
         "nummer": 8198,
         "objectid": 888,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 908,
       "properties": {
         "nummer": 1053,
         "objectid": 908,
@@ -302,7 +289,28 @@
     },
     {
       "type": "Feature",
-      "id": 1090,
+      "properties": {
+        "nummer": 8243,
+        "objectid": 1355,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.448768630657176,
+          47.072621861828374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 8229,
         "objectid": 1090,
@@ -325,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 1091,
       "properties": {
         "nummer": 8323,
         "objectid": 1091,
@@ -348,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1094,
       "properties": {
         "nummer": 8214,
         "objectid": 1094,
@@ -366,29 +372,6 @@
         "coordinates": [
           15.448888647997586,
           47.07257302118108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1355,
-      "properties": {
-        "nummer": 8243,
-        "objectid": 1355,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.448768630657176,
-          47.072621861828374
         ]
       }
     }

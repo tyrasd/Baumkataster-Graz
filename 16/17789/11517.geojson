@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 76,
       "properties": {
         "nummer": 23330,
         "objectid": 76,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 84,
       "properties": {
         "nummer": 23196,
         "objectid": 84,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 93,
       "properties": {
         "nummer": 30199,
         "objectid": 93,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 94,
       "properties": {
         "nummer": 30200,
         "objectid": 94,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 97,
       "properties": {
         "nummer": 30201,
         "objectid": 97,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 99,
       "properties": {
         "nummer": 30203,
         "objectid": 99,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 100,
       "properties": {
         "nummer": 30204,
         "objectid": 100,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 102,
       "properties": {
         "nummer": 30205,
         "objectid": 102,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 126,
       "properties": {
         "nummer": 30202,
         "objectid": 126,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 127,
       "properties": {
         "nummer": 30206,
         "objectid": 127,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 293,
       "properties": {
         "nummer": 23279,
         "objectid": 293,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 294,
       "properties": {
         "nummer": 23278,
         "objectid": 294,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 295,
       "properties": {
         "nummer": 23256,
         "objectid": 295,
@@ -302,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 296,
       "properties": {
         "nummer": 23255,
         "objectid": 296,
@@ -325,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 458,
       "properties": {
         "nummer": 20350,
         "objectid": 458,
@@ -348,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 467,
       "properties": {
         "nummer": 224,
         "objectid": 467,
@@ -371,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 546,
       "properties": {
         "nummer": 6078,
         "objectid": 546,
@@ -394,30 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 754,
-      "properties": {
-        "nummer": 6096,
-        "objectid": 754,
-        "baumbezeichnung_deutsch": "Traueresche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Pendula'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.43761562111693,
-          47.06104859609553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 808,
       "properties": {
         "nummer": 23260,
         "objectid": 808,
@@ -440,7 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 809,
       "properties": {
         "nummer": 23312,
         "objectid": 809,
@@ -463,7 +421,6 @@
     },
     {
       "type": "Feature",
-      "id": 810,
       "properties": {
         "nummer": 23320,
         "objectid": 810,
@@ -486,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 824,
       "properties": {
         "nummer": 23192,
         "objectid": 824,
@@ -509,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 827,
       "properties": {
         "nummer": 406,
         "objectid": 827,
@@ -532,53 +487,28 @@
     },
     {
       "type": "Feature",
-      "id": 1122,
       "properties": {
-        "nummer": 30211,
-        "objectid": 1122,
-        "baumbezeichnung_deutsch": "Zitterpappel",
-        "baumbezeichnung_botanisch": "Populus tremula",
+        "nummer": 6096,
+        "objectid": 754,
+        "baumbezeichnung_deutsch": "Traueresche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Pendula'",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.436103044851073,
-          47.0614455716098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1140,
-      "properties": {
-        "nummer": 5052,
-        "objectid": 1140,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1985",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Daniela u. Michael Zekoll",
         "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.44410754678939,
-          47.06132443689573
+          15.43761562111693,
+          47.06104859609553
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1196,
       "properties": {
         "nummer": 318,
         "objectid": 1196,
@@ -601,7 +531,6 @@
     },
     {
       "type": "Feature",
-      "id": 1330,
       "properties": {
         "nummer": 12335,
         "objectid": 1330,
@@ -619,6 +548,50 @@
         "coordinates": [
           15.438436917238736,
           47.05966203944042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 30211,
+        "objectid": 1122,
+        "baumbezeichnung_deutsch": "Zitterpappel",
+        "baumbezeichnung_botanisch": "Populus tremula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.436103044851073,
+          47.0614455716098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 5052,
+        "objectid": 1140,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1985",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Daniela u. Michael Zekoll",
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44410754678939,
+          47.06132443689573
         ]
       }
     },

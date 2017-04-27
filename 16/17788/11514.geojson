@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 138,
       "properties": {
         "nummer": 7280,
         "objectid": 138,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 139,
       "properties": {
         "nummer": 24790,
         "objectid": 139,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 176,
       "properties": {
         "nummer": 9527,
         "objectid": 176,
@@ -72,76 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 360,
-      "properties": {
-        "nummer": 13366,
-        "objectid": 360,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.425525971576363,
-          47.083344690575636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 370,
-      "properties": {
-        "nummer": 5665,
-        "objectid": 370,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433198111787034,
-          47.082378766942526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 372,
-      "properties": {
-        "nummer": 7349,
-        "objectid": 372,
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431057553998286,
-          47.08280321251392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 430,
       "properties": {
         "nummer": 16107,
         "objectid": 430,
@@ -164,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 433,
       "properties": {
         "nummer": 16095,
         "objectid": 433,
@@ -187,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 594,
       "properties": {
         "nummer": 7278,
         "objectid": 594,
@@ -210,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 662,
       "properties": {
         "nummer": 5656,
         "objectid": 662,
@@ -233,10 +157,9 @@
     },
     {
       "type": "Feature",
-      "id": 671,
       "properties": {
-        "nummer": 7284,
-        "objectid": 671,
+        "nummer": 13366,
+        "objectid": 360,
         "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
         "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumtyp": "Laub",
@@ -249,19 +172,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.433894056530718,
-          47.07835531249053
+          15.425525971576363,
+          47.083344690575636
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 711,
       "properties": {
-        "nummer": 6677,
-        "objectid": 711,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "nummer": 5665,
+        "objectid": 370,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433198111787034,
+          47.082378766942526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7349,
+        "objectid": 372,
+        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
+        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -272,37 +216,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.433828077516777,
-          47.082777300311314
+          15.431057553998286,
+          47.08280321251392
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 714,
-      "properties": {
-        "nummer": 7341,
-        "objectid": 714,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431392046269497,
-          47.08196488280346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 786,
       "properties": {
         "nummer": 11517,
         "objectid": 786,
@@ -325,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 818,
       "properties": {
         "nummer": 26682,
         "objectid": 818,
@@ -348,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 869,
       "properties": {
         "nummer": 11615,
         "objectid": 869,
@@ -371,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 872,
       "properties": {
         "nummer": 15472,
         "objectid": 872,
@@ -394,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 879,
       "properties": {
         "nummer": 5836,
         "objectid": 879,
@@ -417,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 883,
       "properties": {
         "nummer": 5664,
         "objectid": 883,
@@ -440,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 966,
       "properties": {
         "nummer": 11604,
         "objectid": 966,
@@ -463,7 +377,72 @@
     },
     {
       "type": "Feature",
-      "id": 1294,
+      "properties": {
+        "nummer": 7284,
+        "objectid": 671,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433894056530718,
+          47.07835531249053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6677,
+        "objectid": 711,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433828077516777,
+          47.082777300311314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7341,
+        "objectid": 714,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431392046269497,
+          47.08196488280346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 15458,
         "objectid": 1294,
@@ -486,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 1304,
       "properties": {
         "nummer": 11575,
         "objectid": 1304,

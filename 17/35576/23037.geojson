@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 504,
       "properties": {
         "nummer": 19243,
         "objectid": 504,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 565,
       "properties": {
         "nummer": 13859,
         "objectid": 565,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 990,
       "properties": {
         "nummer": 19237,
         "objectid": 990,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 1004,
       "properties": {
         "nummer": 13494,
         "objectid": 1004,
@@ -95,30 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1082,
-      "properties": {
-        "nummer": 13831,
-        "objectid": 1082,
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1983",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426447737841633,
-          47.04854049359264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1253,
       "properties": {
         "nummer": 12904,
         "objectid": 1253,
@@ -141,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1254,
       "properties": {
         "nummer": 12906,
         "objectid": 1254,
@@ -164,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1313,
       "properties": {
         "nummer": 10456,
         "objectid": 1313,
@@ -187,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1314,
       "properties": {
         "nummer": 10459,
         "objectid": 1314,
@@ -210,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1315,
       "properties": {
         "nummer": 10466,
         "objectid": 1315,
@@ -233,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1348,
       "properties": {
         "nummer": 13788,
         "objectid": 1348,
@@ -256,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1392,
       "properties": {
         "nummer": 20068,
         "objectid": 1392,
@@ -274,6 +240,28 @@
         "coordinates": [
           15.42934746997449,
           47.04898449933179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13831,
+        "objectid": 1082,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Kanzan'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1983",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426447737841633,
+          47.04854049359264
         ]
       }
     }

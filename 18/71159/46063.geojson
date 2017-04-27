@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 10,
       "properties": {
         "nummer": 3066,
         "objectid": 10,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 11,
       "properties": {
         "nummer": 3120,
         "objectid": 11,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 12,
       "properties": {
         "nummer": 1259,
         "objectid": 12,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 80,
       "properties": {
         "nummer": 3084,
         "objectid": 80,
@@ -95,99 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 169,
-      "properties": {
-        "nummer": 27403,
-        "objectid": 169,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445764994145314,
-          47.07155864118415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 170,
-      "properties": {
-        "nummer": 27402,
-        "objectid": 170,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445699772795248,
-          47.07161978256668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 172,
-      "properties": {
-        "nummer": 27400,
-        "objectid": 172,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445643809963977,
-          47.07167599555369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 173,
-      "properties": {
-        "nummer": 27411,
-        "objectid": 173,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446129225180117,
-          47.07129192487096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 215,
       "properties": {
         "nummer": 3076,
         "objectid": 215,
@@ -210,7 +113,94 @@
     },
     {
       "type": "Feature",
-      "id": 679,
+      "properties": {
+        "nummer": 27403,
+        "objectid": 169,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445764994145314,
+          47.07155864118415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27402,
+        "objectid": 170,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445699772795248,
+          47.07161978256668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27400,
+        "objectid": 172,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445643809963977,
+          47.07167599555369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 27411,
+        "objectid": 173,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446129225180117,
+          47.07129192487096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 25577,
         "objectid": 679,
@@ -233,7 +223,28 @@
     },
     {
       "type": "Feature",
-      "id": 1143,
+      "properties": {
+        "nummer": 1033,
+        "objectid": 1372,
+        "baumbezeichnung_deutsch": "Tulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.446548441289107,
+          47.07117681874341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 1035,
         "objectid": 1143,
@@ -256,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1147,
       "properties": {
         "nummer": 1069,
         "objectid": 1147,
@@ -279,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 1165,
       "properties": {
         "nummer": 1101,
         "objectid": 1165,
@@ -297,29 +306,6 @@
         "coordinates": [
           15.445398666128286,
           47.071406878782675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1372,
-      "properties": {
-        "nummer": 1033,
-        "objectid": 1372,
-        "baumbezeichnung_deutsch": "Tulpenbaum",
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.446548441289107,
-          47.07117681874341
         ]
       }
     }

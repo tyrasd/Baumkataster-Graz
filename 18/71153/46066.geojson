@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1086,
-      "properties": {
-        "nummer": 10887,
-        "objectid": 1086,
-        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428202546881536,
-          47.066315133039886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1343,
       "properties": {
         "nummer": 20707,
         "objectid": 1343,
@@ -49,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 1344,
       "properties": {
         "nummer": 20713,
         "objectid": 1344,
@@ -67,6 +42,28 @@
         "coordinates": [
           15.429602982544472,
           47.06520018762926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10887,
+        "objectid": 1086,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428202546881536,
+          47.066315133039886
         ]
       }
     }

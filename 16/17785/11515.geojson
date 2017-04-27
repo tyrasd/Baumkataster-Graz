@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 106,
       "properties": {
         "nummer": 30145,
         "objectid": 106,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 109,
       "properties": {
         "nummer": 30146,
         "objectid": 109,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 144,
       "properties": {
         "nummer": 15345,
         "objectid": 144,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 145,
       "properties": {
         "nummer": 17230,
         "objectid": 145,
@@ -95,30 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 733,
-      "properties": {
-        "nummer": 15231,
-        "objectid": 733,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.401410974576185,
-          47.07518106684896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 773,
       "properties": {
         "nummer": 23792,
         "objectid": 773,
@@ -141,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 779,
       "properties": {
         "nummer": 6254,
         "objectid": 779,
@@ -164,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 828,
       "properties": {
         "nummer": 21024,
         "objectid": 828,
@@ -187,7 +157,28 @@
     },
     {
       "type": "Feature",
-      "id": 1045,
+      "properties": {
+        "nummer": 15231,
+        "objectid": 733,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.401410974576185,
+          47.07518106684896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 15230,
         "objectid": 1045,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1046,
       "properties": {
         "nummer": 22562,
         "objectid": 1046,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1549,
       "properties": {
         "nummer": 15255,
         "objectid": 1549,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1617,
       "properties": {
         "nummer": 15261,
         "objectid": 1617,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1626,
       "properties": {
         "nummer": 15265,
         "objectid": 1626,

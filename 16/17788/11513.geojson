@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 214,
       "properties": {
         "nummer": 10644,
         "objectid": 214,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 373,
       "properties": {
         "nummer": 5711,
         "objectid": 373,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 374,
       "properties": {
         "nummer": 7374,
         "objectid": 374,
@@ -72,30 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 747,
-      "properties": {
-        "nummer": 23732,
-        "objectid": 747,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.427484320634534,
-          47.090295205857416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 817,
       "properties": {
         "nummer": 7392,
         "objectid": 817,
@@ -118,7 +91,28 @@
     },
     {
       "type": "Feature",
-      "id": 1024,
+      "properties": {
+        "nummer": 23732,
+        "objectid": 747,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.427484320634534,
+          47.090295205857416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 5804,
         "objectid": 1024,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1191,
       "properties": {
         "nummer": 14581,
         "objectid": 1191,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1192,
       "properties": {
         "nummer": 14582,
         "objectid": 1192,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1563,
       "properties": {
         "nummer": 14576,
         "objectid": 1563,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1591,
       "properties": {
         "nummer": 14578,
         "objectid": 1591,

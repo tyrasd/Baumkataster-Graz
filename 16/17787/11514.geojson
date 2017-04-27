@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 6,
       "properties": {
         "nummer": 12481,
         "objectid": 6,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 38,
       "properties": {
         "nummer": 20062,
         "objectid": 38,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 92,
       "properties": {
         "nummer": 12845,
         "objectid": 92,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 201,
       "properties": {
         "nummer": 12043,
         "objectid": 201,
@@ -95,30 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 362,
-      "properties": {
-        "nummer": 12062,
-        "objectid": 362,
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.41563202417544,
-          47.0820910272647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 422,
       "properties": {
         "nummer": 12013,
         "objectid": 422,
@@ -141,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 423,
       "properties": {
         "nummer": 15026,
         "objectid": 423,
@@ -164,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 608,
       "properties": {
         "nummer": 11671,
         "objectid": 608,
@@ -187,7 +157,28 @@
     },
     {
       "type": "Feature",
-      "id": 834,
+      "properties": {
+        "nummer": 12062,
+        "objectid": 362,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41563202417544,
+          47.0820910272647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 15466,
         "objectid": 834,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 871,
       "properties": {
         "nummer": 15465,
         "objectid": 871,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 874,
       "properties": {
         "nummer": 24472,
         "objectid": 874,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1062,
       "properties": {
         "nummer": 27326,
         "objectid": 1062,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1101,
       "properties": {
         "nummer": 27327,
         "objectid": 1101,

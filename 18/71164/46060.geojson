@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 579,
       "properties": {
         "nummer": 9972,
         "objectid": 579,
@@ -26,30 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 717,
-      "properties": {
-        "nummer": 9959,
-        "objectid": 717,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.458967004121456,
-          47.07686341852091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 983,
       "properties": {
         "nummer": 9979,
         "objectid": 983,
@@ -72,7 +47,28 @@
     },
     {
       "type": "Feature",
-      "id": 1380,
+      "properties": {
+        "nummer": 9959,
+        "objectid": 717,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.458967004121456,
+          47.07686341852091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 9999,
         "objectid": 1380,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1382,
       "properties": {
         "nummer": 9998,
         "objectid": 1382,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1383,
       "properties": {
         "nummer": 10001,
         "objectid": 1383,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1384,
       "properties": {
         "nummer": 9993,
         "objectid": 1384,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1395,
       "properties": {
         "nummer": 9992,
         "objectid": 1395,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1400,
       "properties": {
         "nummer": 9995,
         "objectid": 1400,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1404,
       "properties": {
         "nummer": 9996,
         "objectid": 1404,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1405,
       "properties": {
         "nummer": 9997,
         "objectid": 1405,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1531,
       "properties": {
         "nummer": 9982,
         "objectid": 1531,

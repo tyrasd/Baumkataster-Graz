@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1,
       "properties": {
         "nummer": 7261,
         "objectid": 1,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 517,
       "properties": {
         "nummer": 7267,
         "objectid": 517,
@@ -49,7 +47,28 @@
     },
     {
       "type": "Feature",
-      "id": 1078,
+      "properties": {
+        "nummer": 3852,
+        "objectid": 1327,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.450568302756707,
+          47.08468171037076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 27378,
         "objectid": 1078,
@@ -72,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1087,
       "properties": {
         "nummer": 27379,
         "objectid": 1087,
@@ -95,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1095,
       "properties": {
         "nummer": 7226,
         "objectid": 1095,
@@ -118,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1098,
       "properties": {
         "nummer": 7234,
         "objectid": 1098,
@@ -141,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1099,
       "properties": {
         "nummer": 7232,
         "objectid": 1099,
@@ -159,29 +174,6 @@
         "coordinates": [
           15.45022082239682,
           47.08425508486789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1327,
-      "properties": {
-        "nummer": 3852,
-        "objectid": 1327,
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.450568302756707,
-          47.08468171037076
         ]
       }
     }

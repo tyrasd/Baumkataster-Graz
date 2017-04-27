@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 48,
       "properties": {
         "nummer": 7705,
         "objectid": 48,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 50,
       "properties": {
         "nummer": 7479,
         "objectid": 50,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 202,
       "properties": {
         "nummer": 7677,
         "objectid": 202,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 511,
       "properties": {
         "nummer": 7863,
         "objectid": 511,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 512,
       "properties": {
         "nummer": 18526,
         "objectid": 512,
@@ -118,76 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 689,
-      "properties": {
-        "nummer": 9915,
-        "objectid": 689,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.461909312653251,
-          47.07786263669907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 690,
-      "properties": {
-        "nummer": 19674,
-        "objectid": 690,
-        "baumbezeichnung_deutsch": "Baumhasel",
-        "baumbezeichnung_botanisch": "Corylus colurna",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1994",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.460525660218835,
-          47.07832983435296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 736,
-      "properties": {
-        "nummer": 7878,
-        "objectid": 736,
-        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
-        "baumbezeichnung_botanisch": "Carpinus betulus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.459717061651082,
-          47.08190377878649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 803,
       "properties": {
         "nummer": 8507,
         "objectid": 803,
@@ -210,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 975,
       "properties": {
         "nummer": 7852,
         "objectid": 975,
@@ -233,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 976,
       "properties": {
         "nummer": 7695,
         "objectid": 976,
@@ -256,7 +179,72 @@
     },
     {
       "type": "Feature",
-      "id": 1332,
+      "properties": {
+        "nummer": 9915,
+        "objectid": 689,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.461909312653251,
+          47.07786263669907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 19674,
+        "objectid": 690,
+        "baumbezeichnung_deutsch": "Baumhasel",
+        "baumbezeichnung_botanisch": "Corylus colurna",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1994",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.460525660218835,
+          47.07832983435296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7878,
+        "objectid": 736,
+        "baumbezeichnung_deutsch": "Hain - oder Weißbuche",
+        "baumbezeichnung_botanisch": "Carpinus betulus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.459717061651082,
+          47.08190377878649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 20077,
         "objectid": 1332,

@@ -5,24 +5,6 @@
       "type": "Feature",
       "properties": {
         "Naturdenkmal": true,
-        "Naturdenkmal_Eigentum": "öffentlich",
-        "nummer": "Naturdenkmal-99",
-        "objectid": "Naturdenkmal-46",
-        "baumbezeichnung_deutsch": "Mammutbaum",
-        "baumbezeichnung_botanisch": "Sequoiadendron giganteum"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.441286043852514,
-          47.089322762462494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Naturdenkmal": true,
         "Naturdenkmal_Eigentum": "privat",
         "nummer": "Naturdenkmal-113",
         "objectid": "Naturdenkmal-79",

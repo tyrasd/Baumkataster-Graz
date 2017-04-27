@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 146,
       "properties": {
         "nummer": 19508,
         "objectid": 146,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 171,
       "properties": {
         "nummer": 15195,
         "objectid": 171,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 182,
       "properties": {
         "nummer": 15199,
         "objectid": 182,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 449,
       "properties": {
         "nummer": 11192,
         "objectid": 449,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 523,
       "properties": {
         "nummer": 19506,
         "objectid": 523,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 524,
       "properties": {
         "nummer": 11180,
         "objectid": 524,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 529,
       "properties": {
         "nummer": 10988,
         "objectid": 529,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 620,
       "properties": {
         "nummer": 11901,
         "objectid": 620,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 756,
       "properties": {
         "nummer": 10974,
         "objectid": 756,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 1047,
       "properties": {
         "nummer": 11869,
         "objectid": 1047,
@@ -233,30 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1131,
-      "properties": {
-        "nummer": 15183,
-        "objectid": 1131,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.40631606277507,
-          47.06819994753391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1209,
       "properties": {
         "nummer": 31797,
         "objectid": 1209,
@@ -279,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1215,
       "properties": {
         "nummer": 11882,
         "objectid": 1215,
@@ -302,7 +267,28 @@
     },
     {
       "type": "Feature",
-      "id": 1566,
+      "properties": {
+        "nummer": 15183,
+        "objectid": 1131,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40631606277507,
+          47.06819994753391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 11858,
         "objectid": 1566,
@@ -325,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 1567,
       "properties": {
         "nummer": 11862,
         "objectid": 1567,
@@ -348,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 1568,
       "properties": {
         "nummer": 11879,
         "objectid": 1568,
@@ -371,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1625,
       "properties": {
         "nummer": 15170,
         "objectid": 1625,

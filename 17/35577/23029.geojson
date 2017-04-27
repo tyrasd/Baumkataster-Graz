@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 138,
       "properties": {
         "nummer": 7280,
         "objectid": 138,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 139,
       "properties": {
         "nummer": 24790,
         "objectid": 139,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 430,
       "properties": {
         "nummer": 16107,
         "objectid": 430,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 433,
       "properties": {
         "nummer": 16095,
         "objectid": 433,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 594,
       "properties": {
         "nummer": 7278,
         "objectid": 594,
@@ -118,30 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 671,
-      "properties": {
-        "nummer": 7284,
-        "objectid": 671,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433894056530718,
-          47.07835531249053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 786,
       "properties": {
         "nummer": 11517,
         "objectid": 786,
@@ -164,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 818,
       "properties": {
         "nummer": 26682,
         "objectid": 818,
@@ -182,6 +152,28 @@
         "coordinates": [
           15.43219484605395,
           47.07983774355883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7284,
+        "objectid": 671,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433894056530718,
+          47.07835531249053
         ]
       }
     },

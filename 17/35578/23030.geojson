@@ -3,53 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 190,
-      "properties": {
-        "nummer": 24642,
-        "objectid": 190,
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440272161811928,
-          47.0739780610261
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 191,
-      "properties": {
-        "nummer": 24644,
-        "objectid": 191,
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440343849682039,
-          47.0739798171993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 207,
       "properties": {
         "nummer": 24660,
         "objectid": 207,
@@ -72,7 +25,50 @@
     },
     {
       "type": "Feature",
-      "id": 514,
+      "properties": {
+        "nummer": 24642,
+        "objectid": 190,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440272161811928,
+          47.0739780610261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24644,
+        "objectid": 191,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440343849682039,
+          47.0739798171993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 19462,
         "objectid": 514,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 600,
       "properties": {
         "nummer": 19026,
         "objectid": 600,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 611,
       "properties": {
         "nummer": 18768,
         "objectid": 611,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 612,
       "properties": {
         "nummer": 18769,
         "objectid": 612,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 613,
       "properties": {
         "nummer": 18778,
         "objectid": 613,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 614,
       "properties": {
         "nummer": 23554,
         "objectid": 614,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 615,
       "properties": {
         "nummer": 18819,
         "objectid": 615,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 741,
       "properties": {
         "nummer": 18763,
         "objectid": 741,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1057,
       "properties": {
         "nummer": 20129,
         "objectid": 1057,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1183,
       "properties": {
         "nummer": 18725,
         "objectid": 1183,
@@ -302,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 1230,
       "properties": {
         "nummer": 18792,
         "objectid": 1230,
@@ -325,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 1232,
       "properties": {
         "nummer": 18806,
         "objectid": 1232,
@@ -348,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 1233,
       "properties": {
         "nummer": 18807,
         "objectid": 1233,
@@ -371,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1234,
       "properties": {
         "nummer": 18814,
         "objectid": 1234,
@@ -394,7 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 1235,
       "properties": {
         "nummer": 18815,
         "objectid": 1235,
@@ -417,7 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 1242,
       "properties": {
         "nummer": 18842,
         "objectid": 1242,
@@ -440,7 +421,6 @@
     },
     {
       "type": "Feature",
-      "id": 1243,
       "properties": {
         "nummer": 18858,
         "objectid": 1243,
@@ -463,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 1244,
       "properties": {
         "nummer": 18860,
         "objectid": 1244,
@@ -486,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 1245,
       "properties": {
         "nummer": 18865,
         "objectid": 1245,
@@ -509,7 +487,6 @@
     },
     {
       "type": "Feature",
-      "id": 1249,
       "properties": {
         "nummer": 18881,
         "objectid": 1249,
@@ -532,7 +509,6 @@
     },
     {
       "type": "Feature",
-      "id": 1250,
       "properties": {
         "nummer": 18882,
         "objectid": 1250,
@@ -555,7 +531,6 @@
     },
     {
       "type": "Feature",
-      "id": 1251,
       "properties": {
         "nummer": 18887,
         "objectid": 1251,
@@ -578,7 +553,6 @@
     },
     {
       "type": "Feature",
-      "id": 1252,
       "properties": {
         "nummer": 18892,
         "objectid": 1252,
@@ -601,7 +575,6 @@
     },
     {
       "type": "Feature",
-      "id": 1308,
       "properties": {
         "nummer": 19484,
         "objectid": 1308,
@@ -624,7 +597,6 @@
     },
     {
       "type": "Feature",
-      "id": 1309,
       "properties": {
         "nummer": 19342,
         "objectid": 1309,
@@ -647,7 +619,6 @@
     },
     {
       "type": "Feature",
-      "id": 1310,
       "properties": {
         "nummer": 19344,
         "objectid": 1310,
@@ -670,7 +641,6 @@
     },
     {
       "type": "Feature",
-      "id": 1311,
       "properties": {
         "nummer": 18743,
         "objectid": 1311,
@@ -693,7 +663,6 @@
     },
     {
       "type": "Feature",
-      "id": 1312,
       "properties": {
         "nummer": 18751,
         "objectid": 1312,
@@ -716,7 +685,6 @@
     },
     {
       "type": "Feature",
-      "id": 1637,
       "properties": {
         "nummer": 19389,
         "objectid": 1637,
@@ -739,7 +707,6 @@
     },
     {
       "type": "Feature",
-      "id": 1638,
       "properties": {
         "nummer": 19428,
         "objectid": 1638,
@@ -762,7 +729,6 @@
     },
     {
       "type": "Feature",
-      "id": 1639,
       "properties": {
         "nummer": 23436,
         "objectid": 1639,
@@ -785,7 +751,6 @@
     },
     {
       "type": "Feature",
-      "id": 1640,
       "properties": {
         "nummer": 19456,
         "objectid": 1640,
@@ -808,7 +773,6 @@
     },
     {
       "type": "Feature",
-      "id": 1641,
       "properties": {
         "nummer": 19686,
         "objectid": 1641,

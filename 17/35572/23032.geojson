@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 146,
       "properties": {
         "nummer": 19508,
         "objectid": 146,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 171,
       "properties": {
         "nummer": 15195,
         "objectid": 171,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 182,
       "properties": {
         "nummer": 15199,
         "objectid": 182,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 449,
       "properties": {
         "nummer": 11192,
         "objectid": 449,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 523,
       "properties": {
         "nummer": 19506,
         "objectid": 523,
@@ -118,30 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1131,
-      "properties": {
-        "nummer": 15183,
-        "objectid": 1131,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.40631606277507,
-          47.06819994753391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1209,
       "properties": {
         "nummer": 31797,
         "objectid": 1209,
@@ -164,7 +135,28 @@
     },
     {
       "type": "Feature",
-      "id": 1625,
+      "properties": {
+        "nummer": 15183,
+        "objectid": 1131,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.40631606277507,
+          47.06819994753391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 15170,
         "objectid": 1625,

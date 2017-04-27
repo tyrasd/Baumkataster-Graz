@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 30,
       "properties": {
         "nummer": 12772,
         "objectid": 30,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 37,
       "properties": {
         "nummer": 31783,
         "objectid": 37,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 44,
       "properties": {
         "nummer": 3334,
         "objectid": 44,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 46,
       "properties": {
         "nummer": 3328,
         "objectid": 46,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 52,
       "properties": {
         "nummer": 11489,
         "objectid": 52,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 53,
       "properties": {
         "nummer": 3331,
         "objectid": 53,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 55,
       "properties": {
         "nummer": 10191,
         "objectid": 55,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 64,
       "properties": {
         "nummer": 3765,
         "objectid": 64,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 116,
       "properties": {
         "nummer": 30135,
         "objectid": 116,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 137,
       "properties": {
         "nummer": 3355,
         "objectid": 137,
@@ -233,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 140,
       "properties": {
         "nummer": 758,
         "objectid": 140,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 420,
       "properties": {
         "nummer": 436,
         "objectid": 420,
@@ -281,7 +269,6 @@
     },
     {
       "type": "Feature",
-      "id": 431,
       "properties": {
         "nummer": 22140,
         "objectid": 431,
@@ -304,7 +291,6 @@
     },
     {
       "type": "Feature",
-      "id": 432,
       "properties": {
         "nummer": 22536,
         "objectid": 432,
@@ -327,7 +313,6 @@
     },
     {
       "type": "Feature",
-      "id": 434,
       "properties": {
         "nummer": 10202,
         "objectid": 434,
@@ -350,7 +335,6 @@
     },
     {
       "type": "Feature",
-      "id": 568,
       "properties": {
         "nummer": 19953,
         "objectid": 568,
@@ -373,7 +357,6 @@
     },
     {
       "type": "Feature",
-      "id": 582,
       "properties": {
         "nummer": 24386,
         "objectid": 582,
@@ -396,7 +379,6 @@
     },
     {
       "type": "Feature",
-      "id": 598,
       "properties": {
         "nummer": 646,
         "objectid": 598,
@@ -419,7 +401,6 @@
     },
     {
       "type": "Feature",
-      "id": 605,
       "properties": {
         "nummer": 465,
         "objectid": 605,
@@ -442,7 +423,6 @@
     },
     {
       "type": "Feature",
-      "id": 606,
       "properties": {
         "nummer": 485,
         "objectid": 606,
@@ -465,7 +445,6 @@
     },
     {
       "type": "Feature",
-      "id": 663,
       "properties": {
         "nummer": 19785,
         "objectid": 663,
@@ -488,7 +467,6 @@
     },
     {
       "type": "Feature",
-      "id": 664,
       "properties": {
         "nummer": 22539,
         "objectid": 664,
@@ -511,7 +489,6 @@
     },
     {
       "type": "Feature",
-      "id": 665,
       "properties": {
         "nummer": 473,
         "objectid": 665,
@@ -534,7 +511,6 @@
     },
     {
       "type": "Feature",
-      "id": 666,
       "properties": {
         "nummer": 10179,
         "objectid": 666,
@@ -557,145 +533,6 @@
     },
     {
       "type": "Feature",
-      "id": 674,
-      "properties": {
-        "nummer": 10243,
-        "objectid": 674,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42984666955555,
-          47.075661346252275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 675,
-      "properties": {
-        "nummer": 475,
-        "objectid": 675,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.42840157770763,
-          47.07414144196541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 716,
-      "properties": {
-        "nummer": 10180,
-        "objectid": 716,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431447040174579,
-          47.07486404943578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 721,
-      "properties": {
-        "nummer": 22587,
-        "objectid": 721,
-        "baumbezeichnung_deutsch": "Kugelsandkirsche",
-        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2000",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432895133661761,
-          47.07089448743883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 722,
-      "properties": {
-        "nummer": 774,
-        "objectid": 722,
-        "baumbezeichnung_deutsch": "Holländische Linde",
-        "baumbezeichnung_botanisch": "Tilia x europaea",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429579267055518,
-          47.07422111132663
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 739,
-      "properties": {
-        "nummer": 554,
-        "objectid": 739,
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428008699599479,
-          47.07357582581747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 936,
       "properties": {
         "nummer": 608,
         "objectid": 936,
@@ -718,7 +555,6 @@
     },
     {
       "type": "Feature",
-      "id": 1010,
       "properties": {
         "nummer": 22141,
         "objectid": 1010,
@@ -741,7 +577,138 @@
     },
     {
       "type": "Feature",
-      "id": 1051,
+      "properties": {
+        "nummer": 10243,
+        "objectid": 674,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42984666955555,
+          47.075661346252275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 475,
+        "objectid": 675,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42840157770763,
+          47.07414144196541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10180,
+        "objectid": 716,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431447040174579,
+          47.07486404943578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22587,
+        "objectid": 721,
+        "baumbezeichnung_deutsch": "Kugelsandkirsche",
+        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432895133661761,
+          47.07089448743883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 774,
+        "objectid": 722,
+        "baumbezeichnung_deutsch": "Holländische Linde",
+        "baumbezeichnung_botanisch": "Tilia x europaea",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429579267055518,
+          47.07422111132663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 554,
+        "objectid": 739,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428008699599479,
+          47.07357582581747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 678,
         "objectid": 1051,
@@ -764,30 +731,6 @@
     },
     {
       "type": "Feature",
-      "id": 1106,
-      "properties": {
-        "nummer": 447,
-        "objectid": 1106,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": "ausgedehnte Kernfäule im gesamten Stammbereich, externes Gutachten vorliegend, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426945154122139,
-          47.07390127575242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1177,
       "properties": {
         "nummer": 663,
         "objectid": 1177,
@@ -810,7 +753,6 @@
     },
     {
       "type": "Feature",
-      "id": 1227,
       "properties": {
         "nummer": 12711,
         "objectid": 1227,
@@ -833,7 +775,6 @@
     },
     {
       "type": "Feature",
-      "id": 1240,
       "properties": {
         "nummer": 27543,
         "objectid": 1240,
@@ -856,7 +797,6 @@
     },
     {
       "type": "Feature",
-      "id": 1262,
       "properties": {
         "nummer": 742,
         "objectid": 1262,
@@ -879,7 +819,6 @@
     },
     {
       "type": "Feature",
-      "id": 1326,
       "properties": {
         "nummer": 782,
         "objectid": 1326,
@@ -902,7 +841,6 @@
     },
     {
       "type": "Feature",
-      "id": 1365,
       "properties": {
         "nummer": 653,
         "objectid": 1365,
@@ -925,7 +863,28 @@
     },
     {
       "type": "Feature",
-      "id": 1582,
+      "properties": {
+        "nummer": 447,
+        "objectid": 1106,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": "ausgedehnte Kernfäule im gesamten Stammbereich, externes Gutachten vorliegend, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426945154122139,
+          47.07390127575242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 679,
         "objectid": 1582,
@@ -948,7 +907,6 @@
     },
     {
       "type": "Feature",
-      "id": 1583,
       "properties": {
         "nummer": 691,
         "objectid": 1583,
@@ -971,7 +929,6 @@
     },
     {
       "type": "Feature",
-      "id": 1584,
       "properties": {
         "nummer": 716,
         "objectid": 1584,
@@ -994,7 +951,6 @@
     },
     {
       "type": "Feature",
-      "id": 1602,
       "properties": {
         "nummer": 498,
         "objectid": 1602,
@@ -1017,7 +973,6 @@
     },
     {
       "type": "Feature",
-      "id": 1603,
       "properties": {
         "nummer": 519,
         "objectid": 1603,
@@ -1040,7 +995,6 @@
     },
     {
       "type": "Feature",
-      "id": 1604,
       "properties": {
         "nummer": 555,
         "objectid": 1604,

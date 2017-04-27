@@ -3,7 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1413,
+      "properties": {
+        "nummer": 24807,
+        "objectid": 1035,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.406125174221524,
+          47.07947390296643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 18203,
         "objectid": 1413,

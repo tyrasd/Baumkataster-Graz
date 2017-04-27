@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 119,
       "properties": {
         "nummer": 30159,
         "objectid": 119,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 380,
       "properties": {
         "nummer": 14655,
         "objectid": 380,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 402,
       "properties": {
         "nummer": 24818,
         "objectid": 402,
@@ -72,53 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 752,
-      "properties": {
-        "nummer": 26662,
-        "objectid": 752,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2006",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39520770806649,
-          47.067790823566824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 753,
-      "properties": {
-        "nummer": 15136,
-        "objectid": 753,
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39554994252578,
-          47.06708361861782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 781,
       "properties": {
         "nummer": 24338,
         "objectid": 781,
@@ -141,7 +91,50 @@
     },
     {
       "type": "Feature",
-      "id": 1126,
+      "properties": {
+        "nummer": 26662,
+        "objectid": 752,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39520770806649,
+          47.067790823566824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15136,
+        "objectid": 753,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39554994252578,
+          47.06708361861782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 14668,
         "objectid": 1126,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1128,
       "properties": {
         "nummer": 14663,
         "objectid": 1128,

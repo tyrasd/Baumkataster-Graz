@@ -3,53 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 190,
-      "properties": {
-        "nummer": 24642,
-        "objectid": 190,
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440272161811928,
-          47.0739780610261
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 191,
-      "properties": {
-        "nummer": 24644,
-        "objectid": 191,
-        "baumbezeichnung_deutsch": "Blasenbaum",
-        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.440343849682039,
-          47.0739798171993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 207,
       "properties": {
         "nummer": 24660,
         "objectid": 207,
@@ -72,7 +25,50 @@
     },
     {
       "type": "Feature",
-      "id": 611,
+      "properties": {
+        "nummer": 24642,
+        "objectid": 190,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440272161811928,
+          47.0739780610261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24644,
+        "objectid": 191,
+        "baumbezeichnung_deutsch": "Blasenbaum",
+        "baumbezeichnung_botanisch": "Koelreuteria paniculata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440343849682039,
+          47.0739798171993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 18768,
         "objectid": 611,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1057,
       "properties": {
         "nummer": 20129,
         "objectid": 1057,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1183,
       "properties": {
         "nummer": 18725,
         "objectid": 1183,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1311,
       "properties": {
         "nummer": 18743,
         "objectid": 1311,

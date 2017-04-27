@@ -3,76 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 403,
-      "properties": {
-        "nummer": 15911,
-        "objectid": 403,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.396875623670613,
-          47.06622952441149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 404,
-      "properties": {
-        "nummer": 14839,
-        "objectid": 404,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39222084256712,
-          47.062970786691054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 408,
-      "properties": {
-        "nummer": 15915,
-        "objectid": 408,
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.396269308146493,
-          47.06629086181793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 525,
       "properties": {
         "nummer": 14829,
         "objectid": 525,
@@ -95,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 623,
       "properties": {
         "nummer": 12942,
         "objectid": 623,
@@ -113,6 +42,72 @@
         "coordinates": [
           15.394963234639546,
           47.06267902412128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15911,
+        "objectid": 403,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396875623670613,
+          47.06622952441149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14839,
+        "objectid": 404,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39222084256712,
+          47.062970786691054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15915,
+        "objectid": 408,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396269308146493,
+          47.06629086181793
         ]
       }
     }

@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 108,
       "properties": {
         "nummer": 30141,
         "objectid": 108,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 111,
       "properties": {
         "nummer": 30140,
         "objectid": 111,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 165,
       "properties": {
         "nummer": 10864,
         "objectid": 165,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 195,
       "properties": {
         "nummer": 25528,
         "objectid": 195,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 519,
       "properties": {
         "nummer": 20249,
         "objectid": 519,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 520,
       "properties": {
         "nummer": 20292,
         "objectid": 520,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 535,
       "properties": {
         "nummer": 6387,
         "objectid": 535,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 719,
       "properties": {
         "nummer": 11066,
         "objectid": 719,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 727,
       "properties": {
         "nummer": 3434,
         "objectid": 727,
@@ -210,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 730,
       "properties": {
         "nummer": 10793,
         "objectid": 730,
@@ -233,53 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 1085,
-      "properties": {
-        "nummer": 27584,
-        "objectid": 1085,
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2007",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.430160517284861,
-          47.07009465132202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1086,
-      "properties": {
-        "nummer": 10887,
-        "objectid": 1086,
-        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428202546881536,
-          47.066315133039886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1198,
       "properties": {
         "nummer": 40,
         "objectid": 1198,
@@ -302,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1343,
       "properties": {
         "nummer": 20707,
         "objectid": 1343,
@@ -325,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1344,
       "properties": {
         "nummer": 20713,
         "objectid": 1344,
@@ -348,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 1345,
       "properties": {
         "nummer": 21819,
         "objectid": 1345,
@@ -371,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 1346,
       "properties": {
         "nummer": 21823,
         "objectid": 1346,
@@ -394,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 1347,
       "properties": {
         "nummer": 21824,
         "objectid": 1347,
@@ -417,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1349,
       "properties": {
         "nummer": 15446,
         "objectid": 1349,
@@ -440,7 +377,50 @@
     },
     {
       "type": "Feature",
-      "id": 1554,
+      "properties": {
+        "nummer": 27584,
+        "objectid": 1085,
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2007",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.430160517284861,
+          47.07009465132202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 10887,
+        "objectid": 1086,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428202546881536,
+          47.066315133039886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 27825,
         "objectid": 1554,
@@ -463,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 1561,
       "properties": {
         "nummer": 27826,
         "objectid": 1561,
@@ -486,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 1570,
       "properties": {
         "nummer": 27828,
         "objectid": 1570,
@@ -509,7 +487,6 @@
     },
     {
       "type": "Feature",
-      "id": 1585,
       "properties": {
         "nummer": 21833,
         "objectid": 1585,

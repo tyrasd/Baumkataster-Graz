@@ -3,7 +3,28 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1029,
+      "properties": {
+        "nummer": 23585,
+        "objectid": 308,
+        "baumbezeichnung_deutsch": "Zürgel Baum",
+        "baumbezeichnung_botanisch": "Celtis australis",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2002",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.452266970039954,
+          47.05879041282901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 16884,
         "objectid": 1029,

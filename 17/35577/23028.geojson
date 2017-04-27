@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 176,
       "properties": {
         "nummer": 9527,
         "objectid": 176,
@@ -26,53 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 370,
-      "properties": {
-        "nummer": 5665,
-        "objectid": 370,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.433198111787034,
-          47.082378766942526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 372,
-      "properties": {
-        "nummer": 7349,
-        "objectid": 372,
-        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
-        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431057553998286,
-          47.08280321251392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 662,
       "properties": {
         "nummer": 5656,
         "objectid": 662,
@@ -95,12 +47,33 @@
     },
     {
       "type": "Feature",
-      "id": 711,
       "properties": {
-        "nummer": 6677,
-        "objectid": 711,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "nummer": 5665,
+        "objectid": 370,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433198111787034,
+          47.082378766942526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7349,
+        "objectid": 372,
+        "baumbezeichnung_deutsch": "Chinesische Wildbirne",
+        "baumbezeichnung_botanisch": "Pyrus calleryana 'Chanticleer'",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -111,37 +84,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.433828077516777,
-          47.082777300311314
+          15.431057553998286,
+          47.08280321251392
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 714,
-      "properties": {
-        "nummer": 7341,
-        "objectid": 714,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431392046269497,
-          47.08196488280346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 879,
       "properties": {
         "nummer": 5836,
         "objectid": 879,
@@ -164,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 883,
       "properties": {
         "nummer": 5664,
         "objectid": 883,
@@ -182,6 +130,50 @@
         "coordinates": [
           15.433238772935157,
           47.08231581644484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 6677,
+        "objectid": 711,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.433828077516777,
+          47.082777300311314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 7341,
+        "objectid": 714,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431392046269497,
+          47.08196488280346
         ]
       }
     }

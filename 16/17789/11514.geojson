@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 62,
       "properties": {
         "nummer": 2750,
         "objectid": 62,
@@ -26,30 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 368,
-      "properties": {
-        "nummer": 24464,
-        "objectid": 368,
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.438271446179856,
-          47.08446027129498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 435,
       "properties": {
         "nummer": 3525,
         "objectid": 435,
@@ -72,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 538,
       "properties": {
         "nummer": 7938,
         "objectid": 538,
@@ -95,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 540,
       "properties": {
         "nummer": 2658,
         "objectid": 540,
@@ -118,12 +91,11 @@
     },
     {
       "type": "Feature",
-      "id": 680,
       "properties": {
-        "nummer": 3601,
-        "objectid": 680,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "nummer": 24464,
+        "objectid": 368,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -134,37 +106,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.44376030744484,
-          47.07828107214894
+          15.438271446179856,
+          47.08446027129498
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 682,
-      "properties": {
-        "nummer": 3610,
-        "objectid": 682,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": "Dipl.-Ing. Herta Zotter",
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443640892092604,
-          47.07815260822543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 968,
       "properties": {
         "nummer": 7933,
         "objectid": 968,
@@ -187,30 +135,50 @@
     },
     {
       "type": "Feature",
-      "id": 1124,
       "properties": {
-        "nummer": 2794,
-        "objectid": 1124,
-        "baumbezeichnung_deutsch": "Baummagnolie",
-        "baumbezeichnung_botanisch": "Magnolia kobus",
+        "nummer": 3601,
+        "objectid": 680,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
         "entnahmejahr": null,
         "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
+        "altersklassifizierung": "alt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.440534477639861,
-          47.07825761844242
+          15.44376030744484,
+          47.07828107214894
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1195,
+      "properties": {
+        "nummer": 3610,
+        "objectid": 682,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": "Dipl.-Ing. Herta Zotter",
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443640892092604,
+          47.07815260822543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 2825,
         "objectid": 1195,
@@ -228,6 +196,28 @@
         "coordinates": [
           15.442118249584704,
           47.07798594427789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2794,
+        "objectid": 1124,
+        "baumbezeichnung_deutsch": "Baummagnolie",
+        "baumbezeichnung_botanisch": "Magnolia kobus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.440534477639861,
+          47.07825761844242
         ]
       }
     },

@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 116,
       "properties": {
         "nummer": 30135,
         "objectid": 116,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 137,
       "properties": {
         "nummer": 3355,
         "objectid": 137,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 431,
       "properties": {
         "nummer": 22140,
         "objectid": 431,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 582,
       "properties": {
         "nummer": 24386,
         "objectid": 582,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 663,
       "properties": {
         "nummer": 19785,
         "objectid": 663,
@@ -118,30 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 721,
-      "properties": {
-        "nummer": 22587,
-        "objectid": 721,
-        "baumbezeichnung_deutsch": "Kugelsandkirsche",
-        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2000",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.432895133661761,
-          47.07089448743883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1010,
       "properties": {
         "nummer": 22141,
         "objectid": 1010,
@@ -159,6 +130,28 @@
         "coordinates": [
           15.43521789974456,
           47.073183870256486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 22587,
+        "objectid": 721,
+        "baumbezeichnung_deutsch": "Kugelsandkirsche",
+        "baumbezeichnung_botanisch": "Prunus fruticosa 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2000",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.432895133661761,
+          47.07089448743883
         ]
       }
     }

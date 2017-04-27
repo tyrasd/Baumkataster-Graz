@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 309,
-      "properties": {
-        "nummer": 21935,
-        "objectid": 309,
-        "baumbezeichnung_deutsch": "Rotbuche",
-        "baumbezeichnung_botanisch": "Fagus sylvatica",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.399041710256503,
-          47.02255967644667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 646,
       "properties": {
         "nummer": 21938,
         "objectid": 646,
@@ -49,12 +25,11 @@
     },
     {
       "type": "Feature",
-      "id": 1088,
       "properties": {
-        "nummer": 21956,
-        "objectid": 1088,
-        "baumbezeichnung_deutsch": "Scheinakazie",
-        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "nummer": 21935,
+        "objectid": 309,
+        "baumbezeichnung_deutsch": "Rotbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -65,37 +40,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.399474447321657,
-          47.02218953488593
+          15.399041710256503,
+          47.02255967644667
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1089,
-      "properties": {
-        "nummer": 21972,
-        "objectid": 1089,
-        "baumbezeichnung_deutsch": "Walnuß",
-        "baumbezeichnung_botanisch": "Juglans regia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.399061466930352,
-          47.02288585129998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1350,
       "properties": {
         "nummer": 21933,
         "objectid": 1350,
@@ -118,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 1351,
       "properties": {
         "nummer": 21975,
         "objectid": 1351,
@@ -136,6 +86,50 @@
         "coordinates": [
           15.39921580605945,
           47.0228180360857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21956,
+        "objectid": 1088,
+        "baumbezeichnung_deutsch": "Scheinakazie",
+        "baumbezeichnung_botanisch": "Robinia pseudoacacia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.399474447321657,
+          47.02218953488593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 21972,
+        "objectid": 1089,
+        "baumbezeichnung_deutsch": "Walnuß",
+        "baumbezeichnung_botanisch": "Juglans regia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.399061466930352,
+          47.02288585129998
         ]
       }
     }

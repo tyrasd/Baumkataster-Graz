@@ -3,30 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1106,
-      "properties": {
-        "nummer": 447,
-        "objectid": 1106,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": "ausgedehnte Kernfäule im gesamten Stammbereich, externes Gutachten vorliegend, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.426945154122139,
-          47.07390127575242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1240,
       "properties": {
         "nummer": 27543,
         "objectid": 1240,
@@ -44,6 +20,28 @@
         "coordinates": [
           15.42573207664483,
           47.07512244206968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 447,
+        "objectid": 1106,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": "ausgedehnte Kernfäule im gesamten Stammbereich, externes Gutachten vorliegend, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.426945154122139,
+          47.07390127575242
         ]
       }
     }

@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 415,
       "properties": {
         "nummer": 13215,
         "objectid": 415,
@@ -26,53 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 731,
-      "properties": {
-        "nummer": 13166,
-        "objectid": 731,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428810333421799,
-          47.047493388898985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 766,
-      "properties": {
-        "nummer": 13211,
-        "objectid": 766,
-        "baumbezeichnung_deutsch": "Sommerlinde",
-        "baumbezeichnung_botanisch": "Tilia platyphyllos",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.429176333874153,
-          47.046501241669745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 776,
       "properties": {
         "nummer": 13201,
         "objectid": 776,
@@ -95,7 +47,50 @@
     },
     {
       "type": "Feature",
-      "id": 1569,
+      "properties": {
+        "nummer": 13166,
+        "objectid": 731,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428810333421799,
+          47.047493388898985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 13211,
+        "objectid": 766,
+        "baumbezeichnung_deutsch": "Sommerlinde",
+        "baumbezeichnung_botanisch": "Tilia platyphyllos",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.429176333874153,
+          47.046501241669745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 13213,
         "objectid": 1569,

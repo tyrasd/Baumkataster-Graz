@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 510,
       "properties": {
         "nummer": 9375,
         "objectid": 510,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 518,
       "properties": {
         "nummer": 31908,
         "objectid": 518,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 597,
       "properties": {
         "nummer": 9394,
         "objectid": 597,
@@ -72,30 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 1100,
-      "properties": {
-        "nummer": 8980,
-        "objectid": 1100,
-        "baumbezeichnung_deutsch": "Esche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454506215384786,
-          47.089640017198434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1236,
       "properties": {
         "nummer": 9464,
         "objectid": 1236,
@@ -118,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1237,
       "properties": {
         "nummer": 9467,
         "objectid": 1237,
@@ -141,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 1238,
       "properties": {
         "nummer": 9478,
         "objectid": 1238,
@@ -164,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 1239,
       "properties": {
         "nummer": 9479,
         "objectid": 1239,
@@ -187,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1363,
       "properties": {
         "nummer": 9371,
         "objectid": 1363,
@@ -210,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1364,
       "properties": {
         "nummer": 9403,
         "objectid": 1364,
@@ -233,7 +201,28 @@
     },
     {
       "type": "Feature",
-      "id": 1614,
+      "properties": {
+        "nummer": 8980,
+        "objectid": 1100,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454506215384786,
+          47.089640017198434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 9442,
         "objectid": 1614,
@@ -256,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 1615,
       "properties": {
         "nummer": 9444,
         "objectid": 1615,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1616,
       "properties": {
         "nummer": 9456,
         "objectid": 1616,
@@ -302,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 1653,
       "properties": {
         "nummer": 9429,
         "objectid": 1653,
@@ -325,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 1670,
       "properties": {
         "nummer": 9357,
         "objectid": 1670,

@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 111,
       "properties": {
         "nummer": 30140,
         "objectid": 111,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 535,
       "properties": {
         "nummer": 6387,
         "objectid": 535,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 719,
       "properties": {
         "nummer": 11066,
         "objectid": 719,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 1198,
       "properties": {
         "nummer": 40,
         "objectid": 1198,

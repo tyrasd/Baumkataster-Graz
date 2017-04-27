@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 140,
       "properties": {
         "nummer": 758,
         "objectid": 140,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 420,
       "properties": {
         "nummer": 436,
         "objectid": 420,
@@ -51,7 +49,6 @@
     },
     {
       "type": "Feature",
-      "id": 598,
       "properties": {
         "nummer": 646,
         "objectid": 598,
@@ -74,7 +71,6 @@
     },
     {
       "type": "Feature",
-      "id": 605,
       "properties": {
         "nummer": 465,
         "objectid": 605,
@@ -97,30 +93,6 @@
     },
     {
       "type": "Feature",
-      "id": 739,
-      "properties": {
-        "nummer": 554,
-        "objectid": 739,
-        "baumbezeichnung_deutsch": "Säulenpappel",
-        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428008699599479,
-          47.07357582581747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 936,
       "properties": {
         "nummer": 608,
         "objectid": 936,
@@ -143,7 +115,28 @@
     },
     {
       "type": "Feature",
-      "id": 1051,
+      "properties": {
+        "nummer": 554,
+        "objectid": 739,
+        "baumbezeichnung_deutsch": "Säulenpappel",
+        "baumbezeichnung_botanisch": "Populus nigra 'Italica'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428008699599479,
+          47.07357582581747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 678,
         "objectid": 1051,
@@ -166,7 +159,6 @@
     },
     {
       "type": "Feature",
-      "id": 1177,
       "properties": {
         "nummer": 663,
         "objectid": 1177,
@@ -189,7 +181,6 @@
     },
     {
       "type": "Feature",
-      "id": 1227,
       "properties": {
         "nummer": 12711,
         "objectid": 1227,
@@ -212,7 +203,6 @@
     },
     {
       "type": "Feature",
-      "id": 1262,
       "properties": {
         "nummer": 742,
         "objectid": 1262,
@@ -235,7 +225,6 @@
     },
     {
       "type": "Feature",
-      "id": 1326,
       "properties": {
         "nummer": 782,
         "objectid": 1326,
@@ -258,7 +247,6 @@
     },
     {
       "type": "Feature",
-      "id": 1365,
       "properties": {
         "nummer": 653,
         "objectid": 1365,
@@ -281,7 +269,6 @@
     },
     {
       "type": "Feature",
-      "id": 1582,
       "properties": {
         "nummer": 679,
         "objectid": 1582,
@@ -304,7 +291,6 @@
     },
     {
       "type": "Feature",
-      "id": 1583,
       "properties": {
         "nummer": 691,
         "objectid": 1583,
@@ -327,7 +313,6 @@
     },
     {
       "type": "Feature",
-      "id": 1584,
       "properties": {
         "nummer": 716,
         "objectid": 1584,
@@ -350,7 +335,6 @@
     },
     {
       "type": "Feature",
-      "id": 1602,
       "properties": {
         "nummer": 498,
         "objectid": 1602,
@@ -373,7 +357,6 @@
     },
     {
       "type": "Feature",
-      "id": 1603,
       "properties": {
         "nummer": 519,
         "objectid": 1603,
@@ -396,7 +379,6 @@
     },
     {
       "type": "Feature",
-      "id": 1604,
       "properties": {
         "nummer": 555,
         "objectid": 1604,

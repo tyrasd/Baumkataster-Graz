@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 15,
       "properties": {
         "nummer": 24183,
         "objectid": 15,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 119,
       "properties": {
         "nummer": 30159,
         "objectid": 119,
@@ -49,145 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 380,
-      "properties": {
-        "nummer": 14655,
-        "objectid": 380,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.397048163652576,
-          47.06756035554929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 381,
-      "properties": {
-        "nummer": 14696,
-        "objectid": 381,
-        "baumbezeichnung_deutsch": "Purpurbuche",
-        "baumbezeichnung_botanisch": "Fagus sylvatica 'Purpurea'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.402800727950618,
-          47.06872244439544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 402,
-      "properties": {
-        "nummer": 24818,
-        "objectid": 402,
-        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
-        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.395748855783747,
-          47.06706221574381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 403,
-      "properties": {
-        "nummer": 15911,
-        "objectid": 403,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.396875623670613,
-          47.06622952441149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 404,
-      "properties": {
-        "nummer": 14839,
-        "objectid": 404,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "1986",
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.39222084256712,
-          47.062970786691054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 408,
-      "properties": {
-        "nummer": 15915,
-        "objectid": 408,
-        "baumbezeichnung_deutsch": "Eschenahorn",
-        "baumbezeichnung_botanisch": "Acer negundo",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.396269308146493,
-          47.06629086181793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 441,
       "properties": {
         "nummer": 15145,
         "objectid": 441,
@@ -210,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 525,
       "properties": {
         "nummer": 14829,
         "objectid": 525,
@@ -233,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 622,
       "properties": {
         "nummer": 15216,
         "objectid": 622,
@@ -256,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 623,
       "properties": {
         "nummer": 12942,
         "objectid": 623,
@@ -279,38 +135,58 @@
     },
     {
       "type": "Feature",
-      "id": 750,
       "properties": {
-        "nummer": 23926,
-        "objectid": 750,
-        "baumbezeichnung_deutsch": "Gelblaubige Mehlbeere",
-        "baumbezeichnung_botanisch": "Sorbus aria 'Lutescens'",
+        "nummer": 14655,
+        "objectid": 380,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
         "baumtyp": "Laub",
         "bemerkung": null,
-        "pflanzjahr": "2003",
+        "pflanzjahr": null,
         "entnahmejahr": null,
-        "baumpatenschaft": "Fa. Kastner & Öhler",
-        "altersklassifizierung": "jung"
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.393787411554447,
-          47.06749228428635
+          15.397048163652576,
+          47.06756035554929
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 752,
       "properties": {
-        "nummer": 26662,
-        "objectid": 752,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "nummer": 14696,
+        "objectid": 381,
+        "baumbezeichnung_deutsch": "Purpurbuche",
+        "baumbezeichnung_botanisch": "Fagus sylvatica 'Purpurea'",
         "baumtyp": "Laub",
         "bemerkung": null,
-        "pflanzjahr": "2006",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.402800727950618,
+          47.06872244439544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24818,
+        "objectid": 402,
+        "baumbezeichnung_deutsch": "Japanische Blütenkirsche",
+        "baumbezeichnung_botanisch": "Prunus serrulata 'Shirofugen'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
         "entnahmejahr": null,
         "baumpatenschaft": null,
         "altersklassifizierung": "jung"
@@ -318,17 +194,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.39520770806649,
-          47.067790823566824
+          15.395748855783747,
+          47.06706221574381
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 753,
       "properties": {
-        "nummer": 15136,
-        "objectid": 753,
+        "nummer": 15911,
+        "objectid": 403,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396875623670613,
+          47.06622952441149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14839,
+        "objectid": 404,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "1986",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39222084256712,
+          47.062970786691054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15915,
+        "objectid": 408,
         "baumbezeichnung_deutsch": "Eschenahorn",
         "baumbezeichnung_botanisch": "Acer negundo",
         "baumtyp": "Laub",
@@ -341,14 +260,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.39554994252578,
-          47.06708361861782
+          15.396269308146493,
+          47.06629086181793
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 781,
       "properties": {
         "nummer": 24338,
         "objectid": 781,
@@ -371,7 +289,72 @@
     },
     {
       "type": "Feature",
-      "id": 1036,
+      "properties": {
+        "nummer": 23926,
+        "objectid": 750,
+        "baumbezeichnung_deutsch": "Gelblaubige Mehlbeere",
+        "baumbezeichnung_botanisch": "Sorbus aria 'Lutescens'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2003",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Fa. Kastner & Öhler",
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.393787411554447,
+          47.06749228428635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 26662,
+        "objectid": 752,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2006",
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39520770806649,
+          47.067790823566824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 15136,
+        "objectid": 753,
+        "baumbezeichnung_deutsch": "Eschenahorn",
+        "baumbezeichnung_botanisch": "Acer negundo",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39554994252578,
+          47.06708361861782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 27511,
         "objectid": 1036,
@@ -394,76 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 1126,
-      "properties": {
-        "nummer": 14668,
-        "objectid": 1126,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.395707646878671,
-          47.0677292929441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1127,
-      "properties": {
-        "nummer": 14915,
-        "objectid": 1127,
-        "baumbezeichnung_deutsch": "Winterlinde",
-        "baumbezeichnung_botanisch": "Tilia cordata",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.393377630098152,
-          47.069088566361344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1128,
-      "properties": {
-        "nummer": 14663,
-        "objectid": 1128,
-        "baumbezeichnung_deutsch": "Kugelesche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.396224819209339,
-          47.06766316117847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1210,
       "properties": {
         "nummer": 15218,
         "objectid": 1210,
@@ -486,7 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 1373,
       "properties": {
         "nummer": 14705,
         "objectid": 1373,
@@ -509,7 +421,6 @@
     },
     {
       "type": "Feature",
-      "id": 1374,
       "properties": {
         "nummer": 19759,
         "objectid": 1374,
@@ -527,6 +438,72 @@
         "coordinates": [
           15.400454741435816,
           47.06726974909965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14668,
+        "objectid": 1126,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.395707646878671,
+          47.0677292929441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14915,
+        "objectid": 1127,
+        "baumbezeichnung_deutsch": "Winterlinde",
+        "baumbezeichnung_botanisch": "Tilia cordata",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.393377630098152,
+          47.069088566361344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 14663,
+        "objectid": 1128,
+        "baumbezeichnung_deutsch": "Kugelesche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior 'Globosum'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.396224819209339,
+          47.06766316117847
         ]
       }
     }

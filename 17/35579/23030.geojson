@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 24,
       "properties": {
         "nummer": 2266,
         "objectid": 24,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 59,
       "properties": {
         "nummer": 2393,
         "objectid": 59,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 60,
       "properties": {
         "nummer": 1929,
         "objectid": 60,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 87,
       "properties": {
         "nummer": 1973,
         "objectid": 87,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 88,
       "properties": {
         "nummer": 1832,
         "objectid": 88,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 89,
       "properties": {
         "nummer": 2004,
         "objectid": 89,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 185,
       "properties": {
         "nummer": 29012,
         "objectid": 185,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 292,
       "properties": {
         "nummer": 27354,
         "objectid": 292,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 466,
       "properties": {
         "nummer": 2489,
         "objectid": 466,
@@ -210,30 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 697,
-      "properties": {
-        "nummer": 2500,
-        "objectid": 697,
-        "baumbezeichnung_deutsch": "Tulpenbaum",
-        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443648840619161,
-          47.07676716634969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 807,
       "properties": {
         "nummer": 2034,
         "objectid": 807,
@@ -256,7 +223,6 @@
     },
     {
       "type": "Feature",
-      "id": 822,
       "properties": {
         "nummer": 23921,
         "objectid": 822,
@@ -279,7 +245,6 @@
     },
     {
       "type": "Feature",
-      "id": 837,
       "properties": {
         "nummer": 27726,
         "objectid": 837,
@@ -302,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 909,
       "properties": {
         "nummer": 2038,
         "objectid": 909,
@@ -325,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 974,
       "properties": {
         "nummer": 27724,
         "objectid": 974,
@@ -348,150 +311,11 @@
     },
     {
       "type": "Feature",
-      "id": 1104,
       "properties": {
-        "nummer": 2097,
-        "objectid": 1104,
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443901167683787,
-          47.07502055059521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1105,
-      "properties": {
-        "nummer": 2250,
-        "objectid": 1105,
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445119366262544,
-          47.075646218987124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1110,
-      "properties": {
-        "nummer": 23709,
-        "objectid": 1110,
-        "baumbezeichnung_deutsch": "Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443042015722286,
-          47.073884790201824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1111,
-      "properties": {
-        "nummer": 2906,
-        "objectid": 1111,
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumtyp": "Laub",
-        "bemerkung": "größtenteils des Kronenbereiches bereits abgestorben, Ersatzpflanzung nach den Vorgaben des Parkpflegewerkes",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443321986670457,
-          47.074081937921626
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1112,
-      "properties": {
-        "nummer": 2907,
-        "objectid": 1112,
-        "baumbezeichnung_deutsch": "Stieleiche",
-        "baumbezeichnung_botanisch": "Quercus robur",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443327313137072,
-          47.07404689787805
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1115,
-      "properties": {
-        "nummer": 2922,
-        "objectid": 1115,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443089569713212,
-          47.07418617562649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1118,
-      "properties": {
-        "nummer": 2914,
-        "objectid": 1118,
-        "baumbezeichnung_deutsch": "Schnurbaum",
-        "baumbezeichnung_botanisch": "Sophora japonica",
+        "nummer": 2500,
+        "objectid": 697,
+        "baumbezeichnung_deutsch": "Tulpenbaum",
+        "baumbezeichnung_botanisch": "Liriodendron tulipifera",
         "baumtyp": "Laub",
         "bemerkung": null,
         "pflanzjahr": null,
@@ -502,359 +326,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.442747567436975,
-          47.074040757905095
+          15.443648840619161,
+          47.07676716634969
         ]
       }
     },
     {
       "type": "Feature",
-      "id": 1119,
-      "properties": {
-        "nummer": 2911,
-        "objectid": 1119,
-        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
-        "baumbezeichnung_botanisch": "Betula pendula",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.442612452329229,
-          47.07397161137883
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1123,
-      "properties": {
-        "nummer": 2288,
-        "objectid": 1123,
-        "baumbezeichnung_deutsch": "Silber Sawarascheinzypresse",
-        "baumbezeichnung_botanisch": "Chamaecyparis pisifera 'Squarrosa'",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.444857520580058,
-          47.07573925465556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1142,
-      "properties": {
-        "nummer": 1819,
-        "objectid": 1142,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44660478240501,
-          47.0740811247186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1145,
-      "properties": {
-        "nummer": 2554,
-        "objectid": 1145,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44377618222203,
-          47.07733412549673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1146,
-      "properties": {
-        "nummer": 2566,
-        "objectid": 1146,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.44354278467191,
-          47.077378092384286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1148,
-      "properties": {
-        "nummer": 24745,
-        "objectid": 1148,
-        "baumbezeichnung_deutsch": "Rotahorn",
-        "baumbezeichnung_botanisch": "Acer rubrum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": "2005",
-        "entnahmejahr": null,
-        "baumpatenschaft": "Dr. Otto Seka",
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445398127686277,
-          47.07398350687631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1149,
-      "properties": {
-        "nummer": 2064,
-        "objectid": 1149,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": "Teilstammausbruchstelle im Stammbereich mit massiven Morschungen, Laubholzschwammporlingsbefall, Ersatzpflanzung geplant",
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.443418096588173,
-          47.07498902753738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1150,
-      "properties": {
-        "nummer": 1864,
-        "objectid": 1150,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.442809655847592,
-          47.07480042287822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1151,
-      "properties": {
-        "nummer": 2027,
-        "objectid": 1151,
-        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
-        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.442380213075156,
-          47.07599231905781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1153,
-      "properties": {
-        "nummer": 1809,
-        "objectid": 1153,
-        "baumbezeichnung_deutsch": "Platane",
-        "baumbezeichnung_botanisch": "Platanus x acerifolia",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.4461819480893,
-          47.074590917926294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1155,
-      "properties": {
-        "nummer": 1965,
-        "objectid": 1155,
-        "baumbezeichnung_deutsch": "Gemeine Eibe",
-        "baumbezeichnung_botanisch": "Taxus baccata",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445405913668711,
-          47.074541940062055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1157,
-      "properties": {
-        "nummer": 1800,
-        "objectid": 1157,
-        "baumbezeichnung_deutsch": "Bergahorn",
-        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445992969309373,
-          47.074395515307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1159,
-      "properties": {
-        "nummer": 2142,
-        "objectid": 1159,
-        "baumbezeichnung_deutsch": "Gemeine Eibe",
-        "baumbezeichnung_botanisch": "Taxus baccata",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.444165138233464,
-          47.075117179702204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1161,
-      "properties": {
-        "nummer": 1958,
-        "objectid": 1161,
-        "baumbezeichnung_deutsch": "Gemeine Eibe",
-        "baumbezeichnung_botanisch": "Taxus baccata",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445563044662254,
-          47.07445158709122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1162,
-      "properties": {
-        "nummer": 1953,
-        "objectid": 1162,
-        "baumbezeichnung_deutsch": "Gemeine Eibe",
-        "baumbezeichnung_botanisch": "Taxus baccata",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.445537082897978,
-          47.07452263493594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1167,
       "properties": {
         "nummer": 12763,
         "objectid": 1167,
@@ -877,7 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1168,
       "properties": {
         "nummer": 2540,
         "objectid": 1168,
@@ -900,7 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 1169,
       "properties": {
         "nummer": 2897,
         "objectid": 1169,
@@ -923,7 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 1193,
       "properties": {
         "nummer": 1695,
         "objectid": 1193,
@@ -946,7 +421,6 @@
     },
     {
       "type": "Feature",
-      "id": 1194,
       "properties": {
         "nummer": 2542,
         "objectid": 1194,
@@ -969,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 1393,
       "properties": {
         "nummer": 10623,
         "objectid": 1393,
@@ -987,6 +460,490 @@
         "coordinates": [
           15.445728944590918,
           47.07733378035664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2097,
+        "objectid": 1104,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443901167683787,
+          47.07502055059521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2250,
+        "objectid": 1105,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445119366262544,
+          47.075646218987124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 23709,
+        "objectid": 1110,
+        "baumbezeichnung_deutsch": "Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443042015722286,
+          47.073884790201824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2906,
+        "objectid": 1111,
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumtyp": "Laub",
+        "bemerkung": "größtenteils des Kronenbereiches bereits abgestorben, Ersatzpflanzung nach den Vorgaben des Parkpflegewerkes",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443321986670457,
+          47.074081937921626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2907,
+        "objectid": 1112,
+        "baumbezeichnung_deutsch": "Stieleiche",
+        "baumbezeichnung_botanisch": "Quercus robur",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443327313137072,
+          47.07404689787805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2922,
+        "objectid": 1115,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443089569713212,
+          47.07418617562649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2914,
+        "objectid": 1118,
+        "baumbezeichnung_deutsch": "Schnurbaum",
+        "baumbezeichnung_botanisch": "Sophora japonica",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442747567436975,
+          47.074040757905095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2911,
+        "objectid": 1119,
+        "baumbezeichnung_deutsch": "Sandbirke, Weißbirke",
+        "baumbezeichnung_botanisch": "Betula pendula",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442612452329229,
+          47.07397161137883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2288,
+        "objectid": 1123,
+        "baumbezeichnung_deutsch": "Silber Sawarascheinzypresse",
+        "baumbezeichnung_botanisch": "Chamaecyparis pisifera 'Squarrosa'",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.444857520580058,
+          47.07573925465556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1819,
+        "objectid": 1142,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44660478240501,
+          47.0740811247186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2554,
+        "objectid": 1145,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44377618222203,
+          47.07733412549673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2566,
+        "objectid": 1146,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.44354278467191,
+          47.077378092384286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 24745,
+        "objectid": 1148,
+        "baumbezeichnung_deutsch": "Rotahorn",
+        "baumbezeichnung_botanisch": "Acer rubrum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": "2005",
+        "entnahmejahr": null,
+        "baumpatenschaft": "Dr. Otto Seka",
+        "altersklassifizierung": "jung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445398127686277,
+          47.07398350687631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2064,
+        "objectid": 1149,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": "Teilstammausbruchstelle im Stammbereich mit massiven Morschungen, Laubholzschwammporlingsbefall, Ersatzpflanzung geplant",
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.443418096588173,
+          47.07498902753738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1864,
+        "objectid": 1150,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442809655847592,
+          47.07480042287822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2027,
+        "objectid": 1151,
+        "baumbezeichnung_deutsch": "Gemeine Roßkastanie",
+        "baumbezeichnung_botanisch": "Aesculus hippocastanum",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.442380213075156,
+          47.07599231905781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1809,
+        "objectid": 1153,
+        "baumbezeichnung_deutsch": "Platane",
+        "baumbezeichnung_botanisch": "Platanus x acerifolia",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4461819480893,
+          47.074590917926294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1965,
+        "objectid": 1155,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445405913668711,
+          47.074541940062055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1800,
+        "objectid": 1157,
+        "baumbezeichnung_deutsch": "Bergahorn",
+        "baumbezeichnung_botanisch": "Acer pseudoplatanus",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445992969309373,
+          47.074395515307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 2142,
+        "objectid": 1159,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.444165138233464,
+          47.075117179702204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1958,
+        "objectid": 1161,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445563044662254,
+          47.07445158709122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 1953,
+        "objectid": 1162,
+        "baumbezeichnung_deutsch": "Gemeine Eibe",
+        "baumbezeichnung_botanisch": "Taxus baccata",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.445537082897978,
+          47.07452263493594
         ]
       }
     }

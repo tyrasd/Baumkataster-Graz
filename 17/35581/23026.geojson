@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 490,
       "properties": {
         "nummer": 9110,
         "objectid": 490,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 510,
       "properties": {
         "nummer": 9375,
         "objectid": 510,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 518,
       "properties": {
         "nummer": 31908,
         "objectid": 518,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 591,
       "properties": {
         "nummer": 9024,
         "objectid": 591,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 592,
       "properties": {
         "nummer": 9045,
         "objectid": 592,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 595,
       "properties": {
         "nummer": 9303,
         "objectid": 595,
@@ -141,7 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 596,
       "properties": {
         "nummer": 9327,
         "objectid": 596,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 597,
       "properties": {
         "nummer": 9394,
         "objectid": 597,
@@ -187,53 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 734,
-      "properties": {
-        "nummer": 9056,
-        "objectid": 734,
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455208577467669,
-          47.089540911997084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 735,
-      "properties": {
-        "nummer": 9073,
-        "objectid": 735,
-        "baumbezeichnung_deutsch": "Rotfichte",
-        "baumbezeichnung_botanisch": "Picea abies",
-        "baumtyp": "Nadel",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.455361739217933,
-          47.089604900325504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 775,
       "properties": {
         "nummer": 9105,
         "objectid": 775,
@@ -256,7 +201,50 @@
     },
     {
       "type": "Feature",
-      "id": 1028,
+      "properties": {
+        "nummer": 9056,
+        "objectid": 734,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455208577467669,
+          47.089540911997084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nummer": 9073,
+        "objectid": 735,
+        "baumbezeichnung_deutsch": "Rotfichte",
+        "baumbezeichnung_botanisch": "Picea abies",
+        "baumtyp": "Nadel",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455361739217933,
+          47.089604900325504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 9164,
         "objectid": 1028,
@@ -279,7 +267,6 @@
     },
     {
       "type": "Feature",
-      "id": 1052,
       "properties": {
         "nummer": 9225,
         "objectid": 1052,
@@ -302,7 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 1053,
       "properties": {
         "nummer": 9251,
         "objectid": 1053,
@@ -325,7 +311,6 @@
     },
     {
       "type": "Feature",
-      "id": 1054,
       "properties": {
         "nummer": 9273,
         "objectid": 1054,
@@ -348,7 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 1056,
       "properties": {
         "nummer": 9293,
         "objectid": 1056,
@@ -371,30 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 1100,
-      "properties": {
-        "nummer": 8980,
-        "objectid": 1100,
-        "baumbezeichnung_deutsch": "Esche",
-        "baumbezeichnung_botanisch": "Fraxinus excelsior",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "mittel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.454506215384786,
-          47.089640017198434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1176,
       "properties": {
         "nummer": 9212,
         "objectid": 1176,
@@ -417,7 +377,6 @@
     },
     {
       "type": "Feature",
-      "id": 1178,
       "properties": {
         "nummer": 9235,
         "objectid": 1178,
@@ -440,7 +399,6 @@
     },
     {
       "type": "Feature",
-      "id": 1179,
       "properties": {
         "nummer": 9270,
         "objectid": 1179,
@@ -463,7 +421,6 @@
     },
     {
       "type": "Feature",
-      "id": 1236,
       "properties": {
         "nummer": 9464,
         "objectid": 1236,
@@ -486,7 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 1237,
       "properties": {
         "nummer": 9467,
         "objectid": 1237,
@@ -509,7 +465,6 @@
     },
     {
       "type": "Feature",
-      "id": 1238,
       "properties": {
         "nummer": 9478,
         "objectid": 1238,
@@ -532,7 +487,6 @@
     },
     {
       "type": "Feature",
-      "id": 1239,
       "properties": {
         "nummer": 9479,
         "objectid": 1239,
@@ -555,7 +509,6 @@
     },
     {
       "type": "Feature",
-      "id": 1361,
       "properties": {
         "nummer": 9081,
         "objectid": 1361,
@@ -578,7 +531,6 @@
     },
     {
       "type": "Feature",
-      "id": 1362,
       "properties": {
         "nummer": 9308,
         "objectid": 1362,
@@ -601,7 +553,6 @@
     },
     {
       "type": "Feature",
-      "id": 1363,
       "properties": {
         "nummer": 9371,
         "objectid": 1363,
@@ -624,7 +575,6 @@
     },
     {
       "type": "Feature",
-      "id": 1364,
       "properties": {
         "nummer": 9403,
         "objectid": 1364,
@@ -647,7 +597,6 @@
     },
     {
       "type": "Feature",
-      "id": 1419,
       "properties": {
         "nummer": 9098,
         "objectid": 1419,
@@ -670,7 +619,6 @@
     },
     {
       "type": "Feature",
-      "id": 1420,
       "properties": {
         "nummer": 9100,
         "objectid": 1420,
@@ -693,7 +641,6 @@
     },
     {
       "type": "Feature",
-      "id": 1421,
       "properties": {
         "nummer": 9107,
         "objectid": 1421,
@@ -716,7 +663,6 @@
     },
     {
       "type": "Feature",
-      "id": 1422,
       "properties": {
         "nummer": 9111,
         "objectid": 1422,
@@ -739,7 +685,6 @@
     },
     {
       "type": "Feature",
-      "id": 1423,
       "properties": {
         "nummer": 9119,
         "objectid": 1423,
@@ -762,7 +707,6 @@
     },
     {
       "type": "Feature",
-      "id": 1424,
       "properties": {
         "nummer": 9131,
         "objectid": 1424,
@@ -785,7 +729,28 @@
     },
     {
       "type": "Feature",
-      "id": 1533,
+      "properties": {
+        "nummer": 8980,
+        "objectid": 1100,
+        "baumbezeichnung_deutsch": "Esche",
+        "baumbezeichnung_botanisch": "Fraxinus excelsior",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "mittel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.454506215384786,
+          47.089640017198434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 9199,
         "objectid": 1533,
@@ -808,7 +773,6 @@
     },
     {
       "type": "Feature",
-      "id": 1544,
       "properties": {
         "nummer": 9299,
         "objectid": 1544,
@@ -831,7 +795,6 @@
     },
     {
       "type": "Feature",
-      "id": 1575,
       "properties": {
         "nummer": 9176,
         "objectid": 1575,
@@ -854,7 +817,6 @@
     },
     {
       "type": "Feature",
-      "id": 1576,
       "properties": {
         "nummer": 9177,
         "objectid": 1576,
@@ -877,7 +839,6 @@
     },
     {
       "type": "Feature",
-      "id": 1578,
       "properties": {
         "nummer": 9203,
         "objectid": 1578,
@@ -900,7 +861,6 @@
     },
     {
       "type": "Feature",
-      "id": 1579,
       "properties": {
         "nummer": 9213,
         "objectid": 1579,
@@ -923,7 +883,6 @@
     },
     {
       "type": "Feature",
-      "id": 1580,
       "properties": {
         "nummer": 9216,
         "objectid": 1580,
@@ -946,7 +905,6 @@
     },
     {
       "type": "Feature",
-      "id": 1581,
       "properties": {
         "nummer": 9221,
         "objectid": 1581,
@@ -969,7 +927,6 @@
     },
     {
       "type": "Feature",
-      "id": 1594,
       "properties": {
         "nummer": 9021,
         "objectid": 1594,
@@ -992,7 +949,6 @@
     },
     {
       "type": "Feature",
-      "id": 1595,
       "properties": {
         "nummer": 9033,
         "objectid": 1595,
@@ -1015,7 +971,6 @@
     },
     {
       "type": "Feature",
-      "id": 1596,
       "properties": {
         "nummer": 9034,
         "objectid": 1596,
@@ -1038,7 +993,6 @@
     },
     {
       "type": "Feature",
-      "id": 1597,
       "properties": {
         "nummer": 9039,
         "objectid": 1597,
@@ -1061,7 +1015,6 @@
     },
     {
       "type": "Feature",
-      "id": 1598,
       "properties": {
         "nummer": 9041,
         "objectid": 1598,
@@ -1084,7 +1037,6 @@
     },
     {
       "type": "Feature",
-      "id": 1599,
       "properties": {
         "nummer": 9042,
         "objectid": 1599,
@@ -1107,7 +1059,6 @@
     },
     {
       "type": "Feature",
-      "id": 1600,
       "properties": {
         "nummer": 9059,
         "objectid": 1600,
@@ -1130,7 +1081,6 @@
     },
     {
       "type": "Feature",
-      "id": 1601,
       "properties": {
         "nummer": 9061,
         "objectid": 1601,
@@ -1153,7 +1103,6 @@
     },
     {
       "type": "Feature",
-      "id": 1612,
       "properties": {
         "nummer": 9038,
         "objectid": 1612,
@@ -1176,7 +1125,6 @@
     },
     {
       "type": "Feature",
-      "id": 1613,
       "properties": {
         "nummer": 9062,
         "objectid": 1613,
@@ -1199,7 +1147,6 @@
     },
     {
       "type": "Feature",
-      "id": 1614,
       "properties": {
         "nummer": 9442,
         "objectid": 1614,
@@ -1222,7 +1169,6 @@
     },
     {
       "type": "Feature",
-      "id": 1615,
       "properties": {
         "nummer": 9444,
         "objectid": 1615,
@@ -1245,7 +1191,6 @@
     },
     {
       "type": "Feature",
-      "id": 1616,
       "properties": {
         "nummer": 9456,
         "objectid": 1616,
@@ -1268,7 +1213,6 @@
     },
     {
       "type": "Feature",
-      "id": 1651,
       "properties": {
         "nummer": 9035,
         "objectid": 1651,
@@ -1291,7 +1235,6 @@
     },
     {
       "type": "Feature",
-      "id": 1652,
       "properties": {
         "nummer": 9063,
         "objectid": 1652,
@@ -1314,7 +1257,6 @@
     },
     {
       "type": "Feature",
-      "id": 1653,
       "properties": {
         "nummer": 9429,
         "objectid": 1653,
@@ -1337,7 +1279,6 @@
     },
     {
       "type": "Feature",
-      "id": 1660,
       "properties": {
         "nummer": 9069,
         "objectid": 1660,
@@ -1360,7 +1301,6 @@
     },
     {
       "type": "Feature",
-      "id": 1661,
       "properties": {
         "nummer": 9082,
         "objectid": 1661,
@@ -1383,7 +1323,6 @@
     },
     {
       "type": "Feature",
-      "id": 1666,
       "properties": {
         "nummer": 9304,
         "objectid": 1666,
@@ -1406,7 +1345,6 @@
     },
     {
       "type": "Feature",
-      "id": 1667,
       "properties": {
         "nummer": 9306,
         "objectid": 1667,
@@ -1429,7 +1367,6 @@
     },
     {
       "type": "Feature",
-      "id": 1668,
       "properties": {
         "nummer": 9309,
         "objectid": 1668,
@@ -1452,7 +1389,6 @@
     },
     {
       "type": "Feature",
-      "id": 1670,
       "properties": {
         "nummer": 9357,
         "objectid": 1670,

@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 195,
       "properties": {
         "nummer": 25528,
         "objectid": 195,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 519,
       "properties": {
         "nummer": 20249,
         "objectid": 519,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 520,
       "properties": {
         "nummer": 20292,
         "objectid": 520,
@@ -72,30 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 1086,
-      "properties": {
-        "nummer": 10887,
-        "objectid": 1086,
-        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
-        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "alt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.428202546881536,
-          47.066315133039886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1343,
       "properties": {
         "nummer": 20707,
         "objectid": 1343,
@@ -118,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 1344,
       "properties": {
         "nummer": 20713,
         "objectid": 1344,
@@ -141,7 +113,28 @@
     },
     {
       "type": "Feature",
-      "id": 1554,
+      "properties": {
+        "nummer": 10887,
+        "objectid": 1086,
+        "baumbezeichnung_deutsch": "Hellroter Spitzahorn",
+        "baumbezeichnung_botanisch": "Acer platanoides 'Schwedleri'",
+        "baumtyp": "Laub",
+        "bemerkung": null,
+        "pflanzjahr": null,
+        "entnahmejahr": null,
+        "baumpatenschaft": null,
+        "altersklassifizierung": "alt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.428202546881536,
+          47.066315133039886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "nummer": 27825,
         "objectid": 1554,
@@ -164,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 1561,
       "properties": {
         "nummer": 27826,
         "objectid": 1561,
@@ -187,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 1570,
       "properties": {
         "nummer": 27828,
         "objectid": 1570,

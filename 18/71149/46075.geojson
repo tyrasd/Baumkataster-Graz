@@ -3,7 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 103,
       "properties": {
         "nummer": 29649,
         "objectid": 103,
@@ -26,7 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 104,
       "properties": {
         "nummer": 29650,
         "objectid": 104,
@@ -49,7 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 327,
       "properties": {
         "nummer": 29643,
         "objectid": 327,
@@ -72,7 +69,6 @@
     },
     {
       "type": "Feature",
-      "id": 342,
       "properties": {
         "nummer": 29630,
         "objectid": 342,
@@ -95,7 +91,6 @@
     },
     {
       "type": "Feature",
-      "id": 343,
       "properties": {
         "nummer": 29631,
         "objectid": 343,
@@ -118,7 +113,6 @@
     },
     {
       "type": "Feature",
-      "id": 344,
       "properties": {
         "nummer": 29632,
         "objectid": 344,
@@ -141,30 +135,6 @@
     },
     {
       "type": "Feature",
-      "id": 349,
-      "properties": {
-        "nummer": 29633,
-        "objectid": 349,
-        "baumbezeichnung_deutsch": "Säulenstieleiche Koster",
-        "baumbezeichnung_botanisch": "Quercus robur 'Fastigiata Koster'",
-        "baumtyp": "Laub",
-        "bemerkung": null,
-        "pflanzjahr": null,
-        "entnahmejahr": null,
-        "baumpatenschaft": null,
-        "altersklassifizierung": "jung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.419313684831009,
-          47.04805409153154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 355,
       "properties": {
         "nummer": 29644,
         "objectid": 355,
@@ -187,7 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 356,
       "properties": {
         "nummer": 29645,
         "objectid": 356,
@@ -210,7 +179,6 @@
     },
     {
       "type": "Feature",
-      "id": 357,
       "properties": {
         "nummer": 29646,
         "objectid": 357,
@@ -233,7 +201,6 @@
     },
     {
       "type": "Feature",
-      "id": 358,
       "properties": {
         "nummer": 29647,
         "objectid": 358,
